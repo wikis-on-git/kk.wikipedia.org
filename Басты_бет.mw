@@ -8,16 +8,26 @@
 Мақалалар саны: '''{{NUMBEROFARTICLES}}''' <br>
 Maqalalar sanı: '''{{NUMBEROFARTICLES}}''' <br><br>
 
+<!--<div style="padding-bottom: .3em; margin: 0 .5em .5em">{{Main Page banner}}</div>-->
+{| cellspacing="3" 
+|- valign="top"
+|width="50%" class="MainPageBG" style="border: 1px solid #ffc9c9; color: #000; background-color: #fff3f3"|
+<div style="padding: .4em .9em .9em">
 Әр тілде әркімнің біріккен талпынымен жинастырылып, әр нәрсе туралы мағлұмат бере алатын 
 энциклопедиясын құрастыруды көздеген [[Wikipedia]] проектіне қош келдіңіз. Әркім (соның ішінде Сіз де) мындағы қайсы бір жазуды түзетіп, не жаңасын жүктеп өз үлесіңізді қоса аласыз.(Мүше болуыңыз міндет емес. Бірақ ІР адресіңіз тіркелінетін болады. Басқа қолданушыларға осы ІР адресіңізді көрсету арқылы мында тиелуіңіз болады.)<br><br>
 
 Бұл жобаның халықаралық деңгейге шығып, көп тілде жүзеге асырылуы Wikipedia тарапынан  [[2001]]  жылы басталып, бұл ''Wikipedia'' [[Wikipedia:What is an article|жазулары]] көбейіп кеңге тарады. Ағылшын тілінде 180 мың, басқа тілдерде болса 200 мыңға жуық мақалаларды бұл беттерден таба аласыз. Осы тарау энциклопедияның басқа тарауларынан ең маңыздысы болып саналады. Қазақ тіліндегі Wikipedia-ны құруымыз, артымыздан келетіндер үшін ғажайып бір білім бұлағы болар. <br><br>
 
 Қазақша бөлімде барлығы [[Special:Allpages|{{NUMBEROFARTICLES}} мақала]] бар. Бұл энциклопедия сенің көмегіңмен құрылады. Әркім қатынаса алады және де қатынасуы тиіс.<br><br>
-Жазуларыңызды ҚАЗАҚ <i>кирилл</i> не [[латын]] әріптерімен жазыңыз!<br><br>
+Жазуларыңызды ҚАЗАҚ [[кирилл]] не [[латын]] әріптерімен жазыңыз!<br><br>
 
+Іске сәт!<br><br>
+</div>
+|width="50%" class="MainPageBG" style="border: 1px solid #c6c9ff; color: #000; background-color: #f0f0ff"|
+<div style="padding: .4em .9em .9em">
 Är tilde ärkimniñ birikken talpınımen jïnastırılıp, är närse twralı mağlumat bere alatın entsïklopedïasın qurastırw [[Wikipedia]] proektine qoş keldiñiz. Ärkim (sonıñ işinde Siz de) mındağı qaysı bir jazwdı tüzetip, ne jañasın jüktep öz ülesiñizdi qosa alasız.<br>
- 
+</div>
+|} 
 Her dilden herkesin ortak çabasıyla özgürce ve her şeyi ile bütün bir ansiklopedi üretmeyi amaçlayan [[Wikipedia]] projesine hoşgeldiniz. Herkes (siz de dahil) buradaki herhangi bir yazıyı (bu sayfa da dahil olmak üzere) düzeltip ve/veya yenilerini ekleyerek katkıda bulunabilirsiniz. (Üye olmanız zorunlu değil. Ancak IP adresiniz kayıt edilir ve IP adresinizi tüm kullanıcılara göstererek eklemede bulunabilirsiniz) <br><br>
 
 Bu girişimin uluslararası anlamda bir çok dilde yansısı Wikipedia tarafından  [[2001]] yılında yazılmaya başlanmıştır ve bu ''Wikipedia'' [[Wikipedia:What is an article|yazıları]] çoğalıp yayılmıştır. İngilizce olarak 180 bin, diğer dillerde ise 200 bin üzerinde makaleye bu sayfalardan ulaşabilirsiniz. Bu sayı yayımlanmış tüm ansiklopedilerdeki makale sayılarından daha fazladır. Türkçe olarak Wikipedia'yı geliştirmek, önümüzdeki kuşaklar için müthiş bir kaynak olacaktır. <br><br>
