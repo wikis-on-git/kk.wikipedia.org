@@ -2,18 +2,18 @@
 <table> 
 <tr> <td align="left" valign="top" style="background:#f3f3f3; padding:10px">
 
-'Wikipedya Ашық Энциклопедиясы'<br>
+<font face="Arial">'Wikipedya Ашық Энциклопедиясы'<br>
 'Wikipedya Aşıq Entsïklopedïası'<br><br>
 
 Мақалалар саны: '''{{NUMBEROFARTICLES}}''' <br>
 Maqalalar sanı: '''{{NUMBEROFARTICLES}}''' <br><br>
 Қазақ тілінің дамуына <b>өз</b> үлесіңді қос!  Qazaq tiliniñ damwına <b>öz</b> ülesiñdi qos!
-
+</font>
 <!--<div style="padding-bottom: .3em; margin: 0 .5em .5em">{{Main Page banner}}</div>-->
 {| cellspacing="3" 
 |- valign="top"
 |width="50%" class="MainPageBG" style="border: 1px solid #ffc9c9; color: #000; background-color: #fff3f3"|
-<div style="padding: .4em .9em .9em">
+<div style="padding: .4em .9em .9em"><span dtyle="font-family: Verdana">
 Әр тілде әркімнің біріккен талпынымен жинастырылып, әр нәрсе туралы мағлұмат бере алатын 
 энциклопедияны құрастыруды көздеген [[Wikipedia]] проектіне қош келдіңіз. Әркім (соның ішінде Сіз де) мындағы қайсы бір жазуды түзетіп, не жаңасын жүктеп өз үлесіңізді қоса аласыз.(Мүше болуыңыз міндет емес. Бірақ ІР адресіңіз тіркелінетін болады. Және де қолданушыларға осы ІР адресіңізді көрсету арқылы мында тиелуіңіз болады.)<br><br>
 
@@ -23,6 +23,8 @@ Maqalalar sanı: '''{{NUMBEROFARTICLES}}''' <br><br>
 Жазуларыңызды ҚАЗАҚ [[кирилл]] не [[латын]] әріптерімен жазыңыз!<br><br>
 
 Іске сәт!<br><br>
+</span>
+</font>
 </div>
 |width="50%" class="MainPageBG" style="border: 1px solid #c6c9ff; color: #000; background-color: #f0f0ff"|
 <div style="padding: .4em .9em .9em"><span dtyle="font-family: Verdana">
@@ -34,7 +36,8 @@ Qazaqşa bölimde barlığı [[Special:Allpages|{{NUMBEROFARTICLES}} maqala]] ba
 <br>
 Jazwlarıñızdı QAZAQ [[кирилл|kïrïll]] ne [[латын|latın]] äripterimen jazıñız!<br>
 <br>
-İske sät!<br></span>
+İske sät!<br>
+</span>
 </div>
 |} 
 
