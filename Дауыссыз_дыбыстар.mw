@@ -1,18 +1,18 @@
 Қазақ тілінде <b>21</b> дауыссыз дыбыс бар. Олар: [[б]], [[г]], [[ғ]], [[д]], [[ж]], [[з]], [[й]], [[к]], [[қ]], [[л]], [[м]], [[н]], [[ң]], [[п]], [[р]], [[с]], [[т]], [[х]], [[һ]], [[ш]];<br>
 Дауыссыздарды үш үлкен топқа бөледі:
-{|
-|bgcolor=lightskyblue|Қатаң
-|colspan=2 bgcolor=cornflowerblue|к, қ, п, с, т, х, һ, ш
+{|border=1 style="background:lightskyblue;"
+|Қатаң
+|colspan=2|к, қ, п, с, т, х, һ, ш
 |-
-|bgcolor=lightskyblue|Ұяң
-|colspan=2 bgcolor=cornflowerblue|б, г, ғ, д, ж, з
+|Ұяң
+|colspan=2|б, г, ғ, д, ж, з
 |-
-|rowspan=2 bgcolor=lightskyblue|Үнді
-|bgcolor=skyblue|Мұрын жолды
-|bgcolor=cornflowerblue|м, н, ң
+|rowspan=2|Үнді
+|Мұрын жолды
+|м, н, ң
 |-
-|bgcolor=skyblue|Ауыз жолды 
-|bgcolor=cornflowerblue|л, р, й, у
+|Ауыз жолды 
+|л, р, й, у
 |}
 
 [[Category:Қазақ тілі]]
