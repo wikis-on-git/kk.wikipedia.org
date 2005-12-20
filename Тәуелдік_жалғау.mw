@@ -1,25 +1,24 @@
-Оңаша 
+'''Оңаша түрі'''
 {|border=1 style="background:lightskyblue;"
-|rowspan=2|Жақ
-|colspan=4|Соңғы дыбыс
+|rowspan=3|Жақ
+|colspan=4 align=center|Соңғы дыбыс
 |-
-|colspan=2|Дауысты
-|colspan=2|Дауыссыз
-|-
-|
+|colspan=2 align=center|Дауысты
+|colspan=2 align=center|Дауыссыз
+|- bgcolor=red|
 |Жуан 
 |Жіңішке
 |Жуан
 |Жіңішке
 |Буын
 |- 
-|1. Менің
+|1.Менің
 | -м 
 | -м 
 | -ым 
 | -ім
 |-
-|2. Сенің
+|2.Сенің
 | -ң 
 | -ң
 | -ың
@@ -31,7 +30,7 @@
 | -ыңыз 
 | -іңіз
 |-
-|3. Оның
+|3.Оның
 | -сы 
 | -сі 
 | -ы 
