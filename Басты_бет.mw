@@ -30,18 +30,11 @@
 </font>
 <br><br>
 <font face="Arial">Жазуларыңызды ҚАЗАҚ [[қазақ кирилл әліпбиі|кирилл]] не [[қазақ латын әліпбиі|латын]] әріптерімен жазыңыз!</font> <br><br>
-<div id="lang-1M"><div style="font-size:110%;">
-; Википедияның 1 000 000 астам мақаласы барлары: [[:en:|Ағылшын;(English)]]&nbsp; 
-</div></div>
 
-<div id="lang-100k"><div style="font-size:110%;">
-; Википедияның 100 000 астам мақаласы барлары:  [[:es:|Испан&nbsp;(Español)]]&nbsp;· [[:it:|Итальян&nbsp;(Italiano)]]&nbsp;· [[:de:|Неміс&nbsp;(Deutsch)]]&nbsp;· [[:nl:|Голланд&nbsp;(Nederlands)]]&nbsp;· [[:pl:|Польский&nbsp;(Polski)]]&nbsp;· [[:pt:|Португальский&nbsp;(Português)]]&nbsp;· [[:fr:|Француз&nbsp;(Français)]]&nbsp;· [[:sv:|Шведский&nbsp;(Svenska)]]&nbsp;· [[:ja:|Жапон&nbsp;(日本語)]]
-</div></div>
-<div id="lang-20k"><div style="font-size:100%;">
-; Википедияның 20 000 астам мақаласы барлары: [[:bg:|Болгарский&nbsp;(Български)]]&nbsp;· [[:hu:|Венгерский&nbsp;(Magyar)]]&nbsp;· [[:da:|Дат&nbsp;(Dansk)]]&nbsp;· [[:he:|Иврит&nbsp;(עברית)]]&nbsp;· [[:id:|Индонезийский&nbsp;(Bahasa Indonesia)]]&nbsp;· [[:ca:|Каталон&nbsp;(Català)]]&nbsp;· [[:zh:|Қытай&nbsp;(中文)]]&nbsp;· [[:ko:|Корейский&nbsp;(한국어)]]&nbsp;· [[:no:|Норвежский&nbsp;(Norsk)]]&nbsp;· [[:ro:|Румын&nbsp;(Română)]]&nbsp;· [[:sk:|Словацкий&nbsp;(Slovenčina)]]&nbsp;· [[:sl:|Словен&nbsp;(Slovenščina)]]&nbsp;· [[:tr:|Турецкий&nbsp;(Türkçe)]]&nbsp;· [[:uk:|Украинский&nbsp;(Українська)]]&nbsp;· [[:fi:|Фин&nbsp;(Suomi)]]&nbsp;· [[:cs:|Чешский&nbsp;(Čeština)]]&nbsp;· [[:eo:|Эсперанто&nbsp;(Esperanto)]]
-</div></div>
-<div style="font-size:90%;">
-; : <span style="font-family:Arial Unicode MS, Code2000">[[:ab:|Абхазский&nbsp;(Аҧсуа)]]&nbsp;· [[:av:|Аварский&nbsp;(Авар)]]&nbsp;· [[:az:|Азербайджанский&nbsp;(Azərbaycan)]]&nbsp;· [[:hy:|Армянский&nbsp;(Հայերեն)]]&nbsp;· [[:ba:|Башкирский&nbsp;(Башҡорт)]]&nbsp;· [[:be:|Белорусский&nbsp;(Беларуская)]]&nbsp;· [[:ka:|Грузинский&nbsp;(ქართული)]]&nbsp;· [[:yi:|Идиш&nbsp;(ייִדיש)]]&nbsp;· [[:xal:|Калмыкский&nbsp;(Хальмг)]]&nbsp;· [[:ky:|Киргизский&nbsp;(Kırgızca)]]&nbsp;· [[:kv:|Коми&nbsp;(Коми)]]&nbsp;· [[:lv:|Латышский&nbsp;(Latviešu)]]&nbsp;· [[:lt:|Литовский&nbsp;(Lietuvių)]]&nbsp;· [[:mo:|<s title="прикрыта в пользу румынской Википедии (см. выше)">Молдавский&nbsp;(Молдовеняскэ&nbsp;/&nbsp;Moldovenească)</s>]]&nbsp;· [[:mn:|Монгольский&nbsp;(Монгол)]]&nbsp;· [[:os:|Осетинский&nbsp;(Иронау)]]&nbsp;· [[:fa:|Персидский&nbsp;(فارسی)]]&nbsp;· [[:tg:|Таджикский&nbsp;(Тоҷикӣ)]]&nbsp;· [[:tt:|Татарский&nbsp;(Tatarça&nbsp;/&nbsp;Татарча)]]&nbsp;· [[:tk:|Туркменский&nbsp;(Türkmençe&nbsp;/&nbsp;Түркменче)]]&nbsp;· [[:udm:|Удмуртский&nbsp;(Удмурт кыл)]]&nbsp;· [[:uz:|Узбекский&nbsp;(O`zbek&nbsp;/&nbsp;Ўзбек)]]&nbsp;· [[:rmy:|Цыганский&nbsp;(Romani&nbsp;/&nbsp;रोमानी)]]&nbsp;· [[:ce:|Чеченский&nbsp;(Нохчийн)]]&nbsp;· [[:cv:|Чувашский&nbsp;(Чӑваш)]]&nbsp;· [[:et:|Эстонский&nbsp;(Eesti)]]
-</span></div>
+<div style="background-color:#E0E0E0;font-size:1px;height:8px;border:1px solid #AAAAAA;-moz-border-radius-topright:0.5em;-moz-border-radius-topleft:0.5em;"></div>
+<div style="border:1px solid #AAAAAA;border-top:0px solid white;padding:5px 5px 0 5px;margin-bottom:3ex;">
+{{Wikipedialang}}&nbsp;
+</div>
+
 
 {{WikipediaSister}}
