@@ -1,36 +1,48 @@
-<!--'''[[Администратор дәрежесін тілеу| Администратор сайлауы]]!!!!'''
--->
-*[[Қазақстан]] 
-<h1 style="text-align: center; font-family: Arial">Wikipedia Ашық Энциклопедиясы</h1>
-{{Add new article}}
+<!-- Қош келдіңіз -->
+{{Welcome to Wikipedia}}
 <br>
-Мақалалар саны: '''{{NUMBEROFARTICLES}}''' <br>
-
-Қазақ тілінің дамуына '''өз''' үлесіңді қос!
-{| cellspacing="3" 
-|- valign="top"
-<div style="padding: .4em .9em .9em">
-Әр тілде әркімнің біріккен талпынымен жинастырылып, әр нәрсе туралы мағлұмат бере алатын 
-энциклопедияны құрастыруды көздеген '''[[Wikipedia]]''' проектіне қош келдіңіз. Әркім (соның ішінде Сіз де) мындағы қайсы бір жазуды түзетіп, не жаңасын жүктеп өз үлесіңізді қоса аласыз.(Мүше болуыңыз міндет емес. Бірақ ІР адресіңіз тіркелінетін болады. Және де қолданушыларға осы ІР адресіңізді көрсету арқылы мында тіркелуіңізге болады.)<br><br>
-Бұл жобаның халықаралық деңгейге шығып, көп тілде жүзеге асырылуы Wikipedia тарапынан  [[2001]]  жылы басталып, бұл '''Wikipedia''' [[Wikipedia:Мақала деген не?|мақалалары]] көбейіп кеңге тарады. Ағылшын тілінде 180 мың, басқа тілдерде 200 мыңға жуық мақалаларды бұл беттерден таба аласыз. 
-Осы тарау энциклопедияның басқа тарауларынан ең маңыздысы болып саналады. Қазақ тіліндегі Wikipedia-ны құруымыз артымыздан келетіндер үшін ғажайып бір білім бұлағы болар. <br><br>
-
-Қазақша бөлімде барлығы [[Special:Allpages|{{NUMBEROFARTICLES}} мақала]] бар. Бұл энциклопедия сіздің көмегіңізбен құрылады. Әркім қатынаса алады.
-<br><br>
-Түсінетін, білетін салаларыңызға тиісті жаңа мақалалар жазуыңыз не аудармалар жүктеуіңіз мүмкін (авторлық құқық бұзылмауы тиіс). Ағылшын тілін меңгергендер жүктеу әдісін [http://en.wikipedia.org/wiki/Wikipedia:How_to_edit_a_page] сілтемесінен үйрене алады (бұның да қазақша нұсқасын жасауыңыз өте пайдалы болар еді). Жүктеген шығармаңыз авторлық құқықты бұзбайтындай болуын сұраймыз.
-<br><br>
-Жазуларыңызды ҚАЗАҚ [[қазақ кирилл әліпбиі|кирилл]] не [[қазақ латын әліпбиі|латын]] әріптерімен жазыңыз!<br><br>
-
+{| width="100%"  border="0" cellspacing="0" cellpadding="0"
+|-----
+|
+{| width="100%"  border="0" cellspacing="0" cellpadding="0"
+|-----
+| valign="top" |
+{{Main Page Text}}
+{{Template:Main Page Categories}}
 <div style="background-color:#E0E0E0;font-size:1px;height:8px;border:1px solid #AAAAAA;-moz-border-radius-topright:0.5em;-moz-border-radius-topleft:0.5em;"></div>
 <div style="border:1px solid #AAAAAA;border-top:0px solid white;padding:5px 5px 0 5px;margin-bottom:3ex;">
 {{Wikipedialang}}&nbsp;
 </div>
-
 <div style="background-color:#E0E0E0;font-size:1px;height:8px;border:1px solid #AAAAAA;-moz-border-radius-topright:0.5em;-moz-border-radius-topleft:0.5em;"></div>
 <div style="border:1px solid #AAAAAA;border-top:0px solid white;padding:5px 5px 0 5px;margin-bottom:3ex;">
 <p>'''Wikimedia жобалары'''</p>
 {{WikipediaSister}}&nbsp;
 </div>
+| width="10" | &nbsp;
+| width="30%" valign="top" bgcolor="#F7F4DD" style="border:1px solid #ECE5CA" |
+<!-- Оң жақ -->
+<div class="plainlinks" style="text-align:center; font-family: Arial, sans-serif; font-weight: normal; font-size:100%; clear:both; background: #ECE5CA; border:1px dashed #ECE5CA;width:99%;">
+{| border="0" align="center" width="100%"
+|bgcolor="#ECE5CA" |
+===[[{{CURRENTDAY}} {{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]] ===
+|}
+Мақалалар саны: <font color="blue" >[[Special:Statistics|'''{{NUMBEROFARTICLES}}''']]</font>
+</div>
+{|width="100%"
+|bgcolor="#ECFFCA" align="center" |
+[[Image:World Cup 2006 logo.png|30px]] <span style="font-size:110%;text-align: center;">[[Футболдан әлем чемпионаты 2006|Әлем чемпионаты 2006]]</span>
+|}
+{| width="100%" border="0" cellspacing="5" style="background-color:#F7F4DD"
+|-----
+| valign="top" bgcolor="#F7F4DD" |
+<!-- Жаңалықтар -->
+{{Template:Main Page Featured Articles}}
+|}
+|}
+{{Add new article}}
+<br>
+
+
 __NOTOC__ __NOEDITSECTION__
 [[als:]]
 [[ar:]]
