@@ -194,7 +194,7 @@
 |'''0'''||1||0||0||1||0||2||-2
 |}
 
-====Group B====
+=== B тобы ===
 {| class="wikitable" style="text-align:center;"
 |-
 !width=165| Команда
@@ -217,5 +217,31 @@
 |'''1'''||1||0||1||0||0||0||0
 |- 
 |style="text-align:left;"|{{Парагвай}}
+|'''0'''||1||0||0||1||0||1||-1
+|}
+
+=== C тобы ===
+{| class="wikitable" style="text-align:center;"
+|-
+!width=165| Команда
+!width=20| <small>Ұпай</small>
+!width=20| <small>Ойын.</small>
+!width=20| <small>Жең.</small>
+!width=20| <small>Тең.</small>
+!width=20| <small>Жеңіл.</small>
+!width=20| <small>Кіргіз.</small>
+!width=20| <small>Жібер.</small>
+!width=20| <small>Айырм.</small>
+|-
+|style="text-align:left;"|{{Аргентина}}
+|'''3'''||1||1||0||0||2||1||+1
+|-
+|style="text-align:left;"|{{Голландия}}
+|'''3'''||1||1||0||0||1||0||+1
+|- 
+|style="text-align:left"|{{Кот-д'Ивуар}}
+|'''0'''||1||0||0||1||1||2||-1
+|-
+|style="text-align:left;"|{{Сербия мен Черногория}}
 |'''0'''||1||0||0||1||0||1||-1
 |}
