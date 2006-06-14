@@ -18,12 +18,12 @@
 {{Wikipedialang}}&nbsp;
 </div>
 <div style="background-color:#E0E0E0;font-size:1px;height:8px;border:1px solid #AAAAAA;-moz-border-radius-topright:0.5em;-moz-border-radius-topleft:0.5em;"></div>
-<div style="border:1px solid #AAAAAA;border-top:0px solid white;padding:5px 5px 0 5px;margin-bottom:3ex;">
+<div style="border:1px solid #AAAAAA;border-top:0px solid white;padding:5px 5px 0 5px;">
 <p>'''Wikimedia жобалары'''</p>
 {{WikipediaSister}}&nbsp;
 </div>
 | width="10" | &nbsp;
-| width="30%" valign="top" bgcolor="#F7F4DD" style="border:1px solid #ECE5CA" |
+| width="40%" valign="top" bgcolor="#F7F4DD" style="border:1px solid #ECE5CA" |
 <!-- Оң жақ -->
 <div class="plainlinks" style="text-align:center; font-family: Arial, sans-serif; font-weight: normal; font-size:100%; clear:both; background: #ECE5CA; border:1px dashed #ECE5CA;width:99%;">
 {| border="0" align="center" width="100%"
@@ -34,7 +34,7 @@
 </div>
 {|width="100%"
 |bgcolor="#ECFFCA" align="center" |
-[[Image:World Cup 2006 logo.png|30px]] <span style="font-size:110%;text-align: center;">[[Футболдан әлем чемпионаты 2006|Әлем чемпионаты 2006]]</span>
+[[Image:World Cup 2006 logo.png|100px]]<br><span style="font-size:90%;text-align: center;">[[Футболдан әлем чемпионаты 2006|Әлем чемпионаты 2006]]</span>
 |}
 {| width="100%" border="0" cellspacing="5" style="background-color:#F7F4DD"
 |-----
