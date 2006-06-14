@@ -1,12 +1,13 @@
-<!-- Қош келдіңіз -->
-{{Welcome to Wikipedia}}
-<br>
 {| width="100%"  border="0" cellspacing="0" cellpadding="0"
 |-----
 |
 {| width="100%"  border="0" cellspacing="0" cellpadding="0"
 |-----
 | valign="top" |
+<!-- Қош келдіңіз -->
+{{Welcome to Wikipedia}}
+<br />
+
 {{Main Page Text}}
 
 {{Template:Main Page Categories}}
