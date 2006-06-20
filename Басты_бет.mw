@@ -1,102 +1,50 @@
 {| width="100%"  border="0" cellspacing="0" cellpadding="0"
-|-----
-|
-{| width="100%"  border="0" cellspacing="0" cellpadding="0"
-|-----
-| valign="top" |
-<!-- Қош келдіңіз -->
+|  width="50%" valign="top" |
+
+<!-- Сол жақ -->
 {{Welcome to Wikipedia}}
-<br />
-
 {{Main Page Text}}
-
+<br />
 {{Template:Main Page Categories}}
-
 {{Add new article}}
+{{Wikipedialang}}
+{{WikipediaSister}}
+| width="5"| &nbsp;
 
-<div style="background-color:#E0E0E0;font-size:1px;height:8px;border:1px solid #AAAAAA;-moz-border-radius-topright:0.5em;-moz-border-radius-topleft:0.5em;"></div>
-<div style="border:1px solid #AAAAAA;border-top:0px solid white;padding:5px 5px 0 5px;margin-bottom:3ex;">
-{{Wikipedialang}}&nbsp;
-</div>
-<div style="background-color:#E0E0E0;font-size:1px;height:8px;border:1px solid #AAAAAA;-moz-border-radius-topright:0.5em;-moz-border-radius-topleft:0.5em;"></div>
-<div style="border:1px solid #AAAAAA;border-top:0px solid white;padding:5px 5px 0 5px;">
-<p>'''Wikimedia жобалары'''</p>
-{{WikipediaSister}}&nbsp;
-</div>
-| width="10" | &nbsp;
-| width="40%" valign="top" bgcolor="#F7F4DD" style="border:1px solid #ECE5CA" |
 <!-- Оң жақ -->
+| width="40%" valign="top" bgcolor="#F7F4DD" style="border:1px solid #ECE5CA" |
 <div class="plainlinks" style="text-align:center; font-family: Arial, sans-serif; font-weight: normal; font-size:100%; clear:both; background: #ECE5CA; border:1px dashed #ECE5CA;width:99%;">
 {| border="0" align="center" width="100%"
 |bgcolor="#ECE5CA" |
 ===[[{{CURRENTDAY}} {{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]] ===
 |}
-Мақалалар саны: <font color="blue" >[[Special:Statistics|'''{{NUMBEROFARTICLES}}''']]</font>
+Мақалалар саны: <font color="blue" >[[Special:Statistics|'''{{NUMBEROFARTICLES}}''']]
+</font>
 </div>
 {|width="100%"
 |bgcolor="#ECFFCA" align="center" |
 [[Image:World Cup 2006 logo.png|100px]]<br><span style="font-size:90%;text-align: center;">[[Футболдан әлем чемпионаты 2006|Әлем чемпионаты 2006]]</span>
 |}
+<!-- Жаңалықтар -->
 {| width="100%" border="0" cellspacing="5" style="background-color:#F7F4DD"
 |-----
 | valign="top" bgcolor="#F7F4DD" |
-<!-- Жаңалықтар -->
 {{Template:Main Page Featured Articles}}
 |}
-|}
 __NOTOC__ __NOEDITSECTION__
-[[ab:]]
 [[ar:]]
-[[av:]]
 [[az:]]
 [[ba:]]
-[[bat-smg:]]
 [[be:]]
-[[bg:]]
-[[bs:]]
-[[ce:]]
-[[cs:]]
 [[cv:]]
 [[de:]]
-[[el:]]
 [[en:]]
-[[es:]]
-[[et:]]
 [[fa:]]
-[[fi:]]
-[[fr:]]
-[[he:]]
-[[hu:]]
-[[hy:]]
-[[id:]]
-[[it:]]
-[[ja:]]
-[[ka:]]
-[[ko:]]
-[[ku:]]
-[[kv:]]
 [[ky:]]
-[[lt:]]
-[[lv:]]
-[[mn:]]
-[[nl:]]
-[[no:]]
-[[os:]]
-[[pl:]]
-[[pt:]]
-[[rmy:]]
-[[ro:]]
-[[sq:]]
-[[sr:]]
-[[tg:]]
 [[tk:]]
 [[tr:]]
 [[tt:]]
-[[udm:]]
 [[ug:]]
 [[uk:]]
-[[ur:]]
 [[uz:]]
-[[xal:]]
-[[yi:]]
 [[zh:]]
