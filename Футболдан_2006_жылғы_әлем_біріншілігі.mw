@@ -504,17 +504,17 @@
 <!--Round of 16  -->
 |24 Маусым - Мюнхен|'''{{Алмания}}''' |2| {{Швеция}} |0
 |24 Маусым - Лейпциг|'''{{Аргентина}}''' <small>([[Қосымша тайм|қос. тайм]])</small> |2| {{Мексика}} |1
-|26 Маусым - Кайзерслаутерн|{{Италия}} || {{Австралия}} |
-|26 Маусым - Кельн| {{Швейцария}} || {{Украина}} |
+|26 Маусым - Кайзерслаутерн|{{Италия}} |1| {{Австралия}} |0
+|26 Маусым - Кельн| {{Швейцария}} |0 (0)| {{Украина}} <small>(пен.)</small> |0 (3)
 |25 Маусым - Штутгарт|'''{{Англия}}''' |1| {{Экуадор}} |0
 |25 Маусым - Нюрнберг|'''{{Португалия}}''' |1| {{Голландия}} |0
-|27 Маусым - Дортмунд| {{Бразилия}} || {{Гана}}|
-|27 Маусым - Ганновер|{{Испания}} || {{Франция}}|
+|27 Маусым - Дортмунд| {{Бразилия}} |3| {{Гана}}|0
+|27 Маусым - Ганновер|{{Испания}} |1| {{Франция}}|3
 <!--quarter finals  -->
 |30 Маусым - Берлин|{{Алмания}} || {{Аргентина}} |
-|30 Маусым - Гамбург||||
+|30 Маусым - Гамбург|{{Италия}}||{{Украина}}|
 |1 Шілде - Гельзенкирхен|{{Англия}} || {{Португалия}} |
-|1 Шілде - Франкфурт||||
+|1 Шілде - Франкфурт|{{Бразилия}}||{{Франция}}|
 <!--semi finals  -->
 |4 Шілде - Дортмунд||||
 |5 Шілде - Мюнхен||||
@@ -578,37 +578,59 @@
 }}
 
 
-Дүйсенбі [[26 Маусым]] [[2006]]
-{| cellspacing="0" width="100%"
-|-
-|align="center" width=5%| R5
-|width="24%" align="right"|{{Италия}}
-|align="center" width="15%"| 17:00
-|width="24%"|{{Австралия}}
-|style="font-size:smaller"|[[Fritz Walter Stadion]], [[Kaiserslautern]]
-|-
-|align="center" width=5%| R6
-|width="24%" align="right"| {{Швейцария}} 
-|align="center" width="15%"| 21:00
-|width="24%"| {{Украина}}
-|style="font-size:smaller"|[[RheinEnergieStadion|FIFA WM Stadion Köln]], [[Кельн]]
-|}
+{{footballbox
+|bg = #dddddd
+|date = [[26 Маусым]] [[2006]]<br />17:00<br />
+|team1 = {{Италия}}
+|score = 1&ndash;0
+|report=[http://fifaworldcup.yahoo.com/06/en/w/match/53/mr.html (Мәлімдемесі)]
+|team2 = {{Австралия}}
+|goals1 = Totti 95+' ([[Пенальти|пен.]])
+|goals2 =
+|stadium = Fritz Walter Stadion, Kaiserslautern<br />'''Көремендер:''' 46,000<br />'''Төреші:''' Medina (Spain)
+}}
 
-Сейсенбі [[27 Маусым]] [[2006]]
-{| cellspacing="0" width="100%"
-|-
-|align="center" width=5%| R7
-|width="24%" align="right"| {{Бразилия}}
-|align="center" width="15%"| 17:00
-|width="24%"|{{Гана}}
-|style="font-size:smaller"|[[Signal Iduna Park|FIFA WM Stadion Dortmund]], [[Дортмунд]]
-|-
-|align="center" width=5%| R8
-|width="24%" align="right"| {{Испания}}
-|align="center" width="15%"| 21:00
-|width="24%"|{{Франция}}
-|style="font-size:smaller"|[[AWD-Arena|FIFA WM Stadion Hannover]], [[Ганновер]]
-|}
+{{footballbox
+|bg = #eeeeee
+|date = [[26 Маусым]] [[2006]]<br />21:00<br />
+|team1 = {{Швейцария}}
+|score = 0&ndash;0<br/>(0&ndash;3)<br><small>(пен.)</small>
+|report=[http://fifaworldcup.yahoo.com/06/en/w/match/54/mr.html (Мәлімдемесі)]
+|team2 = {{Украина}}
+|goals1 =
+|goals2 =
+|stadium = FIFA WM Stadion Köln, Cologne<br />'''Көрермендер:''' 45,000<br />'''Төреші:''' Archundia (Mexico)}}
+{{penshootoutbox |
+bg = #eeeeee |
+penalties1 = Streller: өткізбеді<br />Barnetta: тигізбеді<br />Cabañas: өткізбеді|
+penaltyscore = 0&ndash;3 |
+penalties2 = Shevchenko: өткізбеді<br />Milevskiy: соқты<br />Rebrov: соқты<br />Gusev: соқты}}
+
+{{footballbox
+|bg = #dddddd
+|date = [[27 Маусым]] [[2006]]<br />17:00
+|team1 = {{Бразилия}}
+|report=[http://fifaworldcup.yahoo.com/06/en/w/match/55/mr.html (Мәлімдемесі)]
+|score = 3&ndash;0 
+|team2 = {{Гана}}
+|goals1 =Ronaldo 5'<br />Adriano 46+'<br /> Zé Roberto 84'<br />
+|goals2 =
+|goals3 =
+|stadium = FIFA WM Stadion Dortmund, Dortmund <br />'''Көрермендер:''' 65,000<br />'''Төреші:''' Micheľ (Slovakia) 
+}}
+
+{{footballbox
+|bg = #eeeeee
+|date = [[27 Маусым]] [[2006]]<br />21:00 <br /> 
+|team1 = {{Испания}}
+|score = 1&ndash;3 <br/>
+|report= [http://fifaworldcup.yahoo.com/06/en/w/match/56/mr.html (Мәлімдемесі)]
+|team2 = {{Франция}}
+|goals1 = Villa 28' ([[Пенальти|пен.]])
+|goals2 = Ribery 41'<br />Vieira 83'<br />Zidane 92+'
+|goals3 =
+|stadium = FIFA WM Stadion Hannover, Hanover<br />'''Көрермендер:''' 43,000<br />'''Төреші:''' Rosetti (Italy)
+}}
 
 === Бомбардирлер сайысы ===
 
