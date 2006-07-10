@@ -21,11 +21,11 @@
 |established_event2 = Адаланған 
 |established_date1 = [[1990]] [[маусым 12]]
 |established_date2 = [[1991]] [[желтоқсан 26]]
-|area = 17&nbsp;075&nbsp;400<!--http://www.gks.ru/scripts/free/1c.exe?XXXX09F.2.1/010000R-->
+|area = 17&nbsp;075,4 млн<!--http://www.gks.ru/scripts/free/1c.exe?XXXX09F.2.1/010000R-->
 |area_rank = 1-ші 
 |area_magnitude = 1 E12 
 |percent_water = 13<!--http://www.gks.ru/scripts/free/1c.exe?XXXX09F.2.1/010000R--> 
-|population_estimate      = 143&nbsp;202 млн 
+|population_estimate      = 143,202 млн 
 |population_estimate_year = 2005
 |population_estimate_rank = 7-ші 
 |population_census = 145&nbsp;164&nbsp;000<!--http://www.eastview.com/all_russian_population_census.asp-->
@@ -34,9 +34,9 @@
 |population_densitymi² = 21,7
 |population_density_rank = 210-ші
 |GDP_PPP_year = 2006 
-|GDP_PPP = 1,692 трлн <!--http://www.imf.org/external/pubs/ft/weo/2006/01/data/dbcoutm.cfm?SD=2005&ED=2007&R1=1&R2=1&CS=3&SS=2&OS=C&DD=0&OUT=1&C=922&S=PPPWGT-PPPPC&RequestTimeout=120&CMP=0&x=44&y=9-->
+|GDP_PPP = $1,692 трлн <!--http://www.imf.org/external/pubs/ft/weo/2006/01/data/dbcoutm.cfm?SD=2005&ED=2007&R1=1&R2=1&CS=3&SS=2&OS=C&DD=0&OUT=1&C=922&S=PPPWGT-PPPPC&RequestTimeout=120&CMP=0&x=44&y=9-->
 |GDP_PPP_rank = 10-ші<sup>1</sup>
-|GDP_PPP_per_capita = 11&nbsp;904<!--http://www.imf.org/external/pubs/ft/weo/2006/01/data/dbcoutm.cfm?SD=2005&ED=2007&R1=1&R2=1&CS=3&SS=2&OS=C&DD=0&OUT=1&C=922&S=PPPWGT-PPPPC&RequestTimeout=120&CMP=0&x=44&y=9-->
+|GDP_PPP_per_capita = $11&nbsp;904<!--http://www.imf.org/external/pubs/ft/weo/2006/01/data/dbcoutm.cfm?SD=2005&ED=2007&R1=1&R2=1&CS=3&SS=2&OS=C&DD=0&OUT=1&C=922&S=PPPWGT-PPPPC&RequestTimeout=120&CMP=0&x=44&y=9-->
 |GDP_PPP_per_capita_rank = 62-ші
 |HDI_year = 2003 
 |HDI = 0,795 
@@ -45,9 +45,9 @@
 |currency = [[Ресей рубілі]] 
 |currency_code = RUB 
 |time_zone = 
-|utc_offset = +2-ден +12-дейін 
+|utc_offset = +2—+12
 |time_zone_DST = 
-|utc_offset_DST = +3-ден +13-дейін 
+|utc_offset_DST = +3—+13 
 |ITU_prefix = R, UA—UI
 |cctld = [[.ru]], ([[.su]] сақталуда)
 |calling_code = 7 
