@@ -1,5 +1,5 @@
 {{Infobox_Country
-|native_name = Қазақстан Республикасы<br />''Qazaqstan Respublïkası''
+|native_name = Қазақстан Республикасы<br /><small>''Qazaqstan Respublïkası''</small>
 |conventional_long_name = Қазақстан Республикасы
 |common_name = Қазақстан
 |national_motto = Алаш! (тарихи), Алға Қазақстан! (ресми емес)
@@ -18,9 +18,9 @@
 |leader_name2 = [[Ахметов, Даниал|Даниал&nbsp;Ахметов]]
 |area_rank = 9-ші
 |area_magnitude = 1 E7
-|area = 2 717 300
-|percent_water = 1.7 %
-|population_estimate = 14 825 000
+|area = 2&nbsp;717,3 мың
+|percent_water = 1.7
+|population_estimate = 14 825 мың
 |population_estimate_year = 2005
 |population_estimate_rank = 62-ші
 |population_census = 
@@ -47,7 +47,7 @@
 |utc_offset = +5, +6
 |time_zone_DST = 
 |utc_offset_DST = 
-|ITU_prefix = UN — UQ
+|ITU_prefix = UN—UQ
 |cctld = [[.kz]]
 |calling_code = 7
 |footnotes = 
