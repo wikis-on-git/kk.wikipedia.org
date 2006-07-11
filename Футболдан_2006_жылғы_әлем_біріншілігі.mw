@@ -635,37 +635,63 @@ penalties2 = Shevchenko: өткізбеді<br />Milevskiy: соқты<br />Rebr
 === Ширек финалдар ===
 Бүкіл уақыт жергілікті
 
-Жұма [[30 Маусым]] [[2006]]
-{| cellspacing="0" width="100 %«
-|-
-|align=»center" width=5 %| Q1
-|width="24 %« align=»right"|{{Алмания}}
-|align="center" width="15 %«| 17:00
-|width=»24 %«|{{Аргентина}}
-|style=»font-size:smaller"|Olympiastadion, Berlin
-|-
-|align="center" width=5 %| Q2
-|width="24 %« align=»right"|{{Италия}}
-|align="center" width="15 %«| 21:00
-|width=»24 %«|{{Украина}}
-|style=»font-size:smaller"|FIFA WM Stadion Hamburg, Hamburg
-|}
+{{footballbox
+|bg = #dddddd
+|date = [[30 Маусым]] [[2006]]<br />17:00<br /><br />
+|team1 = {{Алмания}}
+|score = 1&ndash;1<br/>(4&ndash;2)<br><small>(пенальти бойынша)</small>
+|report= [http://fifaworldcup.yahoo.com/06/en/w/match/57/mr.html (Мәлімдемесі)]
+|team2 = {{Аргентина}}
+|goals1 =Klose 80'
+|goals2 =Ayala 49'
+|stadium = <br />'''Көрермендер:''' 72,000<br />'''Төреші:''' Micheľ (Словакия)
+}}
+{{penshootoutbox |
+bg = #dddddd |
+penalties1 = Neuville: scored<br />Ballack: кіргізді<br />Podolski: кіргізді<br />Borowski: кіргізді |
+penaltyscore = 4&ndash;2|
+penalties2 = Cruz: кіргізді<br />Ayala: кіргізді<br />Rodríguez: кіргізді<br />Cambiasso: өткізбеді}}
 
-Сенбі [[1 Шілде]] [[2006]]
-{| cellspacing="0" width="100 %«
-|-
-|align=»center" width=5 %| Q3
-|width="24 %« align=»right"|{{Англия}}
-|align="center" width="15 %«| 17:00
-|width=»24 %«|{{Португалия}}
-|style=»font-size:smaller"|FIFA WM Stadion Gelsenkirchen, Gelsenkirchen
-|-
-|align="center" width=5 %| Q4
-|width="24 %« align=»right"|{{Бразилия}}
-|align="center" width="15 %«| 21:00
-|width=»24 %«|{{Франция}}
-|style=»font-size:smaller"|FIFA WM Stadion Frankfurt, Frankfurt
-|}
+{{footballbox
+|bg = #eeeeee
+|date = [[30 Маусым]] [[2006]]<br />21:00<br />
+|team1 = {{Италия}}
+|score = 3&ndash;0
+|report= [http://fifaworldcup.yahoo.com/06/en/w/match/58/mr.html (Мәлімдемесі)]
+|team2 = {{Украина}}
+|goals1 =Zambrotta 6'<br />Toni 59', 69'
+|goals2 =
+|stadium = FIFA WM Stadion Hamburg, Hamburg<br />'''Көрермендер:''' 50,000<br />'''Төреші:''' De Bleeckere (Бельгия)
+}}
+{{footballbox
+|bg = #dddddd
+|date = [[1 Шілде]] [[2006]]<br />17:00<br />
+|team1 = {{Англия}}
+|score = 0&ndash;0<br/>(1&ndash;3)<br><small>(пенальти бойынша)</small>
+|report= <!--[http://fifaworldcup.yahoo.com/06/en/w/match/59/mr.html (Мәлімдемесі)]-->
+|team2 = {{Португалия}}
+|goals1 =
+|goals2 =
+|report= [http://fifaworldcup.yahoo.com/06/en/w/match/59/mr.html (Мәлімдемесі)]
+|stadium = FIFA WM Stadion Gelsenkirchen, Gelsenkirchen<br />'''Көрермендер:''' 52,000<br />'''Төреші:''' Elizondo (Аргентина)
+}}
+{{penshootoutbox |
+bg = #dddddd |
+penalties1 = Lampard: өткізбеді<br />Hargreaves: кіргізді<br />Gerrard: өткізбеді<br />Carragher: өткізбеді |
+penaltyscore = 1&ndash;3|
+penalties2 = Simão: кіргізді<br />Viana: штанга<br />Petit: тимеді<br />Postiga: кіргізді<br />Ronaldo: кіргізді<br />}}
+
+{{footballbox
+|bg = #eeeeee
+|date = [[1 Шілде]] [[2006]]<br />21:00<br />
+|team1 = {{Бразилия}}
+|score = 0&ndash;1
+|report= [http://fifaworldcup.yahoo.com/06/en/w/match/60/mr.html (Мәлімдемесі)]
+|team2 = {{Франция}}
+|goals1 =
+|goals2 =Henry 57'<br />
+|stadium = FIFA WM Stadion Frankfurt, Frankfurt<br />'''Көрермендер:''' 48,000<br />'''Төреші:''' Medina (Испания)
+}}
 
 === Бомбардирлер сайысы ===
 
