@@ -60,10 +60,10 @@
 
 [[Image:Kzk delenie.png|450 px|thumb|left| {{legend|#E27A8C|Орта Қазақстан}} {{legend|#6699FF|Солтүстік Қазақстан}} {{legend|#99CC00|Оңтүстік Қазақстан}} {{legend|#66E84F|Шығыс Қазақстан}} {{legend|#99FF66|Батыс Қазақстан}}]]
 
-{| class="standard" align="left"
+{| class="standard"
 |+ Қазақстан әкімшілік аумақтары
 |-
-! Аумақ күйі | align="right" | Саны 
+! Аумақ күйі | style="text-align: right;" || Саны 
 |-
 | [[Облыс]] || 14
 |-
