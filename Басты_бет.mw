@@ -4,14 +4,10 @@
 {{Welcome to Wikipedia}}
 {{Main Page Text}}
 <br />
-{{Template:Main Page Categories}}
-{{Add new article}}
-{{Wikipedialang}}
-{{WikipediaSister}}
-| width="5"| &nbsp;
+| width="5" rowspan="4"| &nbsp;
 
 <!-- Оң жақ -->
-| width="40%" valign="top" bgcolor="#F7F4DD" style="border:1px solid #ECE5CA" |
+| width="40%" rowspan="4" valign="top" bgcolor="#F7F4DD" style="border:1px solid #ECE5CA" |
 <div class="plainlinks" style="text-align:center; font-family: Arial, sans-serif; font-weight: normal; font-size:100%; clear:both; background: #ECE5CA; border:1px dashed #ECE5CA;width:99%;">
 {| border="0" align="center" width="100%"
 |bgcolor="#ECE5CA" |
@@ -22,13 +18,24 @@
 </div>
 {|width="100%"
 |bgcolor="#ECFFCA" align="center" |
-[[Image:World Cup 2006 logo.png|100px]]<br><span style="font-size:90%;text-align: center;">[[Футболдан әлем чемпионаты 2006|Әлем чемпионаты 2006]]</span>
+<span style="font-size:90%;text-align: center;">[[Футболдан әлем чемпионаты 2006|Әлем чемпионаты 2006]]</span>
 |}
 <!-- Жаңалықтар -->
 {| width="100%" border="0" cellspacing="5" style="background-color:#F7F4DD"
 |-----
 | valign="top" bgcolor="#F7F4DD" |
 {{Template:Main Page Featured Articles}}
+|}
+|-
+|valign="center" |
+{{Template:Main Page Categories}}
+{{Add new article}}
+|-
+|valign="center" |
+{{Wikipedialang}}
+|-
+|valign="bottom" |
+{{WikipediaSister}}
 |}
 __NOTOC__ __NOEDITSECTION__
 [[ar:]]
