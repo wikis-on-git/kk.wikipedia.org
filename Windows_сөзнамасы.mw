@@ -360,7 +360,7 @@ __NOTOC__
 ;<span id="ТЖ" style="font-weight: bold">ТЖ</span> <small>(Read-Only Memory, ROM)</small>
 : ('''тұрақты жады''') Бұл жартылай өткізгіштік жадыда өндіру барысында орнатылған код пен деректер болады. Тұрақты жадыдағы деректі тек оқуға болады, өзгертуге болмайды.
 
-;<span id="Тұрғылықты дискі" style="font-weight: bold">Тұрғылықты дискі</span> <small>(Hard Disc?)</small>
+;<span id="Тұрғылықты дискі" style="font-weight: bold">Тұрғылықты дискі</span> <small>(Hard Disc)</small>
 : Дерек жазуға және сақтауға арналған құрылғы. Тұрғылықты дискі әдетте компьютердің ішінде орналасады.
 
 ;<span id="Тұтынғыш" style="font-weight: bold">Тұтынғыш</span> <small>(Client)</small>
