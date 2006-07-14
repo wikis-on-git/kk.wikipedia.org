@@ -198,7 +198,7 @@ __NOTOC__
 ;<span id="Қаріп" style="font-weight: bold">Қаріп</span> <small>(Font)</small>
 : Әріптерді, сандарды және нышандарды бейнелеуге арналған баспа таңбалар жинағы. Сондай-ақ қаріп нобайы сөзін қараңыз.
 
-;<span id="Қаріп нобайы" style="font-weight: bold">Қаріп нобайы</span> <small>(Typeface ?)</small>
+;<span id="Қаріп нобайы" style="font-weight: bold">Қаріп нобайы</span> <small>(Typeface? Set of glyphs? Type design?)</small>
 : Ені және кертпелерінің бар-жоғы сияқты ортақ параметрлері бар таңбалар жинағы. Сондай-ақ қаріп сөзін қараңыз.
 
 ;<span id="Қатарлас порт" style="font-weight: bold">Қатарлас порт</span> <small>(Parallel port)</small>
