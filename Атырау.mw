@@ -38,8 +38,14 @@
 |utc_offset             =+5
 |timezone_DST           = 
 |utc_offset_DST         = 
-|latd= |latm= |lats= |latNS=
-|longd= |longm= |longs= |longEW=
+|latd= 47
+|latm= 07
+|lats= 00
+|latNS=N
+|longd= 51
+|longm= 53
+|longs= 00
+|longEW=E
 |elevation              = 
 |website                = 
 |phone_code             =+7(3122)
