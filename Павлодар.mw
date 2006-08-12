@@ -39,14 +39,14 @@
 |utc_offset             = +6
 |timezone_DST           = 
 |utc_offset_DST         = 
-|latd= 52
-|latm= 
-|lats= 
-|latNS=N
-|longd= 76
-|longm= 
-|longs= 
-|longEW=E
+|latd                   = 52
+|latm                   = 00
+|lats                   = 00
+|latNS                  = N
+|longd                  = 76
+|longm                  = 00
+|longs                  = 00
+|longEW                 = E
 |elevation              = 
 |elevation_ft           = 
 |website                = [http://www.pavlodar-city.kz/index.php?lang=kz www.pavlodar-city.kz]
