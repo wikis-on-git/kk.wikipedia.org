@@ -1,5 +1,5 @@
 <!-- Infobox begins -->{{Infobox City
-|official_name          = Ақтобе
+|official_name          = Ақтөбе
 |nickname               = 
 |motto                  = 
 |image_skyline          = 
@@ -10,16 +10,16 @@
 |image_map              = 
 |mapsize                = 
 |map_caption            = 
-|subdivision_type       = 
-|subdivision_name       = 
-|subdivision_type1      = 
-|subdivision_name1      = 
-|subdivision_type2      = 
-|subdivision_name2      = 
-|leader_title           = Әкім
-|leader_name            = Нокин, Серік Кенесұлы
-|established_title      = 
-|established_date       = 
+|subdivision_type       = [[Ел тізімі|Елі]] 
+|subdivision_name       = [[Қазақстан]]
+|subdivision_type1      = [[Қазақстан облыстары|Облысы]]
+|subdivision_name1      = [[Ақтөбе облысы|Ақтөбе]]
+|subdivision_type2      = [[Әкімшілік күй|Әкімшілік күйі]] 
+|subdivision_name2      = [[Облыс орталығы]]
+|leader_title           = [[Әкім|Әкімі]]
+|leader_name            = [[Нокин, Серік Кеңесұлы|Серік Нокин]]
+|established_title      =Орнатылуы<br /> &nbsp;&nbsp;Қала денгейі<br /> &nbsp;&nbsp;Қазіргі аты<br /> Бұрынғы атаулары
+|established_date       =[[1869]]<br /> [[1880]]<br /> ?<br />?
 |area_magnitude         = 
 |area_total             = 
 |TotalArea_sq_mi        = 
@@ -41,17 +41,29 @@
 |population_density_metro_km2 =
 |population_density_metro_mi2 =
 |population_urban       = 
-|timezone               = 
-|utc_offset             = +4
+|timezone               = [[Батыс Асия қалыпты уақыт|WAST]]
+|utc_offset             = +5
 |timezone_DST           = 
-|utc_offset_DST         = 
-|latd= |latm= |lats= |latNS=
-|longd= |longm= |longs= |longEW=
+|utc_offset_DST         =
+|latd                   = 50
+|latm                   = 16
+|lats                   = 00
+|latNS                  = N
+|longd                  = 57
+|longm                  = 13
+|longs                  = 00
+|longEW                 = E
 |elevation              = 
-|elevation_ft           = 
+|elevation_ft           =
+|KATO_code              = 15 10 00 000 3
+|phone_code             = +7(3132)
 |website                = 
 |footnotes              = 
 }} <!-- Infobox ends -->
+
+== Сыртқы сілтемелер ==
+* [http://www.aktobeinfo.kz/ Ақтөбе ақпарат порталы] {{ru icon}}
+* [http://www.aktobeinfo.kz/pic/maps/map1big.jpg Ақтөбе картасы]
 
 [[Category:Қазақстан қалалары]]
 
