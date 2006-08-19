@@ -192,10 +192,10 @@
 
 = Сравнение алфавитов на латинице и кириллице =
 
-== Сравнительная таблица алфавитов ==
+== Әліппелердің салыстырмалы кестесі ==
 
-{| class="standard"
-|-style="font-family:Arial Unicode MS, Lucida Grande, Code 2000, Lucida Sans Unicode, sans-serif;
+{| class="standard unicode"
+|-
 !Кириллица ||Миссионерская<br />кириллица || Латиница<br />Яналиф || Латиница<br />пиньинь||Транскрипция<br />МФА
 |-
 | Аa || Аa || Aa || Аa||{{IPA|/a/}}
