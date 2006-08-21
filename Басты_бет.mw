@@ -9,7 +9,7 @@
 | width="40%" valign="top" bgcolor="#F7F4DD" style="border:1px solid #ECE5CA;" |
 {| class="plainlinks"  width="100%" 
 | bgcolor="#ECE5CA" align="center"|
-==== [[{{CURRENTDAYNAME}}]]<br />[[{{CURRENTDAY}} {{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]] ([[UTC]]) ====
+==== [[{{CURRENTDAYNAME}}]]<br />[[{{CURRENTYEAR}}]] [[{{CURRENTMONTHNAME}} {{CURRENTDAY}}]] ([[UTC]]) ====
 |}
 {|width="100%"
 |bgcolor="#ECE5CA" align="center" style="border:1px solid F7F4DD;"|
