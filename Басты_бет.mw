@@ -11,7 +11,7 @@
 <div class="plainlinks" style="text-align:center; font-weight: normal; font-size:100%; clear:both; background: #ECE5CA; border:1px dashed #ECE5CA;width:99%;">
 {| border="0" align="center" width="100%"
 |bgcolor="#ECE5CA" |
-=== [[{{CURRENTDAYNAME}}]], [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]] ===
+=== [[{{CURRENTDAYNAME}}]], [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]] ([[UTC]]) ===
 |}
 Мақалалар саны: <font color="blue" >[[Special:Statistics|'''{{NUMBEROFARTICLES}}''']]
 </font>
