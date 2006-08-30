@@ -1,7 +1,35 @@
-[[image:soz.png|right|thumb|Сөз топтары мен таптарының схемасы]]
 {{Shortcut1|Грамматика}}
 '''Сөз табы'' деп жалпы лексика-грамматикалық сипаттары мен белгілері бәріне бірдей ортақ болып келетін сөздердің тобын атаймыз.
+[[image:soz.png|left|Сөз топтары мен таптарының схемасы]]
+<div style="position: relative;">
+{{Image label|x=-0.69 |y=0.08 |scale=300|text=<big>[[сөз]]</big>}}
 
+{{Image label|x=-1.17 |y=0.28|scale=300|text=[[атаушы сөздер]]}}
+{{Image label|x=-0.8|y=0.28 |scale=300|text=[[көмекші сөздер]]}}
+{{Image label|x=-0.37 |y=0.28 |scale=300|text=[[одағай сөздер]]}}
+
+{{Image label|x=-1.18|y=0.46|scale=300|text=<small>[[есімдер]]</small>}}
+{{Image label|x=-1.02 |y=0.46 |scale=300|text=<small>[[етістіктер]]</small>}}
+{{Image label|x=-0.8 |y=0.43 |scale=300|text=<small>[[көмекші есім|көмекші]]<br>&nbsp;&nbsp;[[көмекші есім|есім]]</small>}}
+{{Image label|x=-0.6 |y=0.43 |scale=300|text=<small>[[көмекші естістік|көмекші]]<br>[[көмекші естістік|естістік]]</small>}}
+{{Image label|x=-0.4 |y=0.46 |scale=300|text=[[шылау]]}}
+{{Image label|x=-0.2 |y=0.46 |scale=300|text=[[одағай]]}}
+
+{{Image label|x=-1.16 |y=0.63 |scale=300|text=<small>[[атаушы есім|атаушы]]<br>[[атаушы есім|есімдер]]</small>}}
+{{Image label|x=-0.95 |y=0.63 |scale=300|text=<small>[[үстеуші есім|үстеуші]]<br>[[үстеуші есім|есімдер]]</small>}}
+{{Image label|x=-0.7 |y=0.66 |scale=300|text=<small>[[жалғаулық]]</small>}}
+{{Image label|x=-0.47 |y=0.66 |scale=300|text=<small>[[септеулік]]</small>}}
+{{Image label|x=-0.25 |y=0.66 |scale=300|text=<small>[[демеулік]]</small>}}
+
+{{Image label|x=-1.16 |y=0.84 |scale=300|text=<small>[[зат есім|зат]]<br>[[зат есім|есім]]</small>}}
+{{Image label|x=-1.0 |y=0.84 |scale=300|text=<small>[[сын есім|сын]]<br>[[сын есім|есім]]</small>}}
+{{Image label|x=-0.8 |y=0.84 |scale=300|text=<small>[[сан есім|сан]]<br>[[сан есім|есім]]</small>}}
+{{Image label|x=-0.6 |y=0.86 |scale=300|text=<small>[[есімдік]]</small>}}
+{{Image label|x=-0.37 |y=0.86 |scale=300|text=<small>[[үстеу]]</small>}}
+{{Image label|x=-0.2 |y=0.84 |scale=300|text=<small>[[еліктеу сөз|еліктеу]]<br>[[еліктеу сөз|сөздер]]</small>}}
+
+
+</div>
 Қазіргі қазақ тілінідегі сөздер мынадай 9 сөз табына бөлінеді:
 # [[Зат есім]] (''бет, қол'')
 # [[Сын есім]] (''қызыл'', ''биік'')
