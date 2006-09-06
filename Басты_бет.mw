@@ -12,7 +12,7 @@
 ==== [[{{LOCALDAYNAME}}]]<br />[[{{LOCALYEAR}}]]&nbsp;ж. [[{{LOCALMONTHNAMEGEN}} {{LOCALDAY}}]] ====
 |}
 ----
-Мақалалар саны: [[Special:Statistics|'''{{NUMBEROFARTICLES}}''']]
+Мақалалар саны: [[Special:Statistics|'''{{NUMBEROFARTICLES:R}}''']] Қатысышылар саны: [[Special:Listusers|{{NUMBEROFUSERS:R}}]]
 
 </div>
 {|width="100%"
