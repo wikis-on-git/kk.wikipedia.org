@@ -57,11 +57,11 @@
 |- align="center"
 |{{төте| &#1575;}} || || || {{төте|&#65166;}} || әліп || а
 |- align="center"
-| {{төте|&#1653;}} || || || {{төте|&#65166;}} ||һәмзә-әліп||	ә
+| {{төте|&#1653;}}<br>[http://www.fileformat.info/info/unicode/char/0675 0675] || || || {{төте|&#65166;}} ||һәмзә-әліп||	ә
 |- align="center"
 | {{төте|&#1576;}} || {{төте|&#65169;}}|| {{төте|&#65170;}} || {{төте|&#65168;}} || ба ||	б
 |- align="center"
-| {{төте|&#1734;}} || || || {{төте|&#64474;}} ||  уе ||	в
+| {{төте|&#1734;}}<br>[http://www.fileformat.info/info/unicode/char/fbd9 FBD9] || || || {{төте|&#64474;}}<br>[http://www.fileformat.info/info/unicode/char/fbda FBDA] ||  уе ||	в
 |- align="center"
 | {{төте|&#1711;}}<br>[http://www.fileformat.info/info/unicode/char/fb92 FB92]|| {{төте|&#64404;}}<br>[http://www.fileformat.info/info/unicode/char/fb93 FB93]|| {{төте|&#64405;}}<br>[http://www.fileformat.info/info/unicode/char/fb94 FB94]|| {{төте|&#64403;}}<br>[http://www.fileformat.info/info/unicode/char/fb95 FB95]|| гәф ||	г
 |- align="center"
@@ -105,11 +105,11 @@
 |- align="center"
 | {{төте|&#1578;}} || {{төте|&#65175;}} || {{төте|&#65176;}} || {{төте|&#65174;}} ||  та ||	т
 |- align="center"
-| {{төте|&#1739;}} || || || {{төте|&#64479;}} ||уа / уау үш нұқат||	у
+| {{төте|&#1739;}}<br>[http://www.fileformat.info/info/unicode/char/fbde FBDE] || || || {{төте|&#64479;}}<br>[http://www.fileformat.info/info/unicode/char/fbdf FBDF] ||уа / уау үш нұқат||	у
 |- align="center"
 | {{төте|&#1735;}}<br>[http://www.fileformat.info/info/unicode/char/fbd7 FBD7] || || ||{{төте| &#64472;}}<br>[http://www.fileformat.info/info/unicode/char/fbd8 FBD8] ||дамма-уа /дамма-уау||	ұ
 |- align="center"
-| {{төте|&#1655;}} || || || ||һәмзә-уа / һәмзә-дамма-уау||	ү
+| {{төте|&#1655;}}<br>[http://www.fileformat.info/info/unicode/char/fbdd FBDD] || || || ||һәмзә-уа / һәмзә-дамма-уау||	ү
 |- align="center"
 | {{төте|&#1601;}} || {{төте|&#65235;}} || {{төте|&#65236;}} || {{төте|&#65234;}} || фа ||	ф
 |- align="center"
@@ -137,7 +137,7 @@
 |- align="center"
 | || || || || ||	я
 |- align="center"
-| {{төте|&#1652;}} || || || ||һәмзә ||
+| {{төте|&#1652;}}<br>[http://www.fileformat.info/info/unicode/char/0674 0674] || || || ||һәмзә ||
 |- align="center"
 | {{төте|&#65275;}} || || || {{төте|&#65276;}} || ләм-әліп||	ла
 |}
