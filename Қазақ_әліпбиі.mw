@@ -105,7 +105,7 @@
 |- align="center"
 | {{төте|&#1578;}} || {{төте|&#65175;}} || {{төте|&#65176;}} || {{төте|&#65174;}} ||  та ||	т
 |- align="center"
-| {{төте|&#1739;}}<br>[http://www.fileformat.info/info/unicode/char/fbde FBDE] || || || {{төте|&#64479;}}<br>[http://www.fileformat.info/info/unicode/char/fbdf FBDF] ||уа / уау үш нұқат||	у
+| {{төте|&#1739;}}<br>[http://www.fileformat.info/info/unicode/char/06CB 06CB] || || || {{төте|&#64479;}}<br>[http://www.fileformat.info/info/unicode/char/fbdf FBDF] ||уа / уау үш нұқат||	у
 |- align="center"
 | {{төте|&#1735;}}<br>[http://www.fileformat.info/info/unicode/char/fbd7 FBD7] || || ||{{төте| &#64472;}}<br>[http://www.fileformat.info/info/unicode/char/fbd8 FBD8] ||дамма-уа /дамма-уау||	ұ
 |- align="center"
@@ -125,9 +125,9 @@
 |- align="center"
 | || || || || ||	ъ
 |- align="center"
-| {{төте|&#64508;}} || {{төте|&#64488;}} || {{төте|&#64489;}} || {{төте|&#64509;}} ||  я ||	ы
+| {{төте|&#64508;}} || {{төте|&#64488;}}<br>[http://www.fileformat.info/info/unicode/char/fbe8 FBE8] || {{төте|&#64489;}}<br>[http://www.fileformat.info/info/unicode/char/fbe9 FBE9] || {{төте|&#64509;}} ||  я ||	ы
 |- align="center"
-| {{төте|&#1656;}} || {{төте|&#65163;}} || {{төте|&#64511;}} || {{төте|&#64509;}} || һәмзә-я||	і
+| {{төте|&#1656;}}<br>[http://www.fileformat.info/info/unicode/char/0678 0678] || {{төте|&#65163;}} || {{төте|&#64511;}} || {{төте|&#64509;}} || һәмзә-я||	і
 |- align="center"
 | || || || || ||	ь
 |- align="center"
