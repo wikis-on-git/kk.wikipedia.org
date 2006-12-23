@@ -1,0 +1,101 @@
+'''Үшінші қалыпты түр'''  ('''''third normal form''''' немесе '''''3NF''''') дерекқор нормалауында қатынастың барлық кілт емес атрибуттары кандидат кілттерінен тәуелді болуын тексеруіне арналған қалыпты түр  (форма) . 
+3NFтың екінші қалыпты түрінен айырмашылығы:  3NFтың барлық кілт емес атрибуттары кандидат кілттерінен тәуелді болуы шарт. Сондықтан Bill Kent айтуынша, 3NF тілеуі: " қатынас кілтпен ғана негізделеді, тек қана кілтпен".
+
+==Формалдық анықтама==
+
+Айтайық:
+
+* <math>{R}</math> қатынас схемасы болсын,
+* <math>F</math> бір қатар <math>R</math> ды үстайтын функциялық тәуелділік/функциялық тәуелділіктер болсын 
+* <math>X</math> - <math>R</math>дың бір қатар жиыны болсын
+* <math>A</math>  - <math>R</math>дың атрибуттары болсын
+
+Еғер, әрбір <math>X \to A</math> түріндегі функциялық тәуелділікке төмендегі жағдайлардың біреу сәйкес келсе <math>R</math> үшінші қалыпты түрде болады.  
+* <math>A \in X</math>; деғеніміз, <math>A</math> тривиалды функциялық тәуелділік, 
+* <math>X</math>  суперкілт болса, 
+* <math>A</math> - <math>R</math> кілтіне кірсе.
+
+кез келген жартылай тәуелділіктегі немесе тразитивті тәуелділіктегі  қатынас үшінші қалыпты түріне кірмейді.
+
+== Мысал ==
+
+Мына қатынасты көрелік:
+
+{| align="center" border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border: 1px solid black"
+ |+ Механикалық бөлшек
+ |- style="background-color: silver; text-align: left; vertical-align: top"
+ ! style="border: 1px solid black" | Бөлшектің нөмірі<br/>(primary key)
+ ! style="border: 1px solid black" | Өндірушінің аты
+ ! style="border: 1px solid black" | Өндірушінің мекен жайы
+ |-
+ | style="border: 1px solid black" | 1000
+ | style="border: 1px solid black" | Toyota
+ | style="border: 1px solid black" | Park Avenue
+ |-
+ | style="border: 1px solid black" | 1001
+ | style="border: 1px solid black" | Mitsubishi
+ | style="border: 1px solid black" | Lincoln Street
+ |-
+ | style="border: 1px solid black" | 1002
+ | style="border: 1px solid black" | Toyota
+ | style="border: 1px solid black" | Park Avenue
+|}
+
+Бұл жерде, өндірушінің мекен жайы қатынасқа кірмейді. Сондықтан өндірушінің мекен жайы бөлек кестеге өз аттрибуттарымен көшірілу керек.
+{| align="center" border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border: 1px solid black"
+ |+ Өндіруші
+ |- style="background-color: silver; text-align: left; vertical-align: top"
+ ! style="border: 1px solid black" | Өндірушінің аты<br/>(primary key)
+ ! style="border: 1px solid black" | Өндірушінің мекен жайы
+ |-
+ | style="border: 1px solid black" | Toyota
+ | style="border: 1px solid black" | Park Avenue
+ |-
+ | style="border: 1px solid black" | Mitsubishi
+ | style="border: 1px solid black" | Lincoln Street
+|}
+
+...бастапқы кесте енді былай болу керек:
+
+{| align="center" border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse; border: 1px solid black"
+ |+ Механикалық бөлшек
+ |- style="background-color: silver; text-align: left; vertical-align: top"
+ ! style="border: 1px solid black" | Бөлшектің нөмірі <br/>(primary key)
+ ! style="border: 1px solid black" | Өндірушінің аты
+ |-
+ | style="border: 1px solid black" | 1000
+ | style="border: 1px solid black" | Toyota
+ |-
+ | style="border: 1px solid black" | 1001
+ | style="border: 1px solid black" | Mitsubishi
+ |-
+ | style="border: 1px solid black" | 1002
+ | style="border: 1px solid black" | Toyota
+|}
+
+Кесте 3NFте болмаса әрбір өндірушінің атына біз артық мекен жай қосуына мәжбір болушедік (Әр өндірушінің атына бір мекен жай емес, әр бөлшектің нөміріне бір бір мекен жай беруге тура келушеді).
+
+== Дерекнама ==
+* Ramakrishnan, Raghu and Johannes Gehrke. "Schema Refinement and Normal Forms." Database Management Systems, Third Edition. ISBN 0-07-246563-8. McGraw Hill. August 14, 2002.
+* Gupta, Gopal. [http://www.cs.jcu.edu.au/Subjects/cp1500/1998/Lecture_Notes/normalisation/3nf.html "Third Normal Form (3NF)."] Single Valued Normalization. 1996.
+
+== Дерекнама ==
+* [http://www.troubleshooters.com/littstip/ltnorm.html Litt's Tips: Normalization]
+* [http://www.datamodel.org/NormalizationRules.html Rules Of Data Normalization]
+* Date, C. J. (1999), ''[http://www.aw-bc.com/catalog/academic/product/0,1144,0321197844,00.html  An Introduction to Database Systems]'' (8th ed.). Addison-Wesley Longman. ISBN 0-321-19784-4.
+* Kent, W. (1983) ''[http://www.bkent.net/Doc/simple5.htm A Simple Guide to Five Normal Forms in Relational Database Theory]'', Communications of the ACM, vol. 26, pp. 120-125
+* Date, C.J., & Darwen, H., & Pascal, F. ''[http://www.dbdebunk.com Database Debunkings]''
+
+== Сілтемелер ==
+* [http://databases.about.com/od/specificproducts/a/normalization.htm Database Normalization Basics] by Mike Chapple (About.com)
+* [http://dev.mysql.com/tech-resources/articles/intro-to-normalization.html An Introduction to Database Normalization] by Mike Hillyer.
+* [http://www.utexas.edu/its/windows/database/datamodeling/rm/rm7.html Normalization] by ITS, University of Texas.
+* [http://phlonx.com/resources/nf3/ A tutorial on the first 3 normal forms] by Fred Coulson
+* [http://www.marcrettig.com/poster/ Free PDF poster available] by Marc Rettig
+* [http://support.microsoft.com/kb/283878 Description of the database normalization basics] by Microsoft
+* [http://www.matthew-west.org.uk/documents/princ03.pdf Developing High Quality Data Models]
+* [http://www.dama-nj.org/presentations/Kalido_Generic_Data_Modeling.pdf Generic Data Modeling]
+* [http://sourceforge.net/projects/gellish The Gellish Language - A Universal Data Structure]
+
+
+[[Қатысушы:Yerkin Abdildin|Yerkin Abdildin]]
