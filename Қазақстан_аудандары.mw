@@ -1,5 +1,5 @@
-<table>				
-<tr><td>	KLKOD	</td><td>	NAIMK	</td></tr>
+<table border="1">				
+<tr><td>	 Кадастрлық номері	</td><td>	Аудан атауы	</td></tr>
 <tr><td>	001	</td><td>	Ақкөл	</td></tr>
 <tr><td>	002	</td><td>	Астрахан	</td></tr>
 <tr><td>	003	</td><td>	Атбасар	</td></tr>
