@@ -13,7 +13,7 @@
 [[{{LOCALDAYNAME}}]]<br />[[{{LOCALYEAR}}|{{LOCALYEAR}}&nbsp;ж.]] [[{{LOCALMONTHNAME}} {{LOCALDAY}}|{{LOCALMONTHNAMEGEN}} {{КүнЕсептік|{{LOCALDAY}}}}]]
 |}
 ----
-Мақалалар саны: [[Special:Statistics|'''{{NUMBEROFARTICLES:R}}''']] | Қатысушылар саны: [[Special:Listusers|{{NUMBEROFUSERS:R}}]]
+Мақалалар саны: [[Special:Statistics|'''{{FORMATNUM:{{NUMBEROFARTICLES}}}}''']] | Қатысушылар саны: [[Special:Listusers|{{FORMATNUM:{{NUMBEROFUSERS}}}}]]
 
 </div>
 {|width="100%"
