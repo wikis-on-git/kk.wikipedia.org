@@ -1,6 +1,6 @@
 <div id="mainpage"></div>
 {{Welcome to Wikipedia}}
-{| width="100%"  border="0" cellspacing="0" cellpadding="0"
+{| width="100%" border="0" cellspacing="0" cellpadding="0"
 | width="60%" valign="top" |
 <!-- Сол жақ -->
 {{Main Page Text}}
@@ -37,7 +37,7 @@
 |valign="bottom" |
 {{WikipediaSister}}
 |}
-__NOTOC__ 
+__NOTOC__
 __NOEDITSECTION__
 
 {{MainPageInterwikis}}
