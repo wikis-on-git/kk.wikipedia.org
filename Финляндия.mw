@@ -1,65 +1,195 @@
 {{Infobox Country or territory
-|native_name              = ''Eesti Vabariik''
-|conventional_long_name   = Republic of Estonia
-|common_name              = Estonia
-|image_flag               = Flag of Estonia.svg
-|image_coat               = Estonia coatofarms.png
-|image_map                = EU_location_EST.png
-|map_caption               = Map showing the location of Estonia (dark orange) within the EU ([[:Image:EU location legend.png|legend]]).
-|national_motto           =
-|national_anthem          = ''[[Mu isamaa, mu õnn ja  rõõm]]''
-|official_languages       = [[Estonian language|Estonian]]
-|capital                  = [[Image:Tallinn greater coatofarms.png|22px]]&nbsp;[[Tallinn]]
-|latd=59 |latm=26 |latNS=N |longd=24 |longm=45 |longEW=E
-|largest_city             = [[Image:Tallinn greater coatofarms.png|22px]]&nbsp;[[Tallinn]]
-|government_type          = [[Parliamentary democracy]]
-|leader_title1            = [[President of Estonia|President]]
-|leader_title2            = [[Prime Minister of Estonia|Prime Minister]]
-|leader_name1             = [[Toomas Hendrik Ilves]]
-|leader_name2             = [[Andrus Ansip]]
-|accessionEUdate          = [[May 1]], [[2004]]
-|area                     = 45,226
-|areami²                  = 17,413 <!--Do not remove per [[WP:MOSNUM]]-->
-|area_rank                = 132nd
-|area_magnitude           = 1 E10
-|percent_water            = 4.56%
-|population_estimate      = 1,324,333
-|population_estimate_year = 2006
-|population_estimate_rank = 151st
-|population_census        = 
-|population_census_year   = 
-|population_density       = 29
-|population_densitymi²    = 75 <!--Do not remove per [[WP:MOSNUM]]-->
-|population_density_rank  = 173rd
-|GDP_PPP_year             = 2006
-|GDP_PPP                  = $23.93 billion
-|GDP_PPP_rank             = 106th
-|GDP_PPP_per_capita       = $17,802
-|GDP_PPP_per_capita_rank  = 39th
-|HDI_year                 = 2004
-|HDI                      = {{increase}} 0.858
-|HDI_rank                 = 40th
-|HDI_category             = <font color="#009900">high</font>
-|sovereignty_type         = [[History of Estonia|Independence]]
-|sovereignty_note         = <small>From [[Russian SFSR|Russia]] and [[German Empire|Germany]]
-|established_event1       = Declared
-|established_event2       = Recognised
-|established_event3       = Occupied by USSR
-|established_event4       = Re-declared 
-|established_date1        = [[24 February]] [[1918]]
-|established_date2        = [[2 February]] [[1920]]
-|established_date3        = [[16 June]] [[1940]]
-|established_date4        = [[20 August]] [[1991]]
-|currency                 = [[Estonian kroon]]
-|currency_code            = EEK
-|time_zone                = [[Eastern European Time|EET]]
-|utc_offset               = +2
-|time_zone_DST            = [[Eastern European Summer Time|EEST]]
-|utc_offset_DST           = +3
-|cctld                    = [[.ee]]<sup>1</sup>
-|calling_code             = 372
-|footnotes                = <sup>1</sup> Also [[.eu]], shared with other [[European Union]] member states.
+|native_name                 = ''Suomen tasavalta<br/>Republiken Finland''
+|conventional_long_name      = Финландия Республикасы
+|common_name                 = Финландия
+|image_flag                  = Flag of Finland.svg
+|image_coat                  = Coat of arms of Finland.svg
+|image_map                   = EU location FIN.png
+|map_caption                 = Map showing the location of Finland<br/>(dark orange) within the [[European Union|EU]] ([[:Image:EU location legend.png|legend]]).
+|national_motto              = none<sup>1</sup>
+|national_anthem             = ''[[Maamme]]''<br/><small>"Our Land"</small>
+|official_languages          = [[Finnish language|Finnish]], [[Swedish language|Swedish]]
+|capital                     = [[Image:Helsinki.vaakuna.svg|22px]]&nbsp;[[Helsinki]]
+|latd                        = 60
+|latm                        = 10
+|latNS                       = N
+|longd                       = 24
+|longm                       = 56
+|longEW                      = E
+|largest_city                = [[Image:Helsinki.vaakuna.svg|22px]]&nbsp;[[Helsinki]]
+|religion                    = [[Lutheran]]
+|government_type             = [[Parliamentary system|Parliamentary&nbsp;democracy]]<sup>2</sup>
+|leader_title1               = [[President of Finland|President]]
+|leader_title2               = [[Prime Minister of Finland|Prime Minister]]
+|leader_name1                = [[Tarja Halonen]]  
+|leader_name2                = [[Matti Vanhanen]] 
+|accessionEUdate             = [[January 1]], [[1995]] 
+|area_rank                   = 65th 
+|area_magnitude              = 1 E11 
+|area                        = 338,145
+|areami²                     = 130,558 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water               = 9.4
+|population_estimate         = 5,276,571<ref name="Population">{{cite web |url=http://tilastokeskus.fi/til/vamuu/2006/12/vamuu_2006_12_2007-01-18_tie_001.html |title=Suomen ennakkoväkiluku joulukuun lopussa 5 276 571 (Finnish) |work=Statistics Finland, December 2006 |accessdate=2007-01-22}}</ref><ref>{{cite web |url=http://www.vaestorekisterikeskus.fi/vrk/home.nsf/pages/index_eng |title=The population of Finland |work=Population Register Center |accessdate=2007-01-22}}</ref>
+|population_estimate_rank    = 111th
+|population_estimate_year    = 2006<sup>3</sup>
+|population_census           = 5,181,115
+|population_census_year      = 2000
+|population_density          = 16
+|population_densitymi²       = 40 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank     = 190th
+|GDP_PPP                     = $163 billion
+|GDP_PPP_rank                = 52nd
+|GDP_PPP_year                = 2005
+|GDP_PPP_per_capita          = $31,208
+|GDP_PPP_per_capita_rank     = 13th
+|GDP_nominal                 = $193.491 [[billion]]
+|GDP_nominal_rank            = 31st
+|GDP_nominal_year            = 2005
+|GDP_nominal_per_capita      = $37,504
+|GDP_nominal_per_capita_rank = 11th
+|sovereignty_type            = [[History of Finland|Independence]]
+|sovereignty_note            = from [[Bolshevist Russia]]
+|established_event1          = Autonomy
+|established_event2          = Declared
+|established_event3          = Recognised
+|established_date1           = [[March 29]], [[1809]]
+|established_date2           = [[December 6]], [[1917]]
+|established_date3           = [[January 3]], [[1918]]
+|HDI                         = {{increase}} 0.947
+|HDI_rank                    = 11th
+|HDI_year                    = 2004
+|HDI_category                = <font color="#009900">high</font>
+|currency                    = [[Euro]] ([[Euro sign|€]]) <sup>4</sup><br/>
+|currency_code               = EUR
+|country_code                = 
+|time_zone                   = [[Eastern European Time|EET]]
+|utc_offset                  = +2
+|time_zone_DST               = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST              = +3
+|cctld                       = [[.fi]] <sup>5</sup>
+|calling_code                = 358
+|footnotes                   = <sup>1</sup> The words ''vapaa, vankka, vakaa'' ("free, tough, stable") were suggested as addition to the coat of arms in 1936, but were dropped.<br/><sup>2</sup> [[Semi-presidential system]]<br/><sup>3</sup> [[December 2006]].<br/><sup>4</sup> Prior to 2002: [[Finnish mark|Finnish markka]].<br/><sup>5</sup> The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states.
 }}
+
 '''Финландия'''
 
 {{Еуропа}}
+
+{{Link FA|cs}}
+{{Link FA|sk}}
+
+[[af:Finland]]
+[[als:Finnland]]
+[[am:ፊንላንድ]]
+[[ar:فنلندا]]
+[[an:Finlandia]]
+[[roa-rup:Finlanda]]
+[[frp:Finlande]]
+[[ast:Finlandia]]
+[[zh-min-nan:Suomi]]
+[[be:Фінляндыя]]
+[[bar:Finnlånd]]
+[[bs:Finska]]
+[[br:Finland]]
+[[bg:Финландия]]
+[[ca:Finlàndia]]
+[[cv:Финлянди]]
+[[cs:Finsko]]
+[[cy:Y Ffindir]]
+[[da:Finland]]
+[[de:Finnland]]
+[[arc:ܦܢܠܢܕܐ]]
+[[et:Soome]]
+[[el:Φινλανδία]]
+[[es:Finlandia]]
+[[en:Finland]]
+[[eo:Finnlando]]
+[[eu:Finlandia]]
+[[ee:Finland]]
+[[fa:فنلاند]]
+[[fo:Finnland]]
+[[fr:Finlande]]
+[[fy:Finlân]]
+[[ga:An Fhionlainn]]
+[[gv:Fynlann]]
+[[gd:Suòmaidh]]
+[[gl:Finlandia - Suomi]]
+[[got:𐍆𐌹𐌽𐌽𐌰𐌻𐌰𐌽𐌳]]
+[[ko:핀란드]]
+[[haw:Pinilana]]
+[[hy:Ֆինլանդիա]]
+[[hi:फ़िनलैंड]]
+[[hsb:Finska]]
+[[hr:Finska]]
+[[io:Finlando]]
+[[ilo:Finlandia]]
+[[id:Finlandia]]
+[[ia:Finlandia]]
+[[os:Финлянди]]
+[[is:Finnland]]
+[[it:Finlandia]]
+[[he:פינלנד]]
+[[ka:ფინეთი]]
+[[csb:Fińskô]]
+[[kw:Pow Finn]]
+[[sw:Ufini]]
+[[ht:Fenlann]]
+[[ku:Fînlanda]]
+[[la:Finnia]]
+[[lv:Somija]]
+[[lb:Finnland]]
+[[lt:Suomija]]
+[[li:Finland]]
+[[hu:Finnország]]
+[[mk:Финска]]
+[[ms:Finland]]
+[[na:Finland]]
+[[nl:Finland]]
+[[nds-nl:Finlaand]]
+[[ne:फिनल्याण्ड]]
+[[ja:フィンランド]]
+[[no:Finland]]
+[[nn:Finland]]
+[[nrm:Fînlande]]
+[[nov:Finlande]]
+[[oc:Finlàndia]]
+[[ug:فىنلاندىيە]]
+[[pam:Finland]]
+[[ps:فېنلانډ]]
+[[pms:Finlandia]]
+[[nds:Finnland]]
+[[pl:Finlandia]]
+[[pt:Finlândia]]
+[[ro:Finlanda]]
+[[rmy:Finland]]
+[[qu:Finlandya]]
+[[ru:Финляндия]]
+[[war:Finlandya]]
+[[se:Suopma]]
+[[sq:Finlanda]]
+[[ru-sib:Финляндия]]
+[[scn:Finlandia]]
+[[simple:Finland]]
+[[sk:Fínsko]]
+[[sl:Finska]]
+[[sr:Финска]]
+[[sh:Finska]]
+[[fi:Suomi]]
+[[sv:Finland]]
+[[tl:Finland]]
+[[ta:பின்லாந்து]]
+[[tt:Finlândiä]]
+[[tet:Finlándia]]
+[[th:ประเทศฟินแลนด์]]
+[[vi:Phần Lan]]
+[[tg:Финланд]]
+[[tpi:Finlan]]
+[[tr:Finlandiya]]
+[[udm:Финляндия]]
+[[uk:Фінляндія]]
+[[vo:Suomiyän]]
+[[fiu-vro:Soomõ]]
+[[wa:Finlande]]
+[[yi:פינלאנד]]
+[[zh-yue:芬蘭]]
+[[zh:芬兰]]
