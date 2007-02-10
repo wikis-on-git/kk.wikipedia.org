@@ -39,10 +39,12 @@
 |GDP_PPP_rank = 56-шы
 |GDP_PPP_per_capita = $8700
 |GDP_PPP_per_capita_rank = 70-ші
-|sovereignty_type = [[КСРО ыдырауы|Тәуелсіздік]]
-|sovereignty_note = [[КСРО]] елінен
-|established_event1 = [[Қазақстан тарихы#Егемендік және Тәуелсіздік|Жарияланғаны]]
-|established_date1 = [[1991]] [[Желтоқсан 16|желтоқсан 16]]
+|sovereignty_type         = [[КСРО ыдырауы|Тәуелсіздік]]
+|sovereignty_note         = [[КСРО]] елінен
+|established_event1       = Жарияланған
+|established_event2       = Түгелденген
+|established_date1        = [[1991]] ж. [[желтоқсан 16]] 
+|established_date2        = [[1991]] ж. [[желтоқсан 25]] 
 |HDI_year = 2003
 |HDI = 0,761
 |HDI_rank = 80-ші
