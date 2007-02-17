@@ -1,4 +1,71 @@
-'''Қытай Халық Республикасы/جۇڭحۋا حالىق رەسپۋبليكاسى''' ([[Қытайша]]:中华人民共和国 (Zhōnghuá rénmín gònghéguó)) — Азия аралығында орналасқан мемлекет
+{{Infobox Country or territory
+|native_name                 = 中华人民共和国<br/>中華人民共和國<br/>''Zhōnghuá Rénmín Gònghéguó''
+|conventional_long_name      = Қытай Халық Республикасы
+|common_name                 = Қытай
+|image_flag                  = Flag of the People's Republic of China.svg
+|image_coat                  = National emblem of the People's Republic of China.png
+|symbol_type                 = National Emblem
+|national_motto              = 
+|image_map                   = LocationPRChina.png
+|national_anthem             = [[March of the Volunteers|''Yìyǒngjūn Jìnxíngqǔ'' &nbsp;<small>(义勇军进行曲)]]<br/>''March of the Volunteers''</small>
+|official_languages          = [[Chinese language|Chinese]]
+|capital                     = [[Beijing]]
+|latd=39|latm=55|latNS=N|longd=116|longm=23|longEW=E
+|government_type             = [[Socialist state|Socialist]] [[republic]]<sup>2</sup> <!--"Socialist republic" is the formal description used by the Encyclopaedia Britannica-->
+|leader_title1               = [[President of the People's Republic of China|President]]
+|leader_title2               = [[Premier of the People's Republic of China|Premier]]
+|leader_name1                = [[Hu Jintao]]
+|leader_name2                = [[Wen Jiabao]]
+|largest_city                = [[Shanghai]]
+|area                        = 9,596,960
+|areami²                     = 3,704,427<sup>2</sup> <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank                   = 3rd<sup>3</sup>
+|area_magnitude              = 1 E12
+|percent_water               = 2.8<sup>2</sup>
+|population_estimate         = 1,315,844,000<sup>4</sup> <!--UN WPP-->
+|population_estimate_year    = 2006
+|population_estimate_rank    = 1st
+|population_census           = 1,242,612,226
+|population_census_year      = 2000
+|population_density          = 140
+|population_densitymi²       = 363<sup>(2)</sup> <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank     = 72nd <sup>(2)</sup>
+|GDP_nominal                 = $2.68 trillion 
+|GDP_nominal_rank            = 4th
+|GDP_nominal_year            = 2006
+|GDP_nominal_per_capita      = $2,000
+|GDP_nominal_per_capita_rank = 110th
+|GDP_PPP_year                = 2005
+|GDP_PPP                     = $8.572 <!--World Bank-->trillion
+|GDP_PPP_rank                = 2nd
+|GDP_PPP_per_capita          = $6,514
+|GDP_PPP_per_capita_rank     = 84th
+|HDI_year                    = 2004
+|HDI                         = {{increase}} 0.768
+|HDI_rank                    = 81st
+|HDI_category                = <font color="#ffcc00">medium</font>
+|sovereignty_type            = [[Chinese Civil War|Establishment]]
+|established_event1          = [[Shang Dynasty]]
+|established_event2          = [[Qin Dynasty|Imperial China]]
+|established_event3          = [[Republican China]]
+|established_event4          = PRC declared
+|established_date1           = [[1766 BC]]
+|established_date2           = [[221 BC]]
+|established_date3           = [[October 10|October 10,]] [[1911|1911 AD]]
+|established_date4           = [[October 1|October 1,]] [[1949|1949 AD]]
+|currency                    = [[Renminbi]]<sup>5, 2</sup>
+|currency_code               = CNY
+|time_zone                   = 
+|utc_offset                  = +8
+|time_zone_DST               = ''not observed''
+|utc_offset_DST              = +8
+|cctld                       = [[.cn]]<sup>2</sup>
+|calling_code                = 86<sup>2</sup>
+|footnotes                   = <sup>1</sup> In addition to [[Standard Mandarin]], [[Cantonese (linguistics)|Cantonese]] is co-official in both {{HKG}} and {{MAC}}. [[English language|English]] is co-official in [[Hong Kong]] (SAR); correspondingly, [[Portuguese language|Portuguese]] in [[Macau]] (SAR). Similarly, several minority languages are also co-official with Standard Mandarin in minority areas, viz. [[Uyghur language|Uyghur]] in [[Xinjiang Uyghur Autonomous Region|Xinjiang]], [[Mongolian language|Mongolian]] in the classical alphabet in [[Inner Mongolia Autonomous Region|Inner Mongolia]], [[Tibetan language|Tibetan]] in [[Tibet Autonomous Region|Tibet]], and [[Korean language|Korean]] in [[Yanbian Prefecture|Yanbian]], [[Jilin]].<br/><sup>2</sup> Information for mainland China only. The [[Special Administrative Regions]] of the PRC: [[Hong Kong]], [[Macau]] are excluded. In addition, the territories controlled by the [[Republic of China]], which includes the islands of ([[Taiwan]], [[Kinmen]], and [[Matsu Islands|Matsu]]) are also excluded.<br/><sup>3</sup> Area rank is ''[[List of countries and outlying territories by area|disputed]]'' with the U.S. and is sometimes ranked 3rd or 4th (see [[#Geography and climate]]).<br/><sup>4</sup> Midyear.<br/><sup>5</sup> (RMB¥)
+}}
+
+
+'''Қытай Халық Республикасы''' ({{lang-kk-cn|جۇڭحۋا حالىق رەسپۋبليكاسى}}; ({{zh-stp|s=中华人民共和国|t=中華人民共和國|p=Zhōnghuá Rénmín Gònghéguó}}) — Азия аралығында орналасқан мемлекет
 
 [[Category:Азия]]
 [[Category:Қытай]]
@@ -29,8 +96,8 @@
 [[de:Volksrepublik China]]
 [[et:Hiina]]
 [[el:Λαϊκή Δημοκρατία της Κίνας]]
-[[en:People's Republic of China]]
 [[es:República Popular China]]
+[[en:People's Republic of China]]
 [[eo:Ĉinio]]
 [[eu:Txinako Herri Errepublika]]
 [[fr:République populaire de Chine]]
