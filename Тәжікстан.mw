@@ -59,11 +59,23 @@
 }}
 '''Тәжікстан'''
 
-{{Countries of Central Asia}}
-{{Asia}}
-{{Eurasian Economic Community}}
-{{Commonwealth of Independent States}}
-{{OIC}}
+
+{{NavigationBox
+|Title = Жоғрапия бағыттауышы
+|List = 
+{{Орта Асия}}
+{{Асия}}
+{{Еуропа}}
+}}
+{{NavigationBox
+|Title = Халықаралық ұйымдар
+|List = 
+{{Исләм Маслихаты}}
+{{Еуразия Економиқалық Қауымдастығы}}
+{{ТМД}}
+
+}}
+
 {{Iranian-speaking nations}}
 
 [[Category:Елдер]]
