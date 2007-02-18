@@ -1,33 +1,33 @@
 {{Infobox PRC province 
-| Header         = <font size="-2">[[Uyghur language|Uyghur]]:</font> شىنجاڭ ئۇيغۇر ئاپتونوم رايونى <br/>Shinjang Uyghur Aptonom Rayoni<br/><font size="-2">[[Chinese language|Chinese]]:</font>新疆维吾尔自治区<br/>Xīnjiāng Wéiwú'ěr Zìzhìqū<br/>
-| Name           = Xinjiang
+| Header         = <font size="-2">{{lang-ug| شىنجاڭ ئۇيغۇر ئاپتونوم رايونى }}<br />Shinjang Uyghur Aptonom Rayoni<br /><font size="-2">{{lang-zh|新疆维吾尔自治区}}<br />{{Lang-zh-pinyin|Xīnjiāng Wéiwú'ěr Zìzhìqū}}
+| Name           = Шинжяң Ұйғыр Аутономиялық Районы
 | Abbreviation   = 新
 | AbbrevPinyin   = Xīn
 | ISOAbbrev      = 65
 | Map            = China-Xinjiang.png
-| OriginOfName   = 新 xīn - new <br/> 疆 jiāng - territory <br /> "new territory"
+| OriginOfName   = 新 xīn - жәңа<br />疆 jiāng - аумақ<br /> «жәңа аумақ»
 | AdministrationType = [[Autonomous entities of China|Autonomous region]]
-| Capital        = [[Ürümqi]]
-| LargestCity    = [[Ürümqi]]
-| Secretary      = [[Wang Lequan]]
-| Governor       = [[Ismail Tiliwaldi]]
+| Capital        = [[Үрімші]]
+| LargestCity    = [[Үрімші]]
+| Secretary      = [[Уаң Лечұан]]
+| Governor       = [[Ысмаил Тіліуәлді]]
 | Area           = 1,660,000
-| AreaRank       = 1st
+| AreaRank       = 1-ші
 | PopYear        = 2004
 | Pop            = 19,630,000
 | PopRank        = 24th
 | PopDensity     = 11.8
-| PopDensityRank = 29th
+| PopDensityRank = 29-шы
 | GDPYear        = 2004
 | GDP            = 220.0 billion
-| GDPRank        = 25th
+| GDPRank        = 25-ші
 | GDPperCapita   = 11,200
-| GDPperCapitaRank = 13th
+| GDPperCapitaRank = 13-ші
 | HDIYear        = 2005
 | HDI            = 0.757
-| HDIRank        = 14th
-| HDICat         = <font color="#ffcc00">medium</font> 
-| Nationalities  = [[Uyghur people|Uyghur]] - 45%<br />[[Han Chinese|Han]] - 41%<br />[[Kazakhs|Kazakh]] - 7%<br />[[Hui people|Hui]] - 5%<br />[[Kirghiz]] - 0.9%<br />[[Mongol]] - 0.8%<br />[[Dongxiang people|Dongxiang]] - 0.3%<br />[[Tajik (China)|Tajik]] - 0.2%<br />[[Xibe]] - 0.2%
+| HDIRank        = 14-ші
+| HDICat         = <font color="#ffcc00">орташа</font> 
+| Nationalities  = [[Ұйғырлар]] - 45 %<br />[[Хәнзулар]] - 41 %<br />[[Қазақтар]] - 7%<br />[[Хұйзулар]] - 5 %<br />[[Қырғыздар]] - 0,9 %<br />[[Моңғолдар]] - 0,8 %<br />[[Доңсяңдар]] - 0,3 %<br />[[Тәжіктер]] - 0,2 %<br />[[Сібелер]] - 0,2 %
 | Prefectures    = 14
 | Counties       = 99
 | Townships      = 1005
