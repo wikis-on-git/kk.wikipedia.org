@@ -13,8 +13,7 @@
 [[{{LOCALDAYNAME}}]]<br />[[{{LOCALYEAR}}|{{LOCALYEAR}}&nbsp;ж.]] [[{{LOCALMONTHNAME}} {{LOCALDAY}}|{{LOCALMONTHNAMEGEN}} {{КүнЕсептік|{{LOCALDAY}}}}]]
 |}
 ----
-Мақалалар саны: [[Special:Statistics|'''{{FORMATNUM:{{NUMBEROFARTICLES}}}}''']] | Қатысушылар саны: [[Special:Listusers|{{FORMATNUM:{{NUMBEROFUSERS}}}}]]
-
+Мақалалар саны: [[Арнайы:Statistics|'''{{FORMATNUM:{{NUMBEROFARTICLES}}}}''']] | Қатысушылар саны: [[Арнайы:Listusers|{{FORMATNUM:{{NUMBEROFUSERS}}}}]]
 </div>
 {|width="100%"
 |bgcolor="#ECFFCA" align="center" |
@@ -24,11 +23,11 @@
 {| width="100%" border="0" cellspacing="5" style="background-color:#F7F4DD"
 |----
 | valign="top" bgcolor="#F7F4DD" |
-{{Template:Main Page Featured Articles}}
+{{Main Page Featured Articles}}
 |}
 |-
 |valign="center" |
-<!-- {{Template:Main Page Categories}} -->
+<!-- {{Main Page Categories}} -->
 {{Add new article}}{{Browsebar}}
 |-
 |valign="center" |
