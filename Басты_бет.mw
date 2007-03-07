@@ -26,12 +26,13 @@
 {{Main Page Featured Articles}}
 |}
 <!-- Тәулік суреті -->
-{| width="100%" border="0" cellspacing="5" style="background-color:#F7F4DD"
+{|width="100%"
+|bgcolor="#F7F4DD" align="center" |
 {{Тарау Тәулік суреті | x=1 | y=1 | Мазмұны=
-<big>'''Тәулік суреті'''</big>
-<small>[[Сурет:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}}}|center|340px]]
+<span style="font-size:120%;text-align: center;">'''Тәулік суреті'''</span>
+[[Сурет:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}}}|center|340px]]
 {{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}} (kk)}}
-|[[Уикипедия:Тәулік суреті|Қарау]]</small>
+|[[Уикипедия:Тәулік суреті|Қарау]]
 }}
 |}
 |-
