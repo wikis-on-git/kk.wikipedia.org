@@ -28,8 +28,8 @@
 <!-- Тәулік суреті -->
 {{Тарау Тәулік суреті | x=1 | y=1 | Мазмұны=
 <p>'''Тәулік суреті'''</p>
-<center>[[Сурет:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}}}|center|350px]]
-{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}} (kk)}}</center>
+[[Сурет:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}}}|center|330px]]
+{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}} (kk)}}
 |[[Уикипедия:Тәулік суреті|Қарау]]
 }}
 |-
