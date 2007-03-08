@@ -27,12 +27,11 @@
 |}
 <!-- Тәулік суреті -->
 {|width="100%" border="0" 
-|bgcolor="#F7F4DD" align="center" |
+|-
+| bgcolor="#F7F4DD" | 
 {{Тарау Тәулік суреті | x=1 | y=1 | Мазмұны=
-<span style="font-size:120%;text-align: center;">'''Тәулік суреті'''</span>
 [[Сурет:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}}}|center|250px]]
 {{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}} (kk)}}
-|[[Уикипедия:Тәулік суреті|Қарау]]
 }}
 |}
 |-
