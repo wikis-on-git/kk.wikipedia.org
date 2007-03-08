@@ -28,7 +28,7 @@
 <!-- Тәулік суреті -->
 {|width="100%" border="0" 
 |-
-| bgcolor="#F7F4DD" style="align:center;" | 
+| bgcolor="#F7F4DD" align="center" | 
 {{Тарау Тәулік суреті | x=1 | y=1 | Мазмұны=
 [[Сурет:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}}}}|center|250px]]
 {{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY}} (kk)}}
