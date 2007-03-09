@@ -21,15 +21,15 @@
 |}
 <!-- Жаңалықтар -->
 {| width="100%" border="0" cellspacing="5" style="background-color:#F7F4DD"
-|----
+|-----
 | valign="top" bgcolor="#F7F4DD" |
 {{Main Page Featured Articles}}
 |}
 <!-- Тәулік суреті -->
-{|width="100%" border="0" 
+{| width="100%" border="0" cellspacing="5" style="background-color:#F7F4DD"
 |-
-| bgcolor="#F7F4DD" align="center" | 
-{{Тарау Тәулік суреті | x=1 | y=1 | Мазмұны=
+| valign="top" bgcolor="#F7F4DD" |
+{{Тарау Тәулік суреті|x=1|y=1|Мазмұны=
 [[Сурет:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}|center|250px]]
 {{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (kk)}}
 }}
