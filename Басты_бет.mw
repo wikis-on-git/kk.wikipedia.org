@@ -38,7 +38,9 @@
 | valign="top" bgcolor="#F7F4DD" |
 {{Тарау Тәулік суреті|x=1|y=1|Мазмұны=
 [[Сурет:{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}}}}|center|250px]]
-{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (kk)}}
+<div align="center"><div style="width:250px;">{{Potd/{{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} (kk)}}
+</div>
+</div>
 }}
 |}
 |-
