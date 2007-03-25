@@ -63,7 +63,30 @@
 
 '''Алмания''' ({{lang-de|Bundesrepublik Deutschland}} — Алмания Федерациялық Республикасы) — Орта [[Eуропа]]да oрналасқан ел.
 
-{{Eуропа}}
+{{Template group
+|title = Жоғрапиялық өңірі
+|list  = 
+{{States of Germany}}
+{{Countries of Europe}}
+{{Baltic}}
+{{Countries and territories bordering the North Sea}}
+}}
+{{Template group
+|title = халықаралық ұйымдар
+|list  = 
+{{EU members}}
+{{G8}}
+{{Council of Europe members}}
+{{NATO}}
+{{OECD}}
+{{WTO}}
+}}
+{{Template group
+|title = Басқа
+|list  =
+{{Germanic Europe}}
+}}
+{{coor title dm|51|00|N|9|00|E|type:country_scale:9000000_region:EN}}
 
 [[Санат:Елдер]]
 
