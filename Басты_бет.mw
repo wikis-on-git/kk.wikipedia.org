@@ -10,7 +10,7 @@
 <div class="plainlinks" style="text-align:center; font-weight: normal; font-size:100%; clear:both; background: #ECE5CA; border:1px dashed #ECE5CA;width:99%;">
 {| border="0" align="center" width="100%"
 |bgcolor="#ECE5CA" |
-[[{{LOCALDAYNAME}}]]<br />[[{{LOCALYEAR}}|{{LOCALYEAR}}&nbsp;ж.]] [[{{LOCALMONTHNAME}} {{LOCALDAY}}|{{LOCALMONTHNAMEGEN}} {{КүнЕсептік|{{LOCALDAY}}}}]]
+[[{{LOCALDAYNAME}}]]<br />[[{{LOCALYEAR}}|{{LOCALYEAR}}&nbsp;ж.]] [[{{LOCALMONTHNAMEGEN}} {{LOCALDAY}}|{{LOCALMONTHNAMEGEN}} {{КүнЕсептік|{{LOCALDAY}}}}]]
 |}
 ----
 Мақалалар саны: [[Арнайы:Statistics|'''{{FORMATNUM:{{NUMBEROFARTICLES}}}}''']] | Қатысушылар саны: [[Арнайы:Listusers|{{FORMATNUM:{{NUMBEROFUSERS}}}}]]
