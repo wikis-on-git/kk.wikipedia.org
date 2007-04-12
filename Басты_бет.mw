@@ -4,6 +4,12 @@
 | width="60%" valign="top" |
 <!-- Сол жақ -->
 {{Welcome to Wikipedia}}
+{| id="mainpage" width="100%" class="plainlinks"
+|- style="border: 0px; padding: 0.1em 0.5em 0.5em 0.5em; font-size: 1.17em;"
+| align="center" | [[Уикипедия]] Ашық Энциклопедиясын әркім [[Анықтама:Өңдеу|өңдей алады]]. 
+|}
+{{Browsebar}}
+{{Add new article}}
 {{Main Page Text}}
 | width="5" rowspan="4"| &nbsp;
 <!-- Оң жақ -->
@@ -47,7 +53,6 @@
 |-
 |valign="center" |
 <!-- {{Main Page Categories}} -->
-{{Add new article}} 
 |-
 |valign="center" |
 {{Wikipedialang}}
