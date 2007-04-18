@@ -51,9 +51,9 @@
 | mean_temp_1 = 287&nbsp;K
 | max_temp_1 = 331&nbsp;K
 | temp_name2 = [[Celsius]]
-| min_temp_2 = −88.3&nbsp;°C
+| min_temp_2 = −{{formatnum:88.3}}&nbsp;°C
 | mean_temp_2 = 14&nbsp;°C
-| max_temp_2 = 57.7&nbsp;°C
+| max_temp_2 = {{formatnum:57.7}}&nbsp;°C
 | surface_pressure = {{formatnum:101.3}}&nbsp;[[kPa]] ([[Sea Level|MSL]])
 | atmosphere_composition = {{formatnum:78.08}}%&nbsp;[[Nitrogen|N<sub>2</sub>]]<br /> {{formatnum:20.95}}%&nbsp;[[Oxygen|O<sub>2</sub>]]<br /> {{formatnum:0.93}}%&nbsp;[[Argon]]<br /> {{formatnum:0.038}}%&nbsp;[[Carbon dioxide]]<br />Trace [[water vapor]] (varies with [[climate]])
 }}
