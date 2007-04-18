@@ -32,17 +32,17 @@
 | surface_area = {{formatnum:510,065,600}}&nbsp;km²
 | land_area = {{formatnum:148,939,100}}&nbsp;km²&nbsp;(29.2&nbsp;%)
 | water_area = {{formatnum:361,126,400}}&nbsp;km²&nbsp;(70.8&nbsp;%)
-| volume = 1.083&nbsp;207&nbsp;3×10<sup>12</sup>&nbsp;[[cubic kilometre|km³]]
-| mass = 5.9736×10<sup>24</sup>&nbsp;[[kilogram|kg]]
-| density = 5,515.3&nbsp;[[kilogram per cubic metre|kg/m³]]
-| surface_grav = 9.780&nbsp;1&nbsp;[[metre per second squared|m/s²]]<br />(0.997&nbsp;32&nbsp;[[g-force|''g'']])
-| escape_velocity = 11.186&nbsp;km/s&nbsp;(≅39,600&nbsp;km/h)
-| sidereal_day = 0.997&nbsp;258&nbsp;[[day|d]]<br />(23<sup>[[hour|h]]</sup>&nbsp;56<sup>[[minute|m]]</sup>&nbsp;04.09054<sup>[[second|s]]</sup>)<!-- C. F. Yoder: Basic Astronomical Constants -->
-| rot_velocity = 465.11&nbsp;m/s
-| axial_tilt = [[degree (angle)|23.439&nbsp;281°]]
+| volume = {{formatnum:1.083207}}3×10<sup>12</sup>&nbsp;[[cubic kilometre|km³]]
+| mass = {{formatnum:5.9736}}×10<sup>24</sup>&nbsp;kg
+| density = {{formatnum:5,515.3}}&nbsp;kg/m³
+| surface_grav = {{formatnum:9.7801}}&nbsp;m/s²<br />({{formatnum:0.99732}}&nbsp;[[g-force|''g'']])
+| escape_velocity = {{formatnum:11.186}}&nbsp;km/s&nbsp;(≅{{formatnum:39,600}}&nbsp;km/h)
+| sidereal_day = {{formatnum:0.997258}}&nbsp;[[күн|к]]<br />(23<sup>[[сағат|сағ]]</sup>&nbsp;56<sup>[[минөт|м]]</sup>&nbsp;04.09054<sup>[[секунда|с]]</sup>)<!-- C. F. Yoder: Basic Astronomical Constants -->
+| rot_velocity = {{formatnum:465.11}}&nbsp;m/s
+| axial_tilt = [[degree (angle)|{{formatnum:23.439281}}°]]
 | right_asc_north_pole = undefined°
 | declination = +90°
-| albedo = 0.367
+| albedo = {{formatnum:0.367}}
 | adjectives = Terrestrial, Terran, Telluric, Tellurian, Earthly
 | atmosphere = yes
 | temperatures = yes
@@ -54,8 +54,8 @@
 | min_temp_2 = −88.3&nbsp;°C
 | mean_temp_2 = 14&nbsp;°C
 | max_temp_2 = 57.7&nbsp;°C
-| surface_pressure = 101.3&nbsp;[[kPa]] ([[Sea Level|MSL]])
-| atmosphere_composition = 78.08%&nbsp;[[Nitrogen|N<sub>2</sub>]]<br /> 20.95%&nbsp;[[Oxygen|O<sub>2</sub>]]<br /> 0.93%&nbsp;[[Argon]]<br /> 0.038%&nbsp;[[Carbon dioxide]]<br />Trace [[water vapor]] (varies with [[climate]])
+| surface_pressure = {{101.3}}&nbsp;[[kPa]] ([[Sea Level|MSL]])
+| atmosphere_composition = {{formatnum:78.08}}%&nbsp;[[Nitrogen|N<sub>2</sub>]]<br /> {{formatnum:20.95}}%&nbsp;[[Oxygen|O<sub>2</sub>]]<br /> {{formatnum:0.93}}%&nbsp;[[Argon]]<br /> {{formatnum:0.038}}%&nbsp;[[Carbon dioxide]]<br />Trace [[water vapor]] (varies with [[climate]])
 }}
 '''Жер''' — [[күн жүйесі]]ндегі [[Күн]]нен әрі қарай санағанда үшінші планета.
 
