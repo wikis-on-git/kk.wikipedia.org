@@ -1,3 +1,18 @@
+{{Infobox_OS 
+| name = MS-DOS
+| logo = [[Image:MS-DOS icon.png]]
+| screenshot = <!-- Do NOT change the screenshot unless there is BIG change in the UI. When taking screenshot, please resize your window (e.g. 640*480), disable your extensions and use the default theme. -->[[Image: StartingMsdos.png]] 
+| caption = An example of MS-DOS's command-line interface, this one showing that the current directory is the root of drive C. 
+| developer = [[Microsoft]] 
+| family = [[DOS]] 
+| source_model = [[Closed source]] 
+| kernel_type = [[Monolithic kernel]]
+| working_state = Discontinued 
+| latest_release_version = 8.0 
+| latest_release_date = [[September 14]] [[2000]] 
+| ui = DOS [[Command line interface|CLI]]
+| license = Proprietary 
+}}
 '''MS-DOS''' ({{lang-en|'''M'''icro'''S'''oft '''D'''isk '''O'''perating '''S'''ystem}} — ''Microsoft фирмасының Дискілік Амалдық Жүйесі'') — [[дербес компьютер]]лерде және оларға сыйысымды құрылғыларда пайдаланылатын [[амалдық жүйе]].
 
 MS-DOS жүйесі пернетеқтадан енгізілген деректі компьютер орындай алатын амалдарға айналдырады. MS-DOS жүйесімен әрекеттесу әмір енгізу арқылы жүзеге асырылады, ал MS-DOS жүйесіне негізделген бағдарламалармен әрекеттесуді жұмыс үстеліндегі лақаптардың көмегімен жүзеге асыруға болады.
@@ -9,3 +24,44 @@ MS-DOS жүйесі пернетеқтадан енгізілген дерект
 {{stub}}
 
 [[Санат:Амалдық жүйе]]
+
+
+[[ar:إم إس - دوس]]
+[[az:MS-DOS]]
+[[bg:MS-DOS]]
+[[ca:MS DOS]]
+[[cs:MS DOS]]
+[[da:MS-DOS]]
+[[de:MS-DOS]]
+[[et:MS-DOS]]
+[[el:MS-DOS]]
+[[es:MS-DOS]]
+[[eo:MS-DOS]]
+[[eu:MS-DOS]]
+[[fr:MS-DOS]]
+[[ga:MS-DOS]]
+[[gl:MS-DOS]]
+[[ko:MS-DOS]]
+[[hr:MS-DOS]]
+[[id:MS-DOS]]
+[[it:MS-DOS]]
+[[ku:MS-DOS]]
+[[lv:MS-DOS]]
+[[lt:MS-DOS]]
+[[hu:MS-DOS]]
+[[nl:MS-DOS]]
+[[ja:MS-DOS]]
+[[no:MS-DOS]]
+[[nds:MS-DOS]]
+[[pl:MS-DOS]]
+[[pt:MS-DOS]]
+[[ru:MS-DOS]]
+[[simple:MS-DOS]]
+[[sk:MS-DOS]]
+[[sr:MS-DOS]]
+[[fi:MS-DOS]]
+[[sv:MS-DOS]]
+[[vi:MS-DOS]]
+[[tr:MS-DOS]]
+[[yi:MS-DOS]]
+[[zh:MS-DOS]]
