@@ -1,11 +1,11 @@
 {{Infobox Planet
 | bgcolour=#c0c0ff
 | name = Жер
-| symbol = [[Сурет:Earth symbol.svg|25px|Astronomical symbol of Earth]]
-| image = [[Сурет:The Earth seen from Apollo 17.jpg|240px|A color image of Earth as seen from Apollo 17.]]
+| symbol = [[Сурет:Earth symbol.svg|25px|Жердің астрономиялық нышаны]]
+| image = [[Сурет:The Earth seen from Apollo 17.jpg|240px|Apollo 17 деген ғарыш кемесінен түсірілген Жердің түрлітүсті суреті.]]
 | caption = Famous "[[The Blue Marble|Blue Marble]]" photograph of the Earth, taken from [[Apollo 17]].
 | epoch = [[J2000]]
-| aphelion = {{formatnum:152,097,701}}&nbsp;km<br />({{formatnum:1.0167103335}} [[астрономиялық бірлік|AU]])
+| aphelion = {{formatnum:152097701}}&nbsp;km<br />({{formatnum:1.0167103335}} [[астрономиялық бірлік|AU]])
 | perihelion = {{formatnum:147,098,074}}&nbsp;km<br />({{formatnum:0.983 289 891 2}} AU)
 | semimajor = {{formatnum:149,597,887.5}}&nbsp;km<br />({{formatnum:1.0000001124}}&nbsp;AU)
 | semiminor = {{formatnum:149,576,999.826}}&nbsp;km<br />({{formatnum:0.9998604869}}&nbsp;AU)
@@ -14,7 +14,7 @@
 | asc_node = {{formatnum:348.73936}}°
 | arg_peri = {{formatnum:114.20783}}°
 | orbital_circ = {{formatnum:924,375,700}}&nbsp;km<br />(&nbsp;{{formatnum:6.1790699007}}&nbsp;AU)
-| sidereal_period = {{formatnum:365.256366}}&nbsp;күн<br /> ({{formatnum:1.0000175}}&nbsp;[[юлиан жылы (астрономияда)|жыл]])
+| sidereal_period = {{formatnum:365.256366}}&nbsp;күн<br /> ({{formatnum:1.0000175}}&nbsp;[[юлиан жылы (астрономияда)|ю.ж.]])
 | synodic_period = 
 | avg_speed = {{formatnum:29.783}}&nbsp;km/s<br />({{formatnum:107,218}}&nbsp;km/h)
 | max_speed = {{formatnum:30.287}}&nbsp;km/s<br />({{formatnum:109,033}}&nbsp;km/h)
@@ -32,7 +32,7 @@
 | surface_area = {{formatnum:510,065,600}}&nbsp;km²
 | land_area = {{formatnum:148,939,100}}&nbsp;km²&nbsp;(29.2&nbsp;%)
 | water_area = {{formatnum:361,126,400}}&nbsp;km²&nbsp;(70.8&nbsp;%)
-| volume = {{formatnum:1.083207}}3×10<sup>12</sup>&nbsp;[[cubic kilometre|km³]]
+| volume = {{formatnum:1.083207}}3×10<sup>12</sup>&nbsp;km³
 | mass = {{formatnum:5.9736}}×10<sup>24</sup>&nbsp;kg
 | density = {{formatnum:5,515.3}}&nbsp;kg/m³
 | surface_grav = {{formatnum:9.7801}}&nbsp;m/s²<br />({{formatnum:0.99732}}&nbsp;[[g-force|''g'']])
@@ -54,12 +54,12 @@
 | min_temp_2 = −{{formatnum:88.3}}&nbsp;°C
 | mean_temp_2 = 14&nbsp;°C
 | max_temp_2 = {{formatnum:57.7}}&nbsp;°C
-| surface_pressure = {{formatnum:101.3}}&nbsp;[[kPa]] ([[Sea Level|MSL]])
-| atmosphere_composition = {{formatnum:78.08}}%&nbsp;[[Nitrogen|N<sub>2</sub>]]<br /> {{formatnum:20.95}}%&nbsp;[[Oxygen|O<sub>2</sub>]]<br /> {{formatnum:0.93}}%&nbsp;[[Argon]]<br /> {{formatnum:0.038}}%&nbsp;[[Carbon dioxide]]<br />Trace [[water vapor]] (varies with [[climate]])
+| surface_pressure = {{formatnum:101.3}}&nbsp;[[kPa]] ([[Теңіз деңгейі]])
+| atmosphere_composition = {{formatnum:78.08}}%&nbsp;[[Азот|N<sub>2</sub>]]<br /> {{formatnum:20.95}}%&nbsp;[[Оттегі|O<sub>2</sub>]]<br /> {{formatnum:0.93}}%&nbsp;[[Аргон]]<br /> {{formatnum:0.038}}%&nbsp;[[Көміртегі диокиды]]<br />[[Су буы]] ([[климат]] бойынша)
 }}
 '''Жер''' — [[күн жүйесі]]ндегі [[Күн]]нен әрі қарай санағанда үшінші планета.
 
-Жер мен Күн арасындағы орташа қашықтық — 149,6×10<sup>6</sup> km. Бұл қашықтық стандарттық «[[астрономиялық бірлік]]» боп табылады.
+Жер мен Күн арасындағы орташа қашықтық — 149,6×10<sup>6</sup> km. Бұл қашықтық қалыпты «[[астрономиялық бірлік|астрономиялық бірлігі]]» боп табылады.
 
 Жердің орташа радиусы — 6371 km, тығыздығы — 5517 kg/m<sup>3</sup>, массасы — 5,99×10<sup>27</sup> g. Жердің мұхит (қалыңдығы 5-7 km) және құрлық (қалыңдығы 40 km) қабығы мен 2900 км тереңдіктегі Гутенберг аралығына дейін баратын және балқыған, темірге бай ядроның үстінде жататын силикат мантия арасында Мохоровичич аралығы жатыр. Ең көне тау жыныстарының жасы 3980 млн жыл шамасында. Жер осыдан шамамен 4600 млн жыл бұрын құрылған.
 
@@ -71,10 +71,6 @@
 |body = [[Жер]] · [[Күн жүйесі]] · [[Жергілікті мамық]] · [[Жергілікті шиша]] · [[Мерген Қолы]] · [[Құс Жолы]] · [[Жергілікті шоғыр]] · [[Бикеш асқыншоғыры]] · [[Шолымалы әлем]] · [[Әлем]] 
 }}
 
-{{Link GA|zh}}
-
-<!--Other languages-->
-
 <!--Categories-->
 [[Санат:Жер| ]]
 [[Санат:Жағрапия| ]]
@@ -82,10 +78,12 @@
 [[Санат:Жер тәрізді ғаламшарлар]]
 [[Санат:Күн жүйесі ғаламшарлары]]
 
+<!--Other languages-->
 {{Link FA|de}}
 {{Link FA|el}}
 {{Link FA|it}}
 {{Link FA|sr}}
+{{Link GA|zh}}
 
 <!--Interwiki-->
 [[af:Aarde]]
