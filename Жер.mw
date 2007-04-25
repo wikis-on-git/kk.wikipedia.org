@@ -5,40 +5,40 @@
 | image = [[Сурет:The Earth seen from Apollo 17.jpg|240px|Apollo 17 деген ғарыш кемесінен түсірілген Жердің түрлітүсті суреті.]]
 | caption = Әйгілі Жердің «[[Көгілдір мәрмәр]]» (''The Blue Marble'') деген фотосуреті, [[Apollo 17]].
 | epoch = [[J2000]]
-| aphelion = {{formatnum:152097701}}&nbsp;км<br />(1,0167103335 [[астрономиялық бірлік|AU]])
-| perihelion = {{formatnum:147098074}}&nbsp;км<br />(0,9832898912 AU)
-| semimajor = {{formatnum:149597887.5}}&nbsp;км<br />(1,0000001124&nbsp;AU)
-| semiminor = {{formatnum:149576999.826}}&nbsp;км<br />(0,9998604869&nbsp;AU)
+| aphelion = {{formatnum:152097701}}&nbsp;km<br />(1,0167103335 [[астрономиялық бірлік|AU]])
+| perihelion = {{formatnum:147098074}}&nbsp;km<br />(0,9832898912 AU)
+| semimajor = {{formatnum:149597887.5}}&nbsp;km<br />(1,0000001124&nbsp;AU)
+| semiminor = {{formatnum:149576999.826}}&nbsp;km<br />(0,9998604869&nbsp;AU)
 | eccentricity = 0,016710219
 | inclination = 0 <br /> (7,25° [[Күн]]нің екуаторынан)
 | asc_node = 348,73936°
 | arg_peri = 114,20783°
-| orbital_circ = {{formatnum:924375700}}&nbsp;км<br />(&nbsp;6,1790699007&nbsp;AU)
+| orbital_circ = {{formatnum:924375700}}&nbsp;km<br />(&nbsp;6,1790699007&nbsp;AU)
 | sidereal_period = 365,256366&nbsp;күн<br /> (1,0000175&nbsp;[[юлиан жылы (астрономияда)|ю.ж.]])
 | synodic_period =
-| avg_speed = 29,783&nbsp;км/с<br />({{formatnum:107218}}&nbsp;км/сағ)
-| max_speed = 30,287&nbsp;км/с<br />({{formatnum:109033}}&nbsp;км/сағ)
-| min_speed = 29,291&nbsp;км/с<br />({{formatnum:105448}}&nbsp;км/сағ)
+| avg_speed = 29,783&nbsp;km/s<br />({{formatnum:107218}}&nbsp;km/h)
+| max_speed = 30,287&nbsp;km/s<br />({{formatnum:109033}}&nbsp;km/h)
+| min_speed = 29,291&nbsp;km/s<br />({{formatnum:105448}}&nbsp;km/h)
 | satellites = 1&nbsp;([[Ай]])
 | physical_characteristics = yes
 | aspect_ratio = 0,9966471
 | ellipticity = 0,0033529
-| equatorial_radius = {{formatnum:6378.137}}&nbsp;км
-| polar_radius = {{formatnum:6356.752}}&nbsp;км
-| mean_radius = {{formatnum:6372.797}}&nbsp;км
-| equatorial_circ = {{formatnum:40075.02}}&nbsp;км
-| meridional_circ = {{formatnum:40007.86}}&nbsp;км
-| mean_circ = {{formatnum:40041.47}}&nbsp;км
-| surface_area = {{formatnum:510065600}}&nbsp;км²
-| land_area = {{formatnum:148939100}}&nbsp;км²&nbsp;(29,2&nbsp;%)
-| water_area = {{formatnum:361126400}}&nbsp;км²&nbsp;(70,8&nbsp;%)
-| volume = 1,0832073×10<sup>12</sup>&nbsp;км³
-| mass = 5,9736×10<sup>24</sup>&nbsp;кг
-| density = {{formatnum:5515.3}}&nbsp;кг/м³
-| surface_grav = 9,7801&nbsp;м/с²<br />(0,99732&nbsp;[[ауырлық күшінің үдеуі бірлігі|''g'']])
-| escape_velocity = 11,186&nbsp;км/с&nbsp;(≅{{formatnum:39600}}&nbsp;км/сағ)
+| equatorial_radius = {{formatnum:6378.137}}&nbsp;km
+| polar_radius = {{formatnum:6356.752}}&nbsp;km
+| mean_radius = {{formatnum:6372.797}}&nbsp;km
+| equatorial_circ = {{formatnum:40075.02}}&nbsp;km
+| meridional_circ = {{formatnum:40007.86}}&nbsp;km
+| mean_circ = {{formatnum:40041.47}}&nbsp;km
+| surface_area = {{formatnum:510065600}}&nbsp;km²
+| land_area = {{formatnum:148939100}}&nbsp;km²&nbsp;(29,2&nbsp;%)
+| water_area = {{formatnum:361126400}}&nbsp;km²&nbsp;(70,8&nbsp;%)
+| volume = 1,0832073×10<sup>12</sup>&nbsp;km³
+| mass = 5,9736×10<sup>24</sup>&nbsp;kg
+| density = {{formatnum:5515.3}}&nbsp;kg/m³
+| surface_grav = 9,7801&nbsp;m/s²<br />(0,99732&nbsp;[[ауырлық күшінің үдеуі бірлігі|''g'']])
+| escape_velocity = 11,186&nbsp;km/s&nbsp;(≅{{formatnum:39600}}&nbsp;km/h)
 | sidereal_day = 0,997258&nbsp;[[күн|к]]<br />(23<sup>[[сағат|сағ]]</sup>&nbsp;56<sup>[[минөт|м]]</sup>&nbsp;04,09054<sup>[[секунда|с]]</sup>)<!-- C. F. Yoder: Basic Astronomical Constants -->
-| rot_velocity = 465,11&nbsp;м/с
+| rot_velocity = 465,11&nbsp;m/s
 | axial_tilt = [[градус (бұрыштың)|23,439281°]]
 | right_asc_north_pole = анықталмаған°
 | declination = +90°
@@ -61,7 +61,7 @@
 
 Жер мен Күн арасындағы орташа қашықтық — 149,58×10<sup>6</sup> km. Бұл қашықтық қалыпты «[[астрономиялық бірлік|астрономиялық бірлігі]]» боп табылады.
 
-Жердің орташа радиусы — {{formatnum:6372.797}}&nbsp;км, тығыздығы — {{formatnum:5515.3}}&nbsp;кг/м³, массасы — 5,9736×10<sup>24</sup>&nbsp;кг. Жердің мұхит (қалыңдығы 5—7 км) және құрлық (қалыңдығы 40 км) қабығы мен 2900 км тереңдіктегі [[Гутенберг аралығы]]на дейін баратын және балқыған, темірге бай ядроның үстінде жататын силикат мантия арасында [[Мохоровичич аралығы]] жатыр. Ең көне тау жыныстарының жасы 3980 млн жыл шамасында. Жер осыдан шамамен 4,6 млрд жыл бұрын құрылған.
+Жердің орташа радиусы — {{formatnum:6372.797}}&nbsp;km, тығыздығы — {{formatnum:5515.3}}&nbsp;kg/m³, массасы — 5,9736×10<sup>24</sup>&nbsp;kg. Жердің мұхит (қалыңдығы 5—7 km) және құрлық (қалыңдығы 40 km) қабығы мен 2900 km тереңдіктегі [[Гутенберг аралығы]]на дейін баратын және балқыған, темірге бай ядроның үстінде жататын силикат мантия арасында [[Мохоровичич аралығы]] жатыр. Ең көне тау жыныстарының жасы 3980 млн жыл шамасында. Жер осыдан шамамен 4,6 млрд жыл бұрын құрылған.
 
 == Тағы қараңыз ==
 * [[Ғаламшар]]
