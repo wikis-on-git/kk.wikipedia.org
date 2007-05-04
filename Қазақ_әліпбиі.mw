@@ -206,7 +206,7 @@
 |-
 | Аa || Аa || Aa || Аa||{{IPA|/a/}}
 |-
-|{{Unicode|Әә}}|| Аa ||{{Unicode|Əə}}||{{Unicode|Əə}}||{{IPA|/æ/}}
+| Әә|| Аa ||{{Unicode|Əə}}||{{Unicode|Əə}}||{{IPA|/æ/}}
 |-
 | Бб || Бб || B{{Unicode|ʙ}} || Bb||{{IPA|/b/}}
 |-
@@ -214,7 +214,7 @@
 |-
 | Гг || Гг || Gg || Gg||{{IPA|/ɡ/}}
 |-
-|{{Unicode|Ғғ}}||| Гг ||{{Unicode|Ƣƣ}}|| {{Unicode|Ƣƣ}}||{{IPA|/ɣ/}}
+| Ғғ ||| Гг ||{{Unicode|Ƣƣ}}|| {{Unicode|Ƣƣ}}||{{IPA|/ɣ/}}
 |-
 | Дд || Дд || Dd ||Dd||{{IPA|/d/}}
 |-
@@ -240,11 +240,11 @@
 |-
 | Нн || Нн || Nn || Nn||{{IPA|/n/}}
 |-
-|{{Unicode|Ңң}}|| {{Unicode|Ҥҥ}} || Ŋŋ ||Ng ng|| {{IPA|/ŋ/}}
+| Ңң|| {{Unicode|Ҥҥ}} || Ŋŋ ||Ng ng|| {{IPA|/ŋ/}}
 |-
 | Оо || Оо || Оо ||Oo|| {{IPA|/o/}}, {{IPA|/o/}}
 |-
-|{{Unicode|Өө}}|| {{Unicode|Ӧӧ}} ||{{Unicode|Ɵɵ}} ||{{Unicode|Ɵɵ}}|| {{IPA|/ø/}}
+| Өө || {{Unicode|Ӧӧ}} ||{{Unicode|Ɵɵ}} ||{{Unicode|Ɵɵ}}|| {{IPA|/ø/}}
 |-
 | Пп || Пп ||Pp || Pp||{{IPA|/p/}}
 |-
@@ -256,9 +256,9 @@
 |-
 | Уу || Уу ||Vv || Ww||{{IPA|/w}}, {{IPA|/ɤw/}}, {{IPA|/yw/}}, {{IPA|/ɯw/}}, {{IPA|/ɪw/}}
 |-
-|{{Unicode|Ұұ}}|| Уу ||Uu || Uu||{{IPA|/ɤ/}}
+| Ұұ || Уу ||Uu || Uu||{{IPA|/ɤ/}}
 |-
-|{{Unicode|Үү}}|| {{Unicode|Ӱӱ}} ||Yy || Üü||{{IPA|/y/}}
+| Үү || {{Unicode|Ӱӱ}} ||Yy || Üü||{{IPA|/y/}}
 |-
 | Фф || ||Ff || Ff|| {{IPA|/f/}}
 |-
