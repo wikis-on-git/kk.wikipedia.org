@@ -204,81 +204,81 @@
 |-
 !Кирил ||Христиан дін<br />таратушылық|| Жәңәліп || Қытайдағы<br />латын||IPA<br />транскрипциясы
 |-
-| Аa || Аa || Aa || Аa||{{IPA|/a/}}
+| Аa || Аa || {{Unicode|Aa}} || Аa||{{IPA|/a/}}
 |-
 | Әә|| Аa ||{{Unicode|Əə}}||{{Unicode|Əə}}||{{IPA|/æ/}}
 |-
-| Бб || Бб || B{{Unicode|ʙ}} || Bb||{{IPA|/b/}}
+| Бб || Бб || {{Unicode|Bʙ}} || {{Unicode|Bb}}||{{IPA|/b/}}
 |-
-| Вв || Уу || Vv ||Vv||{{IPA|/v/}}
+| Вв || Уу || {{Unicode|Vv}} ||{{Unicode|Vv}}||{{IPA|/v/}}
 |-
-| Гг || Гг || Gg || Gg||{{IPA|/ɡ/}}
+| Гг || Гг || {{Unicode|Gg}} || {{Unicode|Gg}}||{{IPA|/ɡ/}}
 |-
 | Ғғ ||| Гг ||{{Unicode|Ƣƣ}}|| {{Unicode|Ƣƣ}}||{{IPA|/ɣ/}}
 |-
-| Дд || Дд || Dd ||Dd||{{IPA|/d/}}
+| Дд || Дд || {{Unicode|Dd}} ||{{Unicode|Dd}}||{{IPA|/d/}}
 |-
-| Ее || Ее ||Ее ||Êê||{{IPA|/e/}}, {{IPA|/je/}}
+| Ее || Ее ||{{IPA|Ее}} ||{{Unicode|Êê}}||{{IPA|/e/}}, {{IPA|/je/}}
 |-
 | Ёё || Йо йо || || ||{{IPA|/jo/}}, {{IPA|/jø/}}
 |-
-| Жж || Жж ||Çç ||Jj|| {{IPA|/ʒ/}}
+| Жж || Жж ||{{Unicode|Çç}} ||{{Unicode|Jj}}|| {{IPA|/ʒ/}}
 |-
-| Зз || Зз ||Zz || Zz|| {{IPA|/z/}}
+| Зз || Зз ||{{Unicode|Zz}} || {{Unicode|Zz}}|| {{IPA|/z/}}
 |-
-| Ии || Ии || ||Yy||{{IPA|/ɯj/}}, {{IPA|/ɪj/}}
+| Ии || Ии || ||{{Unicode|Yy}}||{{IPA|/ɯj/}}, {{IPA|/ɪj/}}
 |-
-| Йй || Йй || Jj ||Yy||{{IPA|/j/}}
+| Йй || Йй || {{Unicode|Jj}} ||{{Unicode|Yy}}||{{IPA|/j/}}
 |-
-| Кк || Кк || Kk ||Kk||{{IPA|/k/}}
+| Кк || Кк || {{Unicode|Kk}} ||{{Unicode|Kk}}||{{IPA|/k/}}
 |-
-| Ққ|| Кк || Qq ||{{Unicode|Ⱪⱪ}}||{{IPA|/q/}}
+| Ққ|| Кк || {{Unicode|Qq}} ||{{Unicode|Ⱪⱪ}}||{{IPA|/q/}}
 |-
-| Лл || Лл || L{{Unicode|ʟ}} || Ll||{{IPA|/l/}}
+| Лл || Лл || {{Unicode|Lʟ}} || Ll||{{IPA|/l/}}
 |-
-| Мм || Мм ||Mm ||Mm||{{IPA|/m/}}
+| Мм || Мм ||{{Unicode|Mm}} ||{{Unicode|Mm}}||{{IPA|/m/}}
 |-
 | Нн || Нн || Nn || Nn||{{IPA|/n/}}
 |-
-| Ңң|| {{Unicode|Ҥҥ}} || Ŋŋ ||Ng ng|| {{IPA|/ŋ/}}
+| Ңң|| {{Unicode|Ҥҥ}} || {{Unicode|Ŋŋ}} ||{{Unicode|Ng ng}}|| {{IPA|/ŋ/}}
 |-
-| Оо || Оо || Оо ||Oo|| {{IPA|/o/}}, {{IPA|/o/}}
+| Оо || Оо || {{Unicode|Оо}} ||{{Unicode|Oo}}|| {{IPA|/o/}}, {{IPA|/o/}}
 |-
 | Өө || {{Unicode|Ӧӧ}} ||{{Unicode|Ɵɵ}} ||{{Unicode|Ɵɵ}}|| {{IPA|/ø/}}
 |-
-| Пп || Пп ||Pp || Pp||{{IPA|/p/}}
+| Пп || Пп ||{{Unicode|Pp}} || {{Unicode|Pp}}||{{IPA|/p/}}
 |-
-| Рр || Рр ||Rr || Rr||{{IPA|/r/}}
+| Рр || Рр ||{{Unicode|Rr}} || {{Unicode|Rr}}||{{IPA|/r/}}
 |-
-| Сс || Сс ||Ss || Ss||{{IPA|/s/}}
+| Сс || Сс ||{{Unicode|Ss}} || {{Unicode|Ss}}||{{IPA|/s/}}
 |-
-| Тт || Тт ||Тт ||Tt||{{IPA|/t/}}
+| Тт || Тт ||{{Unicode|Tt}} ||{{Unicode|Tt}}||{{IPA|/t/}}
 |-
-| Уу || Уу ||Vv || Ww||{{IPA|/w}}, {{IPA|/ɤw/}}, {{IPA|/yw/}}, {{IPA|/ɯw/}}, {{IPA|/ɪw/}}
+| Уу || Уу ||{{Unicode|Vv}} ||{{Unicode|Ww}}||{{IPA|/w}}, {{IPA|/ɤw/}}, {{IPA|/yw/}}, {{IPA|/ɯw/}}, {{IPA|/ɪw/}}
 |-
-| Ұұ || Уу ||Uu || Uu||{{IPA|/ɤ/}}
+| Ұұ || Уу ||{{Unicode|Uu}} || {{Unicode|Uu}}||{{IPA|/ɤ/}}
 |-
-| Үү || {{Unicode|Ӱӱ}} ||Yy || Üü||{{IPA|/y/}}
+| Үү || {{Unicode|Ӱӱ}} ||{{Unicode|Yy}} || {{Unicode|Üü}}||{{IPA|/y/}}
 |-
-| Фф || ||Ff || Ff|| {{IPA|/f/}}
+| Фф || ||{{Unicode|Ff}} || {{Unicode|Ff}}|| {{IPA|/f/}}
 |-
-| Хх || Хх ||Hh || Hh||{{IPA|/x/}}
+| Хх || Хх ||{{Unicode|Hh}} || {{Unicode|Hh}}||{{IPA|/x/}}
 |-
 | Һһ || Хх || ||{{Unicode|Ⱨⱨ}} ||{{IPA|/h/}}
 |-
 | Цц || Тс тс || || ||{{IPA|/ts/}}
 |-
-| Чч || Тш тш || || Qq||{{IPA|/tʃ/}}
+| Чч || Тш тш || || {{Unicode|Qq}}||{{IPA|/tʃ/}}
 |-
-| Шш || Шш ||Cc ||Xx||{{IPA|/ʃ/}}
+| Шш || Шш ||{{Unicode|Cc}} ||{{Unicode|Xx}}||{{IPA|/ʃ/}}
 |-
 | Щщ || Шш шш || || || {{IPA|/ʃʃ/}}
 |-
 | Ъъ || || || ||
 |-
-| Ыы ||Ыы || {{Unicode|Ƅƅ}} ||Ee ||{{IPA|/ɯ/}}
+| Ыы ||Ыы || {{Unicode|Ƅƅ}} ||{{Unicode|Ee}} ||{{IPA|/ɯ/}}
 |-
-| Іі || Ии || Ii || Ii ||{{IPA|/ɪ/}}
+| Іі || Ии || {{Unicode|Ii}} || {{Unicode|Ii}} ||{{IPA|/ɪ/}}
 |-
 | Ьь || || || ||
 |-
