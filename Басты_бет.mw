@@ -1,6 +1,6 @@
-<div id="mainpage" style="clear:both;"> 
-{| border="0" cellspacing="0" cellpadding="0"
-| width="60%" valign="top" |
+<div id="mainpage"> 
+{| width="98%" border="0" cellspacing="0" cellpadding="0"
+| width="59%" valign="top" |
 <!-- Сол жақ -->
 {{Welcome to Wikipedia}}
 {| id="mainpage" width="100%" class="plainlinks"
@@ -12,7 +12,7 @@
 {{Main Page Text}}
 | width="5" rowspan="4"| &nbsp;
 <!-- Оң жақ -->
-| width="40%" rowspan="4" valign="top" bgcolor="#F7F4DD" style="border:1px solid #ECE5CA" |
+| width="39%" rowspan="4" valign="top" bgcolor="#F7F4DD" style="border:1px solid #ECE5CA" |
 <div class="plainlinks" style="text-align:center; font-weight: normal; font-size:100%; clear:both; background: #ECE5CA; border:1px dashed #ECE5CA;width:99%;">
 {| border="0" align="center" width="100%"
 |bgcolor="#ECE5CA" |
