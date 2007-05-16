@@ -1,5 +1,5 @@
-<div id="mainpage"> 
-{| width="100%" border="0" cellspacing="0" cellpadding="0" style="float:left"
+<div id="mainpage" class="floatright"> 
+{| width="100%" border="0" cellspacing="0" cellpadding="0"
 | width="60%" valign="top" |
 <!-- Сол жақ -->
 {{Welcome to Wikipedia}}
