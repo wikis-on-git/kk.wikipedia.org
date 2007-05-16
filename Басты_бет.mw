@@ -1,5 +1,4 @@
-<div id="mainpage"></div>
-
+<div id="mainpage"> 
 {| width="100%" border="0" cellspacing="0" cellpadding="0" style="float:left"
 | width="60%" valign="top" |
 <!-- Сол жақ -->
@@ -60,6 +59,7 @@
 |valign="bottom" |
 {{WikipediaSister}}
 |}
+</div>
 __NOTOC__
 __NOEDITSECTION__
 
