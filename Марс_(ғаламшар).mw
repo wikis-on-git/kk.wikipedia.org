@@ -1,1 +1,218 @@
-'''Марс''' (Қызылжұлдыз) – [[Күн]] жүйесіндегі төртінші [[ғаламшар]]. Күн мен Марс арасындағы қашықтық 1,524 АБ (астрономиялық бірлік) құрайды. Радиусы 3390 км, тығыздығы 3940 кг/м3, экваторының орбитасына еңкею бұрышы 25,1º. Шағын СО2 атмосферасы бар (7мб). Полюстік қалпақтары маусымдық қатты СО2 қосылған су мұзынан тұрады. Солтүстік жартышар қабығы негізінен [[базалт]] жазықтары мен [[жанартау]]лар; оңтүстік – көне [[кратер]]ленген аймақ. [[Тарсис дөңестігі]] көтеріңкі немесе жанартаулық [[плато]] боп табылады. Марста дәу [[каньон]]дар мен баяғыда су [[эрозия]]сы болғанын дәлелдейтін куәліктер бар. Кейбір базалт [[метеорит]]тер Марстан келеді. Марстың [[Фобос]] және [[Деймос]] деген екі шағын, бәлкім ұстап алған [[астероид]], серігі бар.
+{{Infobox Planet
+| bgcolour = #E8AB79
+| name = Mars
+| symbol = [[Сурет:Mars symbol.svg|25px|Astronomical symbol of Mars]]
+| image = [[Сурет:Mars Hubble.jpg|240px|The planet Mars]]
+| caption = Mars as seen by the [[Hubble Space Telescope]]
+| epoch = [[J2000]]<ref>[http://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html Mars Factsheet]</ref>
+| aphelion = 249,228,730 [[kilometre|km]]
+1.665 991 16 [[Astronomical unit|AU]]
+154.863,553 [[Mile|mi]]
+| perihelion = 206,644,545 [[kilometre|km]]
+1.381 333 46 [[Astronomical unit|AU]]
+128,402,967 [[Mile|mi]]
+| semimajor = 227,936,637 [[kilometre|km]]
+1.523 662 31 [[Astronomical unit|AU]]
+141,632,976 [[Mile|mi]]
+| semiminor = 226,939,986 [[kilometre|km]]
+1.517 000 11 [[Astronomical unit|AU]]
+141,013,687 [[Mile|mi]]
+| orbital_circ = 1,429,033,627 [[kilometre|km]]
+9.552 5 [[astronomical unit|AU]]
+887,958,548 [[Mile|mi]]
+| orbital_area = 1.625 1 × 10<sup>17</sup> [[kilometre|km]]<sup>2</sup>
+7.261 5 [[Astronomical unit|AU]]<sup>2</sup> 
+6.274 5 [[Mile|mi]]<sup>2</sup>
+| eccentricity = 0.093 412 33
+| sidereal_period = [[1 E7 s|686.9600]] [[day]]
+(1.8808 [[julian year (astronomy)|yr]])
+| synodic_period = 779.96 [[day]]
+(2.135 [[julian year (astronomy)|yr]])
+| avg_speed = 24.077 [[kilometre|km]]/[[second|s]]
+(53,859 [[Miles Per Hour|mph]])
+| max_speed = 26.499 [[kilometre|km]]/[[second|s]]
+(59,277 [[Miles Per Hour|mph]])
+| min_speed = 21.972 [[kilometre|km]]/[[second|s]]
+(49,150 [[Miles Per Hour|mph]])
+| inclination = 1.850 61[[degree (angle)|°]]
+(5.65° to [[Sun]]'s [[Equator|Equator]])
+| asc_node = 49.578 54°
+| arg_perihelion = 286.462 30°
+| satellites = 2
+| physical_characteristics = yes
+| oblateness =  0.007 36
+| equatorial_radius = 3402.5 [[kilometre|km]] (2114.2 mi)
+(0.533 [[Earth]]s)
+| polar_radius = 3377.4 [[kilometre|km]] (2098.6 [[Mile|mi]])
+(0.533 [[Earth]]s)
+| surface_area = [[1 E14 m²|1.448]]{{e|8}} [[square kilometre|km²]])
+(144,798,465&nbsp;km²)(55,907,000&nbsp;[[square mile|sq&nbsp;mi]])
+(0.284 [[Earth]]s)
+| volume = 1.6318{{e|11}} [[cubic kilometre|km³]]
+(0.151 [[Earth]]s)
+| mass = 6.4185{{e|23}} [[kilogram|kg]]
+(0.107 [[Earth]]s)
+| density = 3.934 g/cm³
+| surface_grav = 3.69 [[Acceleration|m/s<sup>2</sup>]]
+(0.376[[g-force|''g'']])
+| escape_velocity = 5.027 [[kilometre|km]]/[[second|s]] (11,245 [[Miles Per Hour|mph]])
+| sidereal_day = 1.025 957 [[day]]
+ ([[1 E4 s|24.622 962]] [[hour|h]])
+| rot_velocity = 868.22 [[kilometre|km]]/[[hour|h]] (539.49 [[Miles Per Hour|mph]])
+| axial_tilt = 25.19°
+| right_asc_north_pole = 21 [[hour|h]]) 10 [[Minute|min]] 44 [[Second|S]]
+(317.681 43°)
+| declination = 52.886 50°
+| albedo = 0.15
+| temperatures = yes
+| temp_name1 = [[Kelvin]]
+| min_temp_1 = 186&nbsp;K
+| mean_temp_1 = 227&nbsp;K
+| max_temp_1 = 268&nbsp;K<ref>{{cite web
+  |  last =
+  | first =
+  | title = Mars: Facts & Figures, NASA
+  |   url = http://solarsystem.jpl.nasa.gov/planets/profile.cfm?Object=Mars&Display=Facts&System=Metric
+  | accessdate = 2007-03-06 }}</ref>
+| temp_name2 = [[Celsius]]/[[Fahrenheit]]
+| min_temp_2 = −87°C/−125°F
+| mean_temp_2 = −46°C/−51°F
+| max_temp_2 = −5°C/23°F
+| adjectives = [[Martian]]
+| atmosphere = yes
+| surface_pressure = 0.7–0.9 [[Pascal (unit)|kPa]]
+| atmosphere_density =
+| atmosphere_composition = 95.72% [[Carbon dioxide]]
+2.7% [[Nitrogen]]<br />
+1.6% [[Argon]]<br />
+0.2% [[Oxygen]]<br />
+0.07% [[Carbon monoxide]]<br />
+0.03% [[Water]] vapor<br />
+0.01% [[Nitric oxide]]<br />
+2.5 [[Parts per million|ppm]] [[Neon]]<br />
+300 [[Parts per billion|ppb]] [[Krypton]]<br />
+130 [[Parts per billion|ppb]] [[Formaldehyde]]<br />
+80 [[Parts per billion|ppb]] [[Xenon]]<br />
+30 [[Parts per billion|ppb]] [[Ozone]]<br />
+10 [[Parts per billion|ppb]] [[Methane]]
+}}
+'''Қызылжұлдыз''' — [[Күн жүйесі]]ндегі төртінші [[ғаламшар]].
+
+Күн мен Қызылжұлдыз арасындағы қашықтық 1,524 AU (астрономиялық бірлік) құрайды. Радиусы 3390 km, тығыздығы 3940 kg/m³, экваторының орбитасына еңкею бұрыш мөлшері 25,1º. Шағын СО<sub>2</sub> атмосферасы бар (7 mb).
+
+Полюстік қалпақтары маусымдық қатты СО<sub>2</sub> қосылған су мұзынан тұрады. Солтүстік жартышар қабығы негізінен [[базалт]] жазықтары мен [[жанартау]]лар; оңтүстік — көне [[кратер]]ленген аймақ. [[Тарсис дөңестігі]] көтеріңкі немесе жанартаулық [[плато]] боп табылады. Қызылжұлдызда дәу [[каньон]]дар мен баяғыда су [[эрозия]]сы болғанын дәлелдейтін куәліктер бар. Кейбір базалт [[метеорит]]тер Қызылжұлдыздан келеді деп қазіргі заманның зерттеушілері санайды.
+
+Қызылжұлдызтың [[Фобос]] және [[Деймос]] деген екі шағын, бәлкім тартылыс күшіменен ұстап алған [[астероид]], серігі бар.
+
+{{Mars Footer}}
+{{Footer_SolarSystem}}
+
+[[Санат:Қызылжұлдыз|Қызылжұлдыз]]
+[[Санат:Жер тәрізді ғаламшарлар]]
+[[Санат:Күн жүйесі ғаламшарлары]]
+
+{{Link FA|bg}}
+{{Link FA|cs}}
+{{Link FA|de}}
+{{Link FA|es}}
+{{Link FA|hr}}
+{{Link FA|kn}}
+{{Link FA|pl}}
+{{Link FA|pt}}
+{{Link FA|sv}}
+
+<!-- interwiki links -->
+
+[[af:Mars (planeet)]]
+[[als:Mars (Planet)]]
+[[ar:مريخ]]
+[[frp:Mârs (planèta)]]
+[[ast:Marte (planeta)]]
+[[bn:মঙ্গল গ্রহ]]
+[[zh-min-nan:Hoé-chheⁿ]]
+[[bs:Mars]]
+[[br:Meurzh (planedenn)]]
+[[bg:Марс (планета)]]
+[[ca:Mart (planeta)]]
+[[cs:Mars (planeta)]]
+[[co:Marte]]
+[[cy:Mawrth (planed)]]
+[[da:Mars (planet)]]
+[[de:Mars (Planet)]]
+[[en:Mars]]
+[[et:Marss]]
+[[el:Άρης (πλανήτης)]]
+[[es:Marte (planeta)]]
+[[eo:Marso]]
+[[eu:Martitz (planeta)]]
+[[fa:بهرام (سیاره)]]
+[[fo:Mars (planet)]]
+[[fr:Mars (planète)]]
+[[ga:Mars (pláinéad)]]
+[[gl:Marte (planeta)]]
+[[gu:મંગળ (ગ્રહ)]]
+[[zh-classical:火星]]
+[[ko:화성]]
+[[hy:Մարս]]
+[[hr:Mars (planet)]]
+[[io:Marso]]
+[[ilo:Mars (planeta)]]
+[[id:Mars]]
+[[ia:Marte (planeta)]]
+[[os:Марс (планетæ)]]
+[[is:Mars (reikistjarna)]]
+[[it:Marte (astronomia)]]
+[[he:מאדים]]
+[[jv:Mars]]
+[[pam:Mars]]
+[[kn:ಮಂಗಳ]]
+[[ka:მარსი (პლანეტა)]]
+[[kw:Meurth (planet)]]
+[[sw:Mirihi]]
+[[ku:Behram (gerstêrk)]]
+[[la:Mars (planeta)]]
+[[lv:Marss (planēta)]]
+[[lb:Mars (Planéit)]]
+[[lt:Marsas (planeta)]]
+[[li:Mars (planeet)]]
+[[ln:Sánzá ya mísáto]]
+[[hu:Mars]]
+[[mk:Марс]]
+[[mt:Marte (pjaneta)]]
+[[ms:Marikh]]
+[[nah:Chīchīlcitlālli]]
+[[nl:Mars (planeet)]]
+[[ne:मंगलग्रह]]
+[[ja:火星]]
+[[no:Mars (planet)]]
+[[nn:Planeten Mars]]
+[[oc:Mart (planeta)]]
+[[om:Mars]]
+[[uz:Mars]]
+[[nds:Mars (Planet)]]
+[[pl:Mars]]
+[[pt:Marte]]
+[[ro:Marte (planetă)]]
+[[qu:Awqakuq]]
+[[ru:Марс (планета)]]
+[[se:Mars]]
+[[sco:Maurs]]
+[[sq:Marsi]]
+[[scn:Marti (pianeta)]]
+[[simple:Mars (planet)]]
+[[sk:Mars]]
+[[sl:Mars]]
+[[sr:Марс]]
+[[sh:Mars]]
+[[fi:Mars]]
+[[sv:Mars (planet)]]
+[[tl:Marte]]
+[[ta:செவ்வாய் (கோள்)]]
+[[th:ดาวอังคาร]]
+[[vi:Sao Hỏa]]
+[[tr:Mars (gezegen)]]
+[[uk:Марс (планета)]]
+[[wa:Måss (planete)]]
+[[yi:מארס]]
+[[zh-yue:火星]]
+[[zh:火星]]
