@@ -5,65 +5,65 @@
 | image = [[Сурет:Mars Hubble.jpg|240px|The planet Mars]]
 | caption = Mars as seen by the [[Hubble Space Telescope]]
 | epoch = [[J2000]]<ref>[http://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html Mars Factsheet]</ref>
-| aphelion = 249,228,730 [[kilometre|km]]
-1.665 991 16 [[Astronomical unit|AU]]
-154.863,553 [[Mile|mi]]
-| perihelion = 206,644,545 [[kilometre|km]]
-1.381 333 46 [[Astronomical unit|AU]]
-128,402,967 [[Mile|mi]]
-| semimajor = 227,936,637 [[kilometre|km]]
-1.523 662 31 [[Astronomical unit|AU]]
-141,632,976 [[Mile|mi]]
-| semiminor = 226,939,986 [[kilometre|km]]
-1.517 000 11 [[Astronomical unit|AU]]
-141,013,687 [[Mile|mi]]
-| orbital_circ = 1,429,033,627 [[kilometre|km]]
-9.552 5 [[astronomical unit|AU]]
-887,958,548 [[Mile|mi]]
-| orbital_area = 1.625 1 × 10<sup>17</sup> [[kilometre|km]]<sup>2</sup>
-7.261 5 [[Astronomical unit|AU]]<sup>2</sup> 
-6.274 5 [[Mile|mi]]<sup>2</sup>
-| eccentricity = 0.093 412 33
+| aphelion = {{formatnum:249,228,730}} [[kilometre|km]]
+{{formatnum:1.665 991 16}} [[Astronomical unit|AU]]
+{{formatnum:154.863,553}} [[Mile|mi]]
+| perihelion = {{formatnum:206,644,545}} [[kilometre|km]]
+{{formatnum:1.381 333 46}} [[Astronomical unit|AU]]
+{{formatnum:128,402,967}} [[Mile|mi]]
+| semimajor = {{formatnum:227,936,637}} [[kilometre|km]]
+{{formatnum:1.523 662 31}} [[Astronomical unit|AU]]
+{{formatnum:141,632,976}} [[Mile|mi]]
+| semiminor = {{formatnum:226,939,986}} [[kilometre|km]]
+{{formatnum:1.517 000 11}} [[Astronomical unit|AU]]
+{{formatnum:141,013,687}} [[Mile|mi]]
+| orbital_circ = {{formatnum:1,429,033,627}} [[kilometre|km]]
+{{formatnum:9.552 5}} [[astronomical unit|AU]]
+{{formatnum:887,958,548}} [[Mile|mi]]
+| orbital_area = {{formatnum:1.625 1}} × 10<sup>17</sup> [[kilometre|km]]<sup>2</sup>
+{{formatnum:7.261 5}} [[Astronomical unit|AU]]<sup>2</sup> 
+{{formatnum:6.274 5}} [[Mile|mi]]<sup>2</sup>
+| eccentricity = {{formatnum:0.093 412 33}}
 | sidereal_period = [[1 E7 s|686.9600]] [[day]]
-(1.8808 [[julian year (astronomy)|yr]])
-| synodic_period = 779.96 [[day]]
-(2.135 [[julian year (astronomy)|yr]])
-| avg_speed = 24.077 [[kilometre|km]]/[[second|s]]
-(53,859 [[Miles Per Hour|mph]])
+({{formatnum:1.8808}} [[julian year (astronomy)|yr]])
+| synodic_period = {{formatnum:779.96}} [[day]]
+({{formatnum:2.135}} [[julian year (astronomy)|yr]])
+| avg_speed = {{formatnum:24.077}} [[kilometre|km]]/[[second|s]]
+({{formatnum:53,859}} [[Miles Per Hour|mph]])
 | max_speed = 26.499 [[kilometre|km]]/[[second|s]]
-(59,277 [[Miles Per Hour|mph]])
-| min_speed = 21.972 [[kilometre|km]]/[[second|s]]
-(49,150 [[Miles Per Hour|mph]])
-| inclination = 1.850 61[[degree (angle)|°]]
-(5.65° to [[Sun]]'s [[Equator|Equator]])
-| asc_node = 49.578 54°
-| arg_perihelion = 286.462 30°
+({{formatnum:59,277}} [[Miles Per Hour|mph]])
+| min_speed = {{formatnum:21.972}} [[kilometre|km]]/[[second|s]]
+({{formatnum:49,150}} [[Miles Per Hour|mph]])
+| inclination = {{formatnum:1.850 61}}[[degree (angle)|°]]
+({{formatnum:5.65}}° to [[Sun]]'s [[Equator|Equator]])
+| asc_node = {{formatnum:49.578 54}}°
+| arg_perihelion = {{formatnum:286.462 30}}°
 | satellites = 2
 | physical_characteristics = yes
-| oblateness =  0.007 36
-| equatorial_radius = 3402.5 [[kilometre|km]] (2114.2 mi)
-(0.533 [[Earth]]s)
-| polar_radius = 3377.4 [[kilometre|km]] (2098.6 [[Mile|mi]])
-(0.533 [[Earth]]s)
-| surface_area = [[1 E14 m²|1.448]]{{e|8}} [[square kilometre|km²]])
-(144,798,465&nbsp;km²)(55,907,000&nbsp;[[square mile|sq&nbsp;mi]])
-(0.284 [[Earth]]s)
-| volume = 1.6318{{e|11}} [[cubic kilometre|km³]]
-(0.151 [[Earth]]s)
+| oblateness =  {{formatnum:0.007 36}}
+| equatorial_radius = {{formatnum:3402.5}} [[kilometre|km]] (2114.2 mi)
+({{formatnum:0.533}} [[Earth]]s)
+| polar_radius = {{formatnum:3377.4}} [[kilometre|km]] (2098.6 [[Mile|mi]])
+({{formatnum:0.533}} [[Earth]]s)
+| surface_area = [[1 E14 m²|{{formatnum:1.448}}]]{{e|8}} [[square kilometre|km²]])
+(144,798,465&nbsp;km²)({{formatnum:55,907,000}}&nbsp;[[square mile|sq&nbsp;mi]])
+({{formatnum:0.284}} [[Earth]]s)
+| volume = {{formatnum:1.6318}}{{e|11}} [[cubic kilometre|km³]]
+({{formatnum:0.151}} [[Earth]]s)
 | mass = 6.4185{{e|23}} [[kilogram|kg]]
-(0.107 [[Earth]]s)
-| density = 3.934 g/cm³
-| surface_grav = 3.69 [[Acceleration|m/s<sup>2</sup>]]
-(0.376[[g-force|''g'']])
-| escape_velocity = 5.027 [[kilometre|km]]/[[second|s]] (11,245 [[Miles Per Hour|mph]])
-| sidereal_day = 1.025 957 [[day]]
+({{formatnum:0.107}} [[Earth]]s)
+| density = {{formatnum:3.934}} g/cm³
+| surface_grav = {{formatnum:3.69}} [[Acceleration|m/s<sup>2</sup>]]
+({{formatnum:0.376}}[[g-force|''g'']])
+| escape_velocity = {{formatnum:5.027}} [[kilometre|km]]/[[second|s]] (11,245 [[Miles Per Hour|mph]])
+| sidereal_day = {{formatnum:1.025 957}} [[day]]
  ([[1 E4 s|24.622 962]] [[hour|h]])
-| rot_velocity = 868.22 [[kilometre|km]]/[[hour|h]] (539.49 [[Miles Per Hour|mph]])
-| axial_tilt = 25.19°
+| rot_velocity = {{formatnum:868.22}} [[kilometre|km]]/[[hour|h]] (539.49 [[Miles Per Hour|mph]])
+| axial_tilt = {{formatnum:25.19}}°
 | right_asc_north_pole = 21 [[hour|h]]) 10 [[Minute|min]] 44 [[Second|S]]
-(317.681 43°)
-| declination = 52.886 50°
-| albedo = 0.15
+({{formatnum:317.681 43}}°)
+| declination = {{formatnum:52.886 50}}°
+| albedo = {{formatnum:0.15}}
 | temperatures = yes
 | temp_name1 = [[Kelvin]]
 | min_temp_1 = 186&nbsp;K
