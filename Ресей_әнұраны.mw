@@ -36,8 +36,10 @@
 </poem>
 
 == Тыңдаңыз ==
-{{Audio|Russian_Anthem_instrumental.ogg|сазы}}
-{{Audio|Russian_Anthem_chorus.ogg|хор орындауында}}
+{{multi-listen start}}
+{{multi-listen item|filename=Russian_Anthem_instrumental.ogg|title=Ресей әнұраны|description=Әнұран сазы|format=[[Ogg]]}}
+{{multi-listen item|filename=Russian_Anthem_chorus.ogg|title=Ресей әнұраны|description=Хор орындауында|format=[[Ogg]]}}
+{{multi-listen end}}
 
 == Сыртқы сілтемелер ==
 {{commons|Гимн_России}}
