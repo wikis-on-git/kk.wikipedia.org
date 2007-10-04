@@ -1,22 +1,21 @@
 {{Infobox Country or territory
 |native_name = United States of America
-|common_name = the United States
+|common_name = Америка Құрама Штаттары
 |image_flag = Flag of the United States.svg
 |image_coat = USSeal.png|20px
-| symbol_type = Great Seal
-<!--Please read the talk page before editing these mottoes:-->
-| national_motto = {{lang|la|''[[E pluribus unum|E Pluribus Unum]]''}} <small>("Out Of Many, One")&nbsp;(traditional)</small><br />''[[In God We Trust]]''&nbsp;<small>(1956 to present)</small>
+| symbol_type = Үлкен мөрі
+| national_motto = {{lang|la|''[[E pluribus unum|E Pluribus Unum]]''}} <span style="font-size:smaller;">(«Out Of Many, One» — ''Көптен — бір'')&nbsp;(дәстүрлі)</span><br />''In God We Trust''&nbsp;<span style="font-size:smaller;">''Құдайға аманат'' (1956 ж. бастап)</span>
 | image_map = LocationUSA.svg
-| national_anthem = ''[[The Star-Spangled Banner]]''
-| official_languages = [[Languages of the United States|None at federal level]]<br />([[English language|English]] ''[[de facto]]'')
-| capital = [[Image:Seal-DC.png|16px]]&nbsp;[[Washington, D.C.]]
+| national_anthem = ''[[The Star-Spangled Banner]]'' (''Жұлдыздармен жарқыраған туымыз'')
+| official_languages = [[АҚШ тілдері|Федерал деңгейінде ешбірі жоқ]]<br />([[Ағылшын тілі|ағылшынша]] ''[[de facto]]'')
+| capital = [[Сурет:Seal-DC.png|16px]]&nbsp;[[Уошиңтон]]
 | latd=38 |latm=53 |latNS=N |longd=77 |longm=02 |longEW=W
-| government_type = [[federal republic|Federal]] [[constitutional republic]]
-| leader_title1 = [[President of the United States|President]]
+| government_type = [[Федерациялық республика|Федерациялық]] [[конституциялық ресублика]]
+| leader_title1 = [[АҚШ президенті|Президент]]
 
-| leader_title2 = [[Vice President of the United States|Vice President]]
+| leader_title2 = [[АҚШ вице-президенті|Вице-президенті]]
 
-| leader_title3 = [[Speaker of the United States House of Representatives|House Speaker]]
+| leader_title3 = [[АҚШ Өкілдер палатасының спикері|Палата спикері (төрағасы)]]
 
 | leader_name1 = [[George W. Bush]] [[Republican Party (United States)|(R)]]
 
@@ -24,7 +23,7 @@
 
 | leader_name3 = [[Nancy Pelosi]] [[Democratic Party (United States)|(D)]]
 
-| largest_city = [[Image:Us-nycsl.png|16px]]&nbsp;[[New York City]]
+| largest_city = [[Сурет:Us-nycsl.png|16px]]&nbsp;[[New York City]]
 | area = 9,631,420
 | areami² = 3,718,695
 | area_rank = 3rd<sup>1</sup>
@@ -50,7 +49,7 @@
 | GDP_nominal_per_capita = $44,333
 | GDP_nominal_per_capita_rank = 8th
 | HDI_year = 2004
-| HDI = [[Image:Green_Arrow_Up.svg|8px]] 0.948
+| HDI = [[Сурет:Green_Arrow_Up.svg|8px]] 0.948
 | HDI_rank = 8th
 | HDI_category = <font color="#009900">high</font>
 | sovereignty_type = [[American Revolutionary War|Independence]]
@@ -63,9 +62,9 @@
 | currency_code = USD
 | country_code = USA
 | time_zone =
-| utc_offset = -5 to -10
+| utc_offset = −5 to −10
 | time_zone_DST =
-| utc_offset_DST = -4 to -10
+| utc_offset_DST = −4 to −10
 | cctld = [[.us]] [[.gov]] [[.edu]] [[.mil]]
 | calling_code = 1
 | footnotes = <sup>1</sup> Sometimes listed as 4th in area; the rank is [[List of countries and outlying territories by total area|disputed]] with [[People's Republic of China|China]].
