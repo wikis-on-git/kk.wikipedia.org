@@ -15,7 +15,7 @@
 |<!-- only fill in the start/end event entry if a specific article exists. Don't just say "abolition" or "declaration"-->
 |
 |year_start  = 1801
-|year_end    = 1845
+|year_end    = 1847
 |
 |event_start = 
 |date_start  = 
@@ -85,9 +85,11 @@
 |leader1 = [[Бөкей хан]]
 |leader2 = [[Шығай хан (Бөкей Ордасы)|Шығай хан]] (регент)
 |leader3 = [[Жәңгір-Керей хан|Жәңгір хан]]
+|leader4 = [[Сайып-Керей хан|Сайып-Керей (Шыңғыс) хан]]
 |year_leader1 = [[1801]]—[[1815]]
 |year_leader2 = [[1815]]—[[1823]]
 |year_leader3 = [[1823]]—[[1845]]
+|year_leader4 = [[1845]]—[[1847]]
 |title_leader = Хан
 |representative1 = {{{representative1}}}
 |representative2 = {{{representative2}}}
