@@ -40,25 +40,9 @@
 |p1          = <!--- Name of the article for preceding entity, numbered 1-5 --->
 |flag_p1     = <!--- Default: "Flag of {{{p1}}}.svg" (size 30) --->
 |image_p1 = <!--- Use: [[Сурет:Sin escudo.svg|20px|Image missing]] --->
-|p2 =
-|flag_p2 =
-|p3 =
-|flag_p3 =
-|p4 =
-|flag_p4 =
-|p5 =
-|flag_p5 =
 |s1 = <!--- Name of the article for succeeding entity, numbered 1-5 --->
 |flag_s1 = <!--- Default: "Flag of {{{s1}}}.svg" (size 30) --->
 |image_s1 = <!--- Use: [[Сурет:Sin escudo.svg|20px|Image missing]] --->
-|s2 =
-|flag_s2 =
-|s3 =
-|flag_s3 =
-|s4 =
-|flag_s4 =
-|s5 =
-|flag_s5 =
 |
 |image_flag = Sin bandera.svg
 |flag = <!--- Link target under flag image. Default: Flag of {{{common_name}}} --->
@@ -91,32 +75,6 @@
 |year_leader3 = [[1823]]—[[1845]]
 |year_leader4 = [[1845]]—[[1847]]
 |title_leader = Хан
-|representative1 = {{{representative1}}}
-|representative2 = {{{representative2}}}
-|representative3 = {{{representative3}}}
-|representative4 = {{{representative4}}}
-|year_representative1 = {{{year_representative1}}}
-|year_representative2 = {{{year_representative2}}}
-|year_representative3 = {{{year_representative3}}}
-|year_representative4 = {{{year_representative4}}}
-|title_representative = {{{title_representative}}}
-|deputy1 = {{{deputy1}}}
-|deputy2 = {{{deputy2}}}
-|deputy3 = {{{deputy3}}}
-|deputy4 = {{{deputy4}}}
-|year_deputy1 = {{{year_deputy1}}}
-|year_deputy2 = {{{year_deputy2}}}
-|year_deputy3 = {{{year_deputy3}}}
-|year_deputy4 = {{{year_deputy4}}}
-|title_deputy = {{{title_deputy}}}
-|
-|<!--- Legislature --->
-|legislature = {{{legislature}}}
-|house1 = {{{house1}}}
-|type_house1 = {{{type_house1}}}
-|house2 = {{{house2}}}
-|type_house2 = {{{type_house2}}}
-|
 |<!--- Area and population of a given year --->
 |stat_year1 =
 |stat_area1 =
@@ -133,7 +91,7 @@
 |stat_year5 =
 |stat_area5 =
 |stat_pop5 =
-|footnotes = {{{footnotes}}}
+|footnotes = 
 }}
 
 [[Сурет:Jangir khan.jpg|150px|thumb|Жәңгір хан және Пәтимә]]
