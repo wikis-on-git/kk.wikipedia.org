@@ -1,25 +1,25 @@
 {{Infobox Country |
 <!-- Note: All of the following within double brackets ( {{ }} ) is template text. Please skip over it to edit the article. -->
 native_name = {{lang|vi|Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam}} |
-conventional_long_name = Socialist Republic of Vietnam | 
-common_name = Vietnam |
-national_motto = {{lang|vi|Độc lập – Tự do – Hạnh phúc}}<br/>(Independence, freedom, happiness) {{Fact|date=February 2007}}|
+conventional_long_name = Виетнам Социалистік Республикасы | 
+common_name = Виетнам |
+national_motto = {{lang|vi|Độc lập – Tự do – Hạnh phúc}}<br/>(Тәуелсіздік, азаттық, бақыт) {{Fact|date=February 2007}}|
 national_anthem = {{lang|vi|[[Tiến Quân Ca]]}} |
 image_flag = Flag of Vietnam.svg |
 image_coat = Coat of arms of Vietnam.png |
 image_map = LocationVietnam.svg |
-capital = [[Hanoi]] |latd=21|latm=2|latNS=N|longd=105|longm=51|longEW=E|
-largest_city = [[Ho Chi Minh City]] |
-official_languages = [[Vietnamese language|Vietnamese]]| 
+capital = [[Ханой]] |latd=21|latm=2|latNS=N|longd=105|longm=51|longEW=E|
+largest_city = [[Хо Ши Мин]] |
+official_languages = [[Виетнам тілі|Виетнамша]]| 
 government_type = [[Socialist republic]]<sup>1</sup> |
-leader_title1 = [[General Secretary of the Communist Party of Vietnam|General Secretary]] |
-leader_title2 = [[President of Vietnam|President]] | 
-leader_title3 = [[Prime Minister of Vietnam|Prime Minister]] |
+leader_title1 = [[Виетнам коммунистік партиясының бас секретары|бас секретарь]] |
+leader_title2 = [[Виетнам Президенті|Президент]] | 
+leader_title3 = [[Виетнам премьер министрі|премьер министр]] |
 leader_name1 = {{lang|vi|[[Nông Đức Mạnh]]}} |
 leader_name2 = {{lang|vi|[[Nguyễn Minh Triết]]}} |
 leader_name3 = {{lang|vi|[[Nguyễn Tấn Dũng]]}} |
 sovereignty_type = [[History of Vietnam#Post World War II Period|Independence]] |
-sovereignty_note = From [[France]] |
+sovereignty_note = [[Франсия]]дан |
 established_event1 = Declared |
 established_event2 = Recognized |
 established_date1 = [[September 2]] [[1945]] | 
@@ -59,12 +59,12 @@ footnotes =1. According to the official name and its 1992 Constitution|
 
 {{Vietnam}}
 {{NavigationBox
-|Title = Жоғрапия бағыттауышы
+|Title = Жағрапия бағыттауышы
 |List = 
-{{Southeast Asia}}
-{{Asia}}
-{{South China Sea}}
-{{Pacific Ocean}}
+{{Оңтүстік-шығыс Азия}}
+{{Азия}}
+{{Оңтүстік Қытай теңізі}}
+{{Тынық мұхит}}
 }}
 {{NavigationBox
 |Title = Халықаралық ұйымдар
