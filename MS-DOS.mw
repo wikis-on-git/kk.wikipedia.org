@@ -1,5 +1,6 @@
+__NOTITLECONVERT__
 {{Infobox_OS 
-| name = MS-DOS
+| name = -{MS-DOS}-
 | logo = [[Image:MS-DOS icon.png]]
 | screenshot = <!-- Do NOT change the screenshot unless there is BIG change in the UI. When taking screenshot, please resize your window (e.g. 640*480), disable your extensions and use the default theme. -->[[Image: StartingMsdos.png]] 
 | caption = An example of MS-DOS's command-line interface, this one showing that the current directory is the root of drive C. 
@@ -13,7 +14,7 @@
 | ui = DOS [[Command line interface|CLI]]
 | license = Proprietary 
 }}
-'''MS-DOS''' ({{lang-en|'''M'''icro'''S'''oft '''D'''isk '''O'''perating '''S'''ystem}} — ''Microsoft фирмасының Дискілік Амалдық Жүйесі'') — [[дербес компьютер]]лерде және оларға сыйысымды құрылғыларда пайдаланылатын [[амалдық жүйе]].
+-{'''MS-DOS'''}- ({{lang-en|'''M'''icro'''S'''oft '''D'''isk '''O'''perating '''S'''ystem}} — ''Microsoft фирмасының Дискілік Амалдық Жүйесі'') — [[дербес компьютер]]лерде және оларға сыйысымды құрылғыларда пайдаланылатын [[амалдық жүйе]].
 
 MS-DOS жүйесі пернетеқтадан енгізілген деректі компьютер орындай алатын амалдарға айналдырады. MS-DOS жүйесімен әрекеттесу әмір енгізу арқылы жүзеге асырылады, ал MS-DOS жүйесіне негізделген бағдарламалармен әрекеттесуді жұмыс үстеліндегі лақаптардың көмегімен жүзеге асыруға болады.
 
