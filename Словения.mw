@@ -1,14 +1,14 @@
 {{Infobox Country or territory
 |native_name              = ''Republika Slovenija''
-|conventional_long_name   = Republic of Slovenia
-|common_name              = Slovenia
+|conventional_long_name   = Слоуения Республикасы
+|common_name              = Слоуения
 |image_flag               = Flag of Slovenia.svg
 |image_coat               = Coat of Arms of Slovenia.svg
 |image_map                = EU_location_SLO.png
 |map_caption              = {{map_caption |region=on the [[Europe|European continent]] |subregion=the [[European Union]] |legend=EU location legend.png}}
-|national_motto           = none
+|national_motto           = жоқ
 |national_anthem          = {{nowrap|7th stanza of ''[[Zdravljica]]''}}<!--The official national anthem of Slovenia is ONLY the seventh stanza! Source: http://www.up-rs.si/up-rs/uprs.nsf/dokumentiweb/14E1D4EE6F755B50C1256F9B0052E894?OpenDocument--><br/><small>"A Toast"</small>
-|official_languages       = [[Slovenian language|Slovenian]], [[Italian language|Italian]]<sup>1</sup>, [[Hungarian language|Hungarian]]<sup>1</sup>
+|official_languages       = [[Слоуен тілі|Слоуен тілі]], [[Италия тілі|Италия тілі]]<sup>1</sup>, [[Мадьяр тілі|Мадьяр тілі]]<sup>1</sup>
 |capital                  = [[Image:Wappen Ljubljana si.png|22px]]&nbsp;[[Ljubljana]]
 |latd=46 |latm=03 |latNS=N |longd=14 |longm=30 |longEW=E
 |largest_city             = [[Image:Wappen Ljubljana si.png|22px]]&nbsp;[[Ljubljana]]
@@ -32,10 +32,10 @@
 |population_densitymi²    = 251 <!--Do not remove per [[WP:MOSNUM]]-->
 |population_density_rank  = 99st
 |GDP_PPP_year             = 2005
-|GDP_PPP                  = $43.690 billion <!--IMF-->
-|GDP_PPP_rank             = 81st
+|GDP_PPP                  = $43.690 миллиард <!--IMF-->
+|GDP_PPP_rank             = 81-ші
 |GDP_PPP_per_capita       = $23,250 (2006 estimate)
-|GDP_PPP_per_capita_rank  = 29th
+|GDP_PPP_per_capita_rank  = 29-шы
 |HDI_year                 = 2004
 |HDI                      = {{increase}} 0.910
 |HDI_rank                 = 27th
@@ -68,9 +68,9 @@
 {{Template group
 |title = Geographic locale
 |list  = 
-{{Countries of Europe}}
-{{Countries bordering the Mediterranean Sea}}
-{{Countries bordering the Adriatic Sea}}
+{{Еуропа елдері}}
+{{Жерорта теңізімен шектесетін елдер тізімі}}
+{{Адриат теңізімен шектесетін елдер тізімі}}
 }}
 {{Template group
 |title = International organizations
@@ -83,7 +83,7 @@
 }}
 {{Template group
 |list = 
-{{Slavic States}}
+{{Славян мемлекеттері}}
 {{Republics and autonomous provinces of the former Yugoslavia}}
 }}
 
