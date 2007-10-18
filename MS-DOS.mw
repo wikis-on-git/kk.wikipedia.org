@@ -1,8 +1,8 @@
 __NOTITLECONVERT__
 {{Infobox_OS 
 | name = -{MS-DOS}-
-| logo = [[Image:MS-DOS icon.png]]
-| screenshot = <!-- Do NOT change the screenshot unless there is BIG change in the UI. When taking screenshot, please resize your window (e.g. 640*480), disable your extensions and use the default theme. -->[[Image: StartingMsdos.png]] 
+| logo = [[Сурет:MS-DOS icon.png]]
+| screenshot = <!-- Do NOT change the screenshot unless there is BIG change in the UI. When taking screenshot, please resize your window (e.g. 640*480), disable your extensions and use the default theme. -->[[Сурет:StartingMsdos.png]] 
 | caption = An example of MS-DOS's command-line interface, this one showing that the current directory is the root of drive C. 
 | developer = [[Microsoft]] 
 | family = [[DOS]] 
