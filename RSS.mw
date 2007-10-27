@@ -1,4 +1,20 @@
-[[Сурет:Feed-icon.svg|thumb|right|100px|RSS белгішесі]]
+{{Infobox file format
+| name = RSS| icon = [[Сурет:Feed-icon.svg|48px|RSS арнасының қалыпты белгішесі.]]
+| logo =
+| screenshot = [[Сурет:Wikipedia rss with mozilla thunderbird.PNG|300px|]]
+| caption = RSS арнасының бейнесуреті
+| extension = <tt>.rss</tt>, <tt>.xml</tt>
+| mime = application/rss+xml (Registration Being Prepared)<ref>{{cite web |url=http://www.rssboard.org/rss-mime-type-application.txt |title=The application/rss+xml Media Type |publisher=Network Working Group |date=[[May 22]] [[2006]] |accessdate=2007-08-16}}</ref>
+| type code =
+| uniform type =
+| owner =
+| genre =
+| container for =
+| contained by =
+| extended from = [[XML]]
+| extended to =
+| standards =
+}}
 '''RSS''' — жаңалық арналарды, мақала анонстарды, блогтардағы өзгерістерді т.б. сәтті мәнді сипаттау үшін арналған [[XML]] тұқымдас пішімдері. Әртүрлі RSS қайнарларындағы мәліметтерді жинайтын, жөндететін, таныстыратын арнайы бағдарламасы ''аггрегатор'' деп аталады.
 
 Әр нұсқаларда RSS қысқармасында әр мағына берілді:
@@ -10,6 +26,13 @@
 RSS арқылы пайдаланушылар өздерінің сүйікті тораптарының мағлұмат өзгерісін өздіктікті қадағалап отырады. Бұл RSS пішімінің ең басты ерекшелігі.
 
 RSS арнасын «feed reader» бағдарлама арқылы оқуға болады. Осы заманғы ғаламтор шолғыштарының көбінде «feed reader» бағдарламасы бар.
+
+== Түсініктемелер ==
+<references/>
+
+
+== Сыртқы сілтемелер ==
+
 
 {{stub}}
 
