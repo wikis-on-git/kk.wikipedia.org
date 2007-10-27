@@ -1,5 +1,15 @@
 __NOTITLECONVERT__
-[[Image:Tux.svg|thumb|Linux рәсімі]]
+{{infobox OS
+| name                   = Linux
+| screenshot             = [[Image:NewTux.svg|150px|Tux, the penguin, mascot of Linux]]
+| caption                = [[Tux]], the penguin, mascot of the Linux kernel
+| family                 = [[Unix-like]]
+| latest_release_version = 2.6.23.1 ([[Linux kernel]])
+| latest_release_date    = [[12 October]] [[2007]]
+| kernel_type            = [[Monolithic kernel]]
+| license                = [[GNU General Public License]] and others
+| working_state          = Current
+}}
 -{'''Linux''' — [[UNIX]]}- ұясына кіретін [[амалдық жүйе]].
 
 [[Category:Информатика]]
