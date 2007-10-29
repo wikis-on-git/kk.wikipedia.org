@@ -1,34 +1,37 @@
 {{Infobox Top level domain|
 name=.ru|
 background=#CCF|
-image=[[Image:Rucenter.gif|RUcenter]]|
-introduced=[[7 April]], [[1994]]|
-type=[[Country code top-level domain]]|
-status=Active|
-registry=[[Russian Institute for Public Networks]]|
-sponsor=[[Russian Institute for Public Networks]]|
-intendeduse=Entities connected with {{flag|Russia}}|
-actualuse=Commonly used in Russia|
-restrictions=swear words in Russian|
-structure=Registrations are permitted directly at the second level; third-level registrations are also possible under the rule of RIPN in the official registry|
+image=[[Сурет:Rucenter.gif|RUcenter]]|
+introduced=[[1994]] ж. [[сәуірдің 7]]|
+type=[[Ел белгілемесі бар жоғары деңгейлі үйшік]]|
+status=Белсенді|
+registry=[[Ресей қоғам желілері институты|RIPN]]|
+sponsor=[[Ресей қоғам желілері институты|RIPN]]|
+intendeduse={{flag|Russia}} қатысты ұйымдар және тұлғалар|
+actualuse=Жалпы Ресейде|
+restrictions=бейпіл сөздер|
+structure=Тура 2-ші деңгейі тіркеленеді, не кейбір 3-ші деңгейлі үйшіктерге — RIPN ережелері бойынша|
 document=|
-disputepolicy=None|
+disputepolicy=Жоқ|
 website=[http://www.nic.ru/en/ RUcenter], [http://www.ripn.net/nic/dns/en/index.html RIPN]|}}
 
-'''.ru''' is the [[Internet]] [[country code]] [[top-level domain]] ([[ccTLD]]) for [[Russia]] introduced in [[April 7]], [[1994]].
+-{'''.ru'''}- — [[Интернет]] [[Жоғары деңгейлі үйшік|жоғары деңгейлі үйшігінің]] [[Ресей]]ге арналған [[ел белгілемесі]] (-{[[ccTLD]]}-) [[1994]] ж. [[сәуірдің 7]]-інде енгізілген.
 
-==See also==
-*[[Runet]]
-==External links==
+== Тағы қараңыз ==
+*[[Рунет]]
+
+== External links ==
 * [http://www.iana.org/root-whois/ru.htm IANA .ru whois information]
 * [http://www.nic.ru/en/ RU-CENTER]
 * [http://www.ripn.net/nic/dns/en/index.html RIPN]
 
 {{CcTLD}}
 
-[[Category:Country code top-level domains|R u]]
-[[Category:Internet and Russia|Ru]]
-[[Category:CENTR members|R u]]
+{{Compu-domain-stub}}
+
+[[Санат:Ел белгілемесі бар жоғары деңгейлі үйшіктер|R u]]
+[[Санат:Ресей байланыс жүйесі|Ru]]
+[[Санат:CENTR мүшелері|R u]]
 
 [[ar:.ru]]
 [[az:.ru]]
