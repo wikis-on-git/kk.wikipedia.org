@@ -10,13 +10,13 @@
 |flag_s1      = Flag of Kazakhstan.svg
 | flag = Flag of Kazakh SSR.svg
 | arms = COA Kazakh SSR.png
-| motto = Барлық елдердің пролетарлары, бірігіңдер!
+| motto = '''[[Kazakh language|Kazakh]]:''' Барлық елдердің<br>пролетарлары, бірігіңдер!
 | map = SovietUnionKazakhstan.png
-| capital = [[Алматы|Алма-Ата]]
-| language = [[Қазақ тілі|Қазақ]], [[Русский]]
-| established = [[26 Тамыз]] [[1920  ж.]]
-| ussr-start = [[30 Желтоқсан]] [[1922  ж.]]
-| ussr-end = [[16 Желтоқсан]] [[1991  ж.]]
+| capital = [[Almaty, Kazakhstan|Alma-Ata]] (today Almaty)
+| language = None. ''De facto'' [[Kazakh language|Kazakh]] and [[Russian language|Russian]]
+| established = [[August 26]], [[1920]]
+| ussr-start = [[December 30]], [[1922]]
+| ussr-end = [[December 16]], [[1991]]
 | area-rank = 2nd
 | area = 2,717,300
 | water = 1.7%
@@ -25,7 +25,7 @@
 | density = 6.1
 | currency = Сом
 | time-zone =  + 4 to + 6
-| anthem = [[Қазақ КСР-інің мемлекетік гимі]]
+| anthem = [[Anthem of Kazakh SSR]]
 }}
 '''Қазақ Кеңестік Социалистік Республикасы''' 26 тамыз 1920 ж. РСФСР құрамында Қырғыз АССР қалпында құрылған. 1936 ж. 5 желтоқсанында Қазақ ССР ретінде одақтас республикасы статусын иеленген. 1991 ж. желтоқсанында тәуелсіздігін жариялап [[Қазақстан Республикасы]] атанады.
 
@@ -71,32 +71,7 @@
 == Тағы қараңыз ==
 *[[Қазақстан]]
 
-{{Navbox
-|name    = Кеңестік Социалистік Республикалар Одағы
-|state   = {{state|}}
-|title   = <font color="#FFD700">[[Кеңестік Социалистік Республикалар Одағы]]</font>
-|image   = [[Image:Coat of arms of the Soviet Union.svg|90px]]
-|titlestyle = background:#CC0000;
-|groupstyle = background:#CC0000; text-align:center;
-
-|group1  = <font color=#FFD700>[[Восточная Европа]]</font>
-|list1   = [[Image:Flag of Byelorussian SSR.svg|20px]] '''[[Белорусская ССР]]''' {{·}} [[Image:Flag of Moldavian SSR.svg|20px]] '''[[Молдавская ССР]]''' {{·}} [[Image:Flag of Russian SFSR.svg|20px]] '''[[Российская СФСР]]''' {{·}} [[Image:Flag of Ukrainian SSR.svg|20px]] '''[[Украинская ССР]]'''
-
-|group2  = <font color=#FFD700>[[Центральная Азия]]</font>
-|list2   = [[Image:Flag of Kazakh SSR.svg|20px]] '''[[Қазақ Кеңестік Социалистік Республикасы|Казахская ССР]]''' {{·}} [[Image:Flag of Kyrgyz SSR.svg|20px]] '''[[Киргизская ССР]]''' {{·}} [[Image:Flag of Tajik SSR.svg|20px]] '''[[Таджикская ССР]]''' {{·}} [[Image:Flag of Turkmen SSR.svg|20px]] '''[[Туркменская ССР]]''' {{·}} [[Image:Flag of Uzbek SSR.svg|20px]] '''[[Узбекская ССР]]'''
-
-|group3  = <font color=#FFD700>[[Закавказье]]</font>
-|list3   = [[Image:Flag of Azerbaijan SSR.svg|20px]] '''[[Азербайджанская ССР]]''' {{·}} [[Image:Flag of Armenian SSR.svg|20px]] '''[[Армянская ССР]]''' {{·}} [[Image:Flag of Georgian SSR.svg|20px]] '''[[Грузинская ССР]]'''
-
-|group4  = <font color=#FFD700>[[Прибалтика]]</font>
-|list4   = [[Image:Flag of Latvian SSR.svg|20px]] '''[[Латвийская ССР]]''' {{·}} [[Image:Flag of Lithuanian SSR.svg|20px]] '''[[Литовская ССР]]''' {{·}} [[Image:Flag of Estonian SSR.svg|20px]] '''[[Эстонская ССР]]'''
-
-|group5  = <font color=#FFD700>Short-lived Soviet Republics</font>
-|list5   =  [[Image:Flag DKR.svg|border|20px]] '''[[Донецко-Криворожская советская республика]]''' (''1918'') {{·}} [[Image:Flag of the Galician SSR.svg|20px]]  '''[[Galicyjska SRR]]''' (''1920'') {{·}} [[Image:Flag of Abkhazian SSR.svg|20px]] '''[[ССР Абхазия]]''' (''1921-1931'') {{·}} [[Image:Flag of Transcaucasian SFSR.svg|20px]] '''[[Закавказская СФСР]]''' (''1922-1936'') {{·}} [[Image:Flag of the Karelo-Finnish SSR.svg|20px]] '''[[Карело-Финская ССР]]''' (''1940-1956'')
-}}
-
-<noinclude>
-[[Category:Subdivisions of the Soviet Union|Subdivisions of the Soviet Union]]
+{{Soviet Republics}}
 
 [[Санат:Қазақстан]]
 
