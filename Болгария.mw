@@ -9,7 +9,7 @@
 |national_motto           = {{lang-bg|Съединението прави силата}}{{nbsp|2}}<span style="font-size:smaller;">([[Болгар тілі|Болгарша]])</span><br />''«Saedinenieto pravi silata»''{{nbsp|2}}<span style="font-size:smaller;">([[transliteration]])<br />«Unity Makes Strength»<ref>{{cite web |title=Bulgaria’s National Flag |publisher=[[Politics of Bulgaria|Bulgarian Government]] |date=[[03 October]] [[2005]] |url=http://www.government.bg/cgi-bin/e-cms/vis/vis.pl?s=001&p=0159&n=000006&g= |accessdate=2007-01-01}}</ref></span>
 |national_anthem = [[Mila Rodino|Мила Родино]]{{nbsp|2}}<span style="font-size:smaller;">(Бұлғарша)</span><br />«Уа қымбатты Отаным»</span>
 |official_languages = [[Бұлғар тілі|Бұлғарша]]
-|formation = Б.з. 632 ж.
+|formation = [[632]] ж.
 |capital = [[Сурет:BG Sofia coa.svg|22px]]&nbsp;[[Sofia]]
 |latd=42 |latm=41 |latNS=N |longd=23 |longm=19 |longEW=E
 |largest_city = [[Сурет:BG Sofia coa.svg|22px]]&nbsp;[[Sofia]]
@@ -21,7 +21,6 @@
 |area_rank = 104-ші
 |area_magnitude = 1 E11
 |area = 110,912
-|areami² = 42,823 <!--Do not remove per [[WP:MOSNUM]]-->
 |percent_water = 0.3%
 |population_estimate = 7,726,000&nbsp;[http://www.nsi.bg/Population_e/Population_e.htm] <!--UN WPP-->
 |population_estimate_year = 2005
@@ -29,21 +28,20 @@
 |population_census = 7,932,984&nbsp;[http://www.nsi.bg/Census_e/Census_e.htm]
 |population_census_year = 2001
 |population_density = 70
-|population_densitymi² = 181 <!--Do not remove per [[WP:MOSNUM]]-->
 |population_density_rank = 124-ші
 |GDP_PPP_year = 2006
-|GDP_PPP = $77.130 миллиард
+|GDP_PPP = $77.130 млрд
 |GDP_PPP_rank = 68-ші
 |GDP_PPP_per_capita = $10 400
 |GDP_PPP_per_capita_rank = 66-шы
 |HDI_year = 2004
 |HDI = {{increase}} 0.816
 |HDI_rank = 54-ші
-|HDI_category = <font color="#009900">high</font>
+|HDI_category = <font color="#009900">жоғары</font>
 |sovereignty_type = [[Formation]]
-|established_event1 = Founded
-|established_event2 = [[Christianization of Bulgaria|Christianized]]
-|established_event3 = Last previously<br />{{nbsp|3}}independent state<sup>1</sup>
+|established_event1 = Құрылғаны
+|established_event2 = [[Бұлғарстан мәсіхшілдендіруі|Мәсіхшілдендіруі]]
+|established_event3 = Алғашындағы болған<br />{{nbsp|3}}соңғы тәуелсіз мемлекеті<sup>1</sup>
 |established_event4 = [[Османлы империясы]]на кіріптарлық
 |established_event5 = Тәуелсіздік
 |established_date1 = [[632]]
@@ -51,8 +49,8 @@
 |established_date3 = [[1422]]
 |established_date4 = [[1878]]
 |established_date5 = [[1908]]
-|accessionEUdate = [[January 1]], [[2007]]
-|currency = [[Bulgarian lev|Lev]], pl. [[Bulgarian lev|Leva]]
+|accessionEUdate = [[2007]] [[қаңтардың 1]],
+|currency = [[Bulgarian lev|Lev]], pl. [[Бұлғарстан левасы|Лева]]
 |currency_code = BGN
 |country_code = bg
 |time_zone = [[Eastern European Time|EET]]
