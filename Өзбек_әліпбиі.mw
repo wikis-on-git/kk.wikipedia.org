@@ -107,7 +107,7 @@
 
 == Салыстырмалы кесте ==
 
-{| class="wikitable" style="text-align: center"
+{| class="wikitable" style="text-align: center; font-family:Arial Unicode MS; font-size:1.4em;"
 |-
 ! Араб
 ! Яналиф
@@ -150,7 +150,7 @@
 |-
 | ﻥ || N n || Н н || '''N n''' || {{IPA|[n]}} || н
 |-
-| ﻥ || N̡ n̡ || НГ нг || '''Ng ng''' || {{IPA|[ŋ]}} || ң
+| ﻥ || {{unicode|N̡ n̡}} || НГ нг || '''Ng ng''' || {{IPA|[ŋ]}} || ң
 |-
 | ﺍ || A a || О о || '''O o''' || {{IPA|[ɔ]}} || а
 |-
