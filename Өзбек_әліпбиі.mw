@@ -176,7 +176,7 @@
 |-
 | ﺫ,ﺯ,ﺽ,ﻅ || Z z || З з || '''Z z''' || {{IPA|[z]}} || з
 |-
-| ء, ع || ' || Ъ ъ || '''ʼ''' || {{IPA|[ʔ]}} || 
+| ء, ع || ' || Ъ ъ || '''ʼ''' || {{IPA|[ʔ]}} ||
 |-
 |}
 
@@ -193,7 +193,7 @@
 * Сөзде '''с''' және '''ҳ''' қиюласқанда, латын жазуында әріп арасына келесідей [[апостроф]] салынады: мысалы, '''sʼh'''.
 * Апостроф (ʼ) дауыстылар соңында жазылғанда, дауысты дыбыстың ұзартылғанын белгілейді: ''she'r'', ''e'tibor''; '''o‘''' артына келгенде жазылмайлды: ''moʻjiz'', ''moʻtadil'', ''moʻtabar''.
 * Апостроф (ʼ) дауыстылар алдында жазылғанда, келесі дауысты дыбысының бөлек айтылуын (паузаны) белгілейді: ''inʼom'', ''sanʼat'', ''qatʼiy'', ''masʼul''.
-* Егер қаріпте қосылмыш төңкерілген үтір (ʻ — U+0312 <span style="font-size:smaller;">COMBINING TURNED COMMA ABOVE</span>), не нағыз типографиялық апостроф (ʼ — U+02BC <span style="font-size:smaller;">MODIFIER LETTER APOSTROPHE</span>) болмаса, тиісінше жалғыз сол тырнақша (‘ — U+2018 <span style="font-size:smaller;">LEFT SINGLE QUOTATION MARK</span>) мен жалғыз оң тырнақша (’ — U+2019 <span style="font-size:smaller;">RIGHT SINGLE QUOTATION MARK</span>) пайдалнылуға мүмкін.
+* Егер қаріпте қосылмыш төңкерілген үтір (ʻ — U+0312 <span style="font-size:smaller;">COMBINING TURNED COMMA ABOVE</span>), не нағыз типографиялық апостроф (ʼ — U+02BC <span style="font-size:smaller;">MODIFIER LETTER APOSTROPHE</span>) болмаса, тиісінше жалғыз сол тырнақшамен (‘ — U+2018 <span style="font-size:smaller;">LEFT SINGLE QUOTATION MARK</span>) мен жалғыз оң тырнақшамен (’ — U+2019 <span style="font-size:smaller;">RIGHT SINGLE QUOTATION MARK</span>) алматырылуға мүмкін. Е-пошта, SMS, т.б. қызметтерде бұлар тиісінше (` — U+0060 <span style="font-size:smaller;">GRAVE ACCENT</span>) және (' — U+0027 <span style="font-size:smaller;">APOSTROPHE</span>) дегенмен алмастырылады.
 
 == Сыртқы сілтемелер ==
 * [http://www.oxuscom.com/orthography.htm Orthographic Rules For The Uzbek Language] {{en icon}}
