@@ -1,6 +1,7 @@
 {{Данные о субъекте Российской Федерации|
-RuNm=Саха (Якутия) Республикасы|
-OfNm1=Саха Республикасы|
+RuNm=Саха Республикасы| <!-- RuNm always is Kazakh -->
+OfNm1=Саха Республиката|
+OfNm2=Республика Саха (Якутия)| <!-- The last OfNmx always is Russian -->
 FSFlag=[[Сурет:Flag of Sakha.svg|150px|Флаг Якутии]]|
 FSCoA=[[Сурет:Coat of Arms of Sakha (Yakutia).png|100px|Герб Якутии]]|
 FlagLnk=Флаг Республики Саха (Якутия)|
