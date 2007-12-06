@@ -4,26 +4,26 @@
 |
 |continent = Eurasia
 |status    = Empire
-|government_type = Monarchy
+|government_type = Монархия
 |
 |year_start  = 1721
 |year_end    = 1917 ж.
 |
-|event_pre   = Accession of [[Peter I of Russia|Peter I]]
+|event_pre   = Accession of [[Пётр I]]
 |date_pre    = [[7 мамыр]] [[1682 ж.]] [[New Style|NS]],<br>[[27 сәуір]] [[1682 ж.]] [[Old Style|OS]]²
 |event_start = Empire proclaimed
 |date_start  = [[22 қазан]] [[1721 ж.]] [[New Style|NS]],<br>[[11 қазан]] [[1721 ж.]] [[Old Style|OS]]
-|event1      = [[Decembrist revolt]]
+|event1      = [[Восстание декабристов]]
 |date_event1 = [[26 желтоқсан]] [[1825 ж.]] [[New Style|NS]],<br>[[14 желтоқсан]] [[1825 ж.]] [[Old Style|OS]]
 |event2      = [[Emancipation reform of 1861|Abolition of feudalism]]
 |date_event2 = [[3 наурыз]], [[1861 ж.]] [[New Style|NS]],<br>[[19 ақпан]] [[1861 ж.]] [[Old Style|OS]]
-|event3      = [[Russian Revolution of 1905|Revolution of 1905]]
+|event3      = [[1905 ж. революция]]
 |date_event3 = қаңтар-желтоқсан 1905 ж.
 |event4      = [[Russian Constitution of 1906|Constitution]]
 |date_event4 = [[23 сәуір]] [[1906 ж.]] <!-- OS or NS? -->
-|event_end   = February Revolution
+|event_end   = Ақпан революция
 |date_end    = [[15 наурыз]] [[1917 ж.]] [[New Style|NS]],<br>[[2 наурыз]] [[1917 ж.]] [[Old Style|OS]]
-|event_post  = October Revolution
+|event_post  = Қазан революция
 |date_post   = [[7 қараша]] [[1917 ж.]] [[New Style|NS]],<br>[[25 қазан]] [[1917 ж.]] [[Old Style|OS]]
 |
 |p1          = Царство Ресей
@@ -59,7 +59,7 @@
 |stat_year1 = 1916 ж.
 |stat_area1 = 22400000
 |stat_pop1  = 181537800
-|footnotes  = 1. Flag used 1721–1858 and 1883–1917; ''see [[Ресей елтаңбасы]]''.<br>2. Russia continued to use the [[Julian calendar]] until after the collapse of the empire; ''see [[Old Style and New Style dates]]''.
+|footnotes  = 1. Flag used 1721–1858 and 1883–1917; ''see [[Ресей елтаңбасы]]''.<br>2. Russia continued to use the [[Юлианский календарь]] until after the collapse of the empire; ''see [[Old Style and New Style dates]]''.
 }}
 '''Ресей империясы''' (ескі емлемен {{lang-ru|Pоссiйская Имперiя}})
 
