@@ -9,24 +9,24 @@
 |year_start  = 1721
 |year_end    = 1917 ж.
 |
-|event_pre   = Accession of [[Пётр I]]
+|event_pre   = [[Пётр I]]-нің таққа отыруы
 |date_pre    = [[7 мамыр]] [[1682 ж.]] [[New Style|NS]],<br>[[27 сәуір]] [[1682 ж.]] [[Old Style|OS]]²
-|event_start = Empire proclaimed
+|event_start = Империяның жариялануы
 |date_start  = [[22 қазан]] [[1721 ж.]] [[New Style|NS]],<br>[[11 қазан]] [[1721 ж.]] [[Old Style|OS]]
-|event1      = [[Восстание декабристов]]
+|event1      = [[Декабристер көтерілісі]]
 |date_event1 = [[26 желтоқсан]] [[1825 ж.]] [[New Style|NS]],<br>[[14 желтоқсан]] [[1825 ж.]] [[Old Style|OS]]
-|event2      = [[Emancipation reform of 1861|Abolition of feudalism]]
+|event2      = [[1861 жылғы басыбайлы шаруаларды азат ету туралы жарлық|Крепостниктік правоның жойылуы]]
 |date_event2 = [[3 наурыз]], [[1861 ж.]] [[New Style|NS]],<br>[[19 ақпан]] [[1861 ж.]] [[Old Style|OS]]
 |event3      = [[1905 ж. революция]]
 |date_event3 = қаңтар-желтоқсан 1905 ж.
 |event4      = [[Конституциясы]]
 |date_event4 = [[23 сәуір]] [[1906 ж.]] <!-- OS or NS? -->
-|event_end   = Ақпан революция
+|event_end   = Ақпан революциясы
 |date_end    = [[15 наурыз]] [[1917 ж.]] [[New Style|NS]],<br>[[2 наурыз]] [[1917 ж.]] [[Old Style|OS]]
-|event_post  = Қазан революция
+|event_post  = Қазан революциясы
 |date_post   = [[7 қараша]] [[1917 ж.]] [[New Style|NS]],<br>[[25 қазан]] [[1917 ж.]] [[Old Style|OS]]
 |
-|p1          = Царство Ресей
+|p1          = Ресей патшалығы
 |image_p1    = [[Image:Coat of Arms of Moscow.png|20px]]
 |s1          = Советтер Одағы
 |flag_s1     = Flag of the Soviet Union 1923.svg
@@ -48,13 +48,24 @@
 |national_anthem  = "[[Боже, Царя храни]]"<br>(Құдайым, патшаны сақта)
 |national_motto   = Съ нами Богъ!
 |common_languages = [[орыс тілі|орысша]]
-|religion         = [[Русская Православная Церковь]]
+|religion         = [[Орыс Православ шіркеуі]]
 |currency         = [[Рубль|Рубль (сом)]]
 |
 |leader1      = [[Пётр I]]
-|leader2      = [[Никола́й II]]
+|leader2      = [[Павел І]]
+|leader3      = [[Александр І]]
+|leader4      = [[Никола́й I]]
+|leader5      = [[Александр ІІ]]
+|leader6      = [[Александр ІІІ]]
+|leader7      = [[Никола́й II]]
+
 |year_leader1 = 1721–1725 ж.
-|year_leader2 = 1894–1917 ж.
+|year_leader2 = 1796–1801 ж.
+|year_leader3 = 1801–1825 ж.
+|year_leader4 = 1825–1855 ж.
+|year_leader5 = 1855–1881 ж.
+|year_leader6 = 1881–1894 ж.
+|year_leader7 = 1894–1917 ж.
 |title_leader = [[Император]]
 |stat_year1 = 1916 ж.
 |stat_area1 = 22400000
