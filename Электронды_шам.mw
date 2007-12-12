@@ -28,7 +28,7 @@
 [[Термоэлектронды эмиссия]] құбылысын 1873 жылы [[Фредерик Гатри]] ашса да, Томас Эдисонның 1883-ші жылғы [[Эдисон эффекті]] көбірек айтылады. Эдисон сол құбылыстың неге болатынын түсінбесе де, оны бірден патенттеп алды.<ref>{{US patent|307031}}</ref>
 
 ===Диодтар мен триодтар===
-The English physicist [[John Ambrose Fleming]] worked as an engineering consultant for many technology firms of his day, including Edison Telephone; in 1904, as a result of experiments conducted on Edison Effect bulbs imported from the USA and while working as scientific adviser to the [[Marconi Company|Marconi]] company, he developed a device he called an "oscillation valve" (because it passes current in only one direction) or '''kenotron''', which can also be used as part of a radio wave detector. Later known as the [[Fleming valve]] and then the [[diode]], it allowed [[electrical current]] to flow in only one direction, enabling the [[rectifier|rectification]] of alternating current. Its operation is described in greater detail in the previous section.
+Ағылшын физигі [[Флеминг, Джон Әмброз|Джон Әмброз Флеминг]] көптеген техникалық фирмаларда, соның ішінде «Эдисон телефон» компаниясында инженер-консультант ретінде қызмет еткен. 1904 жылы [[Маркони компаниясы]]нда істепжүрген кезінде АҚШ-тан әкелінген Эдисон эффектісін қолданатын лампылармен жасалған тәжірибелердің нәтижесінде ол «тербелмелі лампы» деп аталған бір аспапты дамытып шығарды («тербелмелі лампы» деп аталуының себебі ол электр тогын тек бір бағытта ғана өткізетіндіктен). Ол '''[[кенотрон]]''' деп те атала бастады. Ол лампыны радио толқындарының детекторы ретінде де қолдануға болатын. Кейінірек [[Флеминг лампысы]], сосын [[диод]] деп аталып кеткен сол лампының түрі [[электр тогы]]н тек бір бағытта ғана өткізетін қасиетке ие болды, яғни ол [[айнымалы ток]]ты [[айнымалы токты түзету|түзете]] алатын. Бұның қалай болатыны жоғарыдағы бөлімде егжей-тегжейлі сипатталған.
 
 In 1907 [[Lee De Forest]] placed a bent wire serving as a screen, later known as the [[control grid|"grid" electrode]], between the filament and [[plate electrode]]. As the voltage applied to the grid was varied from negative to positive, the number of electrons flowing from the filament to the plate would vary accordingly. Thus the grid was said to electrostatically "control" the plate current.  The resulting three-electrode device was therefore an excellent and very sensitive [[amplifier]] of voltages. DeForest called his invention the "[[Audion tube|Audion]]". In 1907, DeForest filed<ref>{{US patent|879532}}</ref> for a three-electrode version of the Audion for use in radio communications. The device is now known as the [[triode]]. De Forest's device was not strictly a vacuum tube, but clearly depended for its action on ionisation of the relatively high levels of gas remaining after evacuation. The De Forest company, in its Audion leaflets, warned against operation which might cause the vacuum to become too hard. The Finnish inventor [[Eric Tigerstedt]] significantly improved on the original triode design in 1914, while working on his [[sound film|sound-on-film]] process in Berlin, Germany. The first true vacuum triodes were the Pliotrons developed by [[Irving Langmuir]] at the [[General Electric]] research laboratory ([[Schenectady, New York]]) in 1915. Langmuir was one of the first scientists to realize that a harder vacuum would improve the amplifying behaviour of the triode. Pliotrons were closely followed by the French 'R' Type which was in widespread use by the allied military by 1916. These two types were the first true '''vacuum''' tubes. Historically, vacuum levels in production vacuum tubes typically ranged between 10 µPa to 10 nPa.
 
@@ -193,12 +193,12 @@ Such integrated microtubes may find application in [[microwave]] devices includi
 
 ==Патенттер==
 
-* {{US patent|307031}} - Electrical indicator
-* {{US patent|514170}} - Incandescent electric light
-* {{US patent|803684}} - Instrument for converting alternating electric currents into continuous currents ([[Fleming valve]] patent)
-* {{US patent|841387}} - Device for amplifying feeble electrical currents
-* {{US patent|879532}} - De Forest's [[Audion tube|Audion]] 
-* {{US patent|2141059}} - Television system
+* {{US patent|307031}} - Электр индикаторы
+* {{US patent|514170}} - Қыздырылмалы электр шамы
+* {{US patent|803684}} - Айнымалы электр тогын тұрақты электр тогына айналдыратын аспап ([[Флеминг лампысы]]ның патенті)
+* {{US patent|841387}} - Әлсіз электр токтарын күшейтуге арналған құрылғы
+* {{US patent|879532}} - Де Форесттің [[Аудион лампысы|Аудионы]] 
+* {{US patent|2141059}} - Телевизиялық жүйе
 
 ==Түсініктемелер==
 {{reflist}}
