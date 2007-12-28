@@ -1,0 +1,78 @@
+'''Ферманың Ұлы теоремасы́''' (немесе '''Ферманың соңғы теоремасы''') — математикадағы ең әйгілі деуге болытын теоремасы; оның шарты орта мектеп білімі деңгейінде тұжырымдалғанымен, дәлелдеу үшін көптеген мықты математиктер ұзақ уақыт бастарын қатырды. Теорема былай дейді:
+{{рамка}}
+Кез келген [[бүтін сан|бүтін]] <math>n>2</math> үшін
+:<math>a^n+b^n=c^n\,\!</math>
+теңдеуінің натурал <math>a</math>, <math>b</math> және <math>c</math> шешуі болмайды.
+{{/рамка}}
+Теорема была сформулирована [[Ферма, Пьер|Пьером Ферма]] в [[1637]] на полях книги «Арифметика» [[Диофант Александрийский|Диофанта]] с припиской, что найденное им остроумное доказательство этой теоремы слишком длинно, чтобы его можно было здесь поместить. Позже Ферма опубликовал доказательство случая <math>n=4</math>, что добавляет сомнений в том, что у него было доказательство общего случая, иначе он упомянул бы о нём в этой статье.
+
+[[Эйлер, Леонард|Эйлер]] в [[1770]] доказал теорему для случая <math>n=3</math>, [[Дирихле]] и [[Лежандр]] в [[1825]] — для <math>n=5</math>. Свой вклад в доказательство внесли [[Ламе]], [[Жермен, Софи|Софи Жермен]], [[Куммер]] и многие другие выдающиеся математики. Усилия по доказательству теоремы привели к получению многих результатов современной [[теория чисел|теории чисел]].
+
+Из [[гипотеза Морделла|гипотезы Морделла]], доказанной [[Фальтингс, Герд|Фальтингсом]] в [[1983]], следует, что уравнение <math>a^n+b^n=c^n</math> при <math>n>3</math> может иметь лишь конечное число [[взаимно простые числа|взаимно простых]] решений.
+
+Последний шаг в доказательстве теоремы был сделан только в сентябре [[1994]] года [[Уайлс, Эндрю|Эндрю Уайлсом]]. 130-страничное доказательство было опубликовано в журнале «[[:en:Annals of Mathematics|Annals of Mathematics]]». Доказательство основано на том, что Великая теорема Ферма является следствием [[Теорема Таниямы — Симуры|гипотезы Таниямы]]. <ref name="sej9802">{{статья|автор=Соловьев Ю.П.|год=1998|месяц=2|страницы=135–138|заглавие=Гипотеза Таниямы и последняя теорема Ферма|издание=Соросовский Образовательный Журнал|url=http://journal.issep.rssi.ru/page.php?year=1998&number=2&page=135}}</ref>
+
+== См. также ==
+* [[Малая теорема Ферма]]
+
+== Литература ==
+* С.Сингх. ''«[http://ega-math.narod.ru/Singh/FLT.htm Великая теорема Ферма]»'', М.:[http://www.mccme.ru/ МЦНМО], 2000.
+* Ф.Кирсанов. ''«[http://www.orator.ru/rass19.html История Великой Теоремы Ферма]»''
+<references />
+* Дмитрий Абраров [http://polit.ru/science/2006/12/28/abrarov_print.html Теорема Ферма: феномен доказательств Уайлса]
+===На английском===
+* Wiles, Andrew (1995). [http://math.stanford.edu/~lekheng/flt/wiles.pdf Modular elliptic curves and Fermat's last theorem], ''Annals of Mathematics'' ('''141''') (3), 443-551. 
+* Taylor, Richard & Wiles, Andrew (1995). [http://www.math.harvard.edu/~rtaylor/hecke.ps Ring theoretic properties of certain Hecke algebras], ''Annals of Mathematics'' ('''141''') (3), 553-572.  
+* Faltings, Gerd (1995). [http://www.ams.org/notices/199507/faltings.pdf The Proof of Fermat's last theorem by R. Taylor and A. Wiles], ''Notices of the AMS'' ('''42''') (7), 743-746. 
+* Daney, Charles (2003). [http://cgd.best.vwh.net/home/flt/flt01.htm The Mathematics of Fermat's last theorem]. Retrieved Aug. 5, 2004.
+* O'Connor, J. J. & and Robertson, E. F. (1996). [http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Fermat%27s_last_theorem.html Fermat's last theorem. The history of the problem]. Retrieved Aug. 5, 2004.
+* Shay, David (2003). [http://fermat.workjoke.com/ Fermat's last theorem. The story, the history and the mystery]. Retrieved Aug. 5, 2004.
+* The Moment of Proof : Mathematical Epophanies, by [[Donald C. Benson]]; Oxford University Press; ISBN 0-19-513919-4 (paperback, 1999)
+
+[[Категория:Теория чисел]]
+[[Категория:Теоремы]]
+[[Категория:Диофантовы уравнения]]
+
+[[ar:مبرهنة فيرما الأخيرة]]
+[[az:Dahi Ferma Teoremi]]
+[[be-x-old:Вялікая тэарэма Фэрма]]
+[[bg:Последна теорема на Ферма]]
+[[bn:ফের্মার শেষ উপপাদ্য]]
+[[ca:Últim teorema de Fermat]]
+[[cs:Velká Fermatova věta]]
+[[da:Fermats sidste sætning]]
+[[de:Großer fermatscher Satz]]
+[[el:Το τελευταίο θεώρημα του Φερμά]]
+[[en:Fermat's last theorem]]
+[[es:Último teorema de Fermat]]
+[[fa:قضیه آخر فرما]]
+[[fi:Fermat'n suuri lause]]
+[[fr:Dernier théorème de Fermat]]
+[[gl:Último Teorema de Fermat]]
+[[he:המשפט האחרון של פרמה]]
+[[hu:Nagy Fermat-tétel]]
+[[id:Teorema Terakhir Fermat]]
+[[it:Ultimo teorema di Fermat]]
+[[ja:フェルマーの最終定理]]
+[[ka:ფერმას დიდი თეორემა]]
+[[ko:페르마의 마지막 정리]]
+[[lmo:Darée teurema da Fermat]]
+[[lt:Didžioji Ferma teorema]]
+[[mn:Фермагийн их теорем]]
+[[nl:Stelling van Fermat]]
+[[no:Fermats siste teorem]]
+[[pl:Wielkie twierdzenie Fermata]]
+[[pms:Grand teorema ëd Fermat]]
+[[pt:Último Teorema de Fermat]]
+[[ro:Marea teoremă a lui Fermat]]
+[[scn:Ùrtimu tiurema di Fermat]]
+[[simple:Fermat's last theorem]]
+[[sk:Veľká Fermatova veta]]
+[[sl:Fermatov veliki izrek]]
+[[sr:Последња Фермаова теорема]]
+[[sv:Fermats stora sats]]
+[[th:ทฤษฎีบทสุดท้ายของแฟร์มาต์]]
+[[tr:Fermat'nın Son Teoremi]]
+[[uk:Теорема Ферма (велика)]]
+[[vi:Định lý lớn Fermat]]
+[[zh:费马大定理]]
