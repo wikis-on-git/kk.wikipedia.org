@@ -47,101 +47,240 @@
 
 ==== Төте жазу үлгіттері ====
 Төменгі кестеде қазақ төте жазуының әліппесі берілген. Әр әріптің дара жазылу нұсқасы, сөздің басында, ортасында<ref>Кейбір әріптердің араб жазуының ерекшеліктері салдарынан сөз басындағы не ортасындағы нұсқалары болмауы мүмкін.</ref> және аяғында жазылу нұсқалары берілген. Тек қазақ тіліне тән әріптердің астында сыртқы сілтеме<ref>Сілтемелер [http://www.fileformat.info/] сайтының тиісті бетіне нұсқайды. Бұл жерде әріпке қатысты анықтама ақпаратпен таныса аласыз</ref> түрінде сәйкесті [[юникод]] кодтары<ref>Бұл код арқылы MS Word секілді кейбір мәтін редакторларында тиісті әріпті теруіңізге болады, ол үшін кодты жазып, «Alt» және «X» пернелерін қоса басыңыз</ref> берілген.
-<div class="plainlinks" style="font-family:'Arial Unicode MS';">
-{| class="standard"
+
+{|class="wikitable"
 |-
-! дара<br />түрі
-! сөз<br />басына
-! сөз<br />ортасында
-! сөз<br />аяғында
-! атауы
-! кирил
-|- align="center"
-|{{төте|&#1575;}} || || || {{төте|&#65166;}} || әліп || а
-|- align="center"
-| {{төте|&#1653;}}<br />[http://www.fileformat.info/info/unicode/char/0675 0675] || || || {{төте|&#65166;}} ||һәмзә-әліп||	ә
-|- align="center"
-| {{төте|&#1576;}} || {{төте|&#65169;}}|| {{төте|&#65170;}} || {{төте|&#65168;}} || ба ||	б
-|- align="center"
-| {{төте|&#1734;}}<br />[http://www.fileformat.info/info/unicode/char/06c6 06C6] || || || {{төте|&#64474;}}<br />[http://www.fileformat.info/info/unicode/char/fbda FBDA] || уе ||	в
-|- align="center"
-| {{төте|&#1711;}}<br />[http://www.fileformat.info/info/unicode/char/fb92 FB92]|| {{төте|&#64404;}}<br />[http://www.fileformat.info/info/unicode/char/fb94 FB94]|| {{төте|&#64405;}}<br />[http://www.fileformat.info/info/unicode/char/fb95 FB95]|| {{төте|&#64403;}}<br />[http://www.fileformat.info/info/unicode/char/fb93 FB93]|| гәф ||	г
-|- align="center"
-| {{төте|&#1593;}} || {{төте|&#65227;}} || {{төте|&#65228;}} || {{төте|&#65226;}} || аин ||	ғ
-|- align="center"
-| {{төте|&#1583;}} || || || {{төте|&#65194;}} || дәл ||	д
-|- align="center"
-| {{төте|&#1749;}}<br />[http://www.fileformat.info/info/unicode/char/06d5 06D5] || || || {{төте|&#65258;}} || ае	||	е
-|- align="center"
-| || || || ||	||	ё
-|- align="center"
-| {{төте|&#1580;}} ||{{төте|&#65183;}} || {{төте|&#65184;}} || {{төте|&#65182;}} || жим ||	ж
-|- align="center"
-| {{төте|&#1586;}} || || || {{төте|&#65200;}} || заин ||	з
-|- align="center"
-| {{төте|&#1610;}} || {{төте|&#65267;}} || {{төте|&#65268;}} || {{төте|&#65266;}} ||я екі нұқат||	и
-|- align="center"
-| {{төте|&#1610;}} || {{төте|&#65267;}} || {{төте|&#65268;}} || {{төте|&#65266;}} ||я екі нұқат||	й
-|- align="center"
-| {{төте|&#1603;}} || {{төте|&#65243;}} || {{төте|&#65244;}} || {{төте|&#65242;}} || кәф ||	к
-|- align="center"
-| {{төте|&#1602;}} || {{төте|&#65239;}} || {{төте|&#65240;}} || {{төте|&#65238;}} || қаф ||	қ
-|- align="center"
-| {{төте|&#1604;}} || {{төте|&#65247;}} || {{төте|&#65248;}} || {{төте|&#65246;}} || ләм ||	л
-|- align="center"
-| {{төте|&#1605;}} || {{төте|&#65251;}} || {{төте|&#65252;}} || {{төте|&#65250;}} || мим ||	м
-|- align="center"
-| {{төте|&#1606;}} || {{төте|&#65255;}} || {{төте|&#65256;}} || {{төте|&#65254;}} || нун ||	н
-|- align="center"
-| {{төте|&#1709;}}<br />[http://www.fileformat.info/info/unicode/char/06AD 06AD]|| {{төте|&#64469;}}<br />[http://www.fileformat.info/info/unicode/char/fbd5 FBD5] || {{төте|&#64470;}}<br />[http://www.fileformat.info/info/unicode/char/fbd6 FBD6] || {{төте|&#64468;}}<br />[http://www.fileformat.info/info/unicode/char/fbd4 FBD4] ||еңге / кәф үш нұқат||	ң
-|- align="center"
-| {{төте|&#1608;}} || || || {{төте|&#65262;}} || уау	||	о
-|- align="center"
-| {{төте|&#1654;}}<br />[http://www.fileformat.info/info/unicode/char/0676 0676] || || || {{төте|ٴو}} ||һәмзә-уау||	ө
-|- align="center"
-| {{төте|&#1662;}}<br />[http://www.fileformat.info/info/unicode/char/fb56 FB56] || {{төте|&#64344;}}<br />[http://www.fileformat.info/info/unicode/char/fb58 FB58]|| {{төте|&#64345;}}<br />[http://www.fileformat.info/info/unicode/char/fb59 FB59] || {{төте|&#64343;}}<br />[http://www.fileformat.info/info/unicode/char/fb57 FB57] || па ||	п
-|- align="center"
-| {{төте|&#1585;}} || || || {{төте|&#65198;}} || ра ||	р
-|- align="center"
-| {{төте|&#1587;}} || {{төте|&#65203;}} || {{төте|&#65204;}} || {{төте|&#65202;}} || син ||	с
-|- align="center"
-| {{төте|&#1578;}} || {{төте|&#65175;}} || {{төте|&#65176;}} || {{төте|&#65174;}} || та ||	т
-|- align="center"
-| {{төте|&#1739;}}<br />[http://www.fileformat.info/info/unicode/char/06CB 06CB] || || || {{төте|&#64479;}}<br />[http://www.fileformat.info/info/unicode/char/fbdf FBDF] ||уа / уау үш нұқат||	у
-|- align="center"
-| {{төте|&#1735;}}<br />[http://www.fileformat.info/info/unicode/char/fbd7 FBD7] || || ||{{төте| &#64472;}}<br />[http://www.fileformat.info/info/unicode/char/fbd8 FBD8] ||дамма-уа /дамма-уау||	ұ
-|- align="center"
-| {{төте|&#1655;}}<br />[http://www.fileformat.info/info/unicode/char/0677 0677] || || ||{{төте| &#64472;}}<br />[http://www.fileformat.info/info/unicode/char/fbd8 FBD8] ||һәмзә-уа / һәмзә-дамма-уау||	ү
-|- align="center"
-| {{төте|&#1601;}} || {{төте|&#65235;}} || {{төте|&#65236;}} || {{төте|&#65234;}} || фа ||	ф
-|- align="center"
-| {{төте|&#1581;}} || {{төте|&#65187;}} || {{төте|&#65188;}} || {{төте|&#65186;}} || ха ||	х
-|- align="center"
-| {{төте|&#1726;}} || {{төте|&#64428;}} || {{төте|&#65260;}} || || һә ||	һ
-|- align="center"
-| {{төте|&#1670;}}<br />[http://www.fileformat.info/info/unicode/char/fb7a FB7A] || {{төте|&#64380;}}<br />[http://www.fileformat.info/info/unicode/char/fb7c FB7C] || {{төте|&#64381;}}<br />[http://www.fileformat.info/info/unicode/char/fb7d FB7D] || {{төте|&#64379;}}<br />[http://www.fileformat.info/info/unicode/char/fb7b FB7B] || ча ||	ч
-|- align="center"
-| {{төте|&#1588;}} || {{төте|&#65207;}} || {{төте|&#65208;}} || {{төте|&#65206;}} || шин ||	ш
-|- align="center"
-| || || || || ||	щ
-|- align="center"
-| || || || || ||	ъ
-|- align="center"
-| {{төте|&#64508;}} || {{төте|&#64488;}}<br />[http://www.fileformat.info/info/unicode/char/fbe8 FBE8] || {{төте|&#64489;}}<br />[http://www.fileformat.info/info/unicode/char/fbe9 FBE9] || {{төте|&#64509;}} || я ||	ы
-|- align="center"
-| {{төте|&#1656;}}<br />[http://www.fileformat.info/info/unicode/char/0678 0678] || {{төте|&#64488;}}<br />[http://www.fileformat.info/info/unicode/char/fbe8 FBE8] || {{төте|&#64489;}}<br />[http://www.fileformat.info/info/unicode/char/fbe9 FBE9] || {{төте|&#64509;}} || һәмзә-я||	і
-|- align="center"
-| || || || || ||	ь
-|- align="center"
-| || || || || ||	э
-|- align="center"
-|{{төте|&#1737;}}<br />[http://www.fileformat.info/info/unicode/char/06c9 06C9] || || || || ||	ю
-|- align="center"
-| || || || || ||	я
-|- align="center"
-| {{төте|&#1652;}}<br />[http://www.fileformat.info/info/unicode/char/0674 0674] || || || ||һәмзә ||
-|- align="center"
-| {{төте|&#65275;}} || || || {{төте|&#65276;}} || ләм-әліп||	ла
+!rowspan="2"|Жалпы<br />Unicode
+!colspan="4"|Сөздегі орны бойынша жазылу түрлері
+!rowspan="2"|Атауы
+!rowspan="2"|Кирил<br />жазуымен
+|-
+!дара
+!аяғында
+!ортада
+!басында
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0627}}</small><br /><font size="5">{{төте|ا}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FE8D}}</small><br /><font size="5">{{төте|ﺍ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FE8E}}</small><br /><font size="5">{{төте|ﺎ}}</font>
+|style="line-height:180%;padding:10px;background:#EEEEEE" colspan="2"|—
+|[[әліп]]
+| а,  ә¹
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0628}}</small><br /><font size="5">{{төте|ب}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FE8F}}</small><br /><font size="5">{{төте|ﺏ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FE90}}</small><br /><font size="5">{{төте|ﺐ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FE92}}</small><br /><font size="5">{{төте|ﺒ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FE91}}</small><br /><font size="5">{{төте|ﺑ}}</font>
+|[[ба]]
+|б
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|067E}}</small><br /><font size="5">{{төте|پ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FB56}}</small><br /><font size="5">{{төте|ﭖ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FB57}}</small><br /><font size="5">{{төте|ﭗ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FB59}}</small><br /><font size="5">{{төте|ﭙ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FB58}}</small><br /><font size="5">{{төте|ﭘ}}</font>
+|[[па]]
+|п
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|062A}}</small><br /><font size="5">{{төте|ت}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FE95}}</small><br /><font size="5">{{төте|ﺕ}}</font> 
+|style="line-height:180%;padding:10px;"|<small>{{char|FE96}}</small><br /><font size="5">{{төте|ﺖ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FE98}}</small><br /><font size="5">{{төте|ﺘ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FE97}}</small><br /><font size="5">{{төте|ﺗ}}</font>
+|[[та]]
+|т
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|062C}}</small><br /><font size="5">{{төте|ج}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FE9D}}</small><br /><font size="5">{{төте|ﺝ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FE9E}}</small><br /><font size="5">{{төте|ﺞ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEA0}}</small><br /><font size="5">{{төте|ﺠ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FE9F}}</small><br /><font size="5">{{төте|ﺟ}}</font>
+|[[жиым]]
+|ж
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0686}}</small><br /><font size="5">{{төте|چ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FB7A}}</small><br /><font size="5">{{төте|ﭺ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FB7B}}</small><br /><font size="5">{{төте|ﭻ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FB7D}}</small><br /><font size="5">{{төте|ﭽ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FB7C}}</small><br /><font size="5">{{төте|ﭼ}}</font>
+|[[ча]]
+|ч
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|062D}}</small><br /><font size="5">{{төте|ح}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEA1}}</small><br /><font size="5">{{төте|ﺡ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEA2}}</small><br /><font size="5">{{төте|ﺢ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEA4}}</small><br /><font size="5">{{төте|ﺤ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEA3}}</small><br /><font size="5">{{төте|ﺣ}}</font>
+|[[ха]]
+|х
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|062F}}</small><br /><font size="5">{{төте|د}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEA9}}</small><br /><font size="5">{{төте|ﺩ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEAA}}</small><br /><font size="5">{{төте|ﺪ}}</font>
+|style="line-height:180%;padding:10px;background:#EEEEEE" colspan="2"|—
+|[[дәл (араб)|дәл]]
+|д
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0631}}</small><br /><font size="5">{{төте|ر}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEAD}}</small><br /><font size="5">{{төте|ﺭ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEAE}}</small><br /><font size="5">{{төте|ﺮ}}</font>
+|style="line-height:180%;padding:10px;background:#EEEEEE" colspan="2"|—
+|[[ре]]
+|р
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0632}}</small><br /><font size="5">{{төте|ز}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEAF}}</small><br /><font size="5">{{төте|ﺯ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEB0}}</small><br /><font size="5">{{төте|ﺰ}}</font>
+|style="line-height:180%;padding:10px;background:#EEEEEE" colspan="2"|—
+|[[зайын]]
+|з
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0633}}</small><br /><font size="5">{{төте|س}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEB1}}</small><br /><font size="5">{{төте|ﺱ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEB2}}</small><br /><font size="5">{{төте|ﺲ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEB4}}</small><br /><font size="5">{{төте|ﺴ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEB3}}</small><br /><font size="5">{{төте|ﺳ}}</font>
+|[[сиын]]
+|с
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0634}}</small><br /><font size="5">{{төте|ش}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEB5}}</small><br /><font size="5">{{төте|ﺵ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEB6}}</small><br /><font size="5">{{төте|ﺶ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEB8}}</small><br /><font size="5">{{төте|ﺸ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEB7}}</small><br /><font size="5">{{төте|ﺷ}}</font>
+|[[шиын]] (сиын үш нөқат)
+|ш
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0639}}</small><br /><font size="5">{{төте|ع}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEC9}}</small><br /><font size="5">{{төте|ﻉ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FECA}}</small><br /><font size="5">{{төте|ﻊ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FECC}}</small><br /><font size="5">{{төте|ﻌ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FECB}}</small><br /><font size="5">{{төте|ﻋ}}</font>
+|[[айын]]
+|ғ
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0641}}</small><br /><font size="5">{{төте|ف}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FED1}}</small><br /><font size="5">{{төте|ﻑ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FED2}}</small><br /><font size="5">{{төте|ﻒ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FED4}}</small><br /><font size="5">{{төте|ﻔ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FED3}}</small><br /><font size="5">{{төте|ﻓ}}</font>
+|[[фа (араб)|фа]]
+|ф
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0642}}</small><br /><font size="5">{{төте|ق}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FED5}}</small><br /><font size="5">{{төте|ﻕ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FED6}}</small><br /><font size="5">{{төте|ﻖ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FED8}}</small><br /><font size="5">{{төте|ﻘ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FED7}}</small><br /><font size="5">{{төте|ﻗ}}</font>
+|[[қаф]]
+|қ
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0643}}</small><br /><font size="5">{{төте|ك}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FED9}}</small><br /><font size="5">{{төте|ﻙ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEDA}}</small><br /><font size="5">{{төте|ﻚ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEDC}}</small><br /><font size="5">{{төте|ﻜ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEDB}}</small><br /><font size="5">{{төте|ﻛ}}</font>
+|[[кәф]]
+|к
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|06AF}}</small><br /><font size="5">{{төте|گ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FB92}}</small><br /><font size="5">{{төте|ﮒ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FB93}}</small><br /><font size="5">{{төте|ﮓ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FB95}}</small><br /><font size="5">{{төте|ﮕ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FB94}}</small><br /><font size="5">{{төте|ﮔ}}</font>
+|[[гәф]]
+|г
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0644}}</small><br /><font size="5">{{төте|ل}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEDD}}</small><br /><font size="5">{{төте|ﻝ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEDE}}</small><br /><font size="5">{{төте|ﻞ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEE0}}</small><br /><font size="5">{{төте|ﻠ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEDF}}</small><br /><font size="5">{{төте|ﻟ}}</font>
+|[[ләм]]
+|л
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0645}}</small><br /><font size="5">{{төте|م}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEE1}}</small><br /><font size="5">{{төте|ﻡ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEE2}}</small><br /><font size="5">{{төте|ﻢ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEE4}}</small><br /><font size="5">{{төте|ﻤ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEE3}}</small><br /><font size="5">{{төте|ﻣ}}</font>
+|[[миым]]
+|м
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0646}}</small><br /><font size="5">{{төте|ن}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEE5}}</small><br /><font size="5">{{төте|ﻥ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEE6}}</small><br /><font size="5">{{төте|ﻦ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEE8}}</small><br /><font size="5">{{төте|ﻨ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEE7}}</small><br /><font size="5">{{төте|ﻧ}}</font>
+|[[нұн]]
+|н
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|06BE}}</small><br /><font size="5">{{төте|ھ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FBAA}}</small><br /><font size="5">{{төте|ﮪ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FBAB}}</small><br /><font size="5">{{төте|ﮫ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FBAD}}</small><br /><font size="5">{{төте|ﮭ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FBAC}}</small><br /><font size="5">{{төте|ﮬ}}</font>
+|[[һә (араб)|һә]]
+|һ
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|06D5}}</small><br /><font size="5">{{төте|ە}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEE9}}</small><br /><font size="5">{{төте|ﻩ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEEA}}</small><br /><font size="5">{{төте|ﻪ}}</font>
+|style="line-height:180%;padding:10px;background:#EEEEEE" colspan="2"|—
+|[[е (араб)|е]]
+|е
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0648}}</small><br /><font size="5">{{төте|و}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEED}}</small><br /><font size="5">{{төте|ﻭ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEEE}}</small><br /><font size="5">{{төте|ﻮ}}</font>
+|style="line-height:180%;padding:10px;background:#EEEEEE" colspan="2"|—
+|[[уау]]
+|о, ө¹
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|06C7}}</small><br /><font size="5">{{төте|ۇ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FBD7}}</small><br /><font size="5">{{төте|ﯗ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FBD8}}</small><br /><font size="5">{{төте|ﯘ}}</font>
+|style="line-height:180%;padding:10px;background:#EEEEEE" colspan="2"|—
+|[[дамма-уау]]
+|ұ, ү¹
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|06CB}}</small><br /><font size="5">{{төте|ۋ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FBDE}}</small><br /><font size="5">{{төте|ﯞ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FBDF}}</small><br /><font size="5">{{төте|ﯟ}}</font>
+|style="line-height:180%;padding:10px;background:#EEEEEE" colspan="2"|—
+|[[уау үш ноқат]]
+|у
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|06C6}}</small><br /><font size="5">{{төте|ۆ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FBD9}}</small><br /><font size="5">{{төте|ﯙ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FBDA}}</small><br /><font size="5">{{төте|ﯚ}}</font>
+|style="line-height:180%;padding:10px;background:#EEEEEE" colspan="2"|—
+|[[уау құсбелгі]]
+|в
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0649}}</small><br /><font size="5">{{төте|ى}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEEF}}</small><br /><font size="5">{{төте|ﻯ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEF0}}</small><br /><font size="5">{{төте|ﻰ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FBE9}}</small><br /><font size="5">{{төте|ﯩ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FBE8}}</small><br /><font size="5">{{төте|ﯨ}}</font>
+|[[я (араб)|я]]
+|ы, і¹ 
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|064A}}</small><br /><font size="5">{{төте|ي}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEF1}}</small><br /><font size="5">{{төте|ﻱ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEF2}}</small><br /><font size="5">{{төте|ﻲ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEF4}}</small><br /><font size="5">{{төте|ﻴ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FEF3}}</small><br /><font size="5">{{төте|ﻳ}}</font>
+|[[я екі ноқат]]
+|й
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0674}}</small><br /><font size="5">{{төте|ٴ}}</font>
+|style="line-height:180%;padding:10px;background:#EEEEEE" colspan="4"|—
+|[[дәйекше]] (һәмзе)
+|жіңішкелік белгісі
+|-align="left"
+|style="line-height:180%;padding:10px;background:#EEEEEE" colspan="7"|<small>¹Дәйекшемен</small>
 |}
 
 == Тарихи әліппелер ==
