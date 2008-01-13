@@ -98,14 +98,6 @@
 |[[жійм]]
 |ж
 |-align="center"
-|style="line-height:180%;padding:10px;"|<small>{{char|0686}}</small><br /><font size="5">{{төте|چ}}</font>
-|style="line-height:180%;padding:10px;"|<small>{{char|FB7A}}</small><br /><font size="5">{{төте|ﭺ}}</font>
-|style="line-height:180%;padding:10px;"|<small>{{char|FB7B}}</small><br /><font size="5">{{төте|ﭻ}}</font>
-|style="line-height:180%;padding:10px;"|<small>{{char|FB7D}}</small><br /><font size="5">{{төте|ﭽ}}</font>
-|style="line-height:180%;padding:10px;"|<small>{{char|FB7C}}</small><br /><font size="5">{{төте|ﭼ}}</font>
-|[[ха үш ноқат]]
-|ч
-|-align="center"
 |style="line-height:180%;padding:10px;"|<small>{{char|062D}}</small><br /><font size="5">{{төте|ح}}</font>
 |style="line-height:180%;padding:10px;"|<small>{{char|FEA1}}</small><br /><font size="5">{{төте|ﺡ}}</font>
 |style="line-height:180%;padding:10px;"|<small>{{char|FEA2}}</small><br /><font size="5">{{төте|ﺢ}}</font>
@@ -148,7 +140,7 @@
 |style="line-height:180%;padding:10px;"|<small>{{char|FEB6}}</small><br /><font size="5">{{төте|ﺶ}}</font>
 |style="line-height:180%;padding:10px;"|<small>{{char|FEB8}}</small><br /><font size="5">{{төте|ﺸ}}</font>
 |style="line-height:180%;padding:10px;"|<small>{{char|FEB7}}</small><br /><font size="5">{{төте|ﺷ}}</font>
-|[[шыйн]]<br />(сиын үш ноқат)
+|[[шыйн]]<br />(сыйн үш ноқат)
 |ш
 |-align="center"
 |style="line-height:180%;padding:10px;"|<small>{{char|0639}}</small><br /><font size="5">{{төте|ع}}</font>
@@ -223,14 +215,6 @@
 |[[кәф үш ноқат]]
 |ң
 |-align="center"
-|style="line-height:180%;padding:10px;"|<small>{{char|06BE}}</small><br /><font size="5">{{төте|ھ}}</font>
-|style="line-height:180%;padding:10px;"|<small>{{char|FBAA}}</small><br /><font size="5">{{төте|ﮪ}}</font>
-|style="line-height:180%;padding:10px;"|<small>{{char|FBAB}}</small><br /><font size="5">{{төте|ﮫ}}</font>
-|style="line-height:180%;padding:10px;"|<small>{{char|FBAD}}</small><br /><font size="5">{{төте|ﮭ}}</font>
-|style="line-height:180%;padding:10px;"|<small>{{char|FBAC}}</small><br /><font size="5">{{төте|ﮬ}}</font>
-|[[һә екі көз]]
-|һ
-|-align="center"
 |style="line-height:180%;padding:10px;"|<small>{{char|06D5}}</small><br /><font size="5">{{төте|ە}}</font>
 |style="line-height:180%;padding:10px;"|<small>{{char|FEE9}}</small><br /><font size="5">{{төте|ﻩ}}</font>
 |style="line-height:180%;padding:10px;"|<small>{{char|FEEA}}</small><br /><font size="5">{{төте|ﻪ}}</font>
@@ -288,6 +272,37 @@
 |жіңішкелік белгісі
 |-align="left"
 |style="line-height:180%;padding:10px;background:#EEEEEE" colspan="7"|<small>¹Дәйекшемен</small>
+|}
+
+Бейресми қосымша әріптер. Өте сирек кездеседі.
+
+{|class="wikitable"
+|-
+!rowspan="2"|Жалпы<br />Unicode
+!colspan="4"|Сөздегі орны бойынша жазылу түрлері
+!rowspan="2"|Атауы
+!rowspan="2"|Кирил<br />жазу сәйкесі
+|-
+!дара
+!аяғында
+!ортада
+!басында
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|0686}}</small><br /><font size="5">{{төте|چ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FB7A}}</small><br /><font size="5">{{төте|ﭺ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FB7B}}</small><br /><font size="5">{{төте|ﭻ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FB7D}}</small><br /><font size="5">{{төте|ﭽ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FB7C}}</small><br /><font size="5">{{төте|ﭼ}}</font>
+|[[ха үш ноқат]]
+|ч
+|-align="center"
+|style="line-height:180%;padding:10px;"|<small>{{char|06BE}}</small><br /><font size="5">{{төте|ھ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FBAA}}</small><br /><font size="5">{{төте|ﮪ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FBAB}}</small><br /><font size="5">{{төте|ﮫ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FBAD}}</small><br /><font size="5">{{төте|ﮭ}}</font>
+|style="line-height:180%;padding:10px;"|<small>{{char|FBAC}}</small><br /><font size="5">{{төте|ﮬ}}</font>
+|[[һә екі көз]]
+|һ
 |}
 
 == Тарихи әліппелер ==
