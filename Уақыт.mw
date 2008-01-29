@@ -1,38 +1,36 @@
 <!-- BEGIN common units of time table -->
 {| class="wikitable" style="float:right; margin: 0.5em 0 0.5em 1em; font-size:85%"
-|+ Common units of time
+|+ Танымал Уақыт өлшем бірліктері
 |-
 ! Unit !! Size!!Notes
 |-
-| [[nanosecond]] || 0.000 000 001 seconds||
+| [[наносекунд]] || 0.000 000 001 секунд||
 |-
-| [[microsecond]] || 0.000 001 seconds||
+| [[микросекунд]] || 0.000 001 секунд||
 |-
-| [[millisecond]] || 0.001 seconds||
+| [[миллисекунд]] || 0.001 секунд||
 |-
-| [[second]] || [[SI]] base unit||
+| [[секунд]] || [[SI]] іргелі бірлік||
 |-
-| [[minute]] || 60 seconds||
+| [[минут]] || 60 секунд||
 |-
-| [[hour]] || 60 minutes||
+| [[сағат]] || 60 минут||
 |-
-| [[day]] || 24 hours||
+| [[күн]] || 24 сағат||
 |-
-| [[week]] || 7 days||
+| [[апта]] || 7 күн||
 |-
-| [[fortnight]] || 14 days || 2 weeks
+| [[ай]] || 28 - 31 күн||
 |-
-| [[month]] || 28 to 31 days||
+| [[тоқсан]] || 3 ай||
 |-
-| [[Fiscal year|quarter]] || 3 months||
+| [[жыл]] || 12 ай||
 |-
-| [[year]] || 12 months||
-|-
-| common [[year]] || 365 days||52 weeks + 1 day
+| жәй [[жыл]] || 365 күн||52 апта + 1 күн
 |-
 | [[leap year]] || 366 days||52 weeks + 2 days
 |-
-| [[tropical year]] || 365.24219 days||average
+| [[тропиктік жыл]] || 365.24219 күн||орташа
 |-
 | [[Gregorian calendar|Gregorian year]] || 365.2425 days||average
 |-
