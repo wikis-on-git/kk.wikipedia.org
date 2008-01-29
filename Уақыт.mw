@@ -1,3 +1,58 @@
+<!-- BEGIN common units of time table -->
+{| class="wikitable" style="float:right; margin: 0.5em 0 0.5em 1em; font-size:85%"
+|+ Common units of time
+|-
+! Unit !! Size!!Notes
+|-
+| [[nanosecond]] || 0.000 000 001 seconds||
+|-
+| [[microsecond]] || 0.000 001 seconds||
+|-
+| [[millisecond]] || 0.001 seconds||
+|-
+| [[second]] || [[SI]] base unit||
+|-
+| [[minute]] || 60 seconds||
+|-
+| [[hour]] || 60 minutes||
+|-
+| [[day]] || 24 hours||
+|-
+| [[week]] || 7 days||
+|-
+| [[fortnight]] || 14 days || 2 weeks
+|-
+| [[month]] || 28 to 31 days||
+|-
+| [[Fiscal year|quarter]] || 3 months||
+|-
+| [[year]] || 12 months||
+|-
+| common [[year]] || 365 days||52 weeks + 1 day
+|-
+| [[leap year]] || 366 days||52 weeks + 2 days
+|-
+| [[tropical year]] || 365.24219 days||average
+|-
+| [[Gregorian calendar|Gregorian year]] || 365.2425 days||average
+|-
+| [[Olympiad]] || 4 year cycle ||
+|-
+| [[lustrum]] || 5 years||
+|-
+| [[decade]] || 10 years||
+|-
+| [[Indiction]] || 15 year cycle ||
+|-
+| [[Twenty|score]] || 20 years||
+|-
+| [[generation]] || 25 years ||approximate
+|-
+| [[century]] || 100 years||
+|-
+| [[millennium]] || 1,000 years||
+|}
+<!-- END common units of time table -->
 '''Уақыт''' - өлшемдер жүйесінің оқиғаларды реттеу, олардың ұзақтығын және араларындағы интервалдарын сипаттауда, және нәрселердің қозғалысын сипаттауда пайдаланатын маңызды мүшесі. Уақыт [[мифология]], [[философия]] және [[ғылым|ғылымның]] әр салада пайдалану үшін қарама-қайшылысыз сипаттау, зерттеу нысаны болып, талай-талай ұлы ғалымдарды өмірге әкелген.
 
 [[Физика]] мен басқа ғылымдарда уақыт іргелі өлшем болып табылады, яғни ол  басқа өлшемдер арқылы өрнектелмейді, себебі басқалары – [[жылдамдық]], [[күш]], [[қуат]] сияқты өздері іргелі өлшемдермен өрнектеледі (атап айтқанда бұл жағдайда – уақыт, әрі ''кеңістік'' деп аталатын келесі іргелі өлшемдермен). Ғылымда керектігі, әрі мүмкіндігі – өлшем үшін пайдаланатын және таңдалынып алынған өлшем бірлігі бар уақыт - операциялық анықтамасы қолданылады.
