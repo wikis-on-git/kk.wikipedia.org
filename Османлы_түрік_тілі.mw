@@ -61,119 +61,121 @@
 
 {| class="wikitable"
 |-
-! Жекеше
-! Сөз соңында
-! Сөз ортасында
-! Сөз басында
-! Аты
-! [[ALA-LC романдандыруы|ALA-LC]] траслитерациясы
-! [[Түрік тілі|қазіргі түрікшеде]]
+! colspan="4"|Сөздегі орны бойынша жазылу түрлері
+! rowspan="2"|Аты
+! rowspan="2"|[[ALA-LC романдандыруы|ALA-LC]]<br />траслитерациясы
+! rowspan="2"|[[Түрік тілі|қазіргі<br />түрікшеде]]
+|-
+!дара
+!аяғында
+!ортада
+!басында
 |- align="center"
-| <font size="5">ﺍ</font>||<font size="5">ﺎ</font>||colspan="2"|—
+| <font size="5">{{lang|ota|ﺍ}}</font>||<font size="5">{{lang|ota|ﺎ}}</font>||colspan="2"|—
 | elif || a, â || a, e
 |- align="center"
-| <font size="5">ﺀ</font>||colspan="3"|—
+| <font size="5">{{lang|ota|ﺀ}}</font>||colspan="3"|—
 | hemze || {{Unicode|ˀ}} || ', a, e, i, u, ü
 |- align="center"
-| <font size="5">ﺏ</font>||<font size="5">ﺐ</font>||<font size="5">ﺒ</font>||<font size="5">ﺑ</font>
+| <font size="5">{{lang|ota|ﺏ}}</font>||<font size="5">{{lang|ota|ﺐ}}</font>||<font size="5">{{lang|ota|ﺒ}}</font>||<font size="5">{{lang|ota|ﺑ}}</font>
 | be || b, p || b
 |- align="center"
-|<font size="5">ﭖ</font>||<font size="5">ﭗ</font>||<font size="5">ﭙ</font>||<font size="5">ﭘ</font>
+|<font size="5">{{lang|ota|ﭖ}}</font>||<font size="5">{{lang|ota|ﭗ}}</font>||<font size="5">{{lang|ota|ﭙ}}</font>||<font size="5">{{lang|ota|ﭘ}}</font>
 | pe || p || p
 |- align="center"
-|<font size="5">ﺕ</font>||<font size="5">ﺖ</font>||<font size="5">ﺘ</font>||<font size="5">ﺗ</font>
+|<font size="5">{{lang|ota|ﺕ}}</font>||<font size="5">{{lang|ota|ﺖ}}</font>||<font size="5">{{lang|ota|ﺘ}}</font>||<font size="5">{{lang|ota|ﺗ}}</font>
 | te || t || t
 |- align="center"
-|<font size="5">ﺙ</font>||<font size="5">ﺚ</font>||<font size="5">ﺜ</font>||<font size="5">ﺛ</font>
+|<font size="5">{{lang|ota|ﺙ}}</font>||<font size="5">{{lang|ota|ﺚ}}</font>||<font size="5">{{lang|ota|ﺜ}}</font>||<font size="5">{{lang|ota|ﺛ}}</font>
 | se || <u>s</u> || s
 |- align="center"
-|<font size="5">ﺝ</font>||<font size="5">ﺞ</font>||<font size="5">ﺠ</font>||<font size="5">ﺟ</font>
+|<font size="5">{{lang|ota|ﺝ}}</font>||<font size="5">{{lang|ota|ﺞ}}</font>||<font size="5">{{lang|ota|ﺠ}}</font>||<font size="5">{{lang|ota|ﺟ}}</font>
 | cim || c, ç || c
 |- align="center"
-|<font size="5">ﭺ</font>||<font size="5">ﭻ</font>||<font size="5">ﭽ</font>||<font size="5">ﭼ</font>
+|<font size="5">{{lang|ota|ﭺ}}</font>||<font size="5">{{lang|ota|ﭻ}}</font>||<font size="5">{{lang|ota|ﭽ}}</font>||<font size="5">{{lang|ota|ﭼ}}</font>
 | çim || ç || ç
 |- align="center"
-|<font size="5">ﺡ</font>||<font size="5">ﺢ</font>||<font size="5">ﺤ</font>||<font size="5">ﺣ</font>
+|<font size="5">{{lang|ota|ﺡ}}</font>||<font size="5">{{lang|ota|ﺢ}}</font>||<font size="5">{{lang|ota|ﺤ}}</font>||<font size="5">{{lang|ota|ﺣ}}</font>
 | ha || {{Unicode|ḥ}} || h
 |- align="center"
-|<font size="5">ﺥ</font>||<font size="5">ﺦ</font>||<font size="5">ﺨ</font>||<font size="5">ﺧ</font>
+|<font size="5">{{lang|ota|ﺥ}}</font>||<font size="5">{{lang|ota|ﺦ}}</font>||<font size="5">{{lang|ota|ﺨ}}</font>||<font size="5">{{lang|ota|ﺧ}}</font>
 | hı || {{Unicode|ẖ}} || h
 |- align="center"
-|<font size="5">ﺩ</font>||<font size="5">ﺪ</font>||colspan="2"|—
+|<font size="5">{{lang|ota|ﺩ}}</font>||<font size="5">{{lang|ota|ﺪ}}</font>||colspan="2"|—
 | dal || d || d
 |- align="center"
-|<font size="5">ﺫ</font>||<font size="5">ﺬ</font>||colspan="2"|—
+|<font size="5">{{lang|ota|ﺫ}}</font>||<font size="5">{{lang|ota|ﺬ}}</font>||colspan="2"|—
 | zel || <u>z</u> || z
 |- align="center"
-|<font size="5">ﺭ</font>||<font size="5">ﺮ</font>||colspan="2"|—
+|<font size="5">{{lang|ota|ﺭ}}</font>||<font size="5">{{lang|ota|ﺮ}}</font>||colspan="2"|—
 | re || r || r
 |- align="center"
-|<font size="5">ﺯ</font>||<font size="5">ﺰ</font>||colspan="2"|—
+|<font size="5">{{lang|ota|ﺯ}}</font>||<font size="5">{{lang|ota|ﺰ}}</font>||colspan="2"|—
 | ze || z || z
 |- align="center"
-|<font size="5">ﮊ</font>||<font size="5">ﮋ</font>||colspan="2"|—
+|<font size="5">{{lang|ota|ﮊ}}</font>||<font size="5">{{lang|ota|ﮋ}}</font>||colspan="2"|—
 | je || j || j
 |- align="center"
-|<font size="5">ﺱ</font>||<font size="5">ﺲ</font>||<font size="5">ﺴ</font>||<font size="5">ﺳ</font>
+|<font size="5">{{lang|ota|ﺱ}}</font>||<font size="5">{{lang|ota|ﺲ}}</font>||<font size="5">{{lang|ota|ﺴ}}</font>||<font size="5">{{lang|ota|ﺳ}}</font>
 | sin || s || s
 |- align="center"
-|<font size="5">ﺵ</font>||<font size="5">ﺶ</font>||<font size="5">ﺸ</font>||<font size="5">ﺷ</font>
+|<font size="5">{{lang|ota|ﺵ}}</font>||<font size="5">{{lang|ota|ﺶ}}</font>||<font size="5">{{lang|ota|ﺸ}}</font>||<font size="5">{{lang|ota|ﺷ}}</font>
 | şın || ş || ş
 |- align="center"
-|<font size="5">ﺹ</font>||<font size="5">ﺺ</font>||<font size="5">ﺼ</font>||<font size="5">ﺻ</font>
+|<font size="5">{{lang|ota|ﺹ}}</font>||<font size="5">{{lang|ota|ﺺ}}</font>||<font size="5">{{lang|ota|ﺼ}}</font>||<font size="5">{{lang|ota|ﺻ}}</font>
 | sat, sad || {{Unicode|ṣ}} || s
 |- align="center"
-|<font size="5">ﺽ</font>||<font size="5">ﺾ</font>||<font size="5">ﻀ</font>||<font size="5">ﺿ</font>
+|<font size="5">{{lang|ota|ﺽ}}</font>||<font size="5">{{lang|ota|ﺾ}}</font>||<font size="5">{{lang|ota|ﻀ}}</font>||<font size="5">{{lang|ota|ﺿ}}</font>
 | dat, dad || ż, {{Unicode|ḍ}} || d, z
 |- align="center"
-|<font size="5">ﻁ</font>||<font size="5">ﻂ</font>||<font size="5">ﻄ</font>||<font size="5">ﻃ</font>
+|<font size="5">{{lang|ota|ﻁ}}</font>||<font size="5">{{lang|ota|ﻂ}}</font>||<font size="5">{{lang|ota|ﻄ}}</font>||<font size="5">{{lang|ota|ﻃ}}</font>
 | tı || {{Unicode|ṭ}} || t
 |- align="center"
-|<font size="5">ﻅ</font>||<font size="5">ﻆ</font>||<font size="5">ﻈ</font>||<font size="5">ﻇ</font>
+|<font size="5">{{lang|ota|ﻅ}}</font>||<font size="5">{{lang|ota|ﻆ}}</font>||<font size="5">{{lang|ota|ﻈ}}</font>||<font size="5">{{lang|ota|ﻇ}}</font>
 | zı || {{Unicode|ẓ}} || z
 |- align="center"
-|<font size="5">ﻉ</font>||<font size="5">ﻊ</font>||<font size="5">ﻌ</font>||<font size="5">ﻋ</font>
+|<font size="5">{{lang|ota|ﻉ}}</font>||<font size="5">{{lang|ota|ﻊ}}</font>||<font size="5">{{lang|ota|ﻌ}}</font>||<font size="5">{{lang|ota|ﻋ}}</font>
 | ayın || {{Unicode|ʿ}} || ', h
 |- align="center"
-|<font size="5">ﻍ</font>||<font size="5">ﻎ</font>||<font size="5">ﻐ</font>||<font size="5">ﻏ</font>
+|<font size="5">{{lang|ota|ﻍ}}</font>||<font size="5">{{lang|ota|ﻎ}}</font>||<font size="5">{{lang|ota|ﻐ}}</font>||<font size="5">{{lang|ota|ﻏ}}</font>
 | gayın || ġ || g, ğ
 |- align="center"
-|<font size="5">ﻑ</font>||<font size="5">ﻒ</font>||<font size="5">ﻔ</font>||<font size="5">ﻓ</font>
+|<font size="5">{{lang|ota|ﻑ}}</font>||<font size="5">{{lang|ota|ﻒ}}</font>||<font size="5">{{lang|ota|ﻔ}}</font>||<font size="5">{{lang|ota|ﻓ}}</font>
 | fe || f || f
 |- align="center"
-|<font size="5">ﻕ</font>||<font size="5">ﻖ</font>||<font size="5">ﻘ</font>||<font size="5">ﻗ</font>
+|<font size="5">{{lang|ota|ﻕ}}</font>||<font size="5">{{lang|ota|ﻖ}}</font>||<font size="5">{{lang|ota|ﻘ}}</font>||<font size="5">{{lang|ota|ﻗ}}</font>
 | kaf || {{Unicode|ḳ}} || k
 |- align="center"
-|<font size="5">ﻙ</font>||<font size="5">ﻚ</font>||<font size="5">ﻜ</font>||<font size="5">ﻛ</font>
+|<font size="5">{{lang|ota|ﻙ}}</font>||<font size="5">{{lang|ota|ﻚ}}</font>||<font size="5">{{lang|ota|ﻜ}}</font>||<font size="5">{{lang|ota|ﻛ}}</font>
 | kef || k, g, ñ || k, g, ğ, n
 |- align="center"
-|<font size="5">ﮒ</font>||<font size="5">ﮓ</font>||<font size="5">ﮕ</font>||<font size="5">ﮔ</font>
+|<font size="5">{{lang|ota|ﮒ}}</font>||<font size="5">{{lang|ota|ﮓ}}</font>||<font size="5">{{lang|ota|ﮕ}}</font>||<font size="5">{{lang|ota|ﮔ}}</font>
 | gef¹ <!-- See footnote 1 -->
 | g
 | g, ğ
 |- align="center"
-|<font size="5">ﯓ</font>||<font size="5">ﯔ</font>||<font size="5">ﯖ</font>||<font size="5">ﯕ</font>
+|<font size="5">{{lang|ota|ﯓ}}</font>||<font size="5">{{lang|ota|ﯔ}}</font>||<font size="5">{{lang|ota|ﯖ}}</font>||<font size="5">{{lang|ota|ﯕ}}</font>
 | nef, sağır kef || ñ || n
 |- align="center"
-|<font size="5">ﻝ</font>||<font size="5">ﻞ</font>||<font size="5">ﻠ</font>||<font size="5">ﻟ</font>
+|<font size="5">{{lang|ota|ﻝ}}</font>||<font size="5">{{lang|ota|ﻞ}}</font>||<font size="5">{{lang|ota|ﻠ}}</font>||<font size="5">{{lang|ota|ﻟ}}</font>
 | lam || l || l
 |- align="center"
-|<font size="5">ﻡ</font>||<font size="5">ﻢ</font>||<font size="5">ﻤ</font>||<font size="5">ﻣ</font>
+|<font size="5">{{lang|ota|ﻡ}}</font>||<font size="5">{{lang|ota|ﻢ}}</font>||<font size="5">{{lang|ota|ﻤ}}</font>||<font size="5">{{lang|ota|ﻣ}}</font>
 | mim || m || m
 |- align="center"
-|<font size="5">ﻥ</font>||<font size="5">ﻦ</font>||<font size="5">ﻨ</font>||<font size="5">ﻧ</font>
+|<font size="5">{{lang|ota|ﻥ}}</font>||<font size="5">{{lang|ota|ﻦ}}</font>||<font size="5">{{lang|ota|ﻨ}}</font>||<font size="5">{{lang|ota|ﻧ}}</font>
 | nun || n || n
 |- align="center"
-|<font size="5">ﻭ</font>||<font size="5">ﻮ</font>||colspan="2"|—
+|<font size="5">{{lang|ota|ﻭ}}</font>||<font size="5">{{lang|ota|ﻮ}}</font>||colspan="2"|—
 | vav || v, o, ô, ö, u, û, ü || v, o, ö, u, ü
 |- align="center"
-|<font size="5">ﻩ</font>||<font size="5">ﻪ</font>||<font size="5">ﻬ</font>||<font size="5">ﻫ</font>
+|<font size="5">{{lang|ota|ﻩ}}</font>||<font size="5">{{lang|ota|ﻪ}}</font>||<font size="5">{{lang|ota|ﻬ}}</font>||<font size="5">{{lang|ota|ﻫ}}</font>
 | he || h, e, a || h, e, a
 |- align="center"
-|<font size="5">ﻻ</font>||<font size="5">ﻼ</font>||colspan="2"|—
+|<font size="5">{{lang|ota|ﻻ}}</font>||<font size="5">{{lang|ota|ﻼ}}</font>||colspan="2"|—
 | lamelif || lâ || la
 |- align="center"
-|<font size="5">ﻯ</font>||<font size="5">ﻰ</font>||<font size="5">ﻴ</font>||<font size="5">ﻳ</font>
+|<font size="5">{{lang|ota|ﻯ}}</font>||<font size="5">{{lang|ota|ﻰ}}</font>||<font size="5">{{lang|ota|ﻴ}}</font>||<font size="5">{{lang|ota|ﻳ}}</font>
 | ye || y, ı, i, î || y, ı, i
 |}
 
