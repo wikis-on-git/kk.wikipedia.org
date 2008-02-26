@@ -15,7 +15,7 @@
 <div class="plainlinks" style="text-align:center; font-weight: normal; font-size:100%; background: #ECE5CA; border:1px dashed #ECE5CA;width:99%;">
 {| border="0" align="center" width="100%"
 |bgcolor="#ECE5CA" |
-[[{{LOCALYEAR}}|{{LOCALYEAR}}&nbsp;ж.]] [[{{LOCALMONTHNAMEGEN}} {{LOCALDAY}}|{{LOCALMONTHNAMEGEN}} {{КүнЕсептік|{{LOCALDAY}}}} жұлдызы]], [[{{LCFIRST:{{LOCALDAYNAME}}}}]]<br />[[Астана]] [[уақыт]]ы: '''{{LOCALTIME}}''' ([[UTC+6]])
+[[{{LOCALYEAR}}|{{LOCALYEAR}}&nbsp;ж.]] [[{{LOCALMONTHNAMEGEN}} {{LOCALDAY}}|{{LOCALMONTHNAMEGEN}} {{КүнЕсептік|{{LOCALDAY}}}}]], [[{{LCFIRST:{{LOCALDAYNAME}}}}]]<br />[[Астана]] [[уақыт]]ы: '''{{LOCALTIME}}''' ([[UTC+6]])
 |}
 ----
 Мақалалар саны: [[Арнайы:Statistics|'''{{FORMATNUM:{{NUMBEROFARTICLES}}}}''']] | Қатысушылар саны: [[Арнайы:Listusers|{{FORMATNUM:{{NUMBEROFUSERS}}}}]]
