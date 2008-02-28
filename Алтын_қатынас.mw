@@ -10,7 +10,7 @@
 
 :<math>\varphi^2 = \varphi + 1,\ \varphi - 1 = \frac{1}{\varphi}, \ \varphi ^ 3 = \frac{\varphi + 1}{\varphi - 1}.</math>
 
-<math>\varphi</math> представляется [[цепная дробь|цепной дробью]]
+<math>\varphi</math> дегенді [[шынжырлы жарнақ]]пен көрсетеді
 :<math>\varphi = 1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1+\,\cdots}}},</math>
 мұндағы сәйкес бөлшектер қатар келе жатқан [[Фибоначчи сандары]] қатынасы болып табылады <math>\frac{F_{n+1}}{F_n}</math>. Осылайша, <math>\varphi = \lim_{n\to\infty} \frac{F_{n+1}}{F_n}</math>.
 
@@ -19,7 +19,6 @@
 Және бір өрнектелуі:
 [[Сурет:Zs_p02.gif|right|thumb|300px|Алтын қатынас тұрғызу]]
 :<math>\varphi = \sqrt{1 + \sqrt{1 + \sqrt{1 + \sqrt{1 + ...}}}}.</math>
-
 
 ==Сілтемелер==
 *  А. Д. Бердукидзе, [http://kvant.mccme.ru/1973/08/zolotoe_sechenie.htm ''Золотое сечение''] [[Квант (журнал)|Квант]] №8, 1973.
