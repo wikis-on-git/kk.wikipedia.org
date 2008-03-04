@@ -1,13 +1,13 @@
 {{Infobox_lake
- |lake_name = Байқал көлі
+ |lake_name = Байкөл
  |image_lake = Olchon1.jpg
- |caption_lake = [[Шаман]]-[[Олхон]] аралының тасы
+ |caption_lake = [[Шаман]]-[[Олқон]] аралының тасы
  |image_bathymetry = Karte baikal2.png
  |caption_bathymetry =
  |coords = {{coor at d|53.5|N|108.2|E|region:RU-BU_type:waterbody_scale:5000000}}
- |type = [[Rift lake|Continental rift lake]]
- |inflow = [[Selenga]], [[Chikoy River|Chikoy]], [[Khilokh]], [[Uda River, Buryatia|Uda]], [[Barguzin (river)|Barguzin]], [[Upper Angara River|Upper Angara]]
- |outflow = [[Angara River|Angara]]
+ |type = [[Рифт көлі|Құрлық рифт көлі]]
+ |inflow = [[Зелеңге өзені|зелеңге]], [[Chikoy River|Chikoy]], [[Khilokh]], [[Uda River, Buryatia|Uda]], [[Barguzin (river)|Barguzin]], [[Жоғарғы Аңғар өзені|Жоғарғы Аңғар]]
+ |outflow = [[Аңғар өзені|Аңғар]]
  |catchment = {{km2 to mi2|560000|precision=-3|abbr=yes}}
  |basin_countries = Ресей Фредерациясы
  |length = {{km to mi|636|abbr=yes}}
@@ -19,11 +19,16 @@
  |volume = {{km3 to mi3|23600|abbr=yes|precision=-2}}
  |shore = {{km to mi|2100|abbr=yes|precision=-1}}
  |elevation = {{m to ft|456|abbr=yes|precision=0}}
- |islands = 22 ([[Olkhon]])
+ |islands = 22 ([[Олқон]])
  |cities = [[Irkutsk]]
- |frozen = January-May
+ |frozen = қаңтар — мамыр
 }}
-'''Байқал көлі''' - [[Шығыс Сібір|Шығыс Сібірдің]] оңтүстігіндегі әлемдегі ең терең көл және ең ірі тұщы судың табиғи сутоғаны болып табылады. Көл іші мен жағалауы өте бай флора мен фаунасымен ерекшеленеді. Жергілікті тұрғындар тарихи көлді "теңіз" деп атайды. 
+'''Байкөл''' — [[Шығыс Сібір|Шығыс Сібірдің]] оңтүстігіндегі әлемдегі ең терең көл және ең ірі тұщы судың табиғи сутоғаны болып табылады. Көл іші мен жағалауы өте бай флора мен фаунасымен ерекшеленеді. Жергілікті тұрғындар тарихи көлді «теңіз» деп атайды.
+
+{{stub}}
+
+[[Санат:Көлдер]]
+
 [[ar:بحيرة بايكال]]
 [[az:Baykal Gölü]]
 [[bn:বৈকাল হ্রদ]]
