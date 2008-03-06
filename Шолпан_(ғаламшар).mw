@@ -1,123 +1,125 @@
 {{аудару}}
-{| class="infobox" style="width: 18em;"
-|+ style="font-size:larger;" | '''Шолпан''' [[Image:Venus symbol.svg|25px]]
-|-
-| colspan="2" style="text-align:center; background: #EDD58B;" | [[Image:Venus-real color.jpg|270px|Шолпан]]
-|-
-! bgcolor="#D8BBA6" colspan="2" | '''[[Орбитасы|Орбиталдық сипаттамасы]]'''
-|-
-| |[[Афелий]]
-| 108&nbsp;942&nbsp;109&nbsp;км<br />0,72823128&nbsp;[[Астрономиялық бірлік|а.&nbsp;е.]]
-|-
-| [[Перигелий]]
-| 107&nbsp;476&nbsp;259&nbsp;км<br />0,71843270&nbsp;[[Астрономиялық бірлік|а.&nbsp;е.]]
-|-
-| [[Үлкен жартыосі]]
-| 108&nbsp;208&nbsp;930&nbsp;км<br />0,723332&nbsp;[[Астрономическая единица|а.&nbsp;е.]]
-|-
-| [[Орбиталдық эксцентриситеті]]
-| 0,0068
-|-
-| [[Орбиталдық периоды]]
-| 224,70069
-|-
-| [[Синодический период]]
-| 583,92&nbsp;дней
-|-
-| [[Орбиталдық жылдамдығы]]
-| 35,02&nbsp;км/c
-|-
-| [[Наклонение (астрономия)|Наклонение]]
-| 3,86° (о. с. э.)
-|-
-| [[Шығыс торабының бойлығы]]
-| 76,67069°
-|-
-| [[Перицентр айнымалысы]]
-| 54,85229°
-|-
-| [[Ғаламшар серіктері|Серіктер]]
-| жоқ
-|-
-! bgcolor="#D8BBA6" colspan="2" | '''Физикалық сипаттамалары'''
-|-
-| Орташа [[радиус]]
-| 6051,8&nbsp;±&nbsp;1,0&nbsp;км
-|-
-| [[Айналу Эллипсоиды|Бет ауданы]]
-| 4,60×10<sup>8</sup>&nbsp;км²<br />0,902&nbsp;Жерден
-|-
-| [[Сығылуы]]
-| < 0,0002 
-|-
-| [[Көлем]]
-| 9,38×10<sup>11</sup>&nbsp;км³<br />0,857&nbsp;Жерден
-|-
-| [[Масса]]
-| 4,8685×10<sup>24</sup>&nbsp;кг<br />0,815&nbsp;Жерден
-|-
-| Орташа [[тығыздық]]
-| 5,204&nbsp;г/см³
-|-
-| Экватордағы [[Салмақ күші|салмағы]]
-| 8,87&nbsp;м/с²<br />0,904&nbsp;[[Еркін түсу үдеуі|g]]
-|-
-| [[Екінші ғарыштық жылдамдық]]
-| 10,46&nbsp;км/с
-|-
-| Период сидерического вращения
-| 243,0185&nbsp;дней
-|-
-| Экватордағы айналу жылдамдығы
-| 6,52&nbsp;км/сағ
-|-
-| [[Наклон оси вращения планеты]]
-| 177,36°
-|-
-| Солтүстік полюстегі тіке шығысы
-| 18&nbsp;ч 11&nbsp;мин 2&nbsp;с<br />272,76°
-|-
-| [[Склонение (Астрономия)|Склонение]]
-| 67,16°
-|-
-| [[Альбедо]]
-| 0,65
-|-
-| [[Көрінетін жұлдыздық шама]]
-| −4,7
-|-
-| [[Бұрыштық өлшем]]
-| 9,7" — 66,0"
-|-
-! bgcolor="#D8BBA6" colspan="2" |'''[[Температура]]'''
-|-
-| Ең аз
-|
-|-
-| Орташа
-| 735&nbsp;К <br />(461,85&nbsp;°C)
-|-
-| Ең көп
-|
-|-
-! bgcolor="#D8BBA6" colspan="2" | '''[[Атмосфера]] құрамы'''
-|-
-| Атмосфера қысымы
-| 9,3&nbsp;МПа
-|-
-| Құрамы
-| ~96,5&nbsp;% [[Көмірқышқыл газ|Көм. газ]] <br /> ~3,5&nbsp;% [[Азот]] <br />0,015&nbsp;% [[Диоксид серы ]] <br />0,007&nbsp;% [[Аргон]] <br />0,002&nbsp;% [[Су|Су буы]] <br />0,0017&nbsp;% [[Угарный газ]] <br />0,0012&nbsp;% [[Гелий]] <br />0,0007&nbsp;% [[Неон]] <br />(следы) Сероксид углерода <br /> (следы) [[Хлороводород]] <br /> (следы) [[Фтороводород]]
+{{Infobox Planet
+| bgcolour = #EDD58B
+| name = Шолпан
+| symbol = [[Сурет:Venus symbol.svg|25px|Шолпанның астрономиялық нышаны]]
+| image = [[Сурет:Venus-real.jpg|240px|Venus]]<!--Licensing conditions: Image processing by R. Nunes http://www.astrosurf.com/nunes-->
+| caption = Шолпанныың шын түсі
+| epoch = [[J2000]]
+| aphelion = 108,942,109&nbsp;km<br />0.72823128 [[Астрономиялық бірлік|AU]]
+| perihelion = 107,476,259&nbsp;km<br />0.71843270 AU
+| semimajor = [[1 E11 m|108,208,930]] km<br />0.723332 AU
+| eccentricity = 0.0068
+| period = [[1 E7 s|224.70069]] [[күн]]<br/>0.6151970 [[юлиус жылы (астрономия)|yr]]
+| synodic_period = 583.92 days
+| avg_speed = 35.02&nbsp;km/s
+| inclination = 3.39471°<br />Күн экуаторына 3.86°
+| asc_node = 76.67069°
+| arg_peri = 54.85229°
+| satellites = Жоқ
+| physical_characteristics = yes
+| mean_radius = 6051.8 ± 1.0&nbsp;km<ref name=Seidelmann2007>{{cite journal
+  | last= Seidelmann| first= P. Kenneth
+  | coauthors= Archinal, B. A.; A’hearn, M. F.; et.al.
+  | title= Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006
+  | journal= Celestial Mechanics and Dynamical Astronomy
+  | volume=90 | pages=155–180 | year=2007
+  | doi=10.1007/s10569-007-9072-y
+  | url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y
+  | accessdate=2007-08-28 }}</ref><br />0.9499 Earths
+| flattening = < 0.0002<ref name=Seidelmann2007/> <!-- calculated from data in ref name=Seidelmann2007 -->
+| surface_area = [[1 E14 m²|4.60×10<sup>8</sup>]] km²<br />0.902 Earths
+| volume = 9.38{{e|11}}&nbsp;km³<br />0.857 Earths
+| mass = [[1 E24 kg|4.8685×10<sup>24</sup>]] kg<br />0.815 Earths
+| density = 5.204&nbsp;g/cm³
+| surface_grav = 8.87&nbsp;[[Acceleration|m/s<sup>2</sup>]]<br />0.904 ''[[g-force|g]]''
+| escape_velocity = 10.46&nbsp;km/s
+| sidereal_day = [[retrograde motion|−]]243.0185&nbsp;day
+| rot_velocity = 6.52&nbsp;km/h
+| axial_tilt = 177.36°
+| right_asc_north_pole = 18 h 11 min 2 s<br />272.76°<ref>
+{{cite web
+  | title = Report on the IAU/IAG Working Group on cartographic coordinates and rotational elements of the planets and satellites
+  | publisher = International Astronomical Union
+  | date=  2000
+  | url = http://www.hnsky.org/iau-iag.htm
+  | accessdate =  2007-04-12}}</ref>
+| declination = 67.16°
+| albedo = 0.65
+| magnitude = up to -4.6<ref name=nasafact/>
+| angular_size = 9.7" — 66.0"<ref name=nasafact>{{cite web|url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/venusfact.html|title = Venus Fact Sheet|publisher = NASA|last = Williams|first = Dr. David R.|accessdate = 2007-10-12|date=  April 15, 2005}}</ref>
+| temperatures = yes
+| temp_name1 = [[Kelvin]]
+| mean_temp_1 = 735&nbsp;K<ref>
+{{cite web
+  | last =
+  | first =
+  | authorlink =
+  | coauthors =
+  | title = Venus: Facts & Figures 
+  | work =
+  | publisher = NASA
+  | date =
+  | url = http://sse.jpl.nasa.gov/planets/profile.cfm?Object=Venus&Display=Facts&System=Metric
+  | format = html
+  | accessdate = 2007-04-12}}</ref><ref>{{cite web
+  | last =
+  | first =
+  | authorlink =
+  | coauthors =
+  | title =Space Topics: Compare the Planets: Mercury, Venus, Earth, The Moon, and Mars 
+  | work =
+  | publisher = Planetary Society
+  | date =
+  | url = http://www.planetary.org/explore/topics/compare_the_planets/terrestrial.html
+  | accessdate = 2007-04-12}}</ref>
+| temp_name2 = [[Celsius]]
+| mean_temp_2 = 461.85&nbsp;°C
+| adjectives = [[Venusian]] or (rarely) [[Cytherean]], Venerean
+| atmosphere = yes
+| surface_pressure = 9.3 [[Pascal (unit)|MPa]]
+| atmosphere_composition = ~96.5% [[Carbon dioxide]]<br />~3.5% [[Nitrogen]]<br />.015% [[Sulphur dioxide]]<br />.007% [[Argon]]<br />.002% [[Water vapor]]<br />.0017% [[Carbon monoxide]]<br />.0012% [[Helium]]<br />.0007% [[Neon]]<br />trace [[Carbonyl sulfide]]<br />trace [[Hydrogen chloride]]<br />trace [[Hydrogen fluoride]]
+}}
+'''Шолпан''' — [[Күн жүйесі|Күн жүйесіндегі]] оған жақын екінші [[ғаламшар]].[[Көлемі]] мен [[масса|массасы]] жағынан [[Жер|Жерге]] жуық болғандықтан, ерте кезден-ақ ғалымдардың назарын өзіне аударған. Алайда, оны тұтасқан ақ бұлт қабаты қоршап жатқандықтан, бұл ғаламшардың табиғаты мен қозғалысын [[оптика|оптикалық]] бақылаулар арқылы анықтау қиындық келтіруде. Дегенмен, радиобақылаулар нәтижесі күтпеген мәліметке қол жеткізді. Шолпан ([[Уран|Уранды]] есептемегенде) барлық ғаламшарлар айналатын жаққа кері бағытта, яғни өзінің [[Күн|Күнді]] айнала қозғалатын бағытына өз осі төңірегіндегі қарсы айналатын болып шықты. Ондағы күндік [[тәулік]] шамамен Жердегі 118 тәулікке тең.
 
-|-
-! bgcolor="#D8BBA6" colspan="2" | '''Таблицы қысқартылымы'''
-|-
-|о. с. э.
-|Күн экваторымен салыстырғанда
-|-
-| align="center" colspan="2" |
-|}
-'''Шолпан''' - [[Күн жүйесі|Күн жүйесіндегі]] оған жақын екінші [[ғаламшар]].[[Көлемі]] мен [[масса|массасы]] жағынан [[Жер|Жерге]] жуық болғандықтан, ерте кезден-ақ ғалымдардың назарын өзіне аударған. Алайда,  оны тұтасқан ақ бұлт қабаты қоршап жатқандықтан, бұл ғаламшардың табиғаты мен қозғалысын [[оптика|оптикалық]] бақылаулар арқылы анықтау қиындық келтіруде. Дегенмен, радиобақылаулар нәтижесі күтпеген мәліметке қол жеткізді. Шолпан ([[Уран|Уранды]] есептемегенде) барлық ғаламшарлар айналатын жаққа кері бағытта, яғни өзінің [[Күн|Күнді]] айнала қозғалатын бағытына  өз осі төңірегіндегі қарсы айналатын болып шықты. Ондағы күндік [[тәулік]] шамамен Жердегі 118 тәулікке тең.
+== Түсініктемелер ==
+<references/>
 
+{{stub}}
+
+== Сыртқы сілтемелер ==
+{{commons}}
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Venus Venus Profile] by [http://solarsystem.nasa.gov NASA's Solar System Exploration]
+* [http://www.mentallandscape.com/V_Venus.htm The Soviet Exploration of Venus], [http://www.mentallandscape.com/C_CatalogVenus.htm Image catalog]
+* [http://www.nineplanets.org/venus.html The Nine Planets: Venus]
+* [http://heasarc.gsfc.nasa.gov/docs/heasarc/missions/venera1112.html NASA page about the Venera missions]
+* [http://www2.jpl.nasa.gov/magellan/ Magellan mission home page]
+* [http://heasarc.gsfc.nasa.gov/docs/heasarc/missions/pvo.html Pioneer Venus information from NASA]
+* [http://sunearth.gsfc.nasa.gov/eclipse/transit/venus0412.html Detailed information about transits of Venus]
+* [http://www.geody.com/?world=venus Geody Venus], a search engine for surface features
+* [http://www.worldwindcentral.com/wiki/Venus Maps of Venus in NASA World Wind]
+* [http://www.sil.si.edu/exhibitions/chasing-venus/intro.htm Chasing Venus, Observing the Transits of Venus] Smithsonian Institution Libraries
+* [http://www.lpi.usra.edu/resources/vc/vchome.shtml Venus Crater Database] Lunar and Planetary Institute
+* [http://aa.usno.navy.mil/data/docs/diskmap.php  Calculate/show the current phase of Venus] (U.S. Naval Observatory)
+
+{{Footer_SolarSystem}}
+{{Venus Footer}}
+{{Venus spacecraft}}
+
+
+<!--Categories-->
+[[Санат:Шолпан| ]]
+[[Санат:Жер тәрізді ғаламшарлар]]
+[[Санат:Күн жүйесі ғаламшарлары]]
+
+{{Link FA|bs}}
+{{Link FA|bg}}
+{{Link FA|de}}
+{{Link FA|es}}
+{{Link FA|lt}}
+{{Link FA|pt}}
+{{Link FA|sk}}
+{{Link FA|vi}}
 
 [[af:Venus (planeet)]]
 [[als:Venus (Planet)]]
