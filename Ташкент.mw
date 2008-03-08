@@ -1,7 +1,7 @@
 {{Infobox Settlement
 <!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
 <!-- Basic info  ---------------->
-|official_name          = Ташкент
+|official_name          = Tashkent
 |other_name             =
 |native_name            = <small>{{lang-uz|'''Toshkent''', Тошкент}}</br> {{lang-ru|Ташкент}} </small> <!-- for cities whose native name is not in English -->
 |nickname               = 
@@ -10,7 +10,7 @@
 <!-- images and maps  ----------->
 |image_skyline          = Aerial view of Tashkent, Uzbekistan.JPG
 |imagesize              = 
-|image_caption          = Ташкент қаласының көрінісі
+|image_caption          = Aerial view of Tashkent
 |image_flag             = 
 |flag_size              =
 |image_seal             = 
@@ -31,11 +31,11 @@
 |dot_x =  |dot_y =
 |pushpin_map            = Uzbekistan<!-- the name of a location map as per http://en.wikipedia.org/wiki/Template:Location_map -->
 |pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
-|pushpin_map_caption    = Өзбекстан картасындағы орны
+|pushpin_map_caption    = Location in Uzbekistan
 |pushpin_mapsize        =
 <!-- Location ------------------>
 |subdivision_type       = Country
-|subdivision_name       = [[Image:Flag of Uzbekistan.svg|25px]] [[Өзбекстан]]
+|subdivision_name       = [[Image:Flag of Uzbekistan.svg|25px]] [[Uzbekistan]]
 |subdivision_type1      = Province
 |subdivision_name1      = [[Tashkent Province]]
 |subdivision_type2      = 
