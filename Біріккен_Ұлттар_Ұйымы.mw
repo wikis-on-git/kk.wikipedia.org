@@ -1,25 +1,27 @@
-{{Infobox Organization
-|name = United Nations<br />
-<!-- This space is for the translations of United Nations in the six official languages of the UN which are Arabic, Chinese, English, French, Russian and Spanish. Please do not add translations for languages that are not official languages of the United Nations. -->
-'''Nations Unies'''<br />
-'''Naciones Unidas'''<br />
-'''{{lang|ar|الأمم المتحدة}}'''<br />
-'''{{lang|zh|联合国 (聯合國)}}'''<br />
-'''{{lang|ru|Организация Объединённых Наций}}'''<br />
-<!-- This space is for the translations of United Nations in the official languages of the UN which are Arabic, Chinese, English, French, Russian, and Spanish. Please do not add translations for languages that are not official languages of the United Nations. -->
-|image=Flag of the United Nations.svg
-|caption=[[Біріккен Ұлттар байрағы]]
-|map= United Nations Members.PNG
-|mcaption= [[Біріккен Ұлттардың мүше елдері|БҰҰ мүше елдер]] және олардың тәуелді жерлерімен бірге картасы.
-|headquarters= Халықаралық аумақ,  [[Манхеттен аралы|Манхеттен]], [[Нью-Йорк]], [[Америка Құрама Штаттары|АҚШ]]
-|membership=[[Біріккен Ұлттардың мүше елдері|192 мүше ел]]
-|general=[[Сурет:Flag of South Korea.svg|20px]] [[Бан Ки-мун]]<br />
-[[Қауіпсіздік кеңесі]]: [[Қытай]], [[Франсия]], [[Құрама Патшалық|Британия]], [[Ресей]], [[Америка Құрама Штаттары|АҚШ]] (тұрақты мүшелері)
-|language=[[Араб тілі|Арабша]], [[Қытай тілі|Қытайша]], [[Ағылшын тілі|Ағылшынша]], [[Франсуз тілі|Франсузша]], [[Орыс тілі|Орысша]], [[Испан тілі|Испанша]]
-|working languages=[[Ағылшын тілі|Ағылшынша]], [[Франсуз тілі|Франсузша]]
-|formation= [[1945]] ж. [[қазанның 24]]
-|website=http://www.un.org/
-}}
+{{Infobox Geopolitical organization
+|name        = {{Collapsible list
+|title = <center> Біріккен Ұлттар Ұйымы<center>
+|<center> {{lang|en|'''United Nations'''}} {{en icon}} </center>
+<center> {{lang|fr|'''Nations Unies'''}} {{fr icon}} </center>
+<center> {{lang|es|'''Naciones Unidas'''}} {{es icon}} </center>
+<center> {{lang|ru|'''Организация Объединённых Наций'''}} {{ru icon}} </center>
+<center> {{lang|ar|'''الأمم المتحد'''}} {{ar icon}} </center>
+<center> {{lang|cn|'''联合国'''}} {{cn icon}} </center>}}
+|linking_name    = Біріккен Ұлттар
+|image_flag     = Flag_of_the_United_Nations.svg
+|image_map          = United Nations Members.PNG
+|map_caption    = [[Біріккен Ұлттар мүше елдері|БҰҰ мүше елдері]]<br />және олардың тәуелді жерлері.
+|membership     = [[Біріккен Ұлттар мүше елдері|192 мүше елдер]]
+|admin_center_type = [[Біріккен Ұлттар бас кеңсесі|Бас кеңсесі]]
+|admin_center    = Халықаралық аумақ,  [[Манхеттен аралы|Манхеттен]], [[Нью-Йорк]], [[Америка Құрама Штаттары|АҚШ]]
+|languages_type   = [[Ресми тіл]]дері
+|languages     = [[Араб тілі|Арабша]], [[Қытай тілі|Қытайша]], [[Ағылшын тілі|Ағылшынша]], [[Франсуз тілі|Франсузша]], [[Орыс тілі|Орысша]], [[Испан тілі|Испанша]]
+|leader_title1   = [[Біріккен Ұлттар бас хатшысы|Бас хатшысы]]
+|leader_name1    = [[Бан Ки-мун]] 
+|established_event1 = {{nowrap|[[United Nations Charter]]}}
+|established_date1 =  [[1945]] ж. [[маусымның 26]]
+|official_website  = http://www.un.org/
+|footnote1 =}}
 '''Біріккен Ұлттар Ұйымы, БҰҰ''' ({{lang-en|United Nations}}) — халықаралық бейбіт пен қауыпсыздықты жақтау және беркіту үшін, және де ел арасындағы ынтымақтастық үшін арналған [[халықаралық ұйым]]ы.
 
 Бас кеңсесі орналасуы — [[Нью-Йорк]], [[Америка Құрама Штаттары|АҚШ]].
