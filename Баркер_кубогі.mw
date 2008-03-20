@@ -3,12 +3,12 @@
 {|
 |-----
 |- bgcolor=#DCDCDC
-! width="50" | <center>Year</center> 
-! width="90" | <center>Location</center>
-! width="130" | <center>Boxer</center>
-! width="60" | <center>Nationality</center>
-! width="130" | <center>Weight Class</center>
-! width="50" | <center>Medal</center>
+! width="50" | <center>Жыл</center> 
+! width="90" | <center>Орны</center>
+! width="130" | <center>Боксшы</center>
+! width="60" | <center>Азаматтығы</center>
+! width="130" | <center>Салмақ дәрежесі</center>
+! width="50" | <center>Медалі</center>
 |-----
 |- align=center bgcolor=#F5F5F5
 |'''1936'''
@@ -116,27 +116,27 @@
 |-----
 |- align=center bgcolor=#F5F5F5
 |'''1996'''
-|Atlanta
-|[[Vassiliy Jirov]]
+|Атланта
+|[[Жиров, Василий]]
 |{{flag|KAZ}}
 |Light Heavyweight
-|Gold
+|Алтын
 |-----
 |- align=center bgcolor=#F5F5F5
 |'''2000'''
-|Sydney
-|[[Oleg Saitov]]
+|Сидней
+|[[Самтов, Олег]]
 |{{flag|RUS}}
 |Welterweight
-|Gold
+|Алтын
 |-----
 |- align=center bgcolor=#F5F5F5
 |'''2004'''
-|Athens
-|[[Bakhtiyar Artayev]]
+|Афина
+|[[Артаев, Бахтияр]]
 |{{flag|KAZ}}
 |Welterweight
-|Gold
+|Аотын
 |-----
 |}
 
