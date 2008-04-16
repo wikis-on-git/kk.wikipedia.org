@@ -1,6 +1,108 @@
-     
-  '''Есекқырған''' - [[Күн жүйесі]]нің ғаламшары.
-  Қазақша Юпитерді Есекқырған деп атайды. Есекқырған [[Күн жүйесі]]не кіретін ғаламшарларының бірі. Есекқырған [[Күн жүйесі]]нің бесінші ғаламшары, [[Қызылжұлдыз]] мен [[Сатурн]] ғаламшарларының ортасында орналасқан. 
+{{Infobox Planet
+| bgcolour = #FFC8A0
+| name = Jupiter
+| symbol = [[Image:Jupiter symbol.svg|25px|Astronomical symbol of Jupiter]]
+| image = [[Image:Jupiter.jpg|240px|Click for full caption.]]
+| caption = This processed color image of Jupiter was produced in 1990 by the U.S. Geological Survey from a Voyager image captured in 1979. The colors have been enhanced to bring out detail.
+| orbit_ref =
+<ref name=horizons>{{cite web
+ | last = Yeomans | first = Donald K. | date = 2006-07-13
+ | url = http://ssd.jpl.nasa.gov/?horizons
+ | title = HORIZONS System | publisher = NASA JPL
+ | accessdate = 2007-08-08 }} &mdash; At the site, go to the "web interface" then select "Ephemeris Type: ELEMENTS", "Target Body: Jupiter Barycenter" and "Center: Sun".</ref><ref name=barycenter>Orbital elements refer to the barycenter of the Jupiter system, and are the instantaneous [[osculating orbit|osculating]] values at the precise [[J2000]] epoch. Barycenter quantities are given because, in contrast to the planetary centre, they do not experience appreciable changes on a day-to-day basis from to the motion of the moons.</ref>
+| epoch = [[J2000]]
+| aphelion = 816,520,800&nbsp;km<br />5.458104&nbsp;[[astronomical unit|AU]]
+| perihelion = 740,573,600&nbsp;km <br />4.950429&nbsp;AU
+| semimajor = 778,547,200&nbsp;km<br />5.204267&nbsp;AU
+| eccentricity = 0.048775
+| inclination = 1.305°<br />6.09° to [[Sun]]'s equator
+| asc_node = 100.492°
+| arg_peri = 275.066°
+| mean_anomaly = 18.818°
+| period = 4331.572&nbsp;[[day]]s<br>11.85920&nbsp;[[julian year (astronomy)|yr]]
+| synodic_period = 398.88&nbsp;days<ref name="fact">{{cite web|url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html|title = Jupiter Fact Sheet|publisher = NASA|last = Williams|first = Dr. David R.|accessdate = 2007-08-08|date = November 16, 2004}}</ref>
+| avg_speed = 13.07&nbsp;km/s<ref name="fact"/>
+| satellites = [[Jupiter's natural satellites|63]]
+| physical_characteristics = yes
+| flattening = 0.06487 ± 0.00015 <!-- calculated from data in ref name=Seidelmann2007 -->
+| equatorial_radius = 71,492 ± 4&nbsp;km<ref name=Seidelmann2007>{{cite journal
+  | last= Seidelmann| first= P. Kenneth
+  | coauthors= Archinal, B. A.; A’hearn, M. F.; et.al.
+  | title= Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006
+  | journal= Celestial Mechanics and Dynamical Astronomy
+  | volume=90 | pages=155–180 | year=2007
+  | doi=10.1007/s10569-007-9072-y
+  | url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y
+  | accessdate=2007-08-28 }}</ref><ref name=1bar>Refers to the level of 1 bar atmospheric pressure</ref> <br />11.209 Earths
+| polar_radius = 66,854 ± 10&nbsp;km<ref name=Seidelmann2007/><ref name=1bar/> <br />10.517&nbsp;Earths
+| surface_area = 6.21796×10<sup>10</sup>&nbsp;km²<ref name="nasafact">[http://solarsystem.nasa.gov/planets/profile.cfm?Object=Jupiter&Display=Facts NASA: Solar System Exploration: Planets: Jupiter: Facts & Figures]</ref><ref name=1bar/><br />121.9 Earths
+| volume = 1.43128×10<sup>15</sup>&nbsp;km³<ref name="fact"/><ref name=1bar/> <br />1321.3&nbsp;Earths
+| mass = 1.8986×10<sup>27</sup>&nbsp;kg<ref name="fact"/> <br />317.8&nbsp;Earths
+| density = 1.326&nbsp;g/cm³<ref name="fact"/><ref name=1bar/>
+| surface_grav = 24.79&nbsp;[[Acceleration|m/s²]]<ref name="fact"/><ref name=1bar/><br/>2.528&nbsp;[[g-force|g]]
+| escape_velocity = 59.5&nbsp;km/s<ref name="fact"/><ref name=1bar/>
+| sidereal_day = 9.925&nbsp;h<ref>{{cite web
+  | author = Seidelmann, P. K.; Abalakin, V. K.; Bursa, M.; Davies, M. E.; de Burgh, C.; Lieske, J. H.; Oberst, J.; Simon, J. L.; Standish, E. M.; Stooke, P.; Thomas, P. C.
+  | year = 2001 | url = http://www.hnsky.org/iau-iag.htm
+  | title = Report of the IAU/IAG Working Group on Cartographic Coordinates and Rotational Elements of the Planets and Satellites: 2000
+  | publisher = HNSKY Planetarium Program
+  | accessdate = 2007-02-02 }}</ref>
+| rot_velocity = 12.6&nbsp;km/s<br />45,300&nbsp;km/h
+| axial_tilt = 3.13°<ref name="fact"/>
+| right_asc_north_pole = 268.057°<br />17&nbsp;h 52&nbsp;min 14&nbsp;s<ref name=Seidelmann2007/>
+| declination = 64.496°<ref name=Seidelmann2007/>
+| albedo = 0.343 ([[Bond albedo|bond]])<br/>
+0.52 ([[Geometric albedo|geom.]])<ref name="fact"/>
+| magnitude = -1.6 to -2.94<ref name="fact"/>
+| angular_size = 29.8" — 50.1"<ref name="fact"/>
+| adjectives = Jovian
+| temperatures = yes
+| temp_name1 = 1 bar level
+| min_temp_1 = 
+| mean_temp_1 = 165&nbsp;[[Kelvin|K]]<ref name="fact"/>
+| max_temp_1 = 
+| temp_name2 = 0.1 bar
+| min_temp_2 = 
+| mean_temp_2 = 112&nbsp;K<ref name="fact"/>
+| max_temp = 
+| atmosphere = yes
+| atmosphere_ref =
+<ref name="fact"/>
+| surface_pressure = 20&ndash;200&nbsp;[[Pascal (unit)|kPa]]<ref>{{cite journal
+  | author=Anonymous | title=Probe Nephelometer
+  | journal=Galileo Messenger | publisher=NASA/JPL
+  | date=March 1983 | issue=6
+  | url=http://www2.jpl.nasa.gov/galileo/messenger/oldmess/2Probe.html
+  | accessdate = 2007-02-12 }}</ref> (cloud&nbsp;layer)
+| scale_height = 27 km 
+| atmosphere_composition = 
+<table>
+<tr><td>
+89.8&plusmn;2.0%</td><td>[[Hydrogen]] (H<sub>2</sub>)
+</td></tr><tr><td>
+10.2&plusmn;2.0%</td><td>[[Helium]]
+</td></tr><tr><td>
+~0.3%</td><td>[[Methane]]
+</td></tr><tr><td>
+~0.026%</td><td>[[Ammonia]]
+</td></tr><tr><td>
+~0.003%</td><td>[[Hydrogen deuteride]] (HD)
+</td></tr><tr><td>
+0.0006%</td><td>[[Ethane]]
+</td></tr><tr><td>
+0.0004%</td><td>[[water]] 
+</td></tr><tr><td>
+'''Ices''':</td><td>
+</td></tr><tr><td>
+</td><td>[[Ammonia]]
+</td></tr><tr><td>
+</td><td>[[water]]
+</td></tr><tr><td>
+</td><td>[[ammonium hydrosulfide]](NH<sub>4</sub>SH)
+</td></tr></table>
+}}
+'''Есекқырған''' - [[Күн жүйесі]]нің ғаламшары.
+Қазақша Юпитерді Есекқырған деп атайды. Есекқырған [[Күн жүйесі]]не кіретін ғаламшарларының бірі. Есекқырған [[Күн жүйесі]]нің бесінші ғаламшары, [[Қызылжұлдыз]] мен [[Сатурн]] ғаламшарларының ортасында орналасқан. 
 Есекқырған [[Күн]]нен 773 млн. шақырым қашықтығында орналасқан.
 Есекқырған [[Күн жүйесі]]нің ең үлкен ғаламшары. Диаметр бойынша ол 11 есе
 [[Жер]]ден үлкен, салмағы бойынша ше 300 есе үлкен. Есеккқырғанның бір жылы
@@ -10,4 +112,107 @@
 Есекқырғанның [[табиғи серік]]тері - [[Еуропа]], [[Каллипсо]], [[Ио]], [[Ганимед]].
 
 
-[[Санат:Күн жүйесі ғаламшарлары]]
+[[Санат:Ғаламшарлар]]
+[[af:Jupiter (planeet)]]
+[[als:Jupiter (Planet)]]
+[[an:Chupiter (planeta)]]
+[[ang:Iupiter]]
+[[ar:مشتري]]
+[[ast:Xúpiter (planeta)]]
+[[az:Yupiter (planet)]]
+[[be:Планета Юпітэр]]
+[[be-x-old:Юпітэр (плянэта)]]
+[[bg:Юпитер (планета)]]
+[[bn:জুপিটার]]
+[[br:Yaou (planedenn)]]
+[[bs:Jupiter]]
+[[ca:Júpiter (planeta)]]
+[[cs:Jupiter (planeta)]]
+[[csb:Jupiter]]
+[[cv:Юпитер (планета)]]
+[[cy:Iau (planed)]]
+[[da:Jupiter (planet)]]
+[[de:Jupiter (Planet)]]
+[[el:Δίας (πλανήτης)]]
+[[en:Jupiter]]
+[[eo:Jupitero]]
+[[es:Júpiter (planeta)]]
+[[et:Jupiter (planeet)]]
+[[eu:Jupiter (planeta)]]
+[[fa:مشتری (سیاره)]]
+[[fi:Jupiter]]
+[[fo:Jupiter]]
+[[fr:Jupiter (planète)]]
+[[frp:Jupitèr (planèta)]]
+[[ga:Iúpatar (pláinéad)]]
+[[gd:Bliogh]]
+[[gl:Xúpiter (planeta)]]
+[[gu:ગુરુ (ગ્રહ)]]
+[[gv:Jupiter (planaid)]]
+[[he:צדק (כוכב לכת)]]
+[[hi:बृहस्पति]]
+[[hr:Jupiter (planet)]]
+[[ht:Jipitè (planèt)]]
+[[hu:Jupiter]]
+[[hy:Յուպիտեր]]
+[[ia:Jupiter (planeta)]]
+[[id:Yupiter]]
+[[ilo:Jupiter (planeta)]]
+[[io:Jupitero]]
+[[is:Júpíter (reikistjarna)]]
+[[it:Giove (astronomia)]]
+[[ja:木星]]
+[[jv:Yupiter]]
+[[ka:იუპიტერი (პლანეტა)]]
+[[ko:목성]]
+[[ksh:Juppitter (Planneet)]]
+[[ku:Berçîs]]
+[[kw:Yow (planet)]]
+[[la:Iuppiter (planeta)]]
+[[lb:Jupiter (Planéit)]]
+[[li:Jupiter (planeet)]]
+[[lt:Jupiteris (planeta)]]
+[[lv:Jupiters (planēta)]]
+[[mk:Јупитер]]
+[[ml:വ്യാഴം (ഗ്രഹം)]]
+[[mn:Бархасбадь]]
+[[mr:गुरू ग्रह]]
+[[ms:Musytari]]
+[[mt:Ġove (pjaneta)]]
+[[nah:Huēyitzitzimicītlalli]]
+[[nds:Jupiter (Planet)]]
+[[ne:बृहस्पतिग्रह]]
+[[nl:Jupiter (planeet)]]
+[[nn:Planeten Jupiter]]
+[[no:Jupiter (planet)]]
+[[nov:Jupitere (planete)]]
+[[pam:Jupiter]]
+[[pl:Jowisz]]
+[[pt:Júpiter (planeta)]]
+[[qu:Pirwa]]
+[[ro:Jupiter (planetă)]]
+[[scn:Giovi]]
+[[sd:وِسپَتُ]]
+[[se:Jupiter]]
+[[sh:Jupiter (planeta)]]
+[[simple:Jupiter (planet)]]
+[[sk:Jupiter]]
+[[sl:Jupiter]]
+[[sq:Jupiteri]]
+[[sr:Јупитер (планета)]]
+[[stq:Jupiter]]
+[[sv:Jupiter]]
+[[sw:Mshtarii]]
+[[ta:வியாழன் (கோள்)]]
+[[tg:Муштарӣ]]
+[[th:ดาวพฤหัสบดี]]
+[[tl:Hupiter (planeta)]]
+[[tr:Jüpiter (gezegen)]]
+[[uk:Юпітер (планета)]]
+[[ur:مشتری]]
+[[uz:Yupiter]]
+[[vi:Sao Mộc]]
+[[yi:יופטער (פלאנעט)]]
+[[zh:木星]]
+[[zh-min-nan:Bo̍k-chheⁿ]]
+[[zh-yue:木星]]
