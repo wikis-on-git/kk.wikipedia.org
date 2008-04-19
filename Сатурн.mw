@@ -1,6 +1,111 @@
-Сатурн  - Күн жүйесінің ғаламшары.
+{{Infobox Planet
+| bgcolour = #FFCC66 
+| name = Saturn
+| symbol = [[Image:Saturn symbol.svg|25px|Astronomical symbol for Saturn]] 
+| image = [[Image:Saturn from Cassini Orbiter (2004-10-06).jpg|240px|The planet Saturn]]
+| caption = Saturn, as seen by [[Cassini–Huygens|Cassini]]
+| orbit_ref =
+<ref name=horizons>{{cite web
+ | last = Yeomans | first = Donald K. | date = 2006-07-13
+ | url = http://ssd.jpl.nasa.gov/?horizons
+ | title = HORIZONS System | publisher = NASA JPL
+ | accessdate = 2007-08-08 }} &mdash; At the site, go to the "web interface" then select "Ephemeris Type: ELEMENTS", "Target Body: Saturn Barycenter" and "Center: Sun".</ref><ref name=barycenter>Orbital elements refer to the barycenter of the Saturn system, and are the instantaneous [[osculating orbit|osculating]] values at the precise [[J2000]] epoch. Barycenter quantities are given because, in contrast to the planetary centre, they do not experience appreciable changes on a day-to-day basis from to the motion of the moons.</ref>
+| epoch = [[Epoch (astronomy)#J2000.0|J2000]]
+| aphelion = 1,513,325,783&nbsp;km<br />10.11595804 [[Astronomical unit|AU]]
+| perihelion = 1,353,572,956&nbsp;km<br />9.04807635 AU
+| semimajor = 1,433,449,370 km<br />9.58201720 AU
+| eccentricity = 0.055723219
+| period = 10,832.327 [[day]]s<br />29.657296 [[Julian year (astronomy)|yr]]
+| synodic_period = 378.09 days<ref name="fact"/>
+| avg_speed = 9.69&nbsp;km/s<ref name="fact"/>
+| inclination = 2.485240°<br />5.51° to Sun's equator
+| asc_node = 113.642811°
+| arg_peri = 336.013862°
+| mean_anomaly = 320.346750°
+| satellites = [[Saturn's natural satellites|60 confirmed]]<br/>(up to 63 seen)<!--- see http://en.wikipedia.org/wiki/Talk:Saturn/Archive_1#Moon_contradiction --->
+|maximum distance from sun = 1.5 billion km (938 million miles)
+|minimum distance from sun = 1.35 billion km (840 million miles)
+| physical_characteristics = yes
+| flattening = 0.09796 ± 0.00018 <!-- calculated using data from ref name=Seidelmann2007 -->
+| equatorial_radius = 60,268 ± 4&nbsp;km<ref name=Seidelmann2007>{{cite journal|last= Seidelmann|first= P. Kenneth|coauthors= Archinal, B. A.; A’hearn, M. F.; et.al.|title= Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements: 2006|journal= Celestial Mech. Dyn. Astr. |volume=90|pages=155–180|year=2007|doi=10.1007/s10569-007-9072-y|url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y}}</ref><ref name=1bar>Refers to the level of 1 bar atmospheric pressure</ref><br />9.4492 Earths
+| polar_radius = 54,364 ± 10&nbsp;km<ref name=Seidelmann2007/><ref name=1bar/><br />8.5521 Earths
+| surface_area = 4.27×10<sup>10</sup> km²<ref name="nasafact">[http://solarsystem.nasa.gov/planets/profile.cfm?Object=Saturn&Display=Facts NASA: Solar System Exploration: Planets: Saturn: Facts & Figures]</ref><ref name=1bar/><br />83.703 Earths
+| volume = 8.2713×10<sup>14</sup> km³<ref name="fact">{{cite web
+|url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/saturnfact.html
+|title = Saturn Fact Sheet
+|publisher = NASA
+|last = Williams
+|first = Dr. David R.
+|accessdate = 2007-07-31
+|date = September 7, 2006}}</ref><ref name=1bar/><br />763.59 Earths
+| mass = 5.6846×10<sup>26</sup> kg<ref name="fact"/><br />95.152 Earths
+| density = 0.687 g/cm³<ref name="fact"/><ref name=1bar/><br /> (less than [[water]])
+| surface_grav = 8.96 [[Acceleration|m/s²]]<ref name="fact"/><ref name=1bar/><br />0.914 [[g-force|''g'']]
+| escape_velocity = 35.5&nbsp;km/s<ref name="fact"/><ref name=1bar/>
+| sidereal_day = 0.439 – 0.449 day<ref name="saturnDay">{{cite web
+|url = http://www.space.com/scienceastronomy/070906_saturn_day.html
+|title = Length of Saturn's Day Revised
+|publisher = Space.com
+|last = Than
+|first = Ker
+|accessdate = 2007-09-06
+|date = September 6, 2007}}</ref><br /> (10 h 32 – 47 min)
+| rot_velocity = 9.87&nbsp;km/s<ref name=1bar/><br />35,500&nbsp;km/h
+| axial_tilt = 26.73°<ref name="fact"/>
+| right_asc_north_pole = 2 h 42 min 21 s<br />40.589°<ref name=Seidelmann2007/>
+| declination = 83.537°<ref name=Seidelmann2007/>
+| albedo = 0.342 ([[Bond albedo|bond]])<br/>
+0.47 ([[Geometric albedo|geom.]])<ref name="fact"/>
+| magnitude = +1.2 to -0.24<ref name="magnitude">{{cite web
+|url = http://findarticles.com/p/articles/mi_qa4015/is_200101/ai_n8933308
+|title = Wideband photoelectric magnitude measurements of Saturn in 2000
+|accessdate = 2007-10-14
+|last = Schmude
+|first = Richard W Junior
+|date = 2001
+|publisher = Georgia Journal of Science}}</ref>
+| angular_size = 14.5" — 20.1"<ref name="fact"/><br>(excludes rings)
+| temperatures = yes
+| temp_name1 = 1 bar level
+| min_temp_1 = 
+| mean_temp_1 = 134&nbsp;[[Kelvin|K]]<ref name="fact"/>
+| max_temp_1 = 
+| temp_name2 = 0.1 bar
+| min_temp_2 = 
+| mean_temp_2 = 84&nbsp;K<ref name="fact"/>
+| max_temp = 
+| adjectives = Saturnian
+| atmosphere = yes
+| atmosphere_ref =
+<ref name="fact"/>
+| scale_height = 59.5 km
+| atmosphere_composition = 
+<table>
+<tr><td>
+~96%</td><td>[[Hydrogen]] (H<sub>2</sub>)
+</td></tr><tr><td>
+~3%</td><td>[[Helium]]
+</td></tr><tr><td>
+~0.4%</td><td>[[Methane]]
+</td></tr><tr><td>
+~0.01%</td><td>[[Ammonia]]
+</td></tr><tr><td>
+~0.01%</td><td>[[Hydrogen deuteride]] (HD)
+</td></tr><tr><td>
+0.0007%</td><td>[[Ethane]]
+</td></tr><tr><td>
+'''Ices''':</td><td>
+</td></tr><tr><td>
+</td><td>[[Ammonia]]
+</td></tr><tr><td>
+</td><td>[[water]]
+</td></tr><tr><td>
+</td><td>[[ammonium hydrosulfide]](NH<sub>4</sub>SH)
+</td></tr></table>
+}}
+Сатурн  - [[Күн]] жүйесінің ғаламшары.
 
-   Сатурнді қазақша  Қоңырқай  деп атайды, Қоңырқай [[Күн жүйесі]]не кіретін ғаламшарының бірі. Қоңырқай үлкен ғаламшарларының тобына кіреді (сол топқа [[Есекқырған]], [[Уран]], [[Нептун]] және [[Плутон]] да кіреді). Қоңырқай [[жоғарғы ғаламшарлары]]ның бірі есептеледі. Қоңырқай Күн жүйесінің алтыншы ғаламшары.
+Сатурнді [[қазақ]]ша  '''''Қоңырқай ''''' деп атайды, Қоңырқай [[Күн жүйесі]]не кіретін ғаламшарының бірі. Қоңырқай үлкен ғаламшарларының тобына кіреді (сол топқа [[Есекқырған]], [[Уран]], [[Нептун]] және [[Плутон]] да кіреді). Қоңырқай [[жоғарғы ғаламшарлары]]ның бірі есептеледі. Қоңырқай Күн жүйесінің алтыншы ғаламшары.
 [[Күн]]нен 1 миллиард 417 миллион шақырым қашықтығында, [[Есекқырған]] мен [[Уран]] ғаламшарларының арасында орналасқан. Қоңырқай ғаламшарының бетіндегі орта шама температурасы -180 дәреже Цельсий бойынша. Қоңырқай үлкен ғаламшары болып, өз белін тез айналдырады, соңдықтан Қоңырқайдың тәулігі қысқа. Ал Күнді 30 жылда бір айналдырады, яки Қоңырқайдың бір жылы
 Жердегі 30 жылына сәйкес. Жылдың ұзақтылығының себебі, Күннен алыс болуы.
 Қоңырқай жүйесінің ғажайып және ерекше денелерінің бірі. Қоңырқай "сақиналы" ғаламшар. Қоңырқайдың кең сақинаның ені бірнеше шақырым. Сақина ғаламшардың экваториалдық жазықтығында орналасқан. Экваториалдық жазықтығы ғаламшардың белінің жазықтығына 27 градустың бұрышына еңкейген.
@@ -8,3 +113,105 @@
 Жердегідей газдар емес, сұйық заттар болып кетеді. Оның себебі Қоңырқай бетіндегі өте төмен деңгейдегі температурасы.
 
 [[Санат:Ғаламшарлар]]
+[[af:Saturnus]]
+[[als:Saturn (Planet)]]
+[[ang:Saturnus (planēta)]]
+[[ar:زحل]]
+[[frp:Saturno (planèta)]]
+[[ast:Saturnu (planeta)]]
+[[az:Saturn]]
+[[zh-min-nan:Thó͘-chheⁿ]]
+[[be:Планета Сатурн]]
+[[be-x-old:Сатурн (плянэта)]]
+[[bs:Saturn]]
+[[br:Sadorn (planedenn)]]
+[[bg:Сатурн (планета)]]
+[[ca:Saturn (planeta)]]
+[[cv:Сатурн]]
+[[cs:Saturn (planeta)]]
+[[co:Saturnu]]
+[[cy:Sadwrn (planed)]]
+[[da:Saturn (planet)]]
+[[de:Saturn (Planet)]]
+[[et:Saturn]]
+[[el:Κρόνος (πλανήτης)]]
+[[eml:Saturn]]
+[[es:Saturno (planeta)]]
+[[eo:Saturno]]
+[[eu:Saturno (planeta)]]
+[[fa:کیوان (سیاره)]]
+[[fo:Saturn]]
+[[fr:Saturne (planète)]]
+[[ga:Satarn (pláinéad)]]
+[[gd:Satarn]]
+[[gl:Saturno (planeta)]]
+[[gu:શનિ (ગ્રહ)]]
+[[ko:토성]]
+[[hy:Սատուրն]]
+[[hr:Saturn (planet)]]
+[[io:Saturno]]
+[[ilo:Saturno (planeta)]]
+[[id:Saturnus]]
+[[ia:Saturno (planeta)]]
+[[os:Сатурн (планетæ)]]
+[[is:Satúrnus (reikistjarna)]]
+[[it:Saturno (astronomia)]]
+[[he:שבתאי]]
+[[jv:Saturnus]]
+[[pam:Saturn]]
+[[kn:ಶನಿ]]
+[[ka:სატურნი (პლანეტა)]]
+[[csb:Saturna]]
+[[kw:Sadorn (planet)]]
+[[sw:Zohali]]
+[[ht:Satin]]
+[[ku:Keywan]]
+[[la:Saturnus (planeta)]]
+[[lv:Saturns (planēta)]]
+[[lb:Saturn (Planéit)]]
+[[lt:Saturnas]]
+[[li:Saturnus (planeet)]]
+[[ln:Saturne]]
+[[hu:Szaturnusz]]
+[[mk:Сатурн]]
+[[ml:ശനി (ഗ്രഹം)]]
+[[mt:Saturnu (pjaneta)]]
+[[mr:शनी ग्रह]]
+[[ms:Zuhal]]
+[[nah:Tzitzimicītlalli]]
+[[nl:Saturnus (planeet)]]
+[[ne:शनिग्रह]]
+[[ja:土星]]
+[[no:Saturn]]
+[[nn:Planeten Saturn]]
+[[nov:Saturne (planete)]]
+[[oc:Saturne (planeta)]]
+[[uz:Saturn]]
+[[pl:Saturn]]
+[[pt:Saturno (planeta)]]
+[[ksh:Satturrən (Planneet)]]
+[[ro:Saturn (planetă)]]
+[[qu:Hawcha]]
+[[ru:Сатурн (планета)]]
+[[se:Saturnus]]
+[[sa:शनि]]
+[[sq:Saturni]]
+[[scn:Saturnu]]
+[[simple:Saturn (planet)]]
+[[sk:Saturn]]
+[[sl:Saturn]]
+[[sr:Сатурн (планета)]]
+[[sh:Saturn (planeta)]]
+[[stq:Saturn]]
+[[fi:Saturnus]]
+[[sv:Saturnus]]
+[[tl:Saturno (planeta)]]
+[[ta:சனி (கோள்)]]
+[[th:ดาวเสาร์]]
+[[vi:Sao Thổ]]
+[[tg:Зуҳал]]
+[[tr:Satürn (gezegen)]]
+[[uk:Сатурн (планета)]]
+[[ur:زحل]]
+[[zh-yue:土星]]
+[[zh:土星]]
