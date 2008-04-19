@@ -1,4 +1,205 @@
-Нептун - [[Күн жүйесі]]нің ғаламшары. Нептуннің бар екенің адамзат 1846 жылға дейін білмеген, соңдықтан оның қазақ атауы жоқ. Нептун латын атауы, оның мағынасы "теңіздің құдайы", бұл көне гректердің [[Посейдон]]құдайының мадағына атауын алған. Нептун [[Күн жүйесі]]нің сегізінші ғаламшары, [[Уран]]ның  және [[Плутон]]ның арасында орналасқан. Нептун мен Күн арасындағы ұзақтық 4 миллиард 469 миллион шақырымға сәйкес. Жоғарғы ғаламшарларының тобына кіреді. Есекқырған менен Қоңырқай ғаламшарлары секілді үлкен ғаламшарлардың бірі
+{{Infobox Planet 
+<!--
+ Please note the formatting and layout of this infobox has been matched with the other bodies of the solar system. Please do not arbitrarily change it without discussion.
+ Scroll down to edit the contents of this page.
+ Additional parameters for this template are available at
+ [[Template:Infobox Planet]].
+-->
+| bgcolour = #97C3F4
+| name = Neptune 
+| symbol = [[Image:Neptune symbol.svg|20px|Astronomical symbol for Neptune.]]
+| image = [[Image:neptune.jpg|240px|Neptune from Voyager 2]]
+| caption = Neptune from ''Voyager 2'' 
+| discovery = yes
+| discoverer = [[Urbain Le Verrier]]<br /> [[John Couch Adams]]<br /> [[Johann Gottfried Galle|Johann Galle]]
+| discovered = [[September 23]], [[1846]]<ref name=Hamilton>{{cite web
+ | first=Calvin J. | last=Hamilton | date=[[August 4]], [[2001]]
+ | url=http://www.solarviews.com/eng/neptune.htm
+ | title=Neptune |publisher=Views of the Solar System
+ | accessdate=2007-08-13}}</ref>
+| orbit_ref =
+<ref name=horizons>{{cite web
+ | first=Donald K. | last=Yeomans | date =[[July 13]], [[2006]]
+ | url = http://ssd.jpl.nasa.gov/?horizons
+ | title = HORIZONS System | publisher = NASA JPL
+ | accessdate = 2007-08-08 }}&mdash;At the site, go to the "web interface" then select "Ephemeris Type: ELEMENTS", "Target Body: Neptune Barycenter" and "Center: Sun".</ref><ref name=barycentre>Orbital elements refer to the barycentre of the Neptune system, and are the instantaneous [[osculating orbit|osculating]] values at the precise [[J2000]] epoch. Barycentre quantities are given because, in contrast to the planetary centre, they do not experience appreciable changes on a day-to-day basis from to the motion of the moons.</ref>
+| epoch = [[J2000]]
+| aphelion = 4,553,946,490&nbsp;[[Kilometre|km]]<br />30.44125206&nbsp;[[Astronomical unit|AU]]
+| perihelion = 4,452,940,833&nbsp;km<br />29.76607095&nbsp;AU
+| semimajor = 4,503,443,661&nbsp;km<br />30.10366151&nbsp;AU
+| eccentricity = 0.011214269
+| period = 60,190<ref name="fact2" />&nbsp;[[day]]s<br />164.79&nbsp;[[julian year (astronomy)|years]]
+| synodic_period = 367.49&nbsp;day<ref name="fact">{{cite web
+  | url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/neptunefact.html
+  | title = Neptune Fact Sheet
+  | date = [[September 1]], [[2004]]
+  | publisher = NASA | accessdate = 2007-08-14
+  | last = Williams |first = David R. }}</ref>
+| avg_speed = 5.43&nbsp;km/s<ref name="fact"/>
+| inclination = 1.767975°<br />6.43° to Sun's equator
+| asc_node = 131.794310°
+| arg_peri = 265.646853°
+| mean_anomaly = 267.767281°
+| satellites = [[Moons of Neptune|13]]
+| physical_characteristics = yes
+| flattening = 0.0171 ± 0.0013 <!-- calculated from data in ref name=Seidelmann2007 -->
+| equatorial_radius = 24,764 ± 15&nbsp;km<ref name=Seidelmann2007>{{cite journal
+ | first=Seidelmann | last=P. Kenneth
+ | coauthors=Archinal, B. A.; A’hearn, M. F. et al
+ | title= Report of the IAU/IAGWorking Group on cartographic coordinates and rotational elements
+ | journal=Celestial Mechanics and Dynamical Astronomy
+ | volume=90 | pages=155–180 | year=2007
+ | doi=10.1007/s10569-007-9072-y | issn =0923-2958 (Print)
+ | url=http://adsabs.harvard.edu/doi/10.1007/s10569-007-9072-y
+ |publisher=Springer Netherlands | accessdate=2008-03-07 }}</ref><ref name=1bar>Refers to the level of 1 bar atmospheric pressure</ref><br />3.883 Earths
+| polar_radius = 24,341 ± 30&nbsp;km<ref name=Seidelmann2007/><ref name=1bar/><br />3.829 Earths
+| surface_area = 7.6408{{e|9}}&nbsp;km²<ref name="fact2"/><ref name=1bar/><br />14.98 Earths
+| volume = 6.254{{e|13}}&nbsp;km³<ref name="fact"/><ref name=1bar/><br />57.74 Earths
+| mass = 1.0243×10<sup>26</sup>&nbsp;kg<ref name="fact"/><br />17.147 Earths
+| density = 1.638&nbsp;g/cm³<ref name="fact"/><ref name=1bar/>
+| surface_grav = 11.15&nbsp;[[Acceleration|m/s²]]<ref name="fact"/><ref name=1bar/><br />1.14&nbsp;[[g-force|''g'']]
+| escape_velocity = 23.5&nbsp;km/s<ref name="fact"/><ref name=1bar/>
+| sidereal_day = 0.6713&nbsp;day<ref name="fact"/><br/>16&nbsp;h 6&nbsp;min 36&nbsp;s
+| rot_velocity = 2.68&nbsp;km/s<br />9,660&nbsp;km/h
+| axial_tilt = 28.32°<ref name="fact"/>
+| right_asc_north_pole = {{RA|19|57|20}}<ref name=Seidelmann2007/>
+| declination = 42.950°<ref name=Seidelmann2007/>
+| albedo = 0.290 ([[Bond albedo|bond]])<br/>
+0.41 ([[Geometric albedo|geom.]])<ref name="fact"/>
+| magnitude = 8.0 to 7.78<ref name="fact"/><ref name=ephemeris/>
+| angular_size = 2.2[[Minute of arc|&Prime;]]—2.4&Prime;<ref name="fact"/><ref name=ephemeris/>
+| temperatures = yes
+| temp_name1 = 1 bar level
+| min_temp_1 = 
+| mean_temp_1 = 72&nbsp;[[Kelvin|K]]<ref name="fact"/>
+| max_temp_1 = 
+| temp_name2 = 0.1 bar
+| min_temp_2 = 
+| mean_temp_2 = 55&nbsp;K<ref name="fact"/>
+| max_temp = 
+| adjectives = Neptunian
+| atmosphere = yes
+| atmosphere_ref =
+<ref name="fact"/>
+| scale_height = 19.7 ± 0.6&nbsp;km 
+| atmosphere_composition = 
+<table>
+<tr><td>
+80±3.2%</td><td>[[Hydrogen]] (H<sub>2</sub>)
+</td></tr><tr><td>
+19±3.2%</td><td>[[Helium]]
+</td></tr><tr><td>
+1.5±0.5%</td><td>[[Methane]]
+</td></tr><tr><td>
+~0.019%</td><td>[[Hydrogen deuteride]] (HD)
+</td></tr><tr><td>
+~0.00015%</td><td>[[Ethane]]
+</td></tr><tr><td>
+'''Ices''':</td><td>
+</td></tr><tr><td>
+</td><td>[[Ammonia]]
+</td></tr><tr><td>
+</td><td>[[Water]]
+</td></tr><tr><td>
+</td><td>[[Ammonium hydrosulfide]](NH<sub>4</sub>SH)
+</td></tr><tr><td>
+</td><td>Methane (?)
+</td></tr></table>
+}}
+'''Нептун''' - [[Күн жүйесі]]нің ғаламшары. Нептуннің бар екенің адамзат 1846 жылға дейін білмеген, соңдықтан оның қазақ атауы жоқ. Нептун латын атауы, оның мағынасы "теңіздің құдайы", бұл көне гректердің [[Посейдон]]құдайының мадағына атауын алған. Нептун [[Күн жүйесі]]нің сегізінші ғаламшары, [[Уран]]ның  және [[Плутон]]ның арасында орналасқан. Нептун мен Күн арасындағы ұзақтық 4 миллиард 469 миллион шақырымға сәйкес. Жоғарғы ғаламшарларының тобына кіреді. Есекқырған менен Қоңырқай ғаламшарлары секілді үлкен ғаламшарлардың бірі
 болып саналады. Үлкен ғаламшарларының бірі болып, Нептун өз белін тез айналдырады. Ал Күннен алыс орналасқандықтан, Нептун Күнді ұзақ уақытта бір айналады. Нептунның бетіндегі температура -220 дәрежеге Цельсий бойынша сәйкес. Соңдықтан оттегі, сутегі және азот ғаламшарда сұйық ахуалында тұр. Нептун телескоптың арқасында ашылды. Бұл оқиға 1846 жылы болды. Нептунды ашқан ғалымдар Леверье мен Адамс. Нептунның қозғалысын байқап, ғалымдар Нептуннан әрі тағы бір ғаламшар бар деп болжады. Шыныңда да, бұл сол кездегі жұрт білмейтін [[Плутон]] ғаламшары еді.
 
 [[Санат:Ғаламшарлар]]
+
+[[af:Neptunus (planeet)]]
+[[als:Neptun (Planet)]]
+[[ang:Neptune (planēta)]]
+[[ar:نبتون]]
+[[frp:Neptuno (planèta)]]
+[[ast:Neptunu (planeta)]]
+[[az:Neptun (planet)]]
+[[bn:নেপচুন গ্রহ]]
+[[zh-min-nan:Hái-ông-chheⁿ]]
+[[be:Планета Нептун]]
+[[be-x-old:Нэптун (плянэта)]]
+[[bs:Neptun]]
+[[br:Neizhan (planedenn)]]
+[[bg:Нептун (планета)]]
+[[ca:Neptú (planeta)]]
+[[cs:Neptun (planeta)]]
+[[cy:Neifion (planed)]]
+[[da:Neptun (planet)]]
+[[de:Neptun (Planet)]]
+[[et:Neptuun]]
+[[el:Ποσειδώνας (πλανήτης)]]
+[[es:Neptuno (planeta)]]
+[[eo:Neptuno (planedo)]]
+[[eu:Neptuno (planeta)]]
+[[fa:نپتون]]
+[[fo:Neptun]]
+[[fr:Neptune (planète)]]
+[[ga:Neiptiún (pláinéad)]]
+[[gd:Neiptiùn]]
+[[gl:Neptuno (planeta)]]
+[[gu:નૅપ્ચ્યુન (ગ્રહ)]]
+[[ko:해왕성]]
+[[hy:Նեպտուն]]
+[[hr:Neptun (planet)]]
+[[io:Neptuno]]
+[[ilo:Neptuno (planeta)]]
+[[id:Neptunus]]
+[[is:Neptúnus (reikistjarna)]]
+[[it:Nettuno (astronomia)]]
+[[he:נפטון]]
+[[jv:Neptunus]]
+[[pam:Neptune]]
+[[kn:ನೆಪ್ಚೂನ್]]
+[[ka:ნეპტუნი (პლანეტა)]]
+[[csb:Neptun]]
+[[kw:Nevyon (planet)]]
+[[sw:Neptun]]
+[[ht:Neptin (planèt)]]
+[[ku:Neptûn (gerstêrk)]]
+[[la:Neptunus (planeta)]]
+[[lv:Neptūns (planēta)]]
+[[lb:Neptun (Planéit)]]
+[[lt:Neptūnas]]
+[[li:Neptunus (planeet)]]
+[[hu:Neptunusz]]
+[[mk:Нептун]]
+[[ml:നെപ്റ്റ്യൂണ്‍]]
+[[mr:नेपच्यून ग्रह]]
+[[ms:Neptun]]
+[[nah:Tlāloccītlalli]]
+[[nl:Neptunus (planeet)]]
+[[nds-nl:Neptunus (planeet)]]
+[[ne:नेप्च्युन]]
+[[ja:海王星]]
+[[no:Neptun]]
+[[nn:Planeten Neptun]]
+[[oc:Neptun (planeta)]]
+[[nds:Neptun (Planet)]]
+[[pl:Neptun]]
+[[pt:Neptuno (planeta)]]
+[[ksh:Nepptuun (Planneet)]]
+[[ro:Neptun (planetă)]]
+[[qu:Niptun (puriq quyllur)]]
+[[ru:Нептун (планета)]]
+[[sq:Neptuni]]
+[[scn:Nettunu (pianeta)]]
+[[simple:Neptune (planet)]]
+[[sk:Neptún]]
+[[sl:Neptun]]
+[[sr:Нептун (планета)]]
+[[sh:Neptun (planeta)]]
+[[fi:Neptunus]]
+[[sv:Neptunus]]
+[[ta:நெப்டியூன்]]
+[[th:ดาวเนปจูน]]
+[[vi:Sao Hải Vương]]
+[[tg:Нептун]]
+[[tr:Neptün (gezegen)]]
+[[uk:Нептун (планета)]]
+[[ur:نیپچون]]
+[[zh-yue:海王星]]
+[[zh:海王星]]
