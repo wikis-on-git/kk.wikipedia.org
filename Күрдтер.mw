@@ -1,13 +1,152 @@
 {{wikify}}
-'''Күрттер''' - Таяу Шығыстың ежелгі халықтарының бірі. 
+{{Infobox Ethnic group
+|group     = Kurds
+|image     = <div style="background:black;"> [[Сурет:Ac.saladin.jpg|62px]] [[Сурет:Ehmed Xani.jpg|62px]] [[Сурет:Jalal Talabani.jpg|58px]][[Сурет:Sivan Perwer.jpeg|68px]] </div><!--Only freely licensed or public domain images may be used in decorations-->
+|caption   = <small>[[Al-Dinawari]]&nbsp;• [[Saladin]]&nbsp;• [[Asenath Barzani]]&nbsp;• [[Ahmad Xani]]&nbsp;• [[Mastoureh Ardalan]]&nbsp;• [[Jalal Talabani]]&nbsp;• [[Şivan Perwer]]&nbsp;• [[Leyla Zana]]</small>
+|pop       = 27 to 37.5 million
+
+|region1   = <div style="font-size:115%;">'''[[Kurdistan]]'''</div>
+|region2   = {{spaces|4}}{{flagcountry|Turkey}}
+|pop2 = 11 to 14.1 million
+|ref2 = {{lower|<ref><cite>Konda Poll gives a figure of about 11.4 million</cite>, s.v. ''[http://www.milliyet.com.tr/2007/03/22/guncel/agun.html]</ref> <ref>[https://www.cia.gov/cia/publications/factbook/geos/tu.html#People CIA Factbook gives a figure of about 15 million]</ref>}}
+|region3 = {{spaces|4}}{{flagcountry|Iran}}
+|pop3 = 4.8 to 6.6 million
+|ref3 = {{lower|<ref>Estimate based on 7% of 68,688,433: <cite>World Factbook</cite>, s.v. ''[https://www.cia.gov/cia/publications/factbook/geos/ir.html#People Iran];'' <cite>Encyclopedia of the Orient</cite>, ed. Tore Kjeilen, s.v. ''[http://lexicorient.com/e.o/iran_4.htm Iran:Religions and Peoples],'' (N.P.:Lexorient, 2006), <nowiki>http://lexicorient.com/e.o/iran_4.htm</nowiki>.</ref>}}
+|region4 = {{spaces|4}}{{flagcountry|Iraq}}
+|pop4 = 4 to 6 million
+|ref4 = {{lower|<ref>Estimate based on 15% to 20% of 26,783,383: <cite>World Factbook</cite>, s.v. ''[https://www.cia.gov/cia/publications/factbook/geos/iz.html#People Iraq];'' <cite>Encyclopedia of the Orient</cite>, s.v. ''[http://lexicorient.com/e.o/iraq_4.htm Iraq: Religions and Peoples]''.</ref>}}
+|region5 = {{spaces|4}}{{flagcountry|Syria}}
+|pop5 = 0.9 to 2.8 million
+|ref5 = {{lower|<ref>Estimate based on 5% to 15% of 18,881,361: s.v.  <cite>World Factbook</cite> ''[https://www.cia.gov/cia/publications/factbook/geos/sy.html#People Syria];'' <cite>Encyclopedia of the Orient</cite>, s.v. ''[http://lexicorient.com/e.o/syria_4.htm Syria: Peoples, Languages, Religions]''.</ref>}}
+|region6 = <div style="line-height:0.75em;">&nbsp;</div>
+
+|region7 = <div style="font-size:115%;">'''[[Asia]]''' / '''[[Caucasus]]'''</div>
+|region8 = {{spaces|4}}{{flagcountry|Afghanistan}}
+|pop8 = 200,000
+|ref8 = {{lower|<ref name="kurdorama">''[http://www.institutkurde.org/en/kurdorama/ The Kurdish Diaspora],'' <cite>Institut Kurde de Paris</cite> (Paris: Institut Kurde de Paris, 2006), <nowiki>http://www.institutkurde.org/en/kurdorama/</nowiki>.</ref>}}
+|region9 = {{spaces|4}}{{flagcountry|Azerbaijan}}
+|pop9 = 150,000
+|ref9 = {{lower|<ref name="kurdorama"/>}}
+|region10 = {{spaces|4}}{{flagcountry|Israel}}
+|pop10 = 100,000
+|ref10 = {{lower|<ref>Lokman I. Meho, ''[http://www.slis.indiana.edu/faculty/meho/meho-bibliography-2001.pdf The Kurds and Kurdistan: A General Background]'', in <cite>Kurdish Culture and Society: An Annotated Bibliography</cite>. Comp. Lokman I. Meho & Kelly Maglaughlin (Westport, CT: Greenwood Press, 2001), 4.</ref>}}
+|region11 = {{spaces|4}}{{flagcountry|Lebanon}}
+|pop11 = 80,000
+|ref11 = {{lower|<ref name="kurdorama"/>}}
+|region12 = {{spaces|4}}{{flagcountry|Georgia}}
+|pop12 = 34,000 to 60,000
+|ref12 = {{lower|<ref>''[http://www.eurominority.org/version/eng/minority-detail.asp?id_minorites=ge-kurd Kurds in Georgia]'' in <cite>Eurominority: Portal of European Stateless Nations and Minorities</cite> (Quimper, France: Organization for the European Minorities, 2006). <nowiki>http://www.eurominority.org/</nowiki>; ''[http://www.institutkurde.org/en/kurdorama/ The Kurdish Diaspora]''.</ref>}}
+|region13 = {{spaces|4}}{{flagcountry|Kazakhstan}}
+|pop13 = 46,000
+|ref13 = {{lower|<ref>Elena Eliseeva, ''[http://www.iwpr.net/?p=rca&s=f&o=342160&apc_state=henh/ Kurds Plan Exodus from South Kazakstan]'', [[IWPR]], 22 Jan 2008. </ref>}}
+|region14 = {{spaces|4}}{{flagcountry|Armenia}}
+|pop14 = 45,000
+|ref14 = {{lower|<ref name="kurdorama"/>}}
+|region15 = {{spaces|4}}{{flagcountry|Turkmenistan}}
+|pop15 = 40,000
+|ref15 = {{lower|<ref name="kurdorama"/>}}
+|region16 = <div style="line-height:0.75em;">&nbsp;</div>
+
+|region16 = <div style="font-size:115%;">'''[[Europe]]'''</div>
+|region17 = {{spaces|4}}{{flagcountry|Germany}}
+|pop17 = 500,000<br />to 800,000
+|ref17 = {{lower|<ref name="kurdorama"/>}}<br />{{lower|15px|<ref name="coucileu">''[http://assembly.coe.int/Main.asp?link=/Documents/WorkingDocs/Doc06/EDOC11006.htm The cultural situation of the Kurds],'' <cite>A report by Lord Russell-Johnston, Council of Europe, July 2006</cite>.</ref>}}
+|region18 = {{spaces|4}}{{flagcountry|France}}
+|pop18 = 120,000
+|ref18 = {{lower|<ref name="coucileu"/>}}
+|region19 = {{spaces|4}}{{flagcountry|Sweden}}
+|pop19 = 100,000
+|ref19 = {{lower|<ref name="coucileu"/>}}
+|region20 = {{spaces|4}}{{flagcountry|Netherlands}}
+|pop20 = 70,000
+|ref20 = {{lower|<ref name="coucileu"/>}}
+|region21 = {{spaces|4}}{{flagcountry|Switzerland}}
+|pop21 = 60,000
+|ref21 = {{lower|<ref name="coucileu"/>}}
+|region22 = {{spaces|4}}{{flagcountry|Austria}}
+|pop22 = 50,000
+|ref22 = {{lower|<ref name="coucileu"/>}}
+|region23 = {{spaces|4}}{{flagcountry|United Kingdom}}
+|pop23 = 25,000<br />to 80,000
+|ref23 = {{lower|<ref name="kurdorama"/>}}<br />{{lower|15px|<ref name="coucileu"/>}}
+|region24 = {{spaces|4}}{{flagcountry|Denmark}}
+|pop24 = 8,000 to 30,000
+|ref24 = {{lower|<ref>No official figures exist. The following unofficial estimates have been made:<br/>
+* 8,000-10,000: [http://assembly.coe.int/Main.asp?link=/Documents/WorkingDocs/Doc06/EDOC11006.htm The cultural situation of the Kurds], Committee on Culture, Science and Education, [[Council of Europe]], [[7 July]], [[2006]].
+* c. 23,000: [http://www.kurder.dk/html2004/kurderdk.html Kurdere i Danmark], Fey-Kurd - League of Kurdish Associations in Denmark.
+* 20,000-30,000: [http://www.olestig.dk/tyrkiet/index.html Kurdisk - Små 25.000 danske borgere taler landets største indvandrersprog], Andersen, Ole Stig, [[Dagbladet Information]], [[4 July]], [[1994]].</ref>}}
+|region25 = {{spaces|4}}{{flagcountry|Greece}}
+|pop25 = 20,000 to 25,000
+|ref25 = {{lower|<ref name="coucileu"/>}}
+|region26 = <div style="font-size:115%;">'''[[Americas]]'''</div>
+|region27 = {{spaces|4}}{{flagcountry|US}}
+|pop27 = 40,000
+|ref27 = {{lower|<ref name="washingtonpost">''[http://www.washingtonpost.com/wp-dyn/content/article/2007/04/22/AR2007042201568.html],''</ref>}}
+|region28 = {{spaces|4}}{{flagcountry|Canada}}
+|pop28 = 6,000
+|ref28 = {{lower|<ref name="kurdorama">''[http://www.institutkurde.org/en/kurdorama/ The Kurdish Diaspora],'' <cite>Institut Kurde de Paris</cite> (Paris: Institut Kurde de Paris, 2006), <nowiki>http://www.institutkurde.org/en/kurdorama/</nowiki>.</ref>}}
+
+|languages = [[Kurdish language|Kurdish]]<br />{{smaller|''[[Persian language|Persian]], [[Turkish Language|Turkish]] or [[Arabic Language|Arabic]] spoken widely as [[second language]]s''<br/>''[[Swedish language|Swedish]], [[German language|German]], [[French language|French]] and [[English language|English]] are second languages among [[expatriate]]s''}}
+|religions = Predominantly [[Sunni Muslim]]<br />also some [[Shia]], [[Yazidism]], [[Yarsan]], [[Judaism]], [[Christianity]]
+|related = other [[Iranian peoples]]<br />([[Talysh people|Talysh]]{{·}} [[Baloch people|Baluch]]{{·}} [[Guilak|Gilak]]{{·}} [[Bakhtiari]]{{·}} [[Persian people|Persians]])
+}}
+'''Күрттер''' — Таяу Шығыстың ежелгі халықтарының бірі.
 
 Негізінде ата-бабалардың жерінде немесе Түркия, Иран, Ирак, Сирия территориясында өмір сүреді. Осы мемлекеттерімен шектелес Ауғанстанда, Арменияда, Грузияда, Әзірбайжанда да тұрады.
 
-Дүние жүзінде жалпы саны – 40 миллионнан астам. Өзіні курд деп атайды, бірақ бұрын Бұл халықтың тайпаларын гутеи, кутеи, куртии, карди, кардуһи деп атаған. [[Күрт тілі]] тек Ирақ мемлекеттік тілдерімен қатарында қолданылады. Діні – негізінде Исләм, арасында Сүнни мұсылмандар да, Шиға мұсылмандар да бар. Кейбіреулер христиан дінің немесе бабалардың [[езид]] дінің ұстайды. Бірнеше бөліктеріне бөлінеді. Мысалы, курманджи, сорани, арасында езид күрттар да бар. 
+Дүние жүзінде жалпы саны — 40 миллионнан астам. Өзіні курд деп атайды, бірақ бұрын Бұл халықтың тайпаларын гутеи, кутеи, куртии, карди, кардуһи деп атаған. [[Күрт тілі]] тек Ирақ мемлекеттік тілдерімен қатарында қолданылады. Діні — негізінде Исләм, арасында Сүнни мұсылмандар да, Шиға мұсылмандар да бар. Кейбіреулер христиан дінің немесе бабалардың [[езид]] дінің ұстайды. Бірнеше бөліктеріне бөлінеді. Мысалы, курманджи, сорани, арасында езид күрттар да бар.
 
 Қазақстанда 25,4 мың курд тұрады. Негізінде Алматы, Жамбыл, Оңтүстік Қазақстан облыстарында тұрады.
 
 {{stub}}
 
-[[Санат:Ирани этностар]]
-[[Санат:Халықтар]]
+[[Санат:Ирани халықтар]]
+
+{{Link FA|ar}}
+
+[[ar:أكراد]]
+[[az:Kürdlər]]
+[[be:Курды]]
+[[be-x-old:Курды]]
+[[bg:Кюрди]]
+[[cs:Kurdové]]
+[[cy:Cyrdiaid]]
+[[da:Kurder]]
+[[de:Kurden]]
+[[el:Κούρδοι]]
+[[es:Pueblo kurdo]]
+[[eo:Kurdoj]]
+[[fa:کردها]]
+[[fo:Kurdar]]
+[[fr:Kurdes]]
+[[ko:쿠르드족]]
+[[hr:Kurdi]]
+[[id:Orang Kurdi]]
+[[is:Kúrdar]]
+[[it:Curdi]]
+[[he:כורדים]]
+[[ka:ქურთები]]
+[[ku:Kurd]]
+[[lt:Kurdai]]
+[[hu:Kurdok]]
+[[nl:Koerden]]
+[[ja:クルド人]]
+[[no:Kurdere]]
+[[pl:Kurdowie]]
+[[pt:Curdos]]
+[[ru:Курды]]
+[[sq:Kurdët]]
+[[simple:Kurds]]
+[[sk:Kurdi]]
+[[sl:Kurdi]]
+[[sr:Курди]]
+[[sh:Kurdi]]
+[[fi:Kurdit]]
+[[sv:Kurder]]
+[[ta:குர்து மக்கள்]]
+[[kab:Kurd]]
+[[tr:Kürtler]]
+[[uk:Курди]]
+[[yi:קורדן]]
+[[diq:Kurd]]
+[[zh:库尔德人]]
