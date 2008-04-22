@@ -1,0 +1,192 @@
+{{Infobox Planet
+| bgcolour = #c0ffff
+| name = Uranus
+| symbol = [[Image:Uranus symbol.svg|25px|Astronomical symbol of Uranus]]
+| image = [[Image:Uranus Voyager 2.jpg|240px|Image taken by the ''[[Voyager 2]]'' spacecraft]]
+| caption = Uranus, as seen by [[Voyager 2]]
+| discovery = yes
+| discoverer = [[William Herschel]]
+| discovered = [[March 13]], [[1781]]
+| orbit_ref =
+<ref name=horizons>{{cite web
+ | last = Yeomans | first = Donald K. |date = July 13, 2006
+ | url = http://ssd.jpl.nasa.gov/?horizons
+ | title = HORIZONS System | publisher = NASA JPL
+ | accessdate = 2007-08-08 }} &mdash; At the site, go to the "web interface" then select "Ephemeris Type: ELEMENTS", "Target Body: Uranus Barycenter" and "Center: Sun".</ref><ref name=barycenter>Orbital elements refer to the barycenter of the Uranus system, and are the instantaneous [[osculating orbit|osculating]] values at the precise [[J2000]] epoch. Barycenter quantities are given because, in contrast to the planetary center, they do not experience appreciable changes on a day-to-day basis from to the motion of the moons.</ref>
+| epoch = [[J2000]]
+| aphelion = 3,004,419,704&nbsp;[[kilometer|km]]<br />20.08330526 [[Astronomical unit|AU]]
+| perihelion = 2,748,938,461&nbsp;km<br />18.37551863 AU
+| semimajor = 2,876,679,082&nbsp;km<br />19.22941195 AU
+| eccentricity = 0.044405586
+| period = 30,799.095&nbsp;[[day]]s<br />84.323326 [[julian year (astronomy)|yr]]
+| synodic_period = 369.66&nbsp;days<ref name="fact">{{cite web|url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html|title = Uranus Fact Sheet|publisher = NASA|last = Williams|first = Dr. David R.|accessdate = 2007-08-10|date = January 31, 2005}}</ref>
+| avg_speed = 6.81&nbsp;km/s<ref name="fact"/>
+| inclination = 0.772556°<br />6.48° to [[Sun]]'s equator  
+| asc_node = 73.989821°
+| arg_peri = 96.541318°
+| mean_anomaly = 142.955717°
+| satellites = [[Uranus' natural satellites|27]]
+| physical_characteristics = yes
+| flattening = 0.0229 ± 0.0008 <!-- calculated from data in ref name=Seidelmann2007 -->
+| equatorial_radius = 25,559 ± 4&nbsp;km<br />4.007 Earths<ref name=Seidelmann2007/><ref name=1bar>Refers to the level of 1 bar atmospheric pressure</ref>
+| polar_radius = 24,973 ± 20&nbsp;km<br />3.929 Earths<ref name=Seidelmann2007/><ref name=1bar/>
+| surface_area = 8.1156{{e|9}}&nbsp;km²<ref name="nasafact">{{cite web|url = http://solarsystem.nasa.gov/planets/profile.cfm?Object=Uranus&Display=Facts|title = NASA: Solar System Exploration: Planets: Uranus: Facts & Figures|publisher = NASA|last = Munsell|first = Kirk|accessdate = 2007-08-13|date = May 14, 2007}}</ref><ref name=1bar/><br />15.91 Earths
+| volume = 6.833{{e|13}}&nbsp;km³<ref name="fact">{{cite web|url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html|title = Uranus Fact Sheet|publisher = NASA|last = Williams|first = Dr. David R.|accessdate = 2007-08-13|date = January 31, 2005}}</ref><ref name=1bar/><br />63.086 Earths
+| mass = 8.6810 ± 13{{e|25}}&nbsp;[[kilogram|kg]]<br />14.536 Earths<ref name=Jacobson1992/><br/>
+[[standard gravitational parameter|GM]]=5,793,939&nbsp;±&nbsp;13&nbsp;km³/s²
+| density = 1.27&nbsp;g/cm³<ref name=fact/><ref name=1bar/>
+| surface_grav = 8.69&nbsp;[[Acceleration|m/s²]]<ref name=fact/><ref name=1bar/><br />0.886 [[g-force|g]]
+| escape_velocity = 21.3&nbsp;km/s<ref name=fact/><ref name=1bar/>
+| sidereal_day = [[retrograde motion|−]]0.71833 day<br/>17 [[hour|h]] 14 [[minute|min]] 24 [[second|s]]<ref name=Seidelmann2007/>
+| rot_velocity = 2.59&nbsp;km/s<br />9,320&nbsp;km/h
+| axial_tilt = 97.77°<ref name=Seidelmann2007/>
+| right_asc_north_pole = 17 h 9 min 15 s<br />257.311°<ref name=Seidelmann2007/>
+| declination = −15.175°<ref name=Seidelmann2007/>
+| albedo = 0.300 ([[Bond albedo|bond]])<br/>
+0.51 ([[Geometric albedo|geom.]])<ref name="fact"/>
+| magnitude = 5.9<ref name=ephemeris/> to 5.32<ref name="fact"/>
+| angular_size = 3.3"–4.1"<ref name="fact"/>
+| temperatures = yes
+| temp_name1 = 1 [[bar (unit)|bar]] level<ref name=Podolak1995/>
+| min_temp_1 = 
+| mean_temp_1 = 76 [[kelvin|K]]
+| max_temp_1 = 
+| temp_name2 = 0.1 bar <br/>([[tropopause]])<ref name=Lunine1993/>
+| min_temp_2 = 49 K
+| mean_temp_2 = 53 K
+| max_temp_2 = 57 K
+| adjectives = Uranian
+| atmosphere = yes
+| atmosphere_ref =
+<ref name=Lunine1993/><ref name=Lindal1987/><ref name=Conrath1987/><ref name=calc1>Calculation of He, H<sub>2</sub> and CH<sub>4</sub> molar fractions is based on a 2.3% mixing ratio of methane to hydrogen and the 15/85 He/H<sub>2</sub> proportions measured at the tropopause.</ref>
+| scale_height = 27.7 km<ref name="fact"/>
+| atmosphere_composition = ''(Below 1.3 bar)''
+<table>
+<tr><td>
+83±3%</td><td>[[Hydrogen]] (H<sub>2</sub>)
+</td></tr><tr><td>
+15±3%</td><td>[[Helium]]
+</td></tr><tr><td>
+2.3%</td><td>[[Methane]]</td></tr><tr><td>
+0.009%<br>(0.007-0.015%)</td><td>[[Hydrogen deuteride]]&nbsp;(HD)<ref name=Feuchtgruber1999>{{cite journal|last=Feuchtgruber|first=H.|coauthors=Lellouch, E.; B. Bezard; et.al.|title=Detection of HD in the atmospheres of Uranus and Neptune: a new determination of the D/H ratio|year=1999|journal=Astronomy and Astrophysics|volume=341|pages=L17–L21|url=http://adsabs.harvard.edu/abs/1999A%26A...341L..17F}}</ref>
+</td></tr><tr><td>
+'''Ices''':</td><td>
+</td></tr><tr><td>
+</td><td>[[Ammonia]]
+</td></tr><tr><td>
+</td><td>[[water]]
+</td></tr><tr><td>
+</td><td>[[ammonium hydrosulfide]]&nbsp;(NH<sub>4</sub>SH)
+</td></tr><tr><td>
+</td><td>[[methane]]&nbsp;(CH<sub>4</sub>)
+</td></tr></table>
+}}
+'''Уран''' - [[Күн жүйесі]]нің жетінші ғаламшары.
+
+{{Uranus}}
+{{Solar System}}
+
+{{SpecialChars}}
+
+{{stub}}
+
+[[Санат:Уран (ғаламшар)|*]]
+[[Санат:Күн жүйесі ғаламшарлары]]
+
+{{Link FA|ru}}
+
+[[af:Uranus (planeet)]]
+[[ang:Uranus]]
+[[ar:أورانوس]]
+[[frp:Urano (planèta)]]
+[[ast:Uranu (planeta)]]
+[[az:Uran (planet)]]
+[[bn:ইউরেনাস গ্রহ]]
+[[zh-min-nan:Thiⁿ-ông-chheⁿ]]
+[[be:Планета Уран]]
+[[be-x-old:Уран (плянэта)]]
+[[bs:Uran]]
+[[br:Ouran (planedenn)]]
+[[bg:Уран (планета)]]
+[[ca:Urà (planeta)]]
+[[cv:Уран (планета)]]
+[[cs:Uran (planeta)]]
+[[cy:Wranws (planed)]]
+[[da:Uranus (planet)]]
+[[de:Uranus (Planet)]]
+[[et:Uraan (planeet)]]
+[[el:Ουρανός (πλανήτης)]]
+[[es:Urano (planeta)]]
+[[eo:Urano]]
+[[eu:Urano (planeta)]]
+[[fa:اورانوس (سیاره)]]
+[[fo:Uranus]]
+[[fr:Uranus (planète)]]
+[[ga:Úránas (pláinéad)]]
+[[gd:Urànus (planaid)]]
+[[gl:Urano (planeta)]]
+[[gu:યુરેનસ (ગ્રહ)]]
+[[zh-classical:天王星]]
+[[ko:천왕성]]
+[[hy:Ուրան (մոլորակ)]]
+[[hr:Uran (planet)]]
+[[io:Urano]]
+[[ilo:Uranus (planeta)]]
+[[id:Uranus]]
+[[is:Úranus (reikistjarna)]]
+[[it:Urano (astronomia)]]
+[[he:אורנוס]]
+[[jv:Uranus]]
+[[pam:Uranus]]
+[[kn:ಯುರೇನಸ್]]
+[[ka:ურანი (პლანეტა)]]
+[[csb:Ùran]]
+[[kw:Ouran (planet)]]
+[[sw:Uranus]]
+[[ht:Iranis]]
+[[ku:Ûranûs (gerstêrk)]]
+[[la:Uranus (planeta)]]
+[[lv:Urāns (planēta)]]
+[[lb:Uranus (Planéit)]]
+[[lt:Uranas (planeta)]]
+[[li:Uranus (planeet)]]
+[[hu:Uránusz]]
+[[mk:Уран]]
+[[ml:യുറാനസ്]]
+[[ms:Uranus]]
+[[nah:Ilhuicateōcītlalli]]
+[[nl:Uranus (planeet)]]
+[[ne:युरेनस]]
+[[ja:天王星]]
+[[no:Uranus]]
+[[nn:Planeten Uranus]]
+[[nov:Urane (planete)]]
+[[nds:Uranus (Planet)]]
+[[pl:Uran]]
+[[pt:Urano (planeta)]]
+[[ksh:Urranuß (Planneet)]]
+[[ro:Uranus (planetă)]]
+[[qu:Uranu (puriq quyllur)]]
+[[ru:Уран (планета)]]
+[[se:Uranus]]
+[[sq:Urani]]
+[[scn:Uranu (pianeta)]]
+[[simple:Uranus (planet)]]
+[[sk:Urán (planéta)]]
+[[sl:Uran (planet)]]
+[[sr:Уран (планета)]]
+[[sh:Uran (planeta)]]
+[[stq:Uranus]]
+[[fi:Uranus]]
+[[sv:Uranus]]
+[[ta:யுரேனஸ்]]
+[[te:యురేనస్]]
+[[th:ดาวยูเรนัส]]
+[[vi:Sao Thiên Vương]]
+[[tg:Уран]]
+[[tr:Uranüs (gezegen)]]
+[[uk:Уран (планета)]]
+[[ur:یورینس]]
+[[zh-yue:天王星]]
+[[bat-smg:Orans]]
+[[zh:天王星]]
