@@ -1,0 +1,206 @@
+{{Infobox Software
+| name                   =  Уиндоус Интернет Шолғыншысы
+| logo                   = [[Image:Internet Explorer 7 Logo.png|60px|Internet Explorer 7 Logo]]
+| screenshot             = [[Image:Windows Internet Explorer 7 Vista.png|270px]]
+| caption                = Уикипедияның басты беті 7-нұсқа шолғыншмен Уиндоус Виста да көрініп тұр
+| developer              = [[Микрософт]]
+| released               = Тамыз {{initial release year|1995}}
+| latest release version = 7.0.5730.13 (Уиндоус XP)<br>7.0.6001.18000 (Уиндоус Виста SP1)
+| latest release date    = 2008
+| latest preview version = 8.0.6001.17184 (IE8 Beta 1)
+| latest preview date    = [[Наурыз 5]] [[2008]]
+| operating system       = [[Микрософт Уиндоус]]<br/>[[Мэк OS]] [[Система 7]] to [[Мэк OS X]] (discontinued)<br/>[[Solaris (operating system)|Solaris]] and [[HP-UX]] (discontinued)
+| genre                  = [[Тор шолушы]] жэне [[RSS|RSS танушы]]
+| license                = [[Proprietary software|Proprietary]] [[EULA]]
+| website                = [http://www.microsoft.com/windows/products/winfamily/ie/default.mspx microsoft.com/ie]
+}}
+
+Интернет Шолғыншысы ({{lang-en|Windows Internet Explorer}}, қысқаша ІЕ немесе MSIE делінеді) [[Микрософт серіктігі|Микрософт серіктігінің]] 1995-жылдан бастап Микрософт Уиндоустың құрамындас өператсиалық жүйесі ретінде жасаған графиктік тор шолғыншылық желілес өнімі.Бұл жүйе 1999-жылдан бастап дүние жүзі бойынша қолданымы ең көлемді жүйе болып, 2002-2003 жылдар аралығындағы ІЕ5 пен ІЕ6ның жарық корген мезгілі бұл қолданымдық көрсеткіш шырқау шегіне жетті де, сонан бері қарай тұрақты томендеу күйінде болды.
+Интернет шолғыншысы алғашта 95 ке қосымша қалташық ретінде бірге шықты да, онан кеыйнгі жаңа ұрпақтық нұсқалары дербес қалташық ретінде жеке дара түсіруге болатын етіп жасалды. Қазіргі ең жаңа 7-ұрпақ шолғыншы УиндоусХР Жұмыстық қалташық2, Уиндоус 2003 Жұмыстық қалташық1 , Уинодус Виста жане Уиндоус Сербер 2008 дердің жаңалау қалташығы ретінде түсіріп орнату мүмкіншілігін жасады. Жэне бір түрдегі Уиндоус СЕ (ІЕ СЕ) ге бағытталған ОЕМ дік жасалымды да УинСЕ немесе ІЕ6 лық негіздегі текшелеріден еркін түсіріп алуға болады. Есте боларлық жэне бір жэйт, тағы бір тұрдегі Уиндоус Мобілеге (қойындық кіші тұрпатті компиутерлерге арналған система) сэйкестіріліп жасалған Мобіле(жылжымалы) Интернет Шолғыншысын үстелдік компиутерлерге(РС) арналған түрлерімен шатастырып алмау керек.
+8-ұрпақ ғаламтор шолғыншысының 2-реттік сынақ нұсқасы 2008- жылдың басында жэря етілі.
+
+
+== Тарихы ==
+
+Интернет шолғыншы жобасы 1994-жылдың жазында [[Spyglass серіктігі|Spyglass серіктігінің]] Mosaic  шолғыншсынің қайнарлық көдтары негізі үстінен Томас Рердон мен Бенжамин Сливка жағынан қолға алына бастады. 1994-жылдың ақырында Микрософт серіктігі қомақты ақша жане бажылық үстеме беру жолыменSpyglass Mosaic ті өзіне икемдеді. Осыдан кейін Уиндоус системасында Mosaic үлгідегі шолғыншы кең көлемде қолдануға бастады. Бастапта тың тыныс байқатқан Мэкинтоштық ғаламтор шолғыншысы мен UNIX тік ғаламтор шолғыншылары бірте-бірте маыданнан шығып қалды, кейін келе тіпті Микрософттан оларды табу мұмкін болмады.
+
+* 1-нұсқа
+1-нұсқа шолғыншы 1995-жылдың тамыз айында жэря болды. Бұл ауелгі Spyglass Mosaic тың кемелдендірілген түрі еді. Бұл нұсқа Уиндоус95 ке қосымша ретінде интернет секірмебеттік жабдығы болып орнатылатын.
+
+* 2-нұсқа
+
+* 3-нұсқа
+
+* 4-нұсқа
+
+* 5-нұсқа
+
+* 6-нұсқа
+
+* 7-нұсқа
+
+== Амалдық системалар жағдайы ==
+
+{| class="wikitable" style="font-size: 85%; text-align: center"
+|-
+! rowspan="2" style="width: 12em" |
+! rowspan="2" | Жылдар
+! rowspan="2" | Шолғыншы моторы
+! colspan=7|<big>[[Microsoft Windows|Windows]]</big>
+! rowspan=2|[[IBM OS/2]]
+! rowspan=2|[[Mac OS X]] (Intel/PPC)
+! rowspan=2|[[Mac OS 9]]
+! rowspan=2|[[Mac OS 8]]
+! rowspan=2|[[System 7]] (PPC/68k)
+! rowspan=2|[[Unix]] (HP-UX, Solaris)
+|-
+! [[Windows Vista|Vista]]
+! [[Windows XP|XP]]
+! [[Windows 2000|2000]]
+! [[Windows 98|98]]/[[Windows Me|Me]]
+! [[Windows NT 4.0|NT 4.0]]
+! [[Windows 95|95]]
+! [[Windows 3.x|3.1]]
+|-
+! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | шыққан жылдары [[амалдық система|OS]]
+| -
+| -
+| <!--Vista---> 2006
+| <!--XP---> 2001
+| <!--2000--> 2000
+| <!--98---> 1998/2000
+| <!--NT---> 1996
+| <!--95---> 1995
+| <!--3.1---> 1992
+| <!--OS/2---> 1988
+| <!--OS X---> 2001
+| <!--OS 9---> 1999
+| <!--OS 8---> 1997
+| <!--System 7---> 1991
+| <!--Unix---> (1990 жылдар)
+|-
+! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | IE 7
+| <!--Years (e.g release) ---> 2006
+| <!--Rendering engine --->[[Trident|Trident V]]
+| <!--Vista---> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген
+| <!--XP--> {{бар}}
+(SP2 ғана)
+| <!--2000--> {{жоқ}}
+| <!--98---> {{жоқ}}
+| <!--NT---> {{жоқ}}
+| <!--95---> {{жоқ}}
+| <!--3.1---> {{жоқ}}
+| <!--OS/2---> {{жоқ}}
+| {{жоқ}}
+| {{жоқ}}
+| <!--OS 8---> {{жоқ}}
+| <!--System 7---> {{жоқ}}
+| {{жоқ}}
+|-
+! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | IE 6
+| <!--Years (e.g release) ---> 2001—2004
+| <!--Rendering engine --->[[Trident|Trident IV]]
+| <!--Vista---> {{жоқ}}
+| <!--XP--> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген (6.0 SP2)[[#Note1Info|*]]
+| <!--2000--> {{бар}}
+(6.0 SP1)
+| <!--98---> style="background: #ffeedd; color: black;" class="table-dropped" | жоба тоқтатылған (6.0 SP1)
+| <!--NT---> style="background: #ffeedd; color: black;" class="table-dropped" | жоба тоқтатылған (6.0 SP1)
+| <!--95---> {{жоқ}}
+| <!--3.1---> {{жоқ}}
+| <!--OS/2---> {{жоқ}}
+| {{жоқ}}
+| {{жоқ}}
+| <!--OS 8---> {{жоқ}}
+| <!--System 7---> {{жоқ}}
+| {{жоқ}}
+|-
+! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | IE 5.5
+| <!--Years (e.g release) ---> 1998—2000
+| <!--Rendering engine --->[[Trident|Trident III]]
+| <!--Vista---> {{жоқ}}
+| <!--XP---> {{жоқ}}
+| <!--2000--> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген (5.01)
+| <!--98---> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген (4.01/5.5 SP2)
+| <!--NT---> {{бар}}
+| <!--95---> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген[[#Note2Info|**]]
+| <!--3.1---> {{жоқ}}
+| <!--OS/2---> {{жоқ}}
+| <!--OS X---> {{жоқ}}
+| <!--OS 9---> {{жоқ}}
+| <!--OS 8---> {{жоқ}}
+| <!--Sys 7---> {{жоқ}}
+| <!--UNIX---> {{жоқ}}
+|-
+! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | IE 5.0
+| <!--Years (e.g release) ---> 1998—2000
+| <!--Rendering engine --->[[Trident|Trident II (Win)]],[[Tasman|Tasman 0.x (Mac)]]
+| <!--Vista---> rowspan=2 {{жоқ}}
+| <!--XP---> rowspan=2 {{жоқ}}
+| <!--2000--> rowspan=2 style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген (5.01)
+| <!--98---> rowspan=2 style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген (4.01/5.5 SP2)
+| <!--NT---> rowspan=2 {{бар}}
+| <!--95---> rowspan=2 style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген[[#Note2Info|**]]
+| <!--3.1---> rowspan=2 {{бар}}
+| <!--OS/2---> rowspan=2 {{жоқ}}
+| <!--OS X---> rowspan=2 style="background: #ffeedd; color: black;" class="table-dropped" | жоба тоқтатылған (5.2.3) жобаға кірген
+| <!--OS 9---> rowspan=2 style="background: #ffeedd; color: black;" class="table-dropped" | жоба тоқтатылған (5.2.3) жобаға кірген
+| <!--OS 8---> rowspan=2 style="background: #ffeedd; color: black;" class="table-dropped" | жоба тоқтатылған (5.1.7)
+| <!--Sys 7---> rowspan=2 style="background: #ffeedd; color: black;" class="table-dropped" | жоба тоқтатылған (5.1.7)
+| <!--UNIX---> rowspan=2 style="background: #ffeedd; color: black;" class="table-dropped" | жоба тоқтатылған (5.01 SP1)
+|-
+! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | IE 4.0
+| <!--Years---> 1997—1998
+| <!--Rendering engine --->[[Trident|Trident]]
+|-
+! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | IE 3.0
+| <!--Years (e.g release) ---> 1996—1997
+| <!--Rendering engine ---> nomaʼlum
+| <!--Vista---> {{жоқ}}
+| <!--XP--> {{жоқ}}
+| <!--2000--> {{жоқ}}
+| <!--98---> {{бар}}
+| <!--NT---> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген
+| <!--95---> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген[[#Note2Info|**]]
+| <!--3.1---> {{бар}}
+| <!--OS/2---> [[Windows 3.x|Windows 3.1]] uchun versiyalari
+| <!--OS X---> {{жоқ}}
+| <!--OS 9---> {{бар}}
+| <!--OS 8---> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген
+| <!--System 7---> {{бар}}
+| <!--UNIX---> {{бар}}
+|-
+! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | IE 2.0
+| <!--Years (e.g release) ---> 1995
+| <!--Rendering engine --->nomaʼlum
+| <!--Vista---> {{жоқ}}
+| <!--XP--> {{жоқ}}
+| <!--2000--> {{жоқ}}
+| <!--98---> {{бар}}
+| <!--NT---> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген (2.0)
+| <!--95---> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген[[#Note2Info|**]]
+| <!--3.1---> {{бар }}
+| <!--OS/2---> [[Windows 3.x|Windows 3.1]] нұсқалары
+| <!--OS X---> {{жоқ}}
+| <!--OS 9---> {{белгісіз}}
+| <!--OS 8---> {{белгісіз}}
+| <!--System 7---> style="background: #dfdfff; color: black;" class="table-beta" | Beta (2.0)
+| {{yoq}}
+|-
+! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | IE 1.0
+| <!--Years (e.g release) ---> 1995
+| <!--Rendering engine --->Mosaic
+| <!--Vista---> {{жоқ}}
+| <!--XP--> {{жоқ}}
+| <!--2000--> {{жоқ}}
+| <!--98---> {{бар}}
+| <!--NT---> {{бар}}
+| <!--95---> {{бар}}
+| <!--3.1---> {{бар}}
+| <!--OS/2---> [[Windows 3.x|Windows 3.1]] нұсқалары
+| <!--OS X---> {{жоқ}}
+| <!--OS 9---> {{жоқ}}
+| <!--OS 8---> {{жоқ}}
+| <!--System 7---> {{жоқ}}
+| {{жоқ}}
+|}
