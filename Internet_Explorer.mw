@@ -87,10 +87,10 @@ Internet Explorer жобасы 1994-жылдың жазында [[Spyglass]] Mos
 |-
 ! {{rh}} | [[Internet Explorer 8|IE 8]] 
 | <!--Years (e.g release) ---> 2008-
-| <!--Rendering engine --->[[Trident (layout engine)|Trident VI]]
+| <!--Rendering engine --->[[Trident (белгілеу құралы)|Trident VI]]
 | <!--Vista/Server 2008---> {{beta}}
-| <!--Server 2003--> {{beta}} <small>(with SP2)</small>
-| <!--XP--> {{Beta}} <small>(with SP2/SP3)</small>
+| <!--Server 2003--> {{beta}} <small>(SP2 бірге)</small>
+| <!--XP--> {{Beta}} <small>(SP2/SP3 бірге)</small>
 | <!--Me---> {{no}}
 | <!--2000--> {{no}}
 | <!--98---> {{no}}
@@ -106,10 +106,10 @@ Internet Explorer жобасы 1994-жылдың жазында [[Spyglass]] Mos
 |-
 ! {{rh}} | [[Internet Explorer 7|IE 7]]
 | <!--Years (e.g release) ---> 2006-
-| <!--Rendering engine --->[[Trident (layout engine)|Trident V]]
+| <!--Rendering engine --->[[Trident (белгілеу құралы)|Trident V]]
 | <!--Vista/Server 2008---> {{included}}
-| <!--Server 2003--> {{yes}} <small>(with SP1/SP2)</small>
-| <!--XP--> {{yes}} <small>(with SP2/SP3)</small>
+| <!--Server 2003--> {{yes}} <small>(SP1/SP2 бірге)</small>
+| <!--XP--> {{yes}} <small>(SP2/SP3 бірге)</small>
 | <!--Me---> {{no}}
 | <!--2000--> {{no}}
 | <!--98---> {{no}}
@@ -125,7 +125,7 @@ Internet Explorer жобасы 1994-жылдың жазында [[Spyglass]] Mos
 |-
 ! {{rh}} | [[Internet Explorer 6|IE 6]]
 | <!--Years (e.g release) ---> 2001
-| <!--Rendering engine ---> [[Trident (layout engine)|Trident IV]]
+| <!--Rendering engine ---> [[Trident (белгілеу құралы)|Trident IV]]
 | <!--Vista/Server 2008---> {{no}}
 | <!--Server 2003--> {{included}}
 | <!--XP--> {{included}}
@@ -144,7 +144,7 @@ Internet Explorer жобасы 1994-жылдың жазында [[Spyglass]] Mos
 |-
 ! {{rh}} | [[Internet Explorer 5|IE 5.5]]
 | <!--Years (e.g release) ---> 2000
-| <!--Rendering engine --->[[Trident (layout engine)|Trident III]]
+| <!--Rendering engine --->[[Trident (белгілеу құралы)|Trident III]]
 | <!--Vista/Server 2008---> {{no}}
 | <!--Server 2003--> {{no}}
 | <!--XP---> {{no}}[[#Note2Info|***]]
@@ -163,7 +163,7 @@ Internet Explorer жобасы 1994-жылдың жазында [[Spyglass]] Mos
 |-
 ! {{rh}} | [[Internet Explorer 5|IE 5.0]]
 | <!--Years (e.g release) ---> 1999
-| <!--Rendering engine --->[[Trident (layout engine)|Trident II]]<small> (Win) </small> <br/>[[Tasman (layout engine)|Tasman]] <small> (Mac) </small>
+| <!--Rendering engine --->[[Trident (белгілеу құралы)|Trident II]]<small> (Win) </small> <br/>[[Tasman (белгілеу құралы)|Tasman]] <small> (Mac) </small>
 | <!--Vista/Server 2008---> rowspan="2" {{no}}
 | <!--Server 2003--> rowspan="2" {{no}}
 | <!--XP---> rowspan="2" {{no}}[[#Note2Info|***]]
@@ -181,7 +181,7 @@ Internet Explorer жобасы 1994-жылдың жазында [[Spyglass]] Mos
 |-
 ! {{rh}} | [[Internet Explorer 4|IE 4.0]]
 | <!--Years---> 1997
-| <!--Rendering engine --->[[Trident (layout engine)|Trident]]
+| <!--Rendering engine --->[[Trident (белгілеу құралы)|Trident]]
 | <!--2000--> {{no}}
 | <!--98---> {{Included}}
 | <!--95---> {{included}}[[#Note2Info|**]]
