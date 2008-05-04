@@ -30,9 +30,8 @@
 ||
 :'''Аудармасы'''
 |-
-| style="font-size:120%" align="right" |
-{{rtl}}
-<poem>
+| style="font-family:'Nafees Nastaleeq', 'Pak Nastaleeq', PDMS_Jauhar; font-size: 120%;" align="right" |
+<span lang="ps" dir="rtl" xml:lang="ps"><poem>
 دا وطن افغانستان دي
 دا عزت د هر افغان دي
 کور د سولی کور د تورۍ
@@ -51,8 +50,7 @@
 لکه زړه وي جاویدان
 نوم د حق مودٸ رهبر
 وایو الله اکبر وایو الله اکبر
-</poem>
-{{-rtl}}
+</poem></span>
 ||
 <poem>
 Da watan Afghanistan di,
@@ -75,9 +73,8 @@ Num de haq mo di rahbar,
 wayu Allah o Akbar,
 wayu Allah o Akbar
 </poem>
-| style="font-size:120%" align="right" |
-{{rtl}}
-<poem>
+| style="font-family:Riwaj, 'Arabic Typesetting', 'Majalla UI', Lateef, Scheherazade, 'Arial Unicode MS'; font-size: 120%;" align="right" |
+<span lang="fa" dir="rtl" xml:lang="fa"><poem>
 این کشور افغانستان است
 این عزت هر افغان است
 میهن صلح، جایگاه شمشیر
@@ -96,8 +93,7 @@ wayu Allah o Akbar
 مثل قلب جاویدان
 نام حق است ما را رهبر
 می‌گوییم الله اکبر، می‌گوییم الله اکبر
-</poem>
-{{-rtl}}
+</poem></span>
 ||
 <poem>
 Бұл Отан — Ауғанстан,
