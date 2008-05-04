@@ -1,16 +1,20 @@
-{{Infobox_Software |
-  name = PHP |
-  screenshot = [[Image:PHP-logo.png|200px]] |
-  caption = PHP рәмізі|
-  developer = The PHP Group |
-  latest_release_version = 5.1.4 — 4.05.2006<br /> 4.4.2 |
-  latest_release_date = 13.01.2006 |
-  operating_system = [[Платформаралық программдық жабдықтама]] |
-  genre = [[Скрипті тіл]] |
-  license = [http://www.php.net/license/3_01.txt PHP License 3.01]{{ref-en}} |
-  website = [http://www.php.net www.php.net]{{ref-en}} |
+{{ infobox programming language
+| designer               = [[Rasmus Lerdorf]]
+| developer              = The PHP Group
+| implementations        = [[Roadsend PHP]], [[Phalanger (compiler)|Phalanger]], Quercus, Project Zero
+| influenced             = [[Php4delphi]]
+| influenced_by          = [[C (programming language)|C]], [[Perl]], [[Java (programming language)|Java]], [[C++ (programming language)|C++]], [[C Sharp (programming language)|C#]], [[Python (programming language)|Python]]
+| latest_release_version = 5.2.6
+| latest_release_date    = {{release date|2008|5|01}}
+| latest_test_version    = 5.3.0-dev and 6.0-dev<ref>{{cite web|accessdate=2008-03-16|url=http://snaps.php.net/|title=PHP Snapshots |publisher=The PHP Group }}</ref>
+| license                = [[PHP License]]
+| logo                   = [[Image:PHP-logo.svg|220px]]
+| operating_system       = [[Cross-platform]]
+| paradigm               = [[Imperative programming|imperative]], [[Object-oriented programming|object-oriented]]
+| typing                 = Dynamic, weak
+| year                   = 1995
+| website                = http://php.net/
 }}
-
 PHP (пи-эйч-пи́) — Веб-серверде [[HTML]] беттерін тудыру және [[дерекқор|дерекқормен]] жұмыс істеуге арналған [[скрипті тіл|скрипті программалау тілі]]. Қазіргі күндерде [[хостинг]] қызметін ұсынатындардың көпшілігімен қолданады. [[LAMP]] веб-торап жасауға арналған стандартты жинақталымына енеді.
 Тілдің оңайлығы, орындалу жылдамдығы, функциялық байлығы және PHP негізіндеге [[әуелгі код|әуелгі кодтардың]] кеңге таралуының арқасында PHP тілі Торда программалау саласында ең белгілі тілдердің бірі боп есептелінеді ([[JSP]] мен [[ASP]]-де қолданылатын тілдермен қатар). Бұл тілдің айрықшылығы ядро мен соған қосылатын модульдарында. Соңғылары дерекқор, [[сокет]], динамикалық графика, криптографиялық кітапханалар, [[PDF]] форматты құжаттармен және т.б. жұмыс істеуге арналған. Бұндай модульды қалаған адам дамытып қоса алады. Модульдардың саны бір неше жүз болғанымен, стандарттық жабдықтауға тек жақсы нәтиже көрсеткен бір неше оны ғана кіреді. PHP интерпретаторы веб-серверге не арнайы сол сервер үшін жасалған модуль арқылы (мысалы, [[Apache]] әлде [[IIS]]), не [[CGI-қосымшасы]] ретінде қосылады.
 
