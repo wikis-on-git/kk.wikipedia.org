@@ -45,7 +45,7 @@ Internet Explorer жобасы 1994-жылдың жазында [[Spyglass]] Mos
 {| class="wikitable" style="font-size: 85%; text-align: center"
 |-
 ! rowspan="2" style="width: 12em" |
-! rowspan="2" | Years
+! rowspan="2" | Жылдар
 ! rowspan="2" | [[Layout engine]]
 ! colspan="9" | <big>[[Microsoft]] [[Microsoft Windows|Windows]]</big>
 ! rowspan="2" | [[IBM OS/2]]
@@ -66,7 +66,7 @@ Internet Explorer жобасы 1994-жылдың жазында [[Spyglass]] Mos
 ! [[Mac OS 8|8]] <br/> <small> PPC/68k </small>
 ! [[System 7 (Macintosh)|7]] <br/><small>PPC/68k</small>
 |-
-! {{rh}} |Years
+! {{rh}} |Жылдар
 | -
 | -
 | <!--Vista/Server 2008---> 2006
@@ -174,8 +174,8 @@ Internet Explorer жобасы 1994-жылдың жазында [[Spyglass]] Mos
 | <!--95---> {{yes}}
 | <!--3.x---> {{dropped}} <br/> <small> 5.0 </small>
 | <!--OS/2---> rowspan="2" {{dunno}}
-| <!--OS X---> {{dropped}} <br/> <small> 5.2.3 </small> Included
-| <!--OS 9---> {{dropped}} <br/> <small> 5.1.7 </small> Included
+| <!--OS X---> {{dropped}} <br/> <small> 5.2.3 </small> ішінде
+| <!--OS 9---> {{dropped}} <br/> <small> 5.1.7 </small> ішінде
 | <!--OS 8---> colspan="2" {{dropped}} <br/> <small> 5.1.7 </small>
 | <!--UNIX---> {{dropped}} <br/> <small> 5.01 SP1 </small>
 |-
