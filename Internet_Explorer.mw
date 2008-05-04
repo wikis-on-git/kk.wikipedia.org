@@ -45,31 +45,36 @@ Internet Explorer жобасы 1994-жылдың жазында [[Spyglass]] Mos
 {| class="wikitable" style="font-size: 85%; text-align: center"
 |-
 ! rowspan="2" style="width: 12em" |
-! rowspan="2" | Жылдар
-! rowspan="2" | Шолғыш арқауы
-! colspan=7|<big>[[Microsoft Windows|Windows]]</big>
-! rowspan=2|[[IBM OS/2]]
-! rowspan=2|[[Mac OS X]] (Intel/PPC)
-! rowspan=2|[[Mac OS 9]]
-! rowspan=2|[[Mac OS 8]]
-! rowspan=2|[[System 7]] (PPC/68k)
-! rowspan=2|[[Unix]] (HP-UX, Solaris)
+! rowspan="2" | Years
+! rowspan="2" | [[Layout engine]]
+! colspan="9" | <big>[[Microsoft]] [[Microsoft Windows|Windows]]</big>
+! rowspan="2" | [[IBM OS/2]]
+! colspan="4" | <big>[[Apple Inc.]] [[Apple Macintosh|Macintosh]]</big>
+! rowspan="2" | [[Unix]] <small> (HP-UX, Solaris) <small>
 |-
-! [[Windows Vista|Vista]]
+! [[Windows Vista|Vista]], [[Windows Server 2008|WS 08]] <!--9 col Win section start-->
+! [[Windows Server 2003|WS 03]]
 ! [[Windows XP|XP]]
+! [[Windows Me|Me]]
 ! [[Windows 2000|2000]]
-! [[Windows 98|98]]/[[Windows Me|Me]]
+! [[Windows 98|98]]
 ! [[Windows NT 4.0|NT 4.0]]
 ! [[Windows 95|95]]
-! [[Windows 3.x|3.1]]
+! [[Windows 3.1|3.1]]/[[Windows NT|NT]] 3.x
+! [[Mac OS X|X]] <br/> <small> PPC </small> <!--4 col Mac section start-->
+! [[Mac OS 9|9]] <br/> <small> PPC </small>
+! [[Mac OS 8|8]] <br/> <small> PPC/68k </small>
+! [[System 7 (Macintosh)|7]] <br/><small>PPC/68k</small>
 |-
-! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | шыққан жылдары [[амалдық система|OS]]
+! {{rh}} |Years
 | -
 | -
-| <!--Vista---> 2006
+| <!--Vista/Server 2008---> 2006
+| <!--Server 2003---> 2003
 | <!--XP---> 2001
+| <!--Me---> 2000
 | <!--2000--> 2000
-| <!--98---> 1998/2000
+| <!--98---> 1998
 | <!--NT---> 1996
 | <!--95---> 1995
 | <!--3.1---> 1992
@@ -78,133 +83,179 @@ Internet Explorer жобасы 1994-жылдың жазында [[Spyglass]] Mos
 | <!--OS 9---> 1999
 | <!--OS 8---> 1997
 | <!--System 7---> 1991
-| <!--Unix---> (1990 жылдар)
+| <!--Unix---> (1990s)
 |-
-! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | IE 7
-| <!--Years (e.g release) ---> 2006
-| <!--Rendering engine --->[[Trident|Trident V]]
-| <!--Vista---> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген
-| <!--XP--> {{бар}}
-(SP2 ғана)
-| <!--2000--> {{жоқ}}
-| <!--98---> {{жоқ}}
-| <!--NT---> {{жоқ}}
-| <!--95---> {{жоқ}}
-| <!--3.1---> {{жоқ}}
-| <!--OS/2---> {{жоқ}}
-| {{жоқ}}
-| {{жоқ}}
-| <!--OS 8---> {{жоқ}}
-| <!--System 7---> {{жоқ}}
-| {{жоқ}}
+! {{rh}} | [[Internet Explorer 8|IE 8]] 
+| <!--Years (e.g release) ---> 2008-
+| <!--Rendering engine --->[[Trident (layout engine)|Trident VI]]
+| <!--Vista/Server 2008---> {{beta}}
+| <!--Server 2003--> {{beta}} <small>(with SP2)</small>
+| <!--XP--> {{Beta}} <small>(with SP2/SP3)</small>
+| <!--Me---> {{no}}
+| <!--2000--> {{no}}
+| <!--98---> {{no}}
+| <!--NT4---> {{no}}
+| <!--95---> {{no}}
+| <!--3.x---> {{no}}
+| <!--OS/2---> {{no}}
+| <!--OS X---> {{no}}
+| <!--OS 9--->{{no}}
+| <!--OS 8---> {{no}}
+| <!--System 7---> {{no}}
+| {{no}}
 |-
-! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | IE 6
-| <!--Years (e.g release) ---> 2001—2004
-| <!--Rendering engine --->[[Trident|Trident IV]]
-| <!--Vista---> {{жоқ}}
-| <!--XP--> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген (6.0 SP2)[[#Note1Info|*]]
-| <!--2000--> {{бар}}
-(6.0 SP1)
-| <!--98---> style="background: #ffeedd; color: black;" class="table-dropped" | жоба тоқтатылған (6.0 SP1)
-| <!--NT---> style="background: #ffeedd; color: black;" class="table-dropped" | жоба тоқтатылған (6.0 SP1)
-| <!--95---> {{жоқ}}
-| <!--3.1---> {{жоқ}}
-| <!--OS/2---> {{жоқ}}
-| {{жоқ}}
-| {{жоқ}}
-| <!--OS 8---> {{жоқ}}
-| <!--System 7---> {{жоқ}}
-| {{жоқ}}
+! {{rh}} | [[Internet Explorer 7|IE 7]]
+| <!--Years (e.g release) ---> 2006-
+| <!--Rendering engine --->[[Trident (layout engine)|Trident V]]
+| <!--Vista/Server 2008---> {{included}}
+| <!--Server 2003--> {{yes}} <small>(with SP1/SP2)</small>
+| <!--XP--> {{yes}} <small>(with SP2/SP3)</small>
+| <!--Me---> {{no}}
+| <!--2000--> {{no}}
+| <!--98---> {{no}}
+| <!--NT4---> {{no}}
+| <!--95---> {{no}}
+| <!--3.x---> {{no}}
+| <!--OS/2---> {{no}}
+| <!--OS X---> {{no}}
+| <!--OS 9--->{{no}}
+| <!--OS 8---> {{no}}
+| <!--System 7---> {{no}}
+| {{no}}
 |-
-! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | IE 5.5
-| <!--Years (e.g release) ---> 1998—2000
-| <!--Rendering engine --->[[Trident|Trident III]]
-| <!--Vista---> {{жоқ}}
-| <!--XP---> {{жоқ}}
-| <!--2000--> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген (5.01)
-| <!--98---> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген (4.01/5.5 SP2)
-| <!--NT---> {{бар}}
-| <!--95---> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген[[#Note2Info|**]]
-| <!--3.1---> {{жоқ}}
-| <!--OS/2---> {{жоқ}}
-| <!--OS X---> {{жоқ}}
-| <!--OS 9---> {{жоқ}}
-| <!--OS 8---> {{жоқ}}
-| <!--Sys 7---> {{жоқ}}
-| <!--UNIX---> {{жоқ}}
+! {{rh}} | [[Internet Explorer 6|IE 6]]
+| <!--Years (e.g release) ---> 2001
+| <!--Rendering engine ---> [[Trident (layout engine)|Trident IV]]
+| <!--Vista/Server 2008---> {{no}}
+| <!--Server 2003--> {{included}}
+| <!--XP--> {{included}}
+| <!--Me---> {{dropped}} <br/> <small> 6.0 SP1 </small>
+| <!--2000--> {{dropped}} <br/> <small> 6.0 SP1 </small>
+| <!--98---> {{dropped}} <br/> <small> 6.0 SP1 </small>
+| <!--NT4---> {{dropped}} <br/> <small> 6.0 SP1 </small>
+| <!--95---> {{no}}
+| <!--3.x---> {{no}}
+| <!--OS/2---> {{no}}
+| <!--OS X---> {{no}}
+| <!--OS 9---> {{no}}
+| <!--OS 8---> {{no}}
+| <!--System 7---> {{no}}
+| {{no}}
 |-
-! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | IE 5.0
-| <!--Years (e.g release) ---> 1998—2000
-| <!--Rendering engine --->[[Trident|Trident II (Win)]],[[Tasman|Tasman 0.x (Mac)]]
-| <!--Vista---> rowspan=2 {{жоқ}}
-| <!--XP---> rowspan=2 {{жоқ}}
-| <!--2000--> rowspan=2 style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген (5.01)
-| <!--98---> rowspan=2 style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген (4.01/5.5 SP2)
-| <!--NT---> rowspan=2 {{бар}}
-| <!--95---> rowspan=2 style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген[[#Note2Info|**]]
-| <!--3.1---> rowspan=2 {{бар}}
-| <!--OS/2---> rowspan=2 {{жоқ}}
-| <!--OS X---> rowspan=2 style="background: #ffeedd; color: black;" class="table-dropped" | жоба тоқтатылған (5.2.3) жобаға кірген
-| <!--OS 9---> rowspan=2 style="background: #ffeedd; color: black;" class="table-dropped" | жоба тоқтатылған (5.2.3) жобаға кірген
-| <!--OS 8---> rowspan=2 style="background: #ffeedd; color: black;" class="table-dropped" | жоба тоқтатылған (5.1.7)
-| <!--Sys 7---> rowspan=2 style="background: #ffeedd; color: black;" class="table-dropped" | жоба тоқтатылған (5.1.7)
-| <!--UNIX---> rowspan=2 style="background: #ffeedd; color: black;" class="table-dropped" | жоба тоқтатылған (5.01 SP1)
+! {{rh}} | [[Internet Explorer 5|IE 5.5]]
+| <!--Years (e.g release) ---> 2000
+| <!--Rendering engine --->[[Trident (layout engine)|Trident III]]
+| <!--Vista/Server 2008---> {{no}}
+| <!--Server 2003--> {{no}}
+| <!--XP---> {{no}}[[#Note2Info|***]]
+| <!--Me---> {{included}}
+| <!--2000--> {{yes}}
+| <!--98---> {{Yes}}
+| <!--NT4---> {{yes}}
+| <!--95---> {{dropped}}
+| <!--3.x---> {{no}}
+| <!--OS/2---> {{no}}
+| <!--OS X---> {{no}}
+| <!--OS 9---> {{no}}
+| <!--OS 8---> {{no}}
+| <!--Sys 7---> {{no}}
+| <!--UNIX---> {{no}}
 |-
-! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | IE 4.0
-| <!--Years---> 1997—1998
-| <!--Rendering engine --->[[Trident|Trident]]
+! {{rh}} | [[Internet Explorer 5|IE 5.0]]
+| <!--Years (e.g release) ---> 1999
+| <!--Rendering engine --->[[Trident (layout engine)|Trident II]]<small> (Win) </small> <br/>[[Tasman (layout engine)|Tasman]] <small> (Mac) </small>
+| <!--Vista/Server 2008---> rowspan="2" {{no}}
+| <!--Server 2003--> rowspan="2" {{no}}
+| <!--XP---> rowspan="2" {{no}}[[#Note2Info|***]]
+| <!--Me---> rowspan="2" {{no}}
+| <!--2000--> {{included}} <br/> <small> 5.01 </small>
+| <!--98---> {{included}}
+| <!--NT4---> rowspan="2" {{yes}}
+| <!--95---> {{yes}}
+| <!--3.x---> {{dropped}} <br/> <small> 5.0 </small>
+| <!--OS/2---> rowspan="2" {{dunno}}
+| <!--OS X---> {{dropped}} <br/> <small> 5.2.3 </small> Included
+| <!--OS 9---> {{dropped}} <br/> <small> 5.1.7 </small> Included
+| <!--OS 8---> colspan="2" {{dropped}} <br/> <small> 5.1.7 </small>
+| <!--UNIX---> {{dropped}} <br/> <small> 5.01 SP1 </small>
 |-
-! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | IE 3.0
-| <!--Years (e.g release) ---> 1996—1997
-| <!--Rendering engine ---> nomaʼlum
-| <!--Vista---> {{жоқ}}
-| <!--XP--> {{жоқ}}
-| <!--2000--> {{жоқ}}
-| <!--98---> {{бар}}
-| <!--NT---> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген
-| <!--95---> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген[[#Note2Info|**]]
-| <!--3.1---> {{бар}}
-| <!--OS/2---> [[Windows 3.x|Windows 3.1]] uchun versiyalari
-| <!--OS X---> {{жоқ}}
-| <!--OS 9---> {{бар}}
-| <!--OS 8---> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген
-| <!--System 7---> {{бар}}
-| <!--UNIX---> {{бар}}
+! {{rh}} | [[Internet Explorer 4|IE 4.0]]
+| <!--Years---> 1997
+| <!--Rendering engine --->[[Trident (layout engine)|Trident]]
+| <!--2000--> {{no}}
+| <!--98---> {{Included}}
+| <!--95---> {{included}}[[#Note2Info|**]]
+| <!--3.x---> {{yes}}
+| <!--OS X---> {{no}}
+| <!--OS 9---> {{Included}}
+| <!--OS 8---> {{Included}}
+| <!--System 7---> {{yes}}
+| <!--UNIX---> {{yes}}
 |-
-! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | IE 2.0
+! {{rh}} | [[Internet Explorer 3|IE 3.0]]
+| <!--Years (e.g release) ---> 1996
+| <!--Rendering engine ---> -
+| <!--Vista/Server 2008---> {{no}}
+| <!--Server 2003--> {{no}}
+| <!--XP--> {{no}}[[#Note2Info|***]]
+| <!--Me---> {{no}}
+| <!--2000--> {{no}} [[#Note2Info|***]]
+| <!--98---> {{no}}
+| <!--NT4---> {{yes}}
+| <!--95---> {{included}}[[#Note2Info|**]]
+| <!--3.x---> {{yes}}
+| rowspan="2" | <!--OS/2---> [[Windows 3.1|Win 3.1]] <small> version </small>
+| <!--OS X---> {{no}}
+| <!--OS 9---> {{no}}
+| <!--OS 8---> {{included}}
+| <!--System 7---> {{yes}}
+| <!--UNIX---> {{beta|[[Internet Explorer for UNIX|Beta]]}}
+|-
+! {{rh}} | [[Internet Explorer 2|IE 2.0]]
 | <!--Years (e.g release) ---> 1995
-| <!--Rendering engine --->nomaʼlum
-| <!--Vista---> {{жоқ}}
-| <!--XP--> {{жоқ}}
-| <!--2000--> {{жоқ}}
-| <!--98---> {{бар}}
-| <!--NT---> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген (2.0)
-| <!--95---> style="background: #ddfbff; color: black;" class="table-included" | жобаға кірген[[#Note2Info|**]]
-| <!--3.1---> {{бар }}
-| <!--OS/2---> [[Windows 3.x|Windows 3.1]] нұсқалары
-| <!--OS X---> {{жоқ}}
-| <!--OS 9---> {{белгісіз}}
-| <!--OS 8---> {{белгісіз}}
-| <!--System 7---> style="background: #dfdfff; color: black;" class="table-beta" | Beta (2.0)
-| {{жоқ}}
+| <!--Rendering engine ---> -
+| <!--Vista/Server 2008---> {{no}}
+| <!--Server 2003--> {{no}}
+| <!--XP--> {{no}}
+| <!--Me---> {{no}}
+| <!--2000--> {{no}}
+| <!--98---> {{no}}
+| <!--NT4---> {{included}}
+| <!--95---> {{included}}[[#Note2Info|**]]
+| <!--3.x---> {{yes}}
+ <!--OS/2--->
+| <!--OS X---> {{no}}
+| <!--OS 9---> {{no}}
+| <!--OS 8---> 	{{no}}
+| <!--System 7---> {{Yes}}
+| {{no}}
 |-
-! style="background: #ececec; color: black; text-align: left; padding-left: 0.5em; font-weight: bold;" class="table-rh" | IE 1.0
-| <!--Years (e.g release) ---> 1995
-| <!--Rendering engine --->Mosaic
-| <!--Vista---> {{жоқ}}
-| <!--XP--> {{жоқ}}
-| <!--2000--> {{жоқ}}
-| <!--98---> {{бар}}
-| <!--NT---> {{бар}}
-| <!--95---> {{бар}}
-| <!--3.1---> {{бар}}
-| <!--OS/2---> [[Windows 3.x|Windows 3.1]] нұсқалары
-| <!--OS X---> {{жоқ}}
-| <!--OS 9---> {{жоқ}}
-| <!--OS 8---> {{жоқ}}
-| <!--System 7---> {{жоқ}}
-| {{жоқ}}
+! {{rh}} | [[Internet Explorer#Version 1|IE 1.5]]
+| <!-- Years (e.g release) --> 1996
+| <!-- Rendering engine --> [[Spyglass, Inc.|Spyglass]]
+| <!-- Vista/Server 2008--> rowspan="2" {{no}}
+| <!--Server 2003--> rowspan="2" {{no}}
+| <!-- XP --> rowspan="2" {{no}}
+| <!--Me---> rowspan="2" {{no}}
+| <!-- 2000 --> rowspan="2" {{no}}
+| <!-- 98 --> rowspan="2" {{no}}
+| <!-- NT4 --> {{yes}}
+| <!-- 95 --> {{yes}}
+| <!-- 3.x --> rowspan="2" {{no}}
+| <!-- OS/2 --> rowspan="2" {{no}}
+| <!-- OS X --> rowspan="2" {{no}}
+| <!-- OS 9 --> rowspan="2" {{no}}
+| <!-- OS 8 --> rowspan="2" {{no}}
+| <!-- System 7 --> rowspan="2" {{no}}
+| rowspan="2" {{no}}
+|-
+! {{rh}} | [[History of Internet Explorer|IE 1.0]]
+| <!-- Years (e.g release) --> 1995
+| <!-- Rendering engine --> [[Spyglass, Inc.|Spyglass]]
+| <!-- NT4 --> {{no}}
+| <!-- 95 --> {{nonfree}}[[Microsoft Plus!|Plus!]]
 |}
+
 
 [[Санат:Ғаламтор шолғыштары]]
 [[Санат:Windows қалыпталған бағдарламасы]]
