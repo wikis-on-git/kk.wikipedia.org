@@ -20,7 +20,7 @@
 
 
 {| cellpadding="10"
-!align="right" |
+!|
 :'''Пушту'''
 ||
 :'''Транслитерацисы'''
@@ -74,7 +74,7 @@ Num de haq mo di rahbar,
 wayu Allah o Akbar,
 wayu Allah o Akbar
 </poem>
-||
+| style="font-size:120%" align="right" |
 {{rtl}}
 <poem>
 این کشور افغانستان است
