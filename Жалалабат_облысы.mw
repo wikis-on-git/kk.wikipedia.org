@@ -57,12 +57,14 @@
 | government_lat_d = | government_lat_m = | government_lat_s = | government_lat_NS =
 | government_long_d = | government_long_m = | government_long_s = | government_long_EW =
 | leader = Жүсіпбек Шарипов
+| leader_type = Губернатор
 <!-- *** Codes ***  -->
 | timezone = | utc_offset =
 | timezone_DST = | utc_offset_DST =
 | postal_code =
-| area_code = [[ISO 3166-2]]
+| area_code = 
 | code =KG-J
+| code_type =[[ISO 3166-2]]
 <!-- *** Free fields *** -->
 | free = | free_type = 
 <!-- *** Maps *** -->
