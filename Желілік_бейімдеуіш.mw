@@ -1,0 +1,68 @@
+{{Infobox Computer Hardware Generic
+| name        = Network Card
+| image       = Network_card.jpg
+| caption     = A [[1990s]] [[Ethernet]] network interface controller card which connects to the motherboard via the now-obsolete [[ISA bus]]. This combination card features both a (now obsolete) [[bayonet cap]] [[BNC connector]] (left) for use in [[coaxial cable|coaxial-based]] [[10base2]] networks and an [[RJ-45]] connector (right) for use in [[twisted pair]]-based [[10baseT]] networks. (The ports could not be used simultaneously.)
+| invent-date = 
+| invent-name = 
+| conn1       = Motherboard
+| via1_1      = Integrated
+| via1_2      = [[Peripheral Component Interconnect|PCI]] Connector
+| via1_3      = [[Industry Standard Architecture|ISA]] Connector
+| viawat up its kyle withorn1_4      = [[PCI-E]]
+| conn2       = Network
+| via2_1      = [[Fast Ethernet]]
+| via2_2      = [[Gigabit Ethernet]]
+| via2_3      = [[Optical fiber]]
+| via2_4      = [[Token ring]]
+| class-name  = Speeds
+| class1      = 10 Mbit/s
+| class2      = 100 Mbit/s
+| class3      = 1000 Mbit/s
+| class4      = up to 160 Gbit/s
+| manuf1      = [[Novell]]
+| manuf2      = [[Intel]]
+| manuf3      = [[Realtek]]
+| manuf4      = [[Network card#Notable manufacturers|Others]]
+}}
+'''Желілік бейімдеуіш''' ({{lang-en|Network Interface Card, NIC}}) — [[компьютер]]ді [[Компьютер желі|желіге]] қосатын құрылғы.
+
+Бұл құрылғы сондай-ақ ''желілік тақта'' немесе ''желілік тілдесу тақтасы'' (NIC) деп те аталады.
+
+[[Санат:Информатика]]
+
+[[ar:كرت الشبكة]]
+[[bs:Mrežna kartica]]
+[[br:Kartenn rouedad]]
+[[bg:Мрежова карта]]
+[[ca:Targeta de xarxa]]
+[[cs:Síťová karta]]
+[[da:Netkort]]
+[[de:Netzwerkkarte]]
+[[et:Võrgukaart]]
+[[es:Tarjeta de red]]
+[[eo:Retkarto]]
+[[eu:Sare-txartel]]
+[[fr:Carte réseau]]
+[[gl:Tarxeta de rede]]
+[[ko:네트워크 카드]]
+[[hr:Mrežna kartica]]
+[[id:Kartu jaringan]]
+[[it:Scheda di rete]]
+[[he:כרטיס רשת]]
+[[lv:Tīkla karte]]
+[[lb:Netzwierkkaart]]
+[[hu:Hálózati kártya]]
+[[ms:Kad rangkaian]]
+[[nl:Netwerkkaart]]
+[[ja:ネットワークカード]]
+[[no:Nettverkskort]]
+[[pl:Karta sieciowa]]
+[[pt:Placa de rede]]
+[[ru:Сетевая плата]]
+[[sk:Sieťová karta]]
+[[sr:Мрежни адаптер]]
+[[sh:Mrežna kartica]]
+[[fi:Verkkokortti]]
+[[sv:Nätverkskort]]
+[[vi:Cạc mạng]]
+[[zh:网卡]]
