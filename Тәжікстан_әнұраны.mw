@@ -37,8 +37,8 @@
 </poem>
 
 == Араб жазуымен ==
-{{Rtl}}
-<poem>
+{{rtl-para|tg-Arab|
+<poem><big>
 دیار ارجمند ما
 به بخت ما سر عزیز تو بلند باد
 سعادت تو، دولت تو بی‌گزند باد
@@ -67,8 +67,8 @@
 
 :زنده باش، ای وطن
 :تاجیكستان آزاد من
-</poem>
-{{-Rtl}}
+</big></poem>
+}}
 
 == Сыртқы сілтемелер ==
 * [http://www.tadzsikisztan.extra.hu/zene2-himnusz.html Tádzsikisztán magyar honlapja] — Vocal, instrumental, and soviet version of the Anthem with the current lyrics, featured in Némethy András (Arisztid) «Tádzsikisztán magyar honlapja» website.
