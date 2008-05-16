@@ -3,32 +3,32 @@
 |native_name = Российская империя<br />Ресей империясы
 |common_name = Ресей
 |
-|continent = Еуразия
-|status    = Империясы
+|continent = Eurasia
+|status    = Империя
 |government_type = Монархия
 |
 |year_start  = 1721
-|year_end    = 1917 ж.
+|year_end    = 1917
 |
-|event_pre   = [[Пётр I]]-нің таққа отыруы
-|date_pre    = [[7 мамыр]] [[1682 ж.]] [[New Style|NS]],<br>[[27 сәуір]] [[1682 ж.]] [[Old Style|OS]]²
+|event_pre = [[Петр I]]-нің таққа отыруы
+|date_pre = [[1682]] ж. [[мамырдың 7]] [[New Style|NS]],<br />[[1682]] ж. [[сәуірдің 27]] [[Old Style|OS]]²
 |event_start = Империяның жариялануы
-|date_start  = [[22 қазан]] [[1721 ж.]] [[New Style|NS]],<br>[[11 қазан]] [[1721 ж.]] [[Old Style|OS]]
-|event1      = [[Декабристер көтерілісі]]
-|date_event1 = [[26 желтоқсан]] [[1825 ж.]] [[New Style|NS]],<br>[[14 желтоқсан]] [[1825 ж.]] [[Old Style|OS]]
-|event2      = [[1861 жылғы басыбайлы шаруаларды азат ету туралы жарлық|Крепостниктік правоның жойылуы]]
-|date_event2 = [[3 наурыз]], [[1861 ж.]] [[New Style|NS]],<br>[[19 ақпан]] [[1861 ж.]] [[Old Style|OS]]
-|event3      = [[1905 ж. революциясы]]
+|date_start = [[1721]] ж. [[қазанның 22]] [[New Style|NS]],<br />[[1721]] ж. [[қазанның 11]] [[Old Style|OS]]
+|event1 = [[Декабристер көтерілісі]]
+|date_event1 = [[1825]] ж. [[желтоқсанның 26]] [[New Style|NS]],<br />[[1825]] ж. [[желтоқсанның 14]] [[Old Style|OS]]
+|event2 = [[1861 жылғы басыбайлы шаруаларды азат ету туралы жарлық|Басыбайлық жойылуы]]
+|date_event2 = [[1861]] ж. [[наурыздың 3]], [[New Style|NS]],<br />[[1861]] ж. [[ақпанның 19]] [[Old Style|OS]]
+|event3 = [[1905 ж. революциясы]]
 |date_event3 = қаңтар-желтоқсан 1905 ж.
-|event4      = [[Конституциясы]]
-|date_event4 = [[23 сәуір]] [[1906 ж.]] <!-- OS or NS? -->
-|event_end   = Ақпан революциясы
-|date_end    = [[15 наурыз]] [[1917 ж.]] [[New Style|NS]],<br>[[2 наурыз]] [[1917 ж.]] [[Old Style|OS]]
-|event_post  = Қазан революциясы
-|date_post   = [[7 қараша]] [[1917 ж.]] [[New Style|NS]],<br>[[25 қазан]] [[1917 ж.]] [[Old Style|OS]]
+|event4 = [[Конституция]]сы
+|date_event4 = [[1906]] ж. [[сәуірдің 23]] <!-- OS or NS? -->
+|event_end = Ақпан революциясы
+|date_end = [[1917]] ж. [[наурыздың 15]] [[New Style|NS]],<br />[[1917]] ж. [[наурыздың 2]] [[Old Style|OS]]
+|event_post = Қазан революциясы
+|date_post = [[1917]] ж. [[қарашаның 7]] [[New Style|NS]],<br />[[1917]] ж. [[қазанның 25]] [[Old Style|OS]]
 |
 |p1          = Ресей патшалығы
-|image_p1    = [[Image:Coat of Arms of Moscow.png|20px]]
+|image_p1    = [[Сурет:Coat of Arms of Moscow.png|20px]]
 |s1          = Советтер Одағы
 |flag_s1     = Flag of the Soviet Union 1923.svg
 |image_flag   = Flag of Russia.svg
@@ -60,18 +60,18 @@
 |leader6      = [[Александр ІІІ]]
 |leader7      = [[Николай II]]
 
-|year_leader1 = 1721–1725 ж.
-|year_leader2 = 1796–1801 ж.
-|year_leader3 = 1801–1825 ж.
-|year_leader4 = 1825–1855 ж.
-|year_leader5 = 1855–1881 ж.
-|year_leader6 = 1881–1894 ж.
-|year_leader7 = 1894–1917 ж.
+|year_leader1 = 1721–1725 жж.
+|year_leader2 = 1796–1801 жж.
+|year_leader3 = 1801–1825 жж.
+|year_leader4 = 1825–1855 жж.
+|year_leader5 = 1855–1881 жж.
+|year_leader6 = 1881–1894 жж.
+|year_leader7 = 1894–1917 жж.
 |title_leader = [[Император]]
-|stat_year1 = 1916 ж.
+|stat_year1 = 1916
 |stat_area1 = 22400000
 |stat_pop1  = 181537800
-|footnotes  = 1. Flag used 1721–1858 and 1883–1917; ''see [[Ресей елтаңбасы]]''.<br>2. Russia continued to use the [[Юлианский календарь]] until after the collapse of the empire; ''see [[Old Style and New Style dates]]''.
+|footnotes  = 1. Flag used 1721–1858 and 1883–1917; ''see [[Ресей елтаңбасы]]''.<br />2. Russia continued to use the [[Юлиус күнтізбесі]] until after the collapse of the empire; ''see [[Old Style and New Style dates]]''.
 }}
 '''Ресей империясы''' (ескі емлемен {{lang-ru|Pоссiйская Имперiя}})
 
