@@ -1,1 +1,40 @@
-HTTPS (HyperText Transfer Protocol secured  )
+'''HTTPS''' ({{lang-en|'''H'''ypertext '''T'''ransfer '''P'''rotocol over '''S'''ecure Socket Layer}} — ''қауіпсіз ұя үстімен еренмәтін апарғызу хаттамасы'')  —  [[Интернет]]те [[HTML]] беттерін қауіпсіз алмасу үшін арналған хаттама.
+
+== Сыртқы сілтемелер ==
+*[http://wp.netscape.com/eng/ssl3/draft302.txt Netscape’s SSL 3.0 Specification]
+*[http://www.apache-ssl.org/ Apache-SSL homepage] (No longer actively developed)
+*[http://httpd.apache.org/docs/2.2/ssl/ Apache 2.2 mod_ssl documentation]
+* RFC 2818 - HTTP Over TLS
+*[http://msdn2.microsoft.com/en-us/library/aa767735(VS.85).aspx HTTPS Protocol in Internet Explorer Development - MSDN]
+*[http://msdn2.microsoft.com/en-us/library/ms733768.aspx Manually Configuring Windows Communication Foundation (WCF) when using HTTP and HTTPS - MSDN]
+*[http://msdn2.microsoft.com/en-us/library/bb250503.aspx HTTPS Security Improvements in Internet Explorer 7 & its Compatibility Impact - MSDN]
+
+{{stub}}
+
+[[Санат:Интернет]]
+
+[[ca:HTTPS]]
+[[cs:HTTPS]]
+[[da:HTTPS]]
+[[de:Hypertext Transfer Protocol Secure]]
+[[el:HTTPS]]
+[[es:Hypertext Transfer Protocol Secure]]
+[[eu:HTTPS]]
+[[fr:Hypertext Transfer Protocol#HTTPS]]
+[[ko:HTTPS]]
+[[id:HTTPS]]
+[[it:HTTPS]]
+[[hu:Https]]
+[[nl:HTTPS]]
+[[ja:HTTPS]]
+[[no:HTTPS]]
+[[pl:HTTPS]]
+[[pt:HTTPS]]
+[[ro:HTTPS]]
+[[ru:HTTPS]]
+[[sk:HTTPS]]
+[[fi:HTTPS]]
+[[sv:HTTPS]]
+[[tr:HTTPS]]
+[[uk:HTTPS]]
+[[zh:Https]]
