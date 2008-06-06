@@ -1,7 +1,7 @@
 {{Infobox file format
 | name = RSS| icon = [[Сурет:Feed-icon.svg|48px|RSS арнасының қалыпты белгішесі.]]
 | logo =
-| screenshot = [[Сурет:Wikipedia rss with mozilla thunderbird.PNG|300px|]]
+| screenshot = 
 | caption = RSS арнасының бейнесуреті
 | extension = <tt>.rss</tt>, <tt>.xml</tt>
 | mime = application/rss+xml (Registration Being Prepared)<ref>{{cite web |url=http://www.rssboard.org/rss-mime-type-application.txt |title=The application/rss+xml Media Type |publisher=Network Working Group |date=[[May 22]] [[2006]] |accessdate=2007-08-16}}</ref>
