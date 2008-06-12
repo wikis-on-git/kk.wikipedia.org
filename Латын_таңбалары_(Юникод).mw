@@ -1,7 +1,7 @@
 '''Латын таңбалары''' [[Юникод]]тың 5.1 нұсқасында келесі ауқымдарға шығарылып бөлінеді:
 {{Юникод шартты белгілері}}
-*'''Basic Latin''' 0000-007F: identical to [[ASCII]] (0000-001F, 007F are control characters, 0020-003F are punctuation and [[Arabic numerals]])
-*'''Latin-1 Supplement''' 0080-00FF: identical to [[ISO/IEC 8859-1]] (0080-009F are control characters, 00A0-00BF are currency symbols, punctuation and numerals)
+*'''Basic Latin''' 0000-007F: identical to [[ASCII]] (0000-001F, 007F - басқару таңбалары, 0020-003F - тыныс белгілері және [[араб сандары]])
+*'''Latin-1 Supplement''' 0080-00FF: [[ISO/IEC 8859-1]] дегенге тәң (0080-009F - басқару таңбалары, 00A0-00BF - пұл нышандары, тыныс белгілері және сандар)
 *'''Latin Extended-A''' 0100-017F
 *'''Latin Extended-B''' 0180-024F
 *'''IPA Extensions''' 0250-02AF
@@ -12,12 +12,12 @@
 *'''Enclosed Alphanumerics''' 2460-24FF
 *'''Latin Extended-C''' 2C60-2C7F
 *'''Latin Extended-D''' A720-A7FF
-*'''Alphabetic Presentation Forms''' (Latin ligatures) FB00-FB4F
-*'''Halfwidth and Fullwidth Forms''' (fullwidth Latin letters) FF00-FFEF
+*'''Alphabetic Presentation Forms''' (латын лигатуралары) FB00-FB4F
+*'''Halfwidth and Fullwidth Forms''' (толық енді латын әріптер) FF00-FFEF
 *'''Mathematical Alphanumeric Symbols''' 1D400-1D7FF
 
-The «extended» ranges contain mainly [[precomposed character|precomposed]] diacritics that may be equivalently encoded with [[combining diacritics]], as well as some ligatures, used in the orthography of various African languages (including [[click consonant|click]] symbols in Latin Extended-B) and the [[Vietnamese language]] (Latin Extended Additional).
-Latin Extended-C contains additions for [[Uighur language|Uighur]] and the [[Claudian letters]]. Latin Extended-D is made up of characters that are mostly of interest to medievalists.
+«Кеңейтім» ауқымдарда көбінесе [[алдын-ала терілген әріп|алдын-ала терілген]] дәйектер бар, бұлар [[жалғамалы дәйектер]] арқылы баламалы кодтану мүмкін. Тағы да бұнда әртүрлі африкан тілдері (соның ішінде Latin Extended-B ауқымындағы [[шертпек дауыссыз|шертпек]] нышандар) және [[виетнам тілі]] (Latin Extended Additional) емлелеріндегі кейбір лигатуралар бар.
+Latin Extended-C ауқымында [[ұйғыр тілі|ұйғыр]] кеңейтімдері және [[Клаудий әріптері]] бар. Latin Extended-D ауқымында орта ғасырлар зерттеушілерге арналған таңбалар бар.
 {| border="1" cellpadding="2" cellspacing="0" style="border-collapse:collapse"
 |----- style="background:#ccf"
 !width="4%"|U+!!width="6%"|0!!width="6%"|1!!width="6%"|2!!width="6%"|3!!width="6%"|4!!width="6%"|5!!width="6%"|6!!width="6%"|7!!width="6%"|8!!width="6%"|9!!width="6%"|A!!width="6%"|B!!width="6%"|C!!width="6%"|D!!width="6%"|E!!width="6%"|F
@@ -397,7 +397,6 @@ Latin Extended-C contains additions for [[Uighur language|Uighur]] and the [[Cla
 !style="background:#fff"|1D6A0
 |𝚠||𝚡||𝚢||𝚣||style="background:#b99"|𝚤||style="background:#b99"|𝚥||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||𝚨||𝚩||𝚪||𝚫||𝚬||𝚭||𝚮||𝚯
 |}
-
 
 == Сыртқы сілтемелер ==
 *[http://www.unicode.org/charts/PDF/U0000.pdf Basic Latin]
