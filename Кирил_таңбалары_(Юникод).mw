@@ -1,9 +1,9 @@
 <div class="floatright" style="clear: both;">__TOC__</div>
 '''Кирил таңбалары''' [[Юникод]]та төрт ауқымға шығарылып бөлінеді:
-# {{lang|en|''Cyrillic''}} — кирил жазуы (<code>U+0400</code> — <code>U+04FF</code>);
-# {{lang|en|''Cyrillic Supplement''}} — кирил жазуы (қосымша) (<code>U+0500</code> — <code>U+052F</code>);
-# {{lang|en|''Cyrillic Extension-A''}} — кирил жазуы (кеңейтім A) (<code>U+2DE0</code> — <code>U+2DFF</code>);
-# {{lang|en|''Cyrillic Extension-B''}} — кирил жазуы (кеңейтім B) (<code>U+A640</code> — <code>U+A69F</code>).
+* {{lang|en|'''Cyrillic'''}} (''Кирил жазуы''): (<code>U+0400</code> — <code>U+04FF</code>);
+* {{lang|en|'''Cyrillic Supplement'''}} (''Кирил қосымшаcы''): (<code>U+0500</code> — <code>U+052F</code>);
+* {{lang|en|'''Cyrillic Extension-A'''}} (''Кирил кеңейтімі A''): (<code>U+2DE0</code> — <code>U+2DFF</code>);
+* {{lang|en|'''Cyrillic Extension-B'''}} (''Кирил кеңейтімі B''): (<code>U+A640</code> — <code>U+A69F</code>).
 
 Таңбаларды 5 топқа шумақтауға болады:
 # <code>U+0400</code> — <code>U+045F</code> — [[ISO 8859-5]] кодтауындағы славян әліпбилерінің әріптері, бірақ орындары 864 орынға жоғарыға ығыстырылған (360<sub>16</sub>);
