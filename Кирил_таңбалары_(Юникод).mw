@@ -19,7 +19,7 @@
 {| class="standard" cellpadding="10%" style="text-align:center; font-size:smaller;"
 ! коды || таңба || атауы || каноникалық<br />жіктеуі || мәндемесі
 |-
-|colspan="5"| <h3>Негізгі орыс әліпбиі</h3>
+!colspan="5"| <h3>Негізгі орыс әліпбиі</h3>
 |-
 | 0410 || [[А (кирил)|{{bigunicode|&#x410;}}]] || CYRILLIC CAPITAL LETTER A || ||rowspan="2"|
 |-
@@ -150,7 +150,7 @@
 | 044F || {{bigunicode|&#x44F;}} || CYRILLIC SMALL LETTER YA ||
 
 |-
-|colspan="5"| <h3>Кирил кеңейтімдері (заманауи славян тілдер үшін)</h3>
+!colspan="5"| <h3>Кирил кеңейтімдері (заманауи славян тілдер үшін)</h3>
 |-
 | 0400 || {{bigunicode|&#x400;}} || CYRILLIC CAPITAL LETTER IE WITH GRAVE || 0415 0300 ||rowspan="2"| [[македон славян тілі|македон]]
 |-
@@ -220,7 +220,7 @@
 |-
 | 0491 || {{bigunicode|&#x491;}} || CYRILLIC SMALL LETTER GHE WITH UPTURN ||
 |-
-|colspan="5"|
+!colspan="5"|
 
 <h3>Тарихи әріптер (шіркеу славян)</h3>
 |-
@@ -293,7 +293,7 @@
 | 0481 || {{bigunicode|&#x481;}} || CYRILLIC SMALL LETTER KOPPA ||
 
 |-
-|colspan="5"|<h3>Әртүрлі тарихи таңбалар (шіркеу славян дәйектер және басқалар)</h3>
+!colspan="5"|<h3>Әртүрлі тарихи таңбалар (шіркеу славян дәйектер және басқалар)</h3>
 |-
 | 0482 || {{bigunicode|&#x482;}} || CYRILLIC THOUSANDS SIGN || || мың таңбасы
 |-
@@ -310,7 +310,7 @@
 | 0489 || {{bigunicode|&nbsp;&nbsp;&#x489;}} || COMBINING CYRILLIC MILLIONS SIGN || || [[миллион]] таңбасы 
 
 |-
-|colspan="5"|<h3>Кеңейтілген кирил әріптері (славян емес тілдер үшін)</h3>
+!colspan="5"|<h3>Кеңейтілген кирил әріптері (славян емес тілдер үшін)</h3>
 |-
 | 048A || {{bigunicode|&#x48A;}} || CYRILLIC CAPITAL LETTER SHORT I WITH TAIL || ||rowspan="2"| [[саам тілі|саам]] (Кильдин диалекті)
 |-
@@ -532,7 +532,7 @@
 |-
 | 04F9 || {{bigunicode|&#x4F9;}} || CYRILLIC SMALL LETTER YERU WITH DIAERESIS || 044B 0308
 |-
-|colspan="5"|<h3>[[Нивх тілі]] үшін қосымша әріптер</h3>
+!colspan="5"|<h3>[[Нивх тілі]] үшін қосымша әріптер</h3>
 |-
 | 04FA || {{bigunicode|&#x4FA;}} || CYRILLIC CAPITAL LETTER GHE WITH STROKE AND HOOK || ||rowspan="2"|
 |-
@@ -547,7 +547,7 @@
 | 04FF || {{bigunicode|&#x4FF;}} || CYRILLIC SMALL LETTER HA WITH STROKE ||
 
 |-
-|colspan="5"| <h3>[[Коми әліпбиі|Коми]] ескі жазуының әріптері</h3>
+!colspan="5"| <h3>[[Коми әліпбиі|Коми]] ескі жазуының әріптері</h3>
 |-
 | 0500 || {{bigunicode|&#x500;}} || CYRILLIC CAPITAL LETTER KOMI DE || ||rowspan="2"|
 |-
@@ -582,7 +582,7 @@
 | 050F || {{bigunicode|&#x50F;}} || CYRILLIC SMALL LETTER KOMI TJE ||
 
 |-
-|colspan="5"|<h3>Кирил кеңейтімдері — 2 (славян емес тілдер үшін)</h3>
+!colspan="5"|<h3>Кирил кеңейтімдері — 2 (славян емес тілдер үшін)</h3>
 |-
 | 0510 || {{bigunicode|&#x510;}} || CYRILLIC CAPITAL LETTER REVERSED ZE || ||rowspan="2"| [[энец тілі|энец]], [[ханты тілі|ханты]]
 |-
@@ -592,7 +592,7 @@
 |-
 | 0513 || {{bigunicode|&#x513;}} || CYRILLIC SMALL LETTER EL WITH HOOK ||
 |-
-|colspan="5"|<h3>[[Мокшан тілі|Мокшан]] ескі жазуының таңбалары</h3>
+!colspan="5"|<h3>[[Мокшан тілі|Мокшан]] ескі жазуының таңбалары</h3>
 |-
 | 0514 || {{bigunicode|&#x514;}} || CYRILLIC CAPITAL LETTER LHA || ||rowspan="2"|
 |-
@@ -606,7 +606,7 @@
 |-
 | 0519 || {{bigunicode|&#x519;}} || CYRILLIC SMALL LETTER YAE ||
 |-
-|colspan="5"|<h3>[[Күрт тілі|Күрт]] кирил әліпбиінің әріптері</h3>
+!colspan="5"|<h3>[[Күрт тілі|Күрт]] кирил әліпбиінің әріптері</h3>
 |-
 | 051A || {{bigunicode|&#x51A;}} || CYRILLIC CAPITAL LETTER QA || ||rowspan="2"|
 |-
@@ -616,13 +616,13 @@
 |-
 | 051D || {{bigunicode|&#x51D;}} || CYRILLIC SMALL LETTER WE ||
 |-
-|colspan="5"|<h3>[[Алеут тілі|Алеут]] әрпі</h3>
+!colspan="5"|<h3>[[Алеут тілі|Алеут]] әрпі</h3>
 |-
 | 051E || {{bigunicode|&#x51E;}} || CYRILLIC CAPITAL LETTER ALEUT KA || ||rowspan="2"|
 |-
 | 051F || {{bigunicode|&#x51F;}} || CYRILLIC SMALL LETTER ALEUT KA ||
 |-
-|colspan="5"|<h3>Шуас ескі емленің әріптері (Яковлевтің)</h3>
+!colspan="5"|<h3>Шуас ескі емленің әріптері (Яковлевтің)</h3>
 |-
 | 0520 || {{bigunicode|&#x520;}} || CYRILLIC CAPITAL LETTER EL WITH MIDDLE HOOK || ||rowspan="2"|
 |-
@@ -632,7 +632,7 @@
 |-
 | 0523 || {{bigunicode|&#x523;}} || CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK ||
 |-
-|colspan="5"|<h3>Әр түрлі</h3>
+!colspan="5"|<h3>Әр түрлі</h3>
 |-
 | 1D2B || {{bigunicode|&#x1D2B;}} || CYRILLIC LETTER SMALL CAPITAL EL || ||rowspan="2"| фонетикалық транскрипция үшін
 |-
@@ -640,7 +640,7 @@
 |-
 | 20DD || {{bigunicode|&nbsp;&#x20DD;}} || COMBINING ENCLOSING CIRCLE || || он мың таңбасы
 |-
-| colspan="5" | <h3>Шіркеу славян жалғастырмалы таңбалар</h3>
+! colspan="5" | <h3>Шіркеу славян жалғастырмалы таңбалар</h3>
 |-
 | 2DE0 || {{bigunicode|&nbsp;&#x2DE0;}} || COMBINING CYRILLIC LETTER BE 
 |-
@@ -706,7 +706,7 @@
 |-
 | 2DFF || {{bigunicode|&nbsp;&#x2DFF;}} || COMBINING CYRILLIC LETTER IOTIFIED BIG YUS
 |-
-| colspan="5" | <h3>Ескі кирил (шіркеу славян) жазуының әріптері</h3>
+! colspan="5" | <h3>Ескі кирил (шіркеу славян) жазуының әріптері</h3>
 |-
 | A640 || {{bigunicode|Ꙁ}} || CYRILLIC CAPITAL LETTER ZEMYLA || ||rowspan="2"|
 |-
@@ -798,11 +798,11 @@
 |-
 | A66E || {{bigunicode|ꙮ}} || CYRIILLIC LETTER MULTIOCULAR O || ||
 |-
-| colspan="5" | <h3>Қысқарма белгісі<h3> 
+! colspan="5" | <h3>Қысқарма белгісі<h3> 
 |-
 | A66F || {{bigunicode|꙯}} || COMBINING CYRILLIC VZMET 
 |-
-| colspan="5" | <h3>Жалғастырмалы сан белгілері</h3>
+! colspan="5" | <h3>Жалғастырмалы сан белгілері</h3>
 |-
 | A670 || {{bigunicode|꙰}} || COMBINING CYRILLIC TEN MILLIONS SIGN
 |-
@@ -810,25 +810,25 @@
 |-
 | A672 || {{bigunicode|꙲}} || COMBINING CYRILLIC THOUSAND MILLIONS SIGN 
 |-
-| colspan="5" | <h3>Тыныс белгісі</h3> 
+! colspan="5" | <h3>Тыныс белгісі</h3> 
 |-
 | A672 || {{bigunicode|꙳}} || SLAVONIC ASTERISK
 |-
-| colspan="5" | <h3>Ескі кирил  жалғастырмалы таңбалар (шіркеу славян)</h3> 
+! colspan="5" | <h3>Ескі кирил  жалғастырмалы таңбалар (шіркеу славян)</h3> 
 |-
 | A67C || {{bigunicode|꙼}} || COMBINING CYRILLIC KAVYKA 
 |-
 | A67D || {{bigunicode|꙽}} || COMBINING CYRILLIC PAYEROK 
 |-
-| colspan="5" | <h3>Тыныс белгісі — 2</h3> 
+! colspan="5" | <h3>Тыныс белгісі — 2</h3> 
 |-
 | A67E || {{bigunicode|꙾}} || CYRILLIC KAVYKA
 |-
-| colspan="5" | <h3>Өзгертпелі әріп</h3>
+! colspan="5" | <h3>Өзгертпелі әріп</h3>
 |-
 | A67F || {{bigunicode|ꙿ}} || CYRILLIC PAYEROK
 |-
-| colspan="5" | <h3>Ескі абхаз емлесінің әріптері</h3> 
+! colspan="5" | <h3>Ескі абхаз емлесінің әріптері</h3> 
 |-
 | A680 || {{bigunicode|Ꚁ}} || CYRILLIC CAPITAL LETTER DWE || ||rowspan="2"|
 |-
