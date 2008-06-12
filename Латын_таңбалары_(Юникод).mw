@@ -1,0 +1,425 @@
+'''Латын таңбалары''' [[Юникод]]тың 5.1 нұсқасында келесі ауқымдарға шығарылып бөлінеді:
+{{Юникод шартты белгілері}}
+*'''Basic Latin''' 0000-007F: identical to [[ASCII]] (0000-001F, 007F are control characters, 0020-003F are punctuation and [[Arabic numerals]])
+*'''Latin-1 Supplement''' 0080-00FF: identical to [[ISO/IEC 8859-1]] (0080-009F are control characters, 00A0-00BF are currency symbols, punctuation and numerals)
+*'''Latin Extended-A''' 0100-017F
+*'''Latin Extended-B''' 0180-024F
+*'''IPA Extensions''' 0250-02AF
+*'''Phonetic Extensions''' 1D00-1D7F
+*'''Phonetic Extensions Supplement''' 1D80-1DBF
+*'''Latin Extended Additional''' 1E00-1EFF
+*'''Letterlike Symbols''' 2100-214F
+*'''Enclosed Alphanumerics''' 2460-24FF
+*'''Latin Extended-C''' 2C60-2C7F
+*'''Latin Extended-D''' A720-A7FF
+*'''Alphabetic Presentation Forms''' (Latin ligatures) FB00-FB4F
+*'''Halfwidth and Fullwidth Forms''' (fullwidth Latin letters) FF00-FFEF
+*'''Mathematical Alphanumeric Symbols''' 1D400-1D7FF
+
+The «extended» ranges contain mainly [[precomposed character|precomposed]] diacritics that may be equivalently encoded with [[combining diacritics]], as well as some ligatures, used in the orthography of various African languages (including [[click consonant|click]] symbols in Latin Extended-B) and the [[Vietnamese language]] (Latin Extended Additional).
+Latin Extended-C contains additions for [[Uighur language|Uighur]] and the [[Claudian letters]]. Latin Extended-D is made up of characters that are mostly of interest to medievalists.
+{| border="1" cellpadding="2" cellspacing="0" style="border-collapse:collapse"
+|----- style="background:#ccf"
+!width="4%"|U+!!width="6%"|0!!width="6%"|1!!width="6%"|2!!width="6%"|3!!width="6%"|4!!width="6%"|5!!width="6%"|6!!width="6%"|7!!width="6%"|8!!width="6%"|9!!width="6%"|A!!width="6%"|B!!width="6%"|C!!width="6%"|D!!width="6%"|E!!width="6%"|F
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0040
+|[[@]]||[[A]]||[[B]]||[[C]]||[[D]]||[[E]]||[[F]]||[[G]]||[[H]]||[[I]]||[[J]]||[[K]]||[[L]]||[[M]]||[[N]]||[[O]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0050
+|[[P]]||[[Q]]||[[R]]||[[S]]||[[T]]||[[U]]||[[V]]||[[W]]||[[X]]||[[Y]]||[[Z]]||&#91;||\||&#93;||^||_
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0060
+|`||[[a]]||[[b]]||[[c]]||[[d]]||[[e]]||[[f]]||[[g]]||[[h]]||[[i]]||[[j]]||[[k]]||[[l]]||[[m]]||[[n]]||[[o]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0070
+|[[p]]||[[q]]||[[r]]||[[s]]||[[t]]||[[u]]||[[v]]||[[w]]||[[x]]||[[y]]||[[z]]||&#123;||&#124;||&#125;||&#126;||style="font-size:75%"|DEL
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|00C0
+|[[À]]||[[Á]]||[[Â]]||[[Ã]]||[[Ä]]||[[Å]]||[[Æ]]||[[Ç]]||[[È]]||[[É]]||[[Ê]]||[[Ë]]||[[Ì]]||[[Í]]||[[Î]]||[[Ï]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|00D0
+|[[Ð]]||[[Ñ]]||[[Ò]]||[[Ó]]||[[Ô]]||[[Õ]]||[[Ö]]||×||[[Ø]]||[[Ù]]||[[Ú]]||[[Û]]||[[Ü]]||[[Ý]]||[[Þ]]||[[ß]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|00E0
+|[[à]]||[[á]]||[[â]]||[[ã]]||[[ä]]||[[å]]||[[æ]]||[[ç]]||[[è]]||[[é]]||[[ê]]||[[ë]]||[[ì]]||[[í]]||[[î]]||[[ï]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|00F0
+|[[ð]]||[[ñ]]||[[ò]]||[[ó]]||[[ô]]||[[õ]]||[[ö]]||÷||[[ø]]||[[ù]]||[[ú]]||[[û]]||[[ü]]||[[ý]]||[[þ]]||[[ÿ]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0100
+|[[Ā]]||[[ā]]||[[Ă]]||[[ă]]||[[Ą]]||[[ą]]||[[Ć]]||[[ć]]||[[Ĉ]]||[[ĉ]]||[[Ċ]]||[[ċ]]||[[Č]]||[[č]]||[[Ď]]||[[ď]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0110
+|[[Đ]]||[[đ]]||[[Ē]]||[[ē]]||[[Ĕ]]||[[ĕ]]||[[Ė]]||[[ė]]||[[Ę]]||[[ę]]||[[Ě]]||[[ě]]||[[Ĝ]]||[[ĝ]]||[[Ğ]]||[[ğ]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0120
+|[[Ġ]]||[[ġ]]||[[Ģ]]||[[ģ]]||[[Ĥ]]||[[ĥ]]||[[Ħ]]||[[ħ]]||[[Ĩ]]||[[ĩ]]||[[Ī]]||[[ī]]||[[Ĭ]]||[[ĭ]]||[[Į]]||[[į]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0130
+|[[Turkish dotted and dotless I|İ]]||[[Turkish dotted and dotless I|ı]]||[[Ĳ]]||[[ĳ]]||[[Ĵ]]||[[ĵ]]||[[Ķ]]||[[ķ]]||[[ĸ]]||[[Ĺ]]||[[ĺ]]||[[Ļ]]||[[ļ]]||[[Ľ]]||[[ľ]]||[[Ŀ]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0140
+|[[ŀ]]||[[Ł]]||[[ł]]||[[Ń]]||[[ń]]||[[Ņ]]||[[ņ]]||[[Ň]]||[[ň]]||[[ŉ]]||[[Ŋ]]||[[ŋ]]||[[Ō]]||[[ō]]||[[Ŏ]]||[[ŏ]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0150
+|[[Ő]]||[[ő]]||[[Œ]]||[[œ]]||[[Ŕ]]||[[ŕ]]||[[Ŗ]]||[[ŗ]]||[[Ř]]||[[ř]]||[[Ś]]||[[ś]]||[[Ŝ]]||[[ŝ]]||[[Ş]]||[[ş]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0160
+|[[Š]]||[[š]]||[[Ţ]]||[[ţ]]||[[Ť]]||[[ť]]||[[Ŧ]]||[[ŧ]]||[[Ũ]]||[[ũ]]||[[Ū]]||[[ū]]||[[Ŭ]]||[[ŭ]]||[[Ů]]||[[ů]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0170
+|[[Ű]]||[[ű]]||[[Ų]]||[[ų]]||[[Ŵ]]||[[ŵ]]||[[Ŷ]]||[[ŷ]]||[[Ÿ]]||[[Ź]]||[[ź]]||[[Ż]]||[[ż]]||[[Ž]]||[[ž]]||style="background:#9b9"|[[Long s|ſ]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0180
+|[[ƀ]]||[[Ɓ]]||[[Ƃ]]||[[ƃ]]||[[Ƅ]]||[[ƅ]]||[[Ɔ]]||[[Ƈ]]||[[ƈ]]||[[Ɖ]]||[[Ɗ]]||[[Ƌ]]||[[ƌ]]||[[ƍ]]||[[Ǝ]]||[[Ə]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0190
+|[[Ɛ]]||[[Ƒ]]||[[ƒ]]||[[Ɠ]]||[[Ɣ]]||[[ƕ]]||[[Ɩ]]||[[Ɨ]]||[[Ƙ]]||[[ƙ]]||[[ƚ]]||[[ƛ]]||[[Ɯ]]||[[Ɲ]]||[[ƞ]]||[[Ɵ]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|01A0
+|[[Ơ]]||[[ơ]]||[[Ƣ]]||[[ƣ]]||[[Ƥ]]||[[ƥ]]||[[Ʀ]]||[[Ƨ]]||[[ƨ]]||[[Ʃ]]||[[ƪ]]||[[ƫ]]||[[Ƭ]]||[[ƭ]]||[[Ʈ]]||[[Ư]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|01B0
+|[[ư]]||[[Ʊ]]||[[Ʋ]]||[[Ƴ]]||[[ƴ]]||[[Ƶ]]||[[ƶ]]||[[Ʒ]]||[[Ƹ]]||[[ƹ]]||[[ƺ]]||[[ƻ]]||[[Ƽ]]||[[ƽ]]||[[ƾ]]||[[ƿ]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|01C0
+|[[ǀ]]||[[ǁ]]||[[ǂ]]||[[ǃ]]||[[Ǆ]]||[[ǅ]]||[[ǆ]]||[[Ǉ]]||[[ǈ]]||[[ǉ]]||[[Ǌ]]||[[ǋ]]||[[ǌ]]||[[Ǎ]]||[[ǎ]]||[[Ǐ]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|01D0
+|[[ǐ]]||[[Ǒ]]||[[ǒ]]||[[Ǔ]]||[[ǔ]]||[[Ǖ]]||[[ǖ]]||[[Ǘ]]||[[ǘ]]||[[Ǚ]]||[[ǚ]]||[[Ǜ]]||[[ǜ]]||[[ǝ]]||[[Ǟ]]||[[ǟ]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|01E0
+|[[Ǡ]]||[[ǡ]]||[[Ǣ]]||[[ǣ]]||[[Ǥ]]||[[ǥ]]||[[Ǧ]]||[[ǧ]]||[[Ǩ]]||[[ǩ]]||[[Ǫ]]||[[ǫ]]||[[Ǭ]]||[[ǭ]]||[[Ǯ]]||[[ǯ]]
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|01F0
+|style="background:#cfc"|[[ǰ]]||[[Ǳ]]||[[ǲ]]||[[ǳ]]||[[Ǵ]]||[[ǵ]]||style="background:#ff9"|[[Ƕ]]||style="background:#ff9"|[[Ƿ]]||style="background:#ff9"|[[Ǹ]]||style="background:#ff9"|[[ǹ]]||[[Ǻ]]||[[ǻ]]||[[Ǽ]]||[[ǽ]]||[[Ǿ]]||[[ǿ]]
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|0200
+|[[Ȁ]]||[[ȁ]]||[[Ȃ]]||[[ȃ]]||[[Ȅ]]||[[ȅ]]||[[Ȇ]]||[[ȇ]]||[[Ȉ]]||[[ȉ]]||[[Ȋ]]||[[ȋ]]||[[Ȍ]]||[[ȍ]]||[[Ȏ]]||[[ȏ]]
+|----- align="center"
+!0210
+|style="background:#9b9"|[[Ȑ]]||style="background:#9b9"|[[ȑ]]||style="background:#9b9"|[[Ȓ]]||style="background:#9b9"|[[ȓ]]||style="background:#9b9"|[[Ȕ]]||style="background:#9b9"|[[ȕ]]||style="background:#9b9"|[[Ȗ]]||style="background:#9b9"|[[ȗ]]||style="background:#ff9"|[[Ș]]||style="background:#ff9"|[[ș]]||style="background:#ff9"|[[Ț]]||style="background:#ff9"|[[ț]]||style="background:#ff9"|[[Ȝ]]||style="background:#ff9"|[[ȝ]]||style="background:#ff9"|[[Ȟ]]||style="background:#ff9"|[[ȟ]]
+|----- align="center" style="background:#ff9"
+!style="background:#fff"|0220
+|style="background:#885"|[[Ƞ]]||style="background:#fcc"|[[ȡ]]||[[Ȣ]]||[[ȣ]]||[[Ȥ]]||[[ȥ]]||[[Ȧ]]||[[ȧ]]||[[Ȩ]]||[[ȩ]]||[[Ȫ]]||[[ȫ]]||[[Ȭ]]||[[ȭ]]||[[Ȯ]]||[[ȯ]]
+|----- align="center" style="background:#b99"
+!style="background:#fff"|0230
+|style="background:#ff9"|[[Ȱ]]||style="background:#ff9"|[[ȱ]]||style="background:#ff9"|[[Ȳ]]||style="background:#ff9"|[[ȳ]]||style="background:#fcc"|[[ȴ]]||style="background:#fcc"|[[ȵ]]||style="background:#fcc"|[[ȶ]]||[[ȷ]]||[[ȸ]]||[[ȹ]]||[[Ⱥ]]||[[Ȼ]]||[[ȼ]]||[[Ƚ]]||[[Ⱦ]]||[[ȿ]]
+|----- align="center" style="background:#866"
+!style="background:#fff"|0240
+|style="background:#b99"|[[ɀ]]||style="background:#b99"|[[Ɂ]]||[[ɂ]]||[[Ƀ]]||[[Ʉ]]||[[Ʌ]]||[[Ɇ]]||[[ɇ]]||[[Ɉ]]||[[ɉ]]||[[Ɋ]]||[[ɋ]]||[[Ɍ]]||[[ɍ]]||[[Ɏ]]||[[ɏ]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0250
+|[[ɐ]]||[[ɑ]]||[[ɒ]]||[[ɓ]]||[[ɔ]]||[[ɕ]]||[[ɖ]]||[[ɗ]]||[[ɘ]]||[[ə]]||[[ɚ]]||[[ɛ]]||[[ɜ]]||[[ɝ]]||[[ɞ]]||[[ɟ]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0260
+|[[ɠ]]||[[ɡ]]||[[ɢ]]||[[ɣ]]||[[ɤ]]||[[ɥ]]||[[ɦ]]||[[ɧ]]||[[ɨ]]||[[ɩ]]||[[ɪ]]||[[ɫ]]||[[ɬ]]||[[ɭ]]||[[ɮ]]||[[ɯ]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0270
+|[[ɰ]]||[[ɱ]]||[[ɲ]]||[[ɳ]]||[[ɴ]]||[[ɵ]]||[[ɶ]]||[[ɷ]]||[[ɸ]]||[[ɹ]]||[[ɺ]]||[[ɻ]]||[[ɼ]]||[[ɽ]]||[[ɾ]]||[[ɿ]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0280
+|[[ʀ]]||[[ʁ]]||[[ʂ]]||[[ʃ]]||[[ʄ]]||[[ʅ]]||[[ʆ]]||[[ʇ]]||[[ʈ]]||[[ʉ]]||[[ʊ]]||[[ʋ]]||[[ʌ]]||[[ʍ]]||[[ʎ]]||[[ʏ]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|0290
+|[[ʐ]]||[[ʑ]]||[[ʒ]]||[[ʓ]]||[[ʔ]]||[[ʕ]]||[[ʖ]]||[[ʗ]]||[[ʘ]]||[[ʙ]]||[[ʚ]]||[[ʛ]]||[[ʜ]]||[[ʝ]]||[[ʞ]]||[[ʟ]]
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|02A0
+|[[ʠ]]||[[ʡ]]||[[ʢ]]||[[ʣ]]||[[ʤ]]||[[ʥ]]||[[ʦ]]||[[ʧ]]||[[ʨ]]||style="background:#ff9"|[[ʩ]]||style="background:#ff9"|[[ʪ]]||style="background:#ff9"|[[ʫ]]||style="background:#ff9"|[[ʬ]]||style="background:#ff9"|[[ʭ]]||style="background:#fcc"|[[ʮ]]||style="background:#fcc"|[[ʯ]]
+|----- align="center" style="background:#fcc"
+!style="background:#fff"|1D00
+|ᴀ||ᴁ||ᴂ||ᴃ||ᴄ||ᴅ||ᴆ||ᴇ||ᴈ||ᴉ||ᴊ||ᴋ||ᴌ||ᴍ||ᴎ||ᴏ
+|----- align="center" style="background:#fcc"
+!style="background:#fff"|1D10
+|ᴐ||ᴑ||ᴒ||ᴓ||ᴔ||ᴕ||ᴖ||ᴗ||ᴘ||ᴙ||ᴚ||ᴛ||ᴜ||ᴝ||ᴞ||ᴟ
+|----- align="center" style="background:#fcc"
+!style="background:#fff"|1D20
+|ᴠ||ᴡ||ᴢ||ᴣ||ᴤ||ᴥ||ᴦ||ᴧ||ᴨ||ᴩ||ᴪ||ᴫ||ᴬ||ᴭ||ᴮ||ᴯ
+|----- align="center" style="background:#fcc"
+!style="background:#fff"|1D30
+|ᴰ||ᴱ||ᴲ||ᴳ||ᴴ||ᴵ||ᴶ||ᴷ||ᴸ||ᴹ||ᴺ||ᴻ||ᴼ||ᴽ||ᴾ||ᴿ
+|----- align="center" style="background:#fcc"
+!style="background:#fff"|1D40
+|ᵀ||ᵁ||ᵂ||ᵃ||ᵄ||ᵅ||ᵆ||ᵇ||ᵈ||ᵉ||ᵊ||ᵋ||ᵌ||ᵍ||ᵎ||ᵏ
+|----- align="center" style="background:#fcc"
+!style="background:#fff"|1D50
+|ᵐ||ᵑ||ᵒ||ᵓ||ᵔ||ᵕ||ᵖ||ᵗ||ᵘ||ᵙ||ᵚ||ᵛ||ᵜ||ᵝ||ᵞ||ᵟ
+|----- align="center" style="background:#fcc"
+!style="background:#fff"|1D60
+|ᵠ||ᵡ||ᵢ||ᵣ||ᵤ||ᵥ||ᵦ||ᵧ||ᵨ||ᵩ||ᵪ||[[ᵫ]]||style="background:#b99"|[[ᵬ]]||style="background:#b99"|[[ᵭ]]||style="background:#b99"|[[ᵮ]]||style="background:#b99"|[[ᵯ]]
+|----- align="center" style="background:#b99"
+!style="background:#fff"|1D70
+|[[ᵰ]]||[[ᵱ]]||[[ᵲ]]||[[ᵳ]]||[[ᵴ]]||[[ᵵ]]||[[ᵶ]]||[[ᵷ]]||ᵸ||[[ᵹ]]||[[ᵺ]]||[[ᵻ]]||[[ᵼ]]||[[ᵽ]]||[[ᵾ]]||[[ᵿ]]
+|----- align="center" style="background:#b99"
+!style="background:#fff"|1D80
+|[[ᶀ]]||[[ᶁ]]||[[ᶂ]]||[[ᶃ]]||[[ᶄ]]||[[ᶅ]]||[[ᶆ]]||[[ᶇ]]||[[ᶈ]]||[[ᶉ]]||[[ᶊ]]||[[ᶋ]]||[[ᶌ]]||[[ᶍ]]||[[ᶎ]]||[[ᶏ]]
+|----- align="center" style="background:#b99"
+!style="background:#fff"|1D90
+|[[ᶐ]]||[[ᶑ]]||[[ᶒ]]||[[ᶓ]]||[[ᶔ]]||[[ᶕ]]||[[ᶖ]]||[[ᶗ]]||[[ᶘ]]||[[ᶙ]]||[[ᶚ]]||ᶛ||ᶜ||ᶝ||ᶞ||ᶟ
+|----- align="center" style="background:#b99"
+!style="background:#fff"|1DA0
+|ᶠ||ᶡ||ᶢ||ᶣ||ᶤ||ᶥ||ᶦ||ᶧ||ᶨ||ᶩ||ᶪ||ᶫ||ᶬ||ᶭ||ᶮ||ᶯ
+|----- align="center" style="background:#b99"
+!style="background:#fff"|1DB0
+|ᶰ||ᶱ||ᶲ||ᶳ||ᶴ||ᶵ||ᶶ||ᶷ||ᶸ||ᶹ||ᶺ||ᶻ||ᶼ||ᶽ||ᶾ||ᶿ
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|1E00
+|[[Ḁ]]||[[ḁ]]||[[Ḃ]]||[[ḃ]]||[[Ḅ]]||[[ḅ]]||[[Ḇ]]||[[ḇ]]||[[Ḉ]]||[[ḉ]]||[[Ḋ]]||[[ḋ]]||[[Ḍ]]||[[ḍ]]||[[Ḏ]]||[[ḏ]]
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|1E10
+|[[Ḑ]]||[[ḑ]]||[[Ḓ]]||[[ḓ]]||[[Ḕ]]||[[ḕ]]||[[Ḗ]]||[[ḗ]]||[[Ḙ]]||[[ḙ]]||[[Ḛ]]||[[ḛ]]||[[Ḝ]]||[[ḝ]]||[[Ḟ]]||[[ḟ]]
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|1E20
+|[[Ḡ]]||[[ḡ]]||[[Ḣ]]||[[ḣ]]||[[Ḥ]]||[[ḥ]]||[[Ḧ]]||[[ḧ]]||[[Ḩ]]||[[ḩ]]||[[Ḫ]]||[[ḫ]]||[[Ḭ]]||[[ḭ]]||[[Ḯ]]||[[ḯ]]
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|1E30
+|[[Ḱ]]||[[ḱ]]||[[Ḳ]]||[[ḳ]]||[[Ḵ]]||[[ḵ]]||[[Ḷ]]||[[ḷ]]||[[Ḹ]]||[[ḹ]]||[[Ḻ]]||[[ḻ]]||[[Ḽ]]||[[ḽ]]||[[Ḿ]]||[[ḿ]]
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|1E40
+|[[Ṁ]]||[[ṁ]]||[[Ṃ]]||[[ṃ]]||[[Ṅ]]||[[ṅ]]||[[Ṇ]]||[[ṇ]]||[[Ṉ]]||[[ṉ]]||[[Ṋ]]||[[ṋ]]||[[Ṍ]]||[[ṍ]]||[[Ṏ]]||[[ṏ]]
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|1E50
+|[[Ṑ]]||[[ṑ]]||[[Ṓ]]||[[ṓ]]||[[Ṕ]]||[[ṕ]]||[[Ṗ]]||[[ṗ]]||[[Ṙ]]||[[ṙ]]||[[Ṛ]]||[[ṛ]]||[[Ṝ]]||[[ṝ]]||[[Ṟ]]||[[ṟ]]
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|1E60
+|[[Ṡ]]||[[ṡ]]||[[Ṣ]]||[[ṣ]]||[[Ṥ]]||[[ṥ]]||[[Ṧ]]||[[ṧ]]||[[Ṩ]]||[[ṩ]]||[[Ṫ]]||[[ṫ]]||[[Ṭ]]||[[ṭ]]||[[Ṯ]]||[[ṯ]]
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|1E70
+|[[Ṱ]]||[[ṱ]]||[[Ṳ]]||[[ṳ]]||[[Ṵ]]||[[ṵ]]||[[Ṷ]]||[[ṷ]]||[[Ṹ]]||[[ṹ]]||[[Ṻ]]||[[ṻ]]||[[Ṽ]]||[[ṽ]]||[[Ṿ]]||[[ṿ]]
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|1E80
+|[[Ẁ]]||[[ẁ]]||[[Ẃ]]||[[ẃ]]||[[Ẅ]]||[[ẅ]]||[[Ẇ]]||[[ẇ]]||[[Ẉ]]||[[ẉ]]||[[Ẋ]]||[[ẋ]]||[[Ẍ]]||[[ẍ]]||[[Ẏ]]||[[ẏ]]
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|1E90
+|[[Ẑ]]||[[ẑ]]||[[Ẓ]]||[[ẓ]]||[[Ẕ]]||[[ẕ]]||[[ẖ]]||[[ẗ]]||[[ẘ]]||[[ẙ]]||[[ẚ]]||style="background:#cff"|[[ẛ]]||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|1EA0
+|[[Ạ]]||[[ạ]]||[[Ả]]||[[ả]]||[[Ấ]]||[[ấ]]||[[Ầ]]||[[ầ]]||[[Ẩ]]||[[ẩ]]||[[Ẫ]]||[[ẫ]]||[[Ậ]]||[[ậ]]||[[Ắ]]||[[ắ]]
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|1EB0
+|[[Ằ]]||[[ằ]]||[[Ẳ]]||[[ẳ]]||[[Ẵ]]||[[ẵ]]||[[Ặ]]||[[ặ]]||[[Ẹ]]||[[ẹ]]||[[Ẻ]]||[[ẻ]]||[[Ẽ]]||[[ẽ]]||[[Ế]]||[[ế]]
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|1EC0
+|[[Ề]]||[[ề]]||[[Ể]]||[[ể]]||[[Ễ]]||[[ễ]]||[[Ệ]]||[[ệ]]||[[Ỉ]]||[[ỉ]]||[[Ị]]||[[ị]]||[[Ọ]]||[[ọ]]||[[Ỏ]]||[[ỏ]]
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|1ED0
+|[[Ố]]||[[ố]]||[[Ồ]]||[[ồ]]||[[Ổ]]||[[ổ]]||[[Ỗ]]||[[ỗ]]||[[Ộ]]||[[ộ]]||[[Ớ]]||[[ớ]]||[[Ờ]]||[[ờ]]||[[Ở]]||[[ở]]
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|1EE0
+|[[Ỡ]]||[[ỡ]]||[[Ợ]]||[[ợ]]||[[Ụ]]||[[ụ]]||[[Ủ]]||[[ủ]]||[[Ứ]]||[[ứ]]||[[Ừ]]||[[ừ]]||[[Ử]]||[[ử]]||[[Ữ]]||[[ữ]]
+|----- align="center" style="background:#9b9"
+!style="background:#fff"|1EF0
+|[[Ự]]||[[ự]]||[[Ỳ]]||[[ỳ]]||[[Ỵ]]||[[ỵ]]||[[Ỷ]]||[[ỷ]]||[[Ỹ]]||[[ỹ]]||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|2100
+|℀||℁||ℂ||℃||℄||℅||℆||ℇ||℈||℉||ℊ||ℋ||ℌ||ℍ||ℎ||ℏ
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|2110
+|ℐ||ℑ||ℒ||ℓ||℔||ℕ||№||℗||℘||ℙ||ℚ||ℛ||ℜ||ℝ||℞||℟
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|2120
+|℠||℡||™||℣||ℤ||℥||&#x2126;||℧||ℨ||℩||&#x212A;||&#x212B;||ℬ||ℭ||℮||ℯ
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|2130
+|ℰ||ℱ||Ⅎ||ℳ||ℴ||ℵ||ℶ||ℷ||ℸ||style="background:#ff9"|ℹ||style="background:#ff9"|℺||style="background:#fcc"|℻||style="background:#b99"|ℼ||style="background:#885"|ℽ||style="background:#885"|ℾ||style="background:#885"|ℿ
+|----- align="center" style="background:#885"
+!style="background:#fff"|2140
+|⅀||⅁||⅂||⅃||⅄||ⅅ||ⅆ||ⅇ||ⅈ||ⅉ||⅊||⅋||style="background:#b99"|⅌||style="background:#866"|⅍||style="background:#866"|ⅎ||style="background:#666"|&nbsp;
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|2490
+|⒐||⒑||⒒||⒓||⒔||⒕||⒖||⒗||⒘||⒙||⒚||⒛||⒜||⒝||⒞||⒟
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|24A0
+|⒠||⒡||⒢||⒣||⒤||⒥||⒦||⒧||⒨||⒩||⒪||⒫||⒬||⒭||⒮||⒯
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|24B0
+|⒰||⒱||⒲||⒳||⒴||⒵||Ⓐ||Ⓑ||Ⓒ||Ⓓ||Ⓔ||Ⓕ||Ⓖ||Ⓗ||Ⓘ||Ⓙ
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|24C0
+|Ⓚ||Ⓛ||Ⓜ||Ⓝ||Ⓞ||Ⓟ||Ⓠ||Ⓡ||Ⓢ||Ⓣ||Ⓤ||Ⓥ||Ⓦ||Ⓧ||Ⓨ||Ⓩ
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|24D0
+|ⓐ||ⓑ||ⓒ||ⓓ||ⓔ||ⓕ||ⓖ||ⓗ||ⓘ||ⓙ||ⓚ||ⓛ||ⓜ||ⓝ||ⓞ||ⓟ
+|----- align="center" style="background:#cfc"
+!style="background:#fff"|24E0
+|ⓠ||ⓡ||ⓢ||ⓣ||ⓤ||ⓥ||ⓦ||ⓧ||ⓨ||ⓩ||⓪||style="background:#885"|⓫||style="background:#885"|⓬||style="background:#885"|⓭||style="background:#885"|⓮||style="background:#885"|⓯
+|----- align="center" style="background:#866"
+!style="background:#fff"|2C60
+|[[Ⱡ]]||[[ⱡ]]||[[Ɫ]]||[[Ᵽ]]||[[Ɽ]]||[[ⱥ]]||[[ⱦ]]||[[Ⱨ]]||[[ⱨ]]||[[Ⱪ]]||[[ⱪ]]||[[Ⱬ]]||[[ⱬ]]||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;
+|----- align="center"
+!2C70
+|style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#866"|[[ⱴ]]||style="background:#866"|[[Ⱶ]]||style="background:#866"|[[ⱶ]]||style="background:#866"|[[ⱷ]]||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;
+|----- align="center" style="background:#666"
+!style="background:#fff"|A720
+|style="background:#866"|꜠||style="background:#866"|꜡||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;||&nbsp;
+|----- align="center"
+!FB00
+|style="background:#9b9"|[[ﬀ]]||style="background:#9b9"|[[ﬁ]]||style="background:#9b9"|[[ﬂ]]||style="background:#9b9"|[[ﬃ]]||style="background:#9b9"|[[ﬄ]]||style="background:#9b9"|[[ﬅ]]||style="background:#9b9"|[[ﬆ]]||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;
+|---- align="center" style="background:#cfc"
+!style="background:#fff"|FF20
+|＠||[[Ａ]]||[[Ｂ]]||[[Ｃ]]||[[Ｄ]]||[[Ｅ]]||[[Ｆ]]||[[Ｇ]]||[[Ｈ]]||[[Ｉ]]||[[Ｊ]]||[[Ｋ]]||[[Ｌ]]||[[Ｍ]]||[[Ｎ]]||[[Ｏ]]
+|---- align="center" style="background:#cfc"
+!style="background:#fff"|FF30
+|[[Ｐ]]||[[Ｑ]]||[[Ｒ]]||[[Ｓ]]||[[Ｔ]]||[[Ｕ]]||[[Ｖ]]||[[Ｗ]]||[[Ｘ]]||[[Ｙ]]||[[Ｚ]]||［||＼||］||＾||＿
+|---- align="center" style="background:#cfc"
+!style="background:#fff"|FF40
+|｀||[[ａ]]||[[ｂ]]||[[ｃ]]||[[ｄ]]||[[ｅ]]||[[ｆ]]||[[ｇ]]||[[ｈ]]||[[ｉ]]||[[ｊ]]||[[ｋ]]||[[ｌ]]||[[ｍ]]||[[ｎ]]||[[ｏ]]
+|---- align="center" style="background:#cfc"
+!style="background:#fff"|FF50
+|[[ｐ]]||[[ｑ]]||[[ｒ]]||[[ｓ]]||[[ｔ]]||[[ｕ]]||[[ｖ]]||[[ｗ]]||[[ｘ]]||[[ｙ]]||[[ｚ]]||｛||｜||｝||～||style="background:#885"|｟
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D400
+|𝐀||𝐁||𝐂||𝐃||𝐄||𝐅||𝐆||𝐇||𝐈||𝐉||𝐊||𝐋||𝐌||𝐍||𝐎||𝐏
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D410
+|𝐐||𝐑||𝐒||𝐓||𝐔||𝐕||𝐖||𝐗||𝐘||𝐙||𝐚||𝐛||𝐜||𝐝||𝐞||𝐟
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D420
+|𝐠||𝐡||𝐢||𝐣||𝐤||𝐥||𝐦||𝐧||𝐨||𝐩||𝐪||𝐫||𝐬||𝐭||𝐮||𝐯
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D430
+|𝐰||𝐱||𝐲||𝐳||𝐴||𝐵||𝐶||𝐷||𝐸||𝐹||𝐺||𝐻||𝐼||𝐽||𝐾||𝐿
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D440
+|𝑀||𝑁||𝑂||𝑃||𝑄||𝑅||𝑆||𝑇||𝑈||𝑉||𝑊||𝑋||𝑌||𝑍||𝑎||𝑏
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D450
+|𝑐||𝑑||𝑒||𝑓||𝑔||style="background:#666"|&nbsp;||𝑖||𝑗||𝑘||𝑙||𝑚||𝑛||𝑜||𝑝||𝑞||𝑟
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D460
+|𝑠||𝑡||𝑢||𝑣||𝑤||𝑥||𝑦||𝑧||𝑨||𝑩||𝑪||𝑫||𝑬||𝑭||𝑮||𝑯
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D470
+|𝑰||𝑱||𝑲||𝑳||𝑴||𝑵||𝑶||𝑷||𝑸||𝑹||𝑺||𝑻||𝑼||𝑽||𝑾||𝑿
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D480
+|𝒀||𝒁||𝒂||𝒃||𝒄||𝒅||𝒆||𝒇||𝒈||𝒉||𝒊||𝒋||𝒌||𝒍||𝒎||𝒏
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D490
+|𝒐||𝒑||𝒒||𝒓||𝒔||𝒕||𝒖||𝒗||𝒘||𝒙||𝒚||𝒛||𝒜||style="background:#666"|&nbsp;||𝒞||𝒟
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D4A0
+|style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||𝒢||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||𝒥||𝒦||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||𝒩||𝒪||𝒫||𝒬||style="background:#666"|&nbsp;||𝒮||𝒯
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D4B0
+|𝒰||𝒱||𝒲||𝒳||𝒴||𝒵||𝒶||𝒷||𝒸||𝒹||style="background:#666"|&nbsp;||𝒻||style="background:#666"|&nbsp;||𝒽||𝒾||𝒿
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D4C0
+|𝓀||style="background:#fcc"|𝓁||𝓂||𝓃||style="background:#666"|&nbsp;||𝓅||𝓆||𝓇||𝓈||𝓉||𝓊||𝓋||𝓌||𝓍||𝓎||𝓏
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D4D0
+|𝓐||𝓑||𝓒||𝓓||𝓔||𝓕||𝓖||𝓗||𝓘||𝓙||𝓚||𝓛||𝓜||𝓝||𝓞||𝓟
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D4E0
+|𝓠||𝓡||𝓢||𝓣||𝓤||𝓥||𝓦||𝓧||𝓨||𝓩||𝓪||𝓫||𝓬||𝓭||𝓮||𝓯
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D4F0
+|𝓰||𝓱||𝓲||𝓳||𝓴||𝓵||𝓶||𝓷||𝓸||𝓹||𝓺||𝓻||𝓼||𝓽||𝓾||𝓿
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D500
+|𝔀||𝔁||𝔂||𝔃||𝔄||𝔅||style="background:#666"|&nbsp;||𝔇||𝔈||𝔉||𝔊||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||𝔍||𝔎||𝔏
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D510
+|𝔐||𝔑||𝔒||𝔓||𝔔||style="background:#666"|&nbsp;||𝔖||𝔗||𝔘||𝔙||𝔚||𝔛||𝔜||style="background:#666"|&nbsp;||𝔞||𝔟
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D520
+|𝔠||𝔡||𝔢||𝔣||𝔤||𝔥||𝔦||𝔧||𝔨||𝔩||𝔪||𝔫||𝔬||𝔭||𝔮||𝔯
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D530
+|𝔰||𝔱||𝔲||𝔳||𝔴||𝔵||𝔶||𝔷||𝔸||𝔹||style="background:#666"|&nbsp;||𝔻||𝔼||𝔽||𝔾||style="background:#666"|
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D540
+|𝕀||𝕁||𝕂||𝕃||𝕄||style="background:#666"|&nbsp;||𝕆||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||𝕊||𝕋||𝕌||𝕍||𝕎||𝕏
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D550
+|𝕐||style="background:#666"|&nbsp;||𝕒||𝕓||𝕔||𝕕||𝕖||𝕗||𝕘||𝕙||𝕚||𝕛||𝕜||𝕝||𝕞||𝕟
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D560
+|𝕠||𝕡||𝕢||𝕣||𝕤||𝕥||𝕦||𝕧||𝕨||𝕩||𝕪||𝕫||𝕬||𝕭||𝕮||𝕯
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D570
+|𝕰||𝕱||𝕲||𝕳||𝕴||𝕵||𝕶||𝕷||𝕸||𝕹||𝕺||𝕻||𝕼||𝕽||𝕾||𝕿
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D580
+|𝖀||𝖁||𝖂||𝖃||𝖄||𝖅||𝖆||𝖇||𝖈||𝖉||𝖊||𝖋||𝖌||𝖍||𝖎||𝖏
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D590
+|𝖐||𝖑||𝖒||𝖓||𝖔||𝖕||𝖖||𝖗||𝖘||𝖙||𝖚||𝖛||𝖜||𝖝||𝖞||𝖟
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D5A0
+|𝖠||𝖡||𝖢||𝖣||𝖤||𝖥||𝖦||𝖧||𝖨||𝖩||𝖪||𝖫||𝖬||𝖭||𝖮||𝖯
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D5B0
+|𝖰||𝖱||𝖲||𝖳||𝖴||𝖵||𝖶||𝖷||𝖸||𝖹||𝖺||𝖻||𝖼||𝖽||𝖾||𝖿
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D5C0
+|𝗀||𝗁||𝗂||𝗃||𝗄||𝗅||𝗆||𝗇||𝗈||𝗉||𝗊||𝗋||𝗌||𝗍||𝗎||𝗏
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D5D0
+|𝗐||𝗑||𝗒||𝗓||𝗔||𝗕||𝗖||𝗗||𝗘||𝗙||𝗚||𝗛||𝗜||𝗝||𝗞||𝗟
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D5E0
+|𝗠||𝗡||𝗢||𝗣||𝗤||𝗥||𝗦||𝗧||𝗨||𝗩||𝗪||𝗫||𝗬||𝗭||𝗮||𝗯
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D5F0
+|𝗰||𝗱||𝗲||𝗳||𝗴||𝗵||𝗶||𝗷||𝗸||𝗹||𝗺||𝗻||𝗼||𝗽||𝗾||𝗿
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D600
+|𝘀||𝘁||𝘂||𝘃||𝘄||𝘅||𝘆||𝘇||𝘈||𝘉||𝘊||𝘋||𝘌||𝘍||𝘎||𝘏
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D610
+|𝘐||𝘑||𝘒||𝘓||𝘔||𝘕||𝘖||𝘗||𝘘||𝘙||𝘚||𝘛||𝘜||𝘝||𝘞||𝘟
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D620
+|𝘠||𝘡||𝘢||𝘣||𝘤||𝘥||𝘦||𝘧||𝘨||𝘩||𝘪||𝘫||𝘬||𝘭||𝘮||𝘯
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D630
+|𝘰||𝘱||𝘲||𝘳||𝘴||𝘵||𝘶||𝘷||𝘸||𝘹||𝘺||𝘻||𝘼||𝘽||𝘾||𝘿
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D640
+|𝙀||𝙁||𝙂||𝙃||𝙄||𝙅||𝙆||𝙇||𝙈||𝙉||𝙊||𝙋||𝙌||𝙍||𝙎||𝙏
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D650
+|𝙐||𝙑||𝙒||𝙓||𝙔||𝙕||𝙖||𝙗||𝙘||𝙙||𝙚||𝙛||𝙜||𝙝||𝙞||𝙟
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D660
+|𝙠||𝙡||𝙢||𝙣||𝙤||𝙥||𝙦||𝙧||𝙨||𝙩||𝙪||𝙫||𝙬||𝙭||𝙮||𝙯
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D670
+|𝙰||𝙱||𝙲||𝙳||𝙴||𝙵||𝙶||𝙷||𝙸||𝙹||𝙺||𝙻||𝙼||𝙽||𝙾||𝙿
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D680
+|𝚀||𝚁||𝚂||𝚃||𝚄||𝚅||𝚆||𝚇||𝚈||𝚉||𝚊||𝚋||𝚌||𝚍||𝚎||𝚏
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D690
+|𝚐||𝚑||𝚒||𝚓||𝚔||𝚕||𝚖||𝚗||𝚘||𝚙||𝚚||𝚛||𝚜||𝚝||𝚞||𝚟
+|----- align="center" style="background:#bb7"
+!style="background:#fff"|1D6A0
+|𝚠||𝚡||𝚢||𝚣||style="background:#b99"|𝚤||style="background:#b99"|𝚥||style="background:#666"|&nbsp;||style="background:#666"|&nbsp;||𝚨||𝚩||𝚪||𝚫||𝚬||𝚭||𝚮||𝚯
+|}
+
+
+== Сыртқы сілтемелер ==
+*[http://www.unicode.org/charts/PDF/U0000.pdf Basic Latin]
+*[http://www.unicode.org/charts/PDF/U0080.pdf Latin-1]
+*[http://www.unicode.org/charts/PDF/U0100.pdf Latin Extended A]
+*[http://www.unicode.org/charts/PDF/U0180.pdf Latin Extended B]
+*[http://www.unicode.org/charts/PDF/U0250.pdf IPA Extensions]
+*[http://www.unicode.org/charts/PDF/U1D00.pdf Phonetic Extensions]
+*[http://www.unicode.org/charts/PDF/U1D80.pdf Phonetic Extensions Supplement]
+*[http://www.unicode.org/charts/PDF/U1E00.pdf Latin Extended Additional]
+*[http://www.unicode.org/charts/PDF/U2100.pdf Letterlike Symbols]
+*[http://www.unicode.org/charts/PDF/U2460.pdf Enclosed Alphanumerics]
+*[http://www.unicode.org/charts/PDF/U2C60.pdf Latin Extended C]
+*[http://www.unicode.org/charts/PDF/UA720.pdf Latin Extended D]
+*[http://www.unicode.org/charts/PDF/UFB00.pdf Latin Ligatures (Alphabetic Presentation Forms)]
+*[http://www.unicode.org/charts/PDF/UFF00.pdf Fullwidth Latin Letters (Halfwith and Fullwidth forms)]
+*[http://www.unicode.org/charts/PDF/U1D400.pdf Mathematical Alphanumeric Symbols]
+
+{{Latin alphabet}}
+
+[[Санат:Латын әліпбиі|Unicode]]
+[[Санат:Юникод ауқымдары]]
+
+[[en:Latin characters in Unicode]]
+[[ru:Латинский алфавит в Юникоде]]
