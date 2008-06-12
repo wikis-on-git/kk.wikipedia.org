@@ -1,20 +1,20 @@
 '''Латын таңбалары''' [[Юникод]]тың 5.1 нұсқасында келесі ауқымдарға шығарылып бөлінеді:
 {{Юникод шартты белгілері}}
-*'''Basic Latin''' 0000-007F: identical to [[ASCII]] (0000-001F, 007F - басқару таңбалары, 0020-003F - тыныс белгілері және [[араб сандары]])
-*'''Latin-1 Supplement''' 0080-00FF: [[ISO/IEC 8859-1]] дегенге тәң (0080-009F - басқару таңбалары, 00A0-00BF - пұл нышандары, тыныс белгілері және сандар)
-*'''Latin Extended-A''' 0100-017F
-*'''Latin Extended-B''' 0180-024F
-*'''IPA Extensions''' 0250-02AF
-*'''Phonetic Extensions''' 1D00-1D7F
-*'''Phonetic Extensions Supplement''' 1D80-1DBF
-*'''Latin Extended Additional''' 1E00-1EFF
-*'''Letterlike Symbols''' 2100-214F
-*'''Enclosed Alphanumerics''' 2460-24FF
-*'''Latin Extended-C''' 2C60-2C7F
-*'''Latin Extended-D''' A720-A7FF
-*'''Alphabetic Presentation Forms''' (латын лигатуралары) FB00-FB4F
-*'''Halfwidth and Fullwidth Forms''' (толық енді латын әріптер) FF00-FFEF
-*'''Mathematical Alphanumeric Symbols''' 1D400-1D7FF
+*'''Basic Latin''' (''Негзгі латын'') 0000-007F: identical to [[ASCII]] (0000-001F, 007F - басқару таңбалары, 0020-003F - тыныс белгілері және [[араб сандары]])
+*'''Latin-1 Supplement''' (''Латын қосымшасы'') 0080-00FF: [[ISO/IEC 8859-1]] дегенге тәң (0080-009F - басқару таңбалары, 00A0-00BF - пұл нышандары, тыныс белгілері және сандар)
+*'''Latin Extended-A''' (''Латын кеңейтімі A'') 0100-017F
+*'''Latin Extended-B''' (''Латын кеңейтімі B'') 0180-024F
+*'''IPA Extensions''' (''IPA кеңейтімдері'') 0250-02AF
+*'''Phonetic Extensions''' (''Фонетикалық кеңейтімдер'') 1D00-1D7F
+*'''Phonetic Extensions Supplement''' (''Фонетикалық кеңейтімдерінің қосымшасы'') 1D80-1DBF
+*'''Latin Extended Additional''' (''Латынға кеңейтілген қосымша'') 1E00-1EFF
+*'''Letterlike Symbols''' (''Әріп тәрізді нышандар'') 2100-214F
+*'''Enclosed Alphanumerics''' (''Бітеу әліпбилік-сандықтар'') 2460-24FF
+*'''Latin Extended-C''' (''Латын кеңейтімі C'') 2C60-2C7F
+*'''Latin Extended-D''' (''Латын кеңейтімі D'') A720-A7FF
+*'''Alphabetic Presentation Forms''' (''Әліпбилік көрсетім пішіндер'', латын лигатуралары) FB00-FB4F
+*'''Halfwidth and Fullwidth Forms''' (''Жарты енді және толық енді пішіндер'', толық енді латын әріптер) FF00-FFEF
+*'''Mathematical Alphanumeric Symbols''' (''Өрнектік әліпбилік-сандықтық нышандар'') 1D400-1D7FF
 
 «Кеңейтім» ауқымдарда көбінесе [[алдын-ала терілген әріп|алдын-ала терілген]] дәйектер бар, бұлар [[жалғамалы дәйектер]] арқылы баламалы кодтану мүмкін. Тағы да бұнда әртүрлі африкан тілдері (соның ішінде Latin Extended-B ауқымындағы [[шертпек дауыссыз|шертпек]] нышандар) және [[виетнам тілі]] (Latin Extended Additional) емлелеріндегі кейбір лигатуралар бар.
 Latin Extended-C ауқымында [[ұйғыр тілі|ұйғыр]] кеңейтімдері және [[Клаудий әріптері]] бар. Latin Extended-D ауқымында орта ғасырлар зерттеушілерге арналған таңбалар бар.
