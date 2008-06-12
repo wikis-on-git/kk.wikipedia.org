@@ -1,3 +1,4 @@
+<div class="floatright" style="clear: both;">__TOC__</div>
 '''Кирил таңбалары''' [[Юникод]]та төрт ауқымға шығарып бөлінеді:
 # {{lang|en|''Cyrillic''}} — кирил жазуы (<code>U+0400</code> — <code>U+04FF</code>)
 # {{lang|en|''Cyrillic Supplement''}} — кирил жазуы (қосымша) (<code>U+0500</code> — <code>U+052F</code>)
@@ -11,11 +12,14 @@
 # <code>U+2DE0</code> — <code>U+2DFF</code> — шіркеу славян әріптер мен дәйектер.
 # <code>U+A640</code> — <code>U+A69F</code> — шіркеу славян және басқа тілдер үшін қосымша әріптер мен таңбалар.
 
+[[Юникод]]та кирил әріптері екпін таңбасыз, дегенмен екпінді дауыстылардың соңына <code>U+0301</code> («combining acute accent») деген таңба үстелінеді (мыс., {{unicode|ы́ э́ ю́ я́}}). Тағы да Ресей аз санды халықтарына керек кейбір дәйектелінген әріптер жоқ, сонда да бұларды қоспа етіп қолдануға болады (мыс., {{unicode|р̆, а̄}}).
+{{-}}
+
 == Кесте ==
 {| class="standard" cellpadding="10%" style="text-align:center; font-size:smaller;"
-! код !! символ !! название !! каноническое<br />разложение !! комментарий
+! коды || таңба || атауы || каноникалық<br />жіктеуі || мәндемесі
 |-
-|colspan="5"| <h3>Основной русский алфавит</h3>
+|colspan="5"| <h3>Негізгі орыс әліпбиі</h3>
 |-
 | 0410 || [[А (кирил)|{{bigunicode|&#x410;}}]] || CYRILLIC CAPITAL LETTER A || ||rowspan="2"|
 |-
@@ -40,10 +44,6 @@
 | 0415 || [[Е (кирил)|{{bigunicode|&#x415;}}]] || CYRILLIC CAPITAL LETTER IE || ||rowspan="2"|
 |-
 | 0435 || {{bigunicode|&#x435;}} || CYRILLIC SMALL LETTER IE ||
-|-
-| 0401 || [[Ё (кирил)|{{bigunicode|&#x401;}}]] || CYRILLIC CAPITAL LETTER IO || 0415 0308 ||rowspan="2"|
-|-
-| 0451 || {{bigunicode|&#x451;}} || CYRILLIC SMALL LETTER IO || 0435 0308
 |-
 | 0416 || [[Ж (кирил)|{{bigunicode|&#x416;}}]] || CYRILLIC CAPITAL LETTER ZHE || ||rowspan="2"|
 |-
@@ -97,7 +97,7 @@
 |-
 | 0442 || {{bigunicode|&#x442;}} || CYRILLIC SMALL LETTER TE ||
 |-
-| 0423 || [[У (кирил)|{{bigunicode|&#x423;}}]] || CYRILLIC CAPITAL LETTER U || ||rowspan="2"| совмещено с гаммаобразным вариантом буквы «ук» (ц.-сл.)
+| 0423 || [[У (кирил)|{{bigunicode|&#x423;}}]] || CYRILLIC CAPITAL LETTER U || ||rowspan="2"| 
 |-
 | 0443 || {{bigunicode|&#x443;}} || CYRILLIC SMALL LETTER U ||
 |-
@@ -145,30 +145,34 @@
 |-
 | 044E || {{bigunicode|&#x44E;}} || CYRILLIC SMALL LETTER YU ||
 |-
-| 042F || [[Я (кирил)|{{bigunicode|&#x42F;}}]] || CYRILLIC CAPITAL LETTER YA || ||rowspan="2"| совмещено с церковнославянской буквой ІА (а&nbsp;йотированная)
+| 042F || [[Я (кирил)|{{bigunicode|&#x42F;}}]] || CYRILLIC CAPITAL LETTER YA || ||rowspan="2"| 
 |-
 | 044F || {{bigunicode|&#x44F;}} || CYRILLIC SMALL LETTER YA ||
 
 |-
-|colspan="5"| <h3>Дополнительные знаки для современных славянских языков</h3>
+|colspan="5"| <h3>Кирил кеңейтімдері (заманауи славян тілдер үшін)</h3>
 |-
-| 0400 || {{bigunicode|&#x400;}} || CYRILLIC CAPITAL LETTER IE WITH GRAVE || 0415 0300 ||rowspan="2"| [[македонский язык|македонский]]
+| 0400 || {{bigunicode|&#x400;}} || CYRILLIC CAPITAL LETTER IE WITH GRAVE || 0415 0300 ||rowspan="2"| [[македон славян тілі|македон]]
 |-
 | 0450 || {{bigunicode|&#x450;}} || CYRILLIC SMALL LETTER IE WITH GRAVE || 0435 0300
 |-
-| 0402 || [[Ђ (кирил)|{{bigunicode|&#x402;}}]] || CYRILLIC CAPITAL LETTER DJE (Serbocroatian) || ||rowspan="2"| [[сербский язык|сербский]]
+| 0401 || [[Ё (кирил)|{{bigunicode|&#x401;}}]] || CYRILLIC CAPITAL LETTER IO || 0415 0308 ||rowspan="2"|
 |-
-| 0452 || {{bigunicode|&#x452;}} || CYRILLIC SMALL LETTER DJE (Serbocroatian) ||
+| 0451 || {{bigunicode|&#x451;}} || CYRILLIC SMALL LETTER IO || 0435 0308
 |-
-| 0403 || {{bigunicode|&#x403;}} || CYRILLIC CAPITAL LETTER GJE || 0413 0301 ||rowspan="2"| [[македонский язык|македонский]]
+| 0402 || [[Ђ (кирил)|{{bigunicode|&#x402;}}]] || CYRILLIC CAPITAL LETTER DJE || ||rowspan="2"| [[сырпы тілі|сырпы]]
+|-
+| 0452 || {{bigunicode|&#x452;}} || CYRILLIC SMALL LETTER DJE ||
+|-
+| 0403 || {{bigunicode|&#x403;}} || CYRILLIC CAPITAL LETTER GJE || 0413 0301 ||rowspan="2"| [[македон славян тілі|македон]]
 |-
 | 0453 || {{bigunicode|&#x453;}} || CYRILLIC SMALL LETTER GJE || 0433 0301
 |-
-| 0404 || [[Є (кирил)|{{bigunicode|&#x404;}}]] || CYRILLIC CAPITAL LETTER UKRAINIAN IE || ||rowspan="2"| [[украинский язык|украинский]]; [[церковнославянский язык|церковнославянский]] (вариант буквы «есть»)
+| 0404 || [[Є (кирил)|{{bigunicode|&#x404;}}]] || CYRILLIC CAPITAL LETTER UKRAINIAN IE || ||rowspan="2"| [[украин тілі|украин]]; [[шіркеу славян тілі|шіркеу славян]] («есть» әрпінің нұсқасы)
 |-
 | 0454 || {{bigunicode|&#x454;}} || CYRILLIC SMALL LETTER UKRAINIAN IE ||
 |-
-| 0405 || [[Ѕ (кирил)|{{bigunicode|&#x405;}}]] || CYRILLIC CAPITAL LETTER DZE || ||rowspan="2"| церковнославянская буква «зело»; также [[македонский язык|македонский]]
+| 0405 || [[Ѕ (кирил)|{{bigunicode|&#x405;}}]] || CYRILLIC CAPITAL LETTER DZE || ||rowspan="2"| шіркеу славян «зело» әрпі; тағы да [[македон славян тілі|македон]]
 |-
 | 0455 || {{bigunicode|&#x455;}} || CYRILLIC SMALL LETTER DZE ||
 |-
@@ -176,49 +180,49 @@
 |-
 | 0456 || {{bigunicode|&#x456;}} || CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I ||
 |-
-| 0407 || [[Ї (кирил)|{{bigunicode|&#x407;}}]] || CYRILLIC CAPITAL LETTER YI (Ukrainian) || 0406 0308 ||rowspan="2"| [[украинский язык|украинский]], [[церковнославянский язык|церковнославянский]]
+| 0407 || [[Ї (кирил)|{{bigunicode|&#x407;}}]] || CYRILLIC CAPITAL LETTER YI || 0406 0308 ||rowspan="2"| [[украин тілі|украин]], [[шіркеу славян тілі|шіркеу славян]]
 |-
-| 0457 || {{bigunicode|&#x457;}} || CYRILLIC SMALL LETTER YI (Ukrainian) || 0456 0308
+| 0457 || {{bigunicode|&#x457;}} || CYRILLIC SMALL LETTER YI || 0456 0308
 |-
-| 0408 || [[Ј (кирил)|{{bigunicode|&#x408;}}]] || CYRILLIC CAPITAL LETTER JE || ||rowspan="2"| [[сербский язык|cербский]], [[македонский язык|македонский]], [[алтайский язык|алтайский]]
+| 0408 || [[Ј (кирил)|{{bigunicode|&#x408;}}]] || CYRILLIC CAPITAL LETTER JE || ||rowspan="2"| [[сырпы тілі|сырпы]], [[македон славян тілі|македон]], [[алтай тілі|алтай]]
 |-
 | 0458 || {{bigunicode|&#x458;}} || CYRILLIC SMALL LETTER JE ||
 |-
-| 0409 || {{bigunicode|&#x409;}} || CYRILLIC CAPITAL LETTER LJE || ||rowspan="2"| [[сербский язык|cербский]], [[македонский язык|македонский]]
+| 0409 || {{bigunicode|&#x409;}} || CYRILLIC CAPITAL LETTER LJE || ||rowspan="2"| [[сырпы тілі|сырпы]], [[македон славян тілі|македон]]
 |-
 | 0459 || {{bigunicode|&#x459;}} || CYRILLIC SMALL LETTER LJE ||
 |-
-| 040A || {{bigunicode|&#x40A;}} || CYRILLIC CAPITAL LETTER NJE || ||rowspan="2"| [[сербский язык|cербский]], [[македонский язык|македонский]]
+| 040A || {{bigunicode|&#x40A;}} || CYRILLIC CAPITAL LETTER NJE || ||rowspan="2"| [[сырпы тілі|сырпы]], [[македон славян тілі|македон]]
 |-
 | 045A || {{bigunicode|&#x45A;}} || CYRILLIC SMALL LETTER NJE ||
 |-
-| 040B || [[Ћ (кирил)|{{bigunicode|&#x40B;}}]] || CYRILLIC CAPITAL LETTER TSHE (Serbocroatian) || ||rowspan="2"| [[сербский язык|cербский]]; также используется как транслитерация [[глаголица|глаголической]] буквы <span style="font-family: Dilyana, MPH 2B Damase;">&#x2C0C;</span> (гервь)
+| 040B || [[Ћ (кирил)|{{bigunicode|&#x40B;}}]] || CYRILLIC CAPITAL LETTER TSHE || ||rowspan="2"| [[сырпы тілі|сырпы]]; тағы да [[глаголица]] буквы <span style="font-family: Dilyana, MPH 2B Damase;">&#x2C0C;</span> (гервь) әрпінің  транслитерациясы үшін
 |-
-| 045B || {{bigunicode|&#x45B;}} || CYRILLIC SMALL LETTER TSHE (Serbocroatian) ||
+| 045B || {{bigunicode|&#x45B;}} || CYRILLIC SMALL LETTER TSHE ||
 |-
-| 040C || {{bigunicode|&#x40C;}} || CYRILLIC CAPITAL LETTER KJE || 041A 0301 ||rowspan="2"| [[македонский язык|македонский]]
+| 040C || {{bigunicode|&#x40C;}} || CYRILLIC CAPITAL LETTER KJE || 041A 0301 ||rowspan="2"| [[македон славян тілі|македон]]
 |-
 | 045C || {{bigunicode|&#x45C;}} || CYRILLIC SMALL LETTER KJE || 043A 0301
 |-
-| 040D || {{bigunicode|&#x40D;}} || CYRILLIC CAPITAL LETTER I WITH GRAVE || 0418 0300 ||rowspan="2"| [[болгарский язык|болгарский]], [[македонский язык|македонский]]
+| 040D || {{bigunicode|&#x40D;}} || CYRILLIC CAPITAL LETTER I WITH GRAVE || 0418 0300 ||rowspan="2"| [[бұлғар тілі|бұлғар]], [[македон славян тілі|македон]]
 |-
 | 045D || {{bigunicode|&#x45D;}} || CYRILLIC SMALL LETTER I WITH GRAVE || 0438 0300
 |-
-| 040E || [[Ў (кирил)|{{bigunicode|&#x40E;}}]] || CYRILLIC CAPITAL LETTER SHORT U (Byelorussian) || 0423 0306 ||rowspan="2"| «у краткое»: [[белорусский язык|белорусский]]
+| 040E || [[Ў (кирил)|{{bigunicode|&#x40E;}}]] || CYRILLIC CAPITAL LETTER SHORT U || 0423 0306 ||rowspan="2"|  [[беларус тілі|беларус]]
 |-
-| 045E || {{bigunicode|&#x45E;}} || CYRILLIC SMALL LETTER SHORT U (Byelorussian) || 0443 0306
+| 045E || {{bigunicode|&#x45E;}} || CYRILLIC SMALL LETTER SHORT U || 0443 0306
 |-
-| 040F || [[Џ (кирил)|{{bigunicode|&#x40F;}}]] || CYRILLIC CAPITAL LETTER DZHE || ||rowspan="2"| [[сербский язык|cербский]], [[македонский язык|македонский]], [[абхазский язык|абхазский]]
+| 040F || [[Џ (кирил)|{{bigunicode|&#x40F;}}]] || CYRILLIC CAPITAL LETTER DZHE || ||rowspan="2"| [[сырпы тілі|сырпы]], [[македон славян тілі|македон]], [[абхаз тілі|абхаз]]
 |-
 | 045F || {{bigunicode|&#x45F;}} || CYRILLIC SMALL LETTER DZHE ||
 |-
-| 0490 || [[Ґ (кирил)|{{bigunicode|&#x490;}}]] || CYRILLIC CAPITAL LETTER GHE WITH UPTURN || ||rowspan="2"| [[Украинский язык|украинский]], [[Белорусский язык|белорусский]], [[Русинский язык|русинский]]
+| 0490 || [[Ґ (кирил)|{{bigunicode|&#x490;}}]] || CYRILLIC CAPITAL LETTER GHE WITH UPTURN || ||rowspan="2"| [[Украин тілі|украин]], [[Беларус тілі|беларус]], [[Русын тілі|русын]]
 |-
 | 0491 || {{bigunicode|&#x491;}} || CYRILLIC SMALL LETTER GHE WITH UPTURN ||
 |-
 |colspan="5"|
 
-<h3>Исторические буквы</h3>
+<h3>Тарихи әріптер (шіркеу славян)</h3>
 |-
 | 0460 || [[омега (кирил)|{{bigunicode|&#x460;}}]] || CYRILLIC CAPITAL LETTER OMEGA || ||rowspan="2"| омега
 |-
@@ -228,23 +232,23 @@
 |-
 | 0463 || {{bigunicode|&#x463;}} || CYRILLIC SMALL LETTER YAT ||
 |-
-| 0464 || [[е йотированное|{{bigunicode|&#x464;}}]] || CYRILLIC CAPITAL LETTER IOTIFIED E || ||rowspan="2"| е йотированное
+| 0464 || [[е йотированное|{{bigunicode|&#x464;}}]] || CYRILLIC CAPITAL LETTER IOTIFIED E || ||rowspan="2"| е йоталған
 |-
 | 0465 || {{bigunicode|&#x465;}} || CYRILLIC SMALL LETTER IOTIFIED E ||
 |-
-| 0466 || [[юс малый|{{bigunicode|&#x466;}}]] || CYRILLIC CAPITAL LETTER LITTLE YUS || ||rowspan="2"| юс малый
+| 0466 || [[юс малый|{{bigunicode|&#x466;}}]] || CYRILLIC CAPITAL LETTER LITTLE YUS || ||rowspan="2"| юс кіші
 |-
 | 0467 || {{bigunicode|&#x467;}} || CYRILLIC SMALL LETTER LITTLE YUS ||
 |-
-| 0468 || [[юс малый йотированный|{{bigunicode|&#x468;}}]] || CYRILLIC CAPITAL LETTER IOTIFIED LITTLE YUS || ||rowspan="2"| юс малый йотированный
+| 0468 || [[юс малый йотированный|{{bigunicode|&#x468;}}]] || CYRILLIC CAPITAL LETTER IOTIFIED LITTLE YUS || ||rowspan="2"| юс кіші йоталған
 |-
 | 0469 || {{bigunicode|&#x469;}} || CYRILLIC SMALL LETTER IOTIFIED LITTLE YUS ||
 |-
-| 046A || [[юс большой|{{bigunicode|&#x46A;}}]] || CYRILLIC CAPITAL LETTER YUS || ||rowspan="2"| юс большой
+| 046A || [[юс большой|{{bigunicode|&#x46A;}}]] || CYRILLIC CAPITAL LETTER YUS || ||rowspan="2"| юс үлкен
 |-
 | 046B || {{bigunicode|&#x46B;}} || CYRILLIC SMALL LETTER YUS ||
 |-
-| 046C || [[юс большой йотированный|{{bigunicode|&#x46C;}}]] || CYRILLIC CAPITAL LETTER IOTIFIED YUS || ||rowspan="2"| юс большой йотированный
+| 046C || [[юс большой йотированный|{{bigunicode|&#x46C;}}]] || CYRILLIC CAPITAL LETTER IOTIFIED YUS || ||rowspan="2"| юс үлкен йоталған
 |-
 | 046D || {{bigunicode|&#x46D;}} || CYRILLIC SMALL LETTER IOTIFIED YUS ||
 |-
@@ -264,23 +268,23 @@
 |-
 | 0475 || {{bigunicode|&#x475;}} || CYRILLIC SMALL LETTER IZHITSA ||
 |-
-| 0476 || {{bigunicode|&#x476;}} || CYRILLIC CAPITAL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT || 0474 030F ||rowspan="2"| ижица с [[кендема|кендемой]] (безударная ижица-гласная, стоящая не в начале слова)
+| 0476 || {{bigunicode|&#x476;}} || CYRILLIC CAPITAL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT || 0474 030F ||rowspan="2"| ижица [[кендема]] (сөздің басында емес екпінсіз дауысты ижица)
 |-
 | 0477 || {{bigunicode|&#x477;}} || CYRILLIC SMALL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT || 0475 030F
 |-
-| 0478 || {{bigunicode|&#x478;}} || CYRILLIC CAPITAL LETTER UK || ||rowspan="2"| [[у (кирил)|ук-диграф]] (оник); есть ещё слитный (гаммаобразный) ук, в Юникоде совмещённый с русской буквой У
+| 0478 || {{bigunicode|&#x478;}} || CYRILLIC CAPITAL LETTER UK || ||rowspan="2"| [[у (кирил)|ук-диграф]] (оник); 
 |-
 | 0479 || {{bigunicode|&#x479;}} || CYRILLIC SMALL LETTER UK ||
 |-
-| 047A || {{bigunicode|&#x47A;}} || CYRILLIC CAPITAL LETTER ROUND OMEGA || ||rowspan="2"| «широкое [[о (кирил)|О]]», ошибочно названное «круглой омегой»
+| 047A || {{bigunicode|&#x47A;}} || CYRILLIC CAPITAL LETTER ROUND OMEGA || ||rowspan="2"| «ашық [[о (кирил)|О]]», қателікпен «жұмыр омега» деп аталған
 |-
 | 047B || {{bigunicode|&#x47B;}} || CYRILLIC SMALL LETTER ROUND OMEGA ||
 |-
-| 047C || {{bigunicode|&#x47C;}} || CYRILLIC CAPITAL LETTER OMEGA WITH TITLO || ||rowspan="2"| омега с [[великий апостроф|великим апострофом]], ошибочно названная «омега с титлом»; см. статью «омега (кирил)» 
+| 047C || {{bigunicode|&#x47C;}} || CYRILLIC CAPITAL LETTER OMEGA WITH TITLO || ||rowspan="2"| омега  [[ұлы дәйек]], қателікпен «омега титломен» деп аталған;  «омега (кирил)» дегенді қараңыз
 |-
 | 047D || {{bigunicode|&#x47D;}} || CYRILLIC SMALL LETTER OMEGA WITH TITLO ||
 |-
-| 047E || {{bigunicode|&#x47E;}} || CYRILLIC CAPITAL LETTER OT || ||rowspan="2"| ОТ = лигатура «омега+твердо»
+| 047E || {{bigunicode|&#x47E;}} || CYRILLIC CAPITAL LETTER OT || ||rowspan="2"| ОТ = «омега+твердо» лигатурасы
 |-
 | 047F || {{bigunicode|&#x47F;}} || CYRILLIC SMALL LETTER OT ||
 |-
@@ -289,66 +293,62 @@
 | 0481 || {{bigunicode|&#x481;}} || CYRILLIC SMALL LETTER KOPPA ||
 
 |-
-|colspan="5"|
-
-<h3>Исторические диакритические и иные знаки</h3>
+|colspan="5"|<h3>Әртүрлі тарихи таңбалар (шіркеу славян дәйектер және басқалар)</h3>
 |-
-| 0482 || {{bigunicode|&#x482;}} || CYRILLIC THOUSANDS SIGN || || знак тысяч
+| 0482 || {{bigunicode|&#x482;}} || CYRILLIC THOUSANDS SIGN || || мың таңбасы
 |-
 | 0483 || [[титло|{{bigunicode|&nbsp;&#x483;}}]] || COMBINING CYRILLIC TITLO || || титло
 |-
-| 0484 || {{bigunicode|&nbsp;&#x484;}} || COMBINING CYRILLIC PALATALIZATION || || значок палатализации (ст.-сл.)
+| 0484 || {{bigunicode|&nbsp;&#x484;}} || COMBINING CYRILLIC PALATALIZATION || || палатализация таңбасы
 |-
-| 0485 || [[дасия|{{bigunicode|&nbsp;&#x485;}}]] || COMBINING CYRILLIC DASIA PNEUMATA || || густое придыхание
+| 0485 || [[дасия|{{bigunicode|&nbsp;&#x485;}}]] || COMBINING CYRILLIC DASIA PNEUMATA || || қою көмей лебі
 |-
-| 0486 || [[псили|{{bigunicode|&nbsp;&#x486;}}]] || COMBINING CYRILLIC PSILI PNEUMATA || || тонкое придыхание
+| 0486 || [[псили|{{bigunicode|&nbsp;&#x486;}}]] || COMBINING CYRILLIC PSILI PNEUMATA || || сұйық көмей лебі
 |-
-| 0488 || {{bigunicode|&nbsp;&nbsp;&#x488;}} || COMBINING CYRILLIC HUNDRED THOUSANDS SIGN || || знак сотен тысяч
+| 0488 || {{bigunicode|&nbsp;&nbsp;&#x488;}} || COMBINING CYRILLIC HUNDRED THOUSANDS SIGN || || жүз мың таңбасы
 |-
-| 0489 || {{bigunicode|&nbsp;&nbsp;&#x489;}} || COMBINING CYRILLIC MILLIONS SIGN || || знак [[миллион]]ов 
+| 0489 || {{bigunicode|&nbsp;&nbsp;&#x489;}} || COMBINING CYRILLIC MILLIONS SIGN || || [[миллион]] таңбасы 
 
 |-
-|colspan="5"|
-
-<h3>Дополнительные буквы для неславянских языков</h3>
+|colspan="5"|<h3>Кеңейтілген кирил әріптері (славян емес тілдер үшін)</h3>
 |-
-| 048A || {{bigunicode|&#x48A;}} || CYRILLIC CAPITAL LETTER SHORT I WITH TAIL || ||rowspan="2"| [[Кольско-саамский язык|саамский]] (Кильдинский диалект)
+| 048A || {{bigunicode|&#x48A;}} || CYRILLIC CAPITAL LETTER SHORT I WITH TAIL || ||rowspan="2"| [[саам тілі|саам]] (Кильдин диалекті)
 |-
 | 048B || {{bigunicode|&#x48B;}} || CYRILLIC SMALL LETTER SHORT I WITH TAIL ||
 |-
-| 048C || {{bigunicode|&#x48C;}} || CYRILLIC CAPITAL LETTER SEMISOFT SIGN || ||rowspan="2"| «полумягкий знак»: [[Саамский язык|саамский]] (Кильдинский диалект)
+| 048C || {{bigunicode|&#x48C;}} || CYRILLIC CAPITAL LETTER SEMISOFT SIGN || ||rowspan="2"| «жарты жіңішкелік таңбасы»: [[саам тілі|саам]] (Кильдин диалекті)
 |-
 | 048D || {{bigunicode|&#x48D;}} || CYRILLIC SMALL LETTER SEMISOFT SIGN ||
 |-
-| 048E || {{bigunicode|&#x48E;}} || CYRILLIC CAPITAL LETTER ER WITH TICK || ||rowspan="2"| [[Саамский язык|саамский]] (Кильдинский диалект)
+| 048E || {{bigunicode|&#x48E;}} || CYRILLIC CAPITAL LETTER ER WITH TICK || ||rowspan="2"| [[саам тілі|саам]] (Кильдин диалекті)
 |-
 | 048F || {{bigunicode|&#x48F;}} || CYRILLIC SMALL LETTER ER WITH TICK ||
 |-
-| 0492 || [[Ғ (кирил)|{{bigunicode|&#x492;}}]] || CYRILLIC CAPITAL LETTER GHE WITH STROKE || ||rowspan="2"| фрикативное «г» (как в южнорусских диалектах): [[Башкирский язык|башкирский]], [[Казахский язык|казахский]] и т.д.: предпочтительнее пересекающая черта, а не как в букве F
+| 0492 || [[Ғ (кирил)|{{bigunicode|&#x492;}}]] || CYRILLIC CAPITAL LETTER GHE WITH STROKE || ||rowspan="2"| сызығы ортада болуы жөн (F латын әрпіндей емес)
 |-
 | 0493 || {{bigunicode|&#x493;}} || CYRILLIC SMALL LETTER GHE WITH STROKE ||
 |-
-| 0494 || [[Ҕ (кирил)|{{bigunicode|&#x494;}}]] || CYRILLIC CAPITAL LETTER GHE WITH MIDDLE HOOK || ||rowspan="2"| [[Абхазский язык|абхазский]], [[Якутский язык|якутский]]
+| 0494 || [[Ҕ (кирил)|{{bigunicode|&#x494;}}]] || CYRILLIC CAPITAL LETTER GHE WITH MIDDLE HOOK || ||rowspan="2"| [[Абхаз тілі|абхаз]], [[Саха тілі|саха]]
 |-
 | 0495 || {{bigunicode|&#x495;}} || CYRILLIC SMALL LETTER GHE WITH MIDDLE HOOK ||
 |-
-| 0496 || {{bigunicode|&#x496;}} || CYRILLIC CAPITAL LETTER ZHE WITH DESCENDER || ||rowspan="2"| [[Татарский язык|татарский]] и др.
+| 0496 || {{bigunicode|&#x496;}} || CYRILLIC CAPITAL LETTER ZHE WITH DESCENDER || ||rowspan="2"| [[Татар тілі|татар]] т.б.
 |-
 | 0497 || {{bigunicode|&#x497;}} || CYRILLIC SMALL LETTER ZHE WITH DESCENDER ||
 |-
-| 0498 || {{bigunicode|&#x498;}} || CYRILLIC CAPITAL LETTER ZE WITH DESCENDER || ||rowspan="2"| [[Башкирский язык|башкирский]]: хвостик предпочтительнее загибать влево
+| 0498 || {{bigunicode|&#x498;}} || CYRILLIC CAPITAL LETTER ZE WITH DESCENDER || ||rowspan="2"| [[Башқұрт тілі|башқұрт]]: құйрығы солға қарай
 |-
 | 0499 || {{bigunicode|&#x499;}} || CYRILLIC SMALL LETTER ZE WITH DESCENDER ||
 |-
-| 049A || {{bigunicode|&#x49A;}} || CYRILLIC CAPITAL LETTER KA WITH DESCENDER || ||rowspan="2"| [[Абхазский язык|абхазский]], [[Таджикский язык|таджикский]] и др.
+| 049A || {{bigunicode|&#x49A;}} || CYRILLIC CAPITAL LETTER KA WITH DESCENDER || ||rowspan="2"| [[Абхаз тілі|абхаз]], [[Тәжік тілі|тәжік]] т.б..
 |-
 | 049B || {{bigunicode|&#x49B;}} || CYRILLIC SMALL LETTER KA WITH DESCENDER ||
 |-
-| 049C || {{bigunicode|&#x49C;}} || CYRILLIC CAPITAL LETTER KA WITH VERTICAL STROKE || ||rowspan="2"| применялась в [[Азербайджанский язык|азербайджанском]]
+| 049C || {{bigunicode|&#x49C;}} || CYRILLIC CAPITAL LETTER KA WITH VERTICAL STROKE || ||rowspan="2"| [[Әзірбайжан тілі|әзірбайжан]] кирил әліпбиінде
 |-
 | 049D || {{bigunicode|&#x49D;}} || CYRILLIC SMALL LETTER KA WITH VERTICAL STROKE || 
 |-
-| 049E || {{bigunicode|&#x49E;}} || CYRILLIC CAPITAL LETTER KA WITH STROKE || ||rowspan="2"| [[Абхазский язык|абхазский]]
+| 049E || {{bigunicode|&#x49E;}} || CYRILLIC CAPITAL LETTER KA WITH STROKE || ||rowspan="2"| [[Абхаз тілі|абхаз]]
 |-
 | 049F || {{bigunicode|&#x49F;}} || CYRILLIC SMALL LETTER KA WITH STROKE ||
 |-
@@ -356,15 +356,15 @@
 |-
 | 04A1 || {{bigunicode|&#x4A1;}} || CYRILLIC SMALL LETTER BASHKIR KA ||
 |-
-| 04A2 || {{bigunicode|&#x4A2;}} || CYRILLIC CAPITAL LETTER EN WITH DESCENDER || ||rowspan="2"| [[Башкирский язык|башкирский]], [[Казахский язык|казахский]] и др.
+| 04A2 || {{bigunicode|&#x4A2;}} || CYRILLIC CAPITAL LETTER EN WITH DESCENDER || ||rowspan="2"| .
 |-
 | 04A3 || {{bigunicode|&#x4A3;}} || CYRILLIC SMALL LETTER EN WITH DESCENDER ||
 |-
-| 04A4 || {{bigunicode|&#x4A4;}} || CYRILLIC CAPITAL LIGATURE EN GHE || ||rowspan="2"| лигатура «нг» (неразложимая): [[Алтайский язык|алтайский]], [[Марийский язык|марийский]], [[Чукотский язык|чукотский]], [[Якутский язык|якутский]] 
+| 04A4 || {{bigunicode|&#x4A4;}} || CYRILLIC CAPITAL LIGATURE EN GHE || ||rowspan="2"| «нг» лигатурасы: [[Алтай тілі|алтай]], [[Марий тілі|марий]], [[Чукот тілі|чукот]], [[саха тілі|саха]] 
 |-
 | 04A5 || {{bigunicode|&#x4A5;}} || CYRILLIC SMALL LIGATURE EN GHE ||
 |-
-| 04A6 || {{bigunicode|&#x4A6;}} || CYRILLIC CAPITAL LETTER PE WITH MIDDLE HOOK || ||rowspan="2"| [[Абхазский язык|абхазский]]
+| 04A6 || {{bigunicode|&#x4A6;}} || CYRILLIC CAPITAL LETTER PE WITH MIDDLE HOOK || ||rowspan="2"| [[Абхаз тілі|абхаз]]
 |-
 | 04A7 || {{bigunicode|&#x4A7;}} || CYRILLIC SMALL LETTER PE WITH MIDDLE HOOK ||
 |-
@@ -372,39 +372,39 @@
 |-
 | 04A9 || {{bigunicode|&#x4A9;}} || CYRILLIC SMALL LETTER ABKHASIAN HA ||
 |-
-| 04AA || {{bigunicode|&#x4AA;}} || CYRILLIC CAPITAL LETTER ES WITH DESCENDER || ||rowspan="2"| [[Башкирский язык|башкирский]], [[Чувашский язык|чувашский]]: хвостик предпочтительнее загибать влево
+| 04AA || {{bigunicode|&#x4AA;}} || CYRILLIC CAPITAL LETTER ES WITH DESCENDER || ||rowspan="2"| [[Башқұрт тілі|башқұрт]], [[Шуас тілі|шуас]]: құйрығы солға қарай
 |-
 | 04AB || {{bigunicode|&#x4AB;}} || CYRILLIC SMALL LETTER ES WITH DESCENDER ||
 |-
-| 04AC || {{bigunicode|&#x4AC;}} || CYRILLIC CAPITAL LETTER TE WITH DESCENDER || ||rowspan="2"| [[Абхазский язык|абхазский]]
+| 04AC || {{bigunicode|&#x4AC;}} || CYRILLIC CAPITAL LETTER TE WITH DESCENDER || ||rowspan="2"| [[Абхаз тілі|абхаз]]
 |-
 | 04AD || {{bigunicode|&#x4AD;}} || CYRILLIC SMALL LETTER TE WITH DESCENDER ||
 |-
-| 04AE || {{bigunicode|&#x4AE;}} || CYRILLIC CAPITAL LETTER STRAIGHT U || ||rowspan="2"| «прямое у» — строчная буква высотой с букву «т»: [[Башкирский язык|башкирский]], [[Казахский язык|казахский]], [[Якутский язык|якутский]]
+| 04AE || {{bigunicode|&#x4AE;}} || CYRILLIC CAPITAL LETTER STRAIGHT U || ||rowspan="2"| 
 |-
 | 04AF || {{bigunicode|&#x4AF;}} || CYRILLIC SMALL LETTER STRAIGHT U ||
 |-
-| 04B0 || {{bigunicode|&#x4B0;}} || CYRILLIC CAPITAL LETTER STRAIGHT U WITH STROKE || ||rowspan="2"| строчная буква высотой с букву «т»: [[Казахский язык|казахский]] 
+| 04B0 || {{bigunicode|&#x4B0;}} || CYRILLIC CAPITAL LETTER STRAIGHT U WITH STROKE || ||rowspan="2"| 
 |-
 | 04B1 || {{bigunicode|&#x4B1;}} || CYRILLIC SMALL LETTER STRAIGHT U WITH STROKE ||
 |-
-| 04B2 || {{bigunicode|&#x4B2;}} || CYRILLIC CAPITAL LETTER HA WITH DESCENDER || ||rowspan="2"| [[Абхазский язык|абхазский]], [[Таджикский язык|таджикский]] и др.
+| 04B2 || {{bigunicode|&#x4B2;}} || CYRILLIC CAPITAL LETTER HA WITH DESCENDER || ||rowspan="2"| [[Абхаз тілі|абхаз]], [[Тәжік тілі|тәжік]] т.б.
 |-
 | 04B3 || {{bigunicode|&#x4B3;}} || CYRILLIC SMALL LETTER HA WITH DESCENDER ||
 |-
-| 04B4 || {{bigunicode|&#x4B4;}} || CYRILLIC CAPITAL LIGATURE TE TSE || ||rowspan="2"| лигатура «тц» (неразложимая): [[Абхазский язык|абхазский]]
+| 04B4 || {{bigunicode|&#x4B4;}} || CYRILLIC CAPITAL LIGATURE TE TSE || ||rowspan="2"| лигатура «тц» (неразложимая): [[Абхаз тілі|абхаз]]
 |-
 | 04B5 || {{bigunicode|&#x4B5;}} || CYRILLIC SMALL LIGATURE TE TSE ||
 |-
-| 04B6 || {{bigunicode|&#x4B6;}} || CYRILLIC CAPITAL LETTER CHE WITH DESCENDER || ||rowspan="2"| [[Абхазский язык|абхазский]], [[Таджикский язык|таджикский]]
+| 04B6 || {{bigunicode|&#x4B6;}} || CYRILLIC CAPITAL LETTER CHE WITH DESCENDER || ||rowspan="2"| [[Абхаз тілі|абхаз]], [[Тәжік тілі|тәжік]]
 |-
 | 04B7 || {{bigunicode|&#x4B7;}} || CYRILLIC SMALL LETTER CHE WITH DESCENDER ||
 |-
-| 04B8 || {{bigunicode|&#x4B8;}} || CYRILLIC CAPITAL LETTER CHE WITH VERTICAL STROKE || ||rowspan="2"| аффриката «дж»: применялась в [[Азербайджанский язык|азербайджанском]]
+| 04B8 || {{bigunicode|&#x4B8;}} || CYRILLIC CAPITAL LETTER CHE WITH VERTICAL STROKE || ||rowspan="2"| «дж» аффрикатасы: [[Әзірбайжан  тілі|әзірбайжан]] кирил әліпбиінде
 |-
 | 04B9 || {{bigunicode|&#x4B9;}} || CYRILLIC SMALL LETTER CHE WITH VERTICAL STROKE ||
 |-
-| 04BA || {{bigunicode|&#x4BA;}} || CYRILLIC CAPITAL LETTER SHHA || ||rowspan="2"| образовано от латинского «h», но заглавная и строчная буквы имеют форму перевёрнутого «Ч»: [[Башкирский язык|башкирский]], [[Казахский язык|казахский]], [[Якутский язык|якутский]]
+| 04BA || {{bigunicode|&#x4BA;}} || CYRILLIC CAPITAL LETTER SHHA || ||rowspan="2"| 
 |-
 | 04BB || {{bigunicode|&#x4BB;}} || CYRILLIC SMALL LETTER SHHA ||
 |-
@@ -412,59 +412,59 @@
 |-
 | 04BD || {{bigunicode|&#x4BD;}} || CYRILLIC SMALL LETTER ABKHASIAN CHE ||
 |-
-| 04BE || {{bigunicode|&#x4BE;}} || CYRILLIC CAPITAL LETTER ABKHASIAN CHE WITH DESCENDER || ||rowspan="2"| хвостик предпочтительнее загибать вправо
+| 04BE || {{bigunicode|&#x4BE;}} || CYRILLIC CAPITAL LETTER ABKHASIAN CHE WITH DESCENDER || ||rowspan="2"| құйрығы оңға қарай
 |-
 | 04BF || {{bigunicode|&#x4BF;}} || CYRILLIC SMALL LETTER ABKHASIAN CHE WITH DESCENDER ||
 |-
-| 04C1 || {{bigunicode|&#x4C1;}} || CYRILLIC CAPITAL LETTER ZHE WITH BREVE || 0416 0306 ||rowspan="2"| аффриката «дж»: применялась в [[Молдавский язык|молдавском]]
+| 04C1 || {{bigunicode|&#x4C1;}} || CYRILLIC CAPITAL LETTER ZHE WITH BREVE || 0416 0306 ||rowspan="2"| «дж» аффрикатасы:  [[Румын тілі|румын]] кирил әліпбиінде
 |-
 | 04C2 || {{bigunicode|&#x4C2;}} || CYRILLIC SMALL LETTER ZHE WITH BREVE || 0436 0306
 |-
-| 04C3 || {{bigunicode|&#x4C3;}} || CYRILLIC CAPITAL LETTER KA WITH HOOK || ||rowspan="2"| [[Хантыйский язык|хантыйский]], [[Чукотский язык|чукотский]]
+| 04C3 || {{bigunicode|&#x4C3;}} || CYRILLIC CAPITAL LETTER KA WITH HOOK || ||rowspan="2"| [[Ханты тілі|ханты]], [[Чукот тілі|чукот]]
 |-
 | 04C4 || {{bigunicode|&#x4C4;}} || CYRILLIC SMALL LETTER KA WITH HOOK ||
 |-
-| 04C5 || {{bigunicode|&#x4C5;}} || CYRILLIC CAPITAL LETTER EL WITH TAIL || ||rowspan="2"| [[Саамский язык|саамский]] (Кильдинский диалект)
+| 04C5 || {{bigunicode|&#x4C5;}} || CYRILLIC CAPITAL LETTER EL WITH TAIL || ||rowspan="2"| [[Саам тілі|саам]] (Кильдин диалекті)
 |-
 | 04C6 || {{bigunicode|&#x4C6;}} || CYRILLIC SMALL LETTER EL WITH TAIL ||
 |-
-| 04C7 || {{bigunicode|&#x4C7;}} || CYRILLIC CAPITAL LETTER EN WITH HOOK || ||rowspan="2"| [[Хантыйский язык|хантыйский]], [[Чукотский язык|чукотский]], [[Ненецкий язык|ненецкий]]
+| 04C7 || {{bigunicode|&#x4C7;}} || CYRILLIC CAPITAL LETTER EN WITH HOOK || ||rowspan="2"| [[Ханты тілі|ханты]], [[Чукот тілі|чукот]], [[Ненец тілі|ненец]]
 |-
 | 04C8 || {{bigunicode|&#x4C8;}} || CYRILLIC SMALL LETTER EN WITH HOOK ||
 |-
-| 04C9 || {{bigunicode|&#x4C9;}} || CYRILLIC CAPITAL LETTER EN WITH TAIL || ||rowspan="2"| [[Кольско-саамский язык|саамский]] (Кильдинский диалект)
+| 04C9 || {{bigunicode|&#x4C9;}} || CYRILLIC CAPITAL LETTER EN WITH TAIL || ||rowspan="2"| [[Саам тілі|саам]] (Кильдин диалекті)
 |-
 | 04CA || {{bigunicode|&#x4CA;}} || CYRILLIC SMALL LETTER EN WITH TAIL ||
 |-
-| 04CB || {{bigunicode|&#x4CB;}} || CYRILLIC CAPITAL LETTER KHAKASSIAN CHE || ||rowspan="2"| [[хакасский язык|хакасский]]
+| 04CB || {{bigunicode|&#x4CB;}} || CYRILLIC CAPITAL LETTER KHAKASSIAN CHE || ||rowspan="2"| [[Хакас тілі|хакас]]
 |-
 | 04CC || {{bigunicode|&#x4CC;}} || CYRILLIC SMALL LETTER KHAKASSIAN CHE ||
 |-
-| 04CD || {{bigunicode|&#x4CD;}} || CYRILLIC CAPITAL LETTER EM WITH TAIL || ||rowspan="2"| [[Саамский язык|саамский]] (Кильдинский диалект)
+| 04CD || {{bigunicode|&#x4CD;}} || CYRILLIC CAPITAL LETTER EM WITH TAIL || ||rowspan="2"| [[Саам тілі|саам]] (Кильдин диалекті)
 |-
 | 04CE || {{bigunicode|&#x4CE;}} || CYRILLIC SMALL LETTER EM WITH TAIL ||
 |-
-| 04C0 || {{bigunicode|&#x4C0;}} || CYRILLIC LETTER PALOCHKA || ||rowspan="2"| [[палочка (буква)|палочка]]: диакритический знак или знак придыхания в [[Кавказские языки|кавказских языках]], практически используется только заглавная форма
+| 04C0 || {{bigunicode|&#x4C0;}} || CYRILLIC LETTER PALOCHKA || ||rowspan="2"| [[палочка (кирил)|палочка]]: [[Кавказ тілдері]]нде көмей лебінің таңбасы, іс жүзінде тек бас пішіні қолданылады
 |-
 | 04CF || {{bigunicode|&#x4CF;}} || CYRILLIC SMALL LETTER PALOCHKA ||
 |-
-| 04D0 || {{bigunicode|&#x4D0;}} || CYRILLIC CAPITAL LETTER A WITH BREVE || 0410 0306 ||rowspan="2"| [[чувашский язык|чувашский]]
+| 04D0 || {{bigunicode|&#x4D0;}} || CYRILLIC CAPITAL LETTER A WITH BREVE || 0410 0306 ||rowspan="2"| [[Шуас тілі|шуас]]
 |-
 | 04D1 || {{bigunicode|&#x4D1;}} || CYRILLIC SMALL LETTER A WITH BREVE || 0430 0306
 |-
-| 04D2 || {{bigunicode|&#x4D2;}} || CYRILLIC CAPITAL LETTER A WITH DIAERESIS || 0410 0308 ||rowspan="2"| [[Марийский язык|марийский]]
+| 04D2 || {{bigunicode|&#x4D2;}} || CYRILLIC CAPITAL LETTER A WITH DIAERESIS || 0410 0308 ||rowspan="2"| [[Марий тілі|марий]]
 |-
 | 04D3 || {{bigunicode|&#x4D3;}} || CYRILLIC SMALL LETTER A WITH DIAERESIS || 0430 0308
 |-
-| 04D4 || {{bigunicode|&#x4D4;}} || CYRILLIC CAPITAL LIGATURE A IE || ||rowspan="2"| лигатура «ае» (неразложимая): [[Осетинский язык|осетинский]]
+| 04D4 || {{bigunicode|&#x4D4;}} || CYRILLIC CAPITAL LIGATURE A IE || ||rowspan="2"| «ае» лигатурасы: [[Осетин тілі|осетин]]
 |-
 | 04D5 || {{bigunicode|&#x4D5;}} || CYRILLIC SMALL LIGATURE A IE ||
 |-
-| 04D6 || {{bigunicode|&#x4D6;}} || CYRILLIC CAPITAL LETTER IE WITH BREVE || 0415 0306 ||rowspan="2"| [[чувашский язык|чувашский]]
+| 04D6 || {{bigunicode|&#x4D6;}} || CYRILLIC CAPITAL LETTER IE WITH BREVE || 0415 0306 ||rowspan="2"| [[Шуас тілі|шуас]]
 |-
 | 04D7 || {{bigunicode|&#x4D7;}} || CYRILLIC SMALL LETTER IE WITH BREVE || 0435 0306
 |-
-| 04D8 || {{bigunicode|&#x4D8;}} || CYRILLIC CAPITAL LETTER SCHWA || ||rowspan="2"| «[[шва]]»: [[Азербайджанский язык|азербайджанский]], [[Татарский язык|татарский]] и др.
+| 04D8 || {{bigunicode|&#x4D8;}} || CYRILLIC CAPITAL LETTER SCHWA || ||rowspan="2"| «[[шва]]»: [[Әзірбайжан тілі|әзірбайжан]], [[Татар тілі|татар]] т.б.
 |-
 | 04D9 || {{bigunicode|&#x4D9;}} || CYRILLIC SMALL LETTER SCHWA ||
 |-
@@ -472,11 +472,11 @@
 |-
 | 04DB || {{bigunicode|&#x4DB;}} || CYRILLIC SMALL LETTER SCHWA WITH DIAERESIS || 04D9 0308
 |-
-| 04DC || {{bigunicode|&#x4DD;}} || CYRILLIC CAPITAL LETTER ZHE WITH DIAERESIS || 0416 0308 ||rowspan="2"| [[Удмуртский язык|удмуртский]]
+| 04DC || {{bigunicode|&#x4DD;}} || CYRILLIC CAPITAL LETTER ZHE WITH DIAERESIS || 0416 0308 ||rowspan="2"| [[Ұдмұрт тілі|ұдмұрт]]
 |-
 | 04DD || {{bigunicode|&#x4DD;}} || CYRILLIC SMALL LETTER ZHE WITH DIAERESIS || 0436 0308
 |-
-| 04DE || {{bigunicode|&#x4DE;}} || CYRILLIC CAPITAL LETTER ZE WITH DIAERESIS || 0417 0308 ||rowspan="2"| [[Удмуртский язык|удмуртский]]
+| 04DE || {{bigunicode|&#x4DE;}} || CYRILLIC CAPITAL LETTER ZE WITH DIAERESIS || 0417 0308 ||rowspan="2"| [[Ұдмұрт тілі|ұдмұрт]]
 |-
 | 04DF || {{bigunicode|&#x4DF;}} || CYRILLIC SMALL LETTER ZE WITH DIAERESIS || 0437 0308
 |-
@@ -488,15 +488,15 @@
 |-
 | 04E3 || {{bigunicode|&#x4E3;}} || CYRILLIC SMALL LETTER I WITH MACRON || 0438 0304
 |-
-| 04E4 || {{bigunicode|&#x4E4;}} || CYRILLIC CAPITAL LETTER I WITH DIAERESIS || 0418 0308 ||rowspan="2"| [[Удмуртский язык|удмуртский]]
+| 04E4 || {{bigunicode|&#x4E4;}} || CYRILLIC CAPITAL LETTER I WITH DIAERESIS || 0418 0308 ||rowspan="2"| [[Ұдмұрт тілі|ұдмұрт]]
 |-
 | 04E5 || {{bigunicode|&#x4E5;}} || CYRILLIC SMALL LETTER I WITH DIAERESIS || 0438 0308
 |-
-| 04E6 || {{bigunicode|&#x4E6;}} || CYRILLIC CAPITAL LETTER O WITH DIAERESIS || 041E 0308 ||rowspan="2"| [[Марийский язык|марийский]], [[Удмуртский язык|удмуртский]]
+| 04E6 || {{bigunicode|&#x4E6;}} || CYRILLIC CAPITAL LETTER O WITH DIAERESIS || 041E 0308 ||rowspan="2"| [[Марий тілі|марий]], [[Ұдмұрт тілі|ұдмұрт]]
 |-
 | 04E7 || {{bigunicode|&#x4E7;}} || CYRILLIC SMALL LETTER O WITH DIAERESIS || 043E 0308
 |-
-| 04E8 || {{bigunicode|&#x4E8;}} || CYRILLIC CAPITAL LETTER BARRED O || ||rowspan="2"| [[Якутский язык|якутский]]
+| 04E8 || {{bigunicode|&#x4E8;}} || CYRILLIC CAPITAL LETTER BARRED O || ||rowspan="2"| [[Саха тілі|саха]]
 |-
 | 04E9 || {{bigunicode|&#x4E9;}} || CYRILLIC SMALL LETTER BARRED O ||
 |-
@@ -504,38 +504,35 @@
 |-
 | 04EB || {{bigunicode|&#x4EB;}} || CYRILLIC SMALL LETTER BARRED O WITH DIAERESIS || 04E9 0308
 |-
-| 04EC || {{bigunicode|&#x4EC;}} || CYRILLIC CAPITAL LETTER E WITH DIAERESIS || 042D 0308 ||rowspan="2"| [[Саамский язык|саамский]] (Кильдинский диалект)
+| 04EC || {{bigunicode|&#x4EC;}} || CYRILLIC CAPITAL LETTER E WITH DIAERESIS || 042D 0308 ||rowspan="2"| [[Саам тілі|саам]] (Кильдин диалекті)
 |-
 | 04ED || {{bigunicode|&#x4ED;}} || CYRILLIC SMALL LETTER E WITH DIAERESIS || 044D 0308
 |-
-| 04EE || {{bigunicode|&#x4EE;}} || CYRILLIC CAPITAL LETTER U WITH MACRON || 0423 0304 ||rowspan="2"|
+| 04EE || {{bigunicode|&#x4EE;}} || CYRILLIC CAPITAL LETTER U WITH MACRON || 0423 0304 ||rowspan="2"| 1950 жж. дейін [[қазақ әліпбиі]]нде қолданды. Ұұ әрпімен алмастырылды
 |-
 | 04EF || {{bigunicode|&#x4EF;}} || CYRILLIC SMALL LETTER U WITH MACRON || 0443 0304
 |-
-| 04F0 || {{bigunicode|&#x4F0;}} || CYRILLIC CAPITAL LETTER U WITH DIAERESIS || 0423 0308 ||rowspan="2"| [[Марийский язык|марийский]]
+| 04F0 || {{bigunicode|&#x4F0;}} || CYRILLIC CAPITAL LETTER U WITH DIAERESIS || 0423 0308 ||rowspan="2"| [[Марий тілі|марий]]
 |-
 | 04F1 || {{bigunicode|&#x4F1;}} || CYRILLIC SMALL LETTER U WITH DIAERESIS || 0443 0308
 |-
-| 04F2 || [[Ӳ (кирил)|{{bigunicode|&#x4F2;}}]] || CYRILLIC CAPITAL LETTER U WITH DOUBLE ACUTE || 0423 030B ||rowspan="2"| [[Чувашский язык|чувашский]]
+| 04F2 || [[Ӳ (кирил)|{{bigunicode|&#x4F2;}}]] || CYRILLIC CAPITAL LETTER U WITH DOUBLE ACUTE || 0423 030B ||rowspan="2"| [[Шуас тілі|шуас]]
 |-
 | 04F3 || {{bigunicode|&#x4F3;}} || CYRILLIC SMALL LETTER U WITH DOUBLE ACUTE || 0443 030B
 |-
-| 04F4 || {{bigunicode|&#x4F4;}} || CYRILLIC CAPITAL LETTER CHE WITH DIAERESIS || 0427 0308 ||rowspan="2"| [[Удмуртский язык|удмуртский]]
+| 04F4 || {{bigunicode|&#x4F4;}} || CYRILLIC CAPITAL LETTER CHE WITH DIAERESIS || 0427 0308 ||rowspan="2"| [[Ұдмұрт тілі|ұдмұрт]]
 |-
 | 04F5 || {{bigunicode|&#x4F5;}} || CYRILLIC SMALL LETTER CHE WITH DIAERESIS || 0447 0308
 |-
-| 04F6 || {{bigunicode|&#x4F6;}} || CYRILLIC CAPITAL LETTER GHE WITH DESCENDER || ||rowspan="2"| [[эскимосский язык]]
+| 04F6 || {{bigunicode|&#x4F6;}} || CYRILLIC CAPITAL LETTER GHE WITH DESCENDER || ||rowspan="2"| [[эскимос тілі]]
 |-
 | 04F7 || {{bigunicode|&#x4F7;}} || CYRILLIC SMALL LETTER GHE WITH DESCENDER ||
 |-
-| 04F8 || {{bigunicode|&#x4F8;}} || CYRILLIC CAPITAL LETTER YERU WITH DIAERESIS || 042B 0308 ||rowspan="2"| [[Марийский язык|марийский]]
+| 04F8 || {{bigunicode|&#x4F8;}} || CYRILLIC CAPITAL LETTER YERU WITH DIAERESIS || 042B 0308 ||rowspan="2"| [[Марий тілі|марий]]
 |-
 | 04F9 || {{bigunicode|&#x4F9;}} || CYRILLIC SMALL LETTER YERU WITH DIAERESIS || 044B 0308
-
 |-
-|colspan="5"|
-
-<h3>Дополнительные буквы для [[нивхский язык|нивхского языка]]</h3>
+|colspan="5"|<h3>[[Нивх тілі]] үшін қосымша әріптер</h3>
 |-
 | 04FA || {{bigunicode|&#x4FA;}} || CYRILLIC CAPITAL LETTER GHE WITH STROKE AND HOOK || ||rowspan="2"|
 |-
@@ -550,7 +547,7 @@
 | 04FF || {{bigunicode|&#x4FF;}} || CYRILLIC SMALL LETTER HA WITH STROKE ||
 
 |-
-|colspan="5"| <h3>Буквы старой письменности языка [[Коми (язык)|коми]]</h3>
+|colspan="5"| <h3>[[Коми әліпбиі|Коми]] ескі жазуының әріптері</h3>
 |-
 | 0500 || {{bigunicode|&#x500;}} || CYRILLIC CAPITAL LETTER KOMI DE || ||rowspan="2"|
 |-
@@ -585,17 +582,17 @@
 | 050F || {{bigunicode|&#x50F;}} || CYRILLIC SMALL LETTER KOMI TJE ||
 
 |-
-|colspan="5"|<h3>Дополнительные буквы для неславянских языков (2)</h3>
+|colspan="5"|<h3>Кирил кеңейтімдері — 2 (славян емес тілдер үшін)</h3>
 |-
-| 0510 || {{bigunicode|&#x510;}} || CYRILLIC CAPITAL LETTER REVERSED ZE || ||rowspan="2"| [[энецкий язык|энецкий]], [[хантыйский язык|хантыйский]]
+| 0510 || {{bigunicode|&#x510;}} || CYRILLIC CAPITAL LETTER REVERSED ZE || ||rowspan="2"| [[энец тілі|энец]], [[ханты тілі|ханты]]
 |-
 | 0511 || {{bigunicode|&#x511;}} || CYRILLIC SMALL LETTER REVERSED ZE ||
 |-
-| 0512 || {{bigunicode|&#x512;}} || CYRILLIC CAPITAL LETTER EL WITH HOOK || ||rowspan="2"| [[чукотский язык|чукотский]], [[ительменский язык|ительменский]], [[хантыйский язык|хантыйский]]
+| 0512 || {{bigunicode|&#x512;}} || CYRILLIC CAPITAL LETTER EL WITH HOOK || ||rowspan="2"| [[Чукот тілі|чукот]], [[ителмен тілі|ителмен]], [[ханты тілі|ханты]]
 |-
 | 0513 || {{bigunicode|&#x513;}} || CYRILLIC SMALL LETTER EL WITH HOOK ||
 |-
-|colspan="5"|<h3>Буквы старой письменности [[Мокшанский язык|мокшанского языка]]</h3>
+|colspan="5"|<h3>[[Мокшан тілі|Мокшан]] ескі жазуының таңбалары</h3>
 |-
 | 0514 || {{bigunicode|&#x514;}} || CYRILLIC CAPITAL LETTER LHA || ||rowspan="2"|
 |-
@@ -609,7 +606,7 @@
 |-
 | 0519 || {{bigunicode|&#x519;}} || CYRILLIC SMALL LETTER YAE ||
 |-
-|colspan="5"|<h3>Буквы для курдского языка</h3>
+|colspan="5"|<h3>[[Күрт тілі|Күрт]] кирил әліпбиінің әріптері</h3>
 |-
 | 051A || {{bigunicode|&#x51A;}} || CYRILLIC CAPITAL LETTER QA || ||rowspan="2"|
 |-
@@ -619,13 +616,13 @@
 |-
 | 051D || {{bigunicode|&#x51D;}} || CYRILLIC SMALL LETTER WE ||
 |-
-|colspan="5"|<h3>Буква для [[Алеутский язык|алеутского языка]]</h3>
+|colspan="5"|<h3>[[Алеут тілі|Алеут]] әрпі</h3>
 |-
 | 051E || {{bigunicode|&#x51E;}} || CYRILLIC CAPITAL LETTER ALEUT KA || ||rowspan="2"|
 |-
 | 051F || {{bigunicode|&#x51F;}} || CYRILLIC SMALL LETTER ALEUT KA ||
 |-
-|colspan="5"|<h3>Буквы чувашского алфавита Яковлева</h3>
+|colspan="5"|<h3>Шуас ескі емленің әріптері (Яковлевтің)</h3>
 |-
 | 0520 || {{bigunicode|&#x520;}} || CYRILLIC CAPITAL LETTER EL WITH MIDDLE HOOK || ||rowspan="2"|
 |-
@@ -635,111 +632,177 @@
 |-
 | 0523 || {{bigunicode|&#x523;}} || CYRILLIC SMALL LETTER EN WITH MIDDLE HOOK ||
 |-
-|colspan="5"|<h3>Разное</h3>
+|colspan="5"|<h3>Әр түрлі</h3>
 |-
-| 1D2B || {{bigunicode|&#x1D2B;}} || CYRILLIC LETTER SMALL CAPITAL EL || ||rowspan="2"| используются в некоторых видах фонетической транскрипции
+| 1D2B || {{bigunicode|&#x1D2B;}} || CYRILLIC LETTER SMALL CAPITAL EL || ||rowspan="2"| фонетикалық транскрипция үшін
 |-
-| 1D78 || {{bigunicode|&#x1D78;}} || MODIFIER LETTER CYRILLIC EN ||
+| 1D78 || {{bigunicode|&#x1D78;}} || MODIFIER LETTER CYRILLIC EN || 
 |-
-| 20DD || {{bigunicode|&nbsp;&#x20DD;}} || COMBINING ENCLOSING CIRCLE || || в кириллице используется как знак десятков тысяч
+| 20DD || {{bigunicode|&nbsp;&#x20DD;}} || COMBINING ENCLOSING CIRCLE || || он мың таңбасы
 |-
-! colspan="5" | <h3>Буквы старой кириллицы</h3>
+| colspan="5" | <h3>Шіркеу славян жалғастырмалы таңбалар</h3>
 |-
-| A640 || {{bigunicode|Ꙁ}} || CYRILLIC CAPITAL LETTER ZEMYLA
+| 2DE0 || {{bigunicode|&nbsp;&#x2DE0;}} || COMBINING CYRILLIC LETTER BE 
 |-
-| A641 || {{bigunicode|ꙁ}} || CYRILLIC SMALL LETTER ZEMYLA
+| 2DE1 || {{bigunicode|&nbsp;&#x2DE1;}} || COMBINING CYRILLIC LETTER VE
 |-
-| A642 || {{bigunicode|Ꙃ}} || CYRILLIC CAPITAL LETTER DZELO
+| 2DE2 || {{bigunicode|&nbsp;&#x2DE2;}} || COMBINING CYRILLIC LETTER GHE
 |-
-| A643 || {{bigunicode|ꙃ}} || CYRILLIC SMALL LETTER DZELO
+| 2DE3 || {{bigunicode|&nbsp;&#x2DE3;}} || COMBINING CYRILLIC LETTER DE
 |-
-| A644 || {{bigunicode|Ꙅ}} || CYRILLIC CAPITAL LETTER REVERSED DZE
+| 2DE4 || {{bigunicode|&nbsp;&#x2DE4;}} || COMBINING CYRILLIC LETTER ZHE
 |-
-| A645 || {{bigunicode|ꙅ}} || CYRILLIC SMALL LETTER REVERSED DZE
+| 2DE5 || {{bigunicode|&nbsp;&#x2DE5;}} || COMBINING CYRILLIC LETTER ZE
 |-
-| A646 || {{bigunicode|Ꙇ}} || CYRILLIC CAPITAL LETTER IOTA
+| 2DE6 || {{bigunicode|&nbsp;&#x2DE6;}} || COMBINING CYRILLIC LETTER KA
 |-
-| A647 || {{bigunicode|ꙇ}} || CYRILLIC SMALL LETTER IOTA
+| 2DE7 || {{bigunicode|&nbsp;&#x2DE7;}} || COMBINING CYRILLIC LETTER EL
 |-
-| A648 || {{bigunicode|Ꙉ}} || CYRILLIC CAPITAL LETTER DJERV
+| 2DE8 || {{bigunicode|&nbsp;&#x2DE8;}} || COMBINING CYRILLIC LETTER EM
+|- 
+| 2DE9 || {{bigunicode|&nbsp;&#x2DE9;}} || COMBINING CYRILLIC LETTER EN
 |-
-| A649 || {{bigunicode|ꙉ}} || CYRILLIC SMALL LETTER DJERV
+| 2DEA || {{bigunicode|&nbsp;&#x2DEA;}} || COMBINING CYRILLIC LETTER O
+|- 
+| 2DEB || {{bigunicode|&nbsp;&#x2DEB;}} || COMBINING CYRILLIC LETTER PE
 |-
-| A64A || {{bigunicode|Ꙋ}} || CYRILLIC CAPITAL LETTER MONOGRAPH UK
+| 2DEC || {{bigunicode|&nbsp;&#x2DEC;}} || COMBINING CYRILLIC LETTER ER
 |-
-| A64B || {{bigunicode|ꙋ}} || CYRILLIC SMALL LETTER MONOGRAPH UK
+| 2DED || {{bigunicode|&nbsp;&#x2DED;}} || COMBINING CYRILLIC LETTER ES
 |-
-| A64C || {{bigunicode|Ꙍ}} || CYRILLIC CAPITAL LETTER BROAD OMEGA
+| 2DEE || {{bigunicode|&nbsp;&#x2DEE;}} || COMBINING CYRILLIC LETTER TE
 |-
-| A64D || {{bigunicode|ꙍ}} || CYRILLIC SMALL LETTER BROAD OMEGA
+| 2DEF || {{bigunicode|&nbsp;&#x2DEF;}} || COMBINING CYRILLIC LETTER HA
 |-
-| A64E || {{bigunicode|Ꙏ}} || CYRILLIC CAPITAL LETTER NEUTRAL YER
+| 2DF0 || {{bigunicode|&nbsp;&#x2DF0;}} || COMBINING CYRILLIC LETTER TSE
 |-
-| A64F || {{bigunicode|ꙏ}} || CYRILLIC SMALL LETTER NEUTRAL YER
+| 2DF1 || {{bigunicode|&nbsp;&#x2DF1;}} || COMBINING CYRILLIC LETTER CHE
 |-
-| A650 || {{bigunicode|Ꙑ}} || CYRILLIC CAPITAL LETTER YERU WITH BACK YER
+| 2DF2 || {{bigunicode|&nbsp;&#x2DF2;}} || COMBINING CYRILLIC LETTER SHA
 |-
-| A651 || {{bigunicode|ꙑ}} || CYRILLIC SMALL LETTER YERU WITH BACK YER
+| 2DF3 || {{bigunicode|&nbsp;&#x2DF3;}} || COMBINING CYRILLIC LETTER SCHA 
 |-
-| A652 || {{bigunicode|Ꙓ}} || CYRILLIC CAPITAL LETTER IOTIFIED YAT
+| 2DF4 || {{bigunicode|&nbsp;&#x2DF4;}} || COMBINING CYRILLIC LETTER FITA
 |-
-| A653 || {{bigunicode|ꙓ}} || CYRILLIC SMALL LETTER IOTIFIED YAT
+| 2DF5 || {{bigunicode|&nbsp;&#x2DF5;}} || COMBINING CYRILLIC LETTER ES-TE
 |-
-| A654 || {{bigunicode|Ꙕ}} || CYRILLIC CAPITAL LETTER REVERSED YU
+| 2DF6 || {{bigunicode|&nbsp;&#x2DF6;}} || COMBINING CYRILLIC LETTER A 
 |-
-| A655 || {{bigunicode|ꙕ}} || CYRILLIC SMALL LETTER REVERSED YU
+| 2DF7 || {{bigunicode|&nbsp;&#x2DF7;}} || COMBINING CYRILLIC LETTER IE
 |-
-| A656 || {{bigunicode|Ꙗ}} || CYRILLIC CAPITAL LETTER IOTIFIED A
+| 2DF8 || {{bigunicode|&nbsp;&#x2DF8;}} || COMBINING CYRILLIC LETTER DJERV
 |-
-| A657 || {{bigunicode|ꙗ}} || CYRILLIC SMALL LETTER IOTIFIED A
+| 2DF9 || {{bigunicode|&nbsp;&#x2DF9;}} || COMBINING CYRILLIC LETTER MONOGRAPH UK 
 |-
-| A658 || {{bigunicode|Ꙙ}} || CYRILLIC CAPITAL LETTER CLOSED LITTLE YUS
+| 2DFA || {{bigunicode|&nbsp;&#x2DFA;}} || COMBINING CYRILLIC LETTER YAT
 |-
-| A659 || {{bigunicode|ꙙ}} || CYRILLIC SMALL LETTER CLOSED LITTLE YUS
+| 2DFB || {{bigunicode|&nbsp;&#x2DFB;}} || COMBINING CYRILLIC LETTER YU
+|- 
+| 2DFC || {{bigunicode|&nbsp;&#x2DFC;}} || COMBINING CYRILLIC LETTER IOTIFIED A
 |-
-| A65A || {{bigunicode|Ꙛ}} || CYRILLIC CAPITAL LETTER BLENDED YUS
+| 2DFD || {{bigunicode|&nbsp;&#x2DFD;}} || COMBINING CYRILLIC LETTER LITTLE YUS
 |-
-| A65B || {{bigunicode|ꙛ}} || CYRILLIC SMALL LETTER BLENDED YUS
+| 2DFE || {{bigunicode|&nbsp;&#x2DFE;}} || COMBINING CYRILLIC LETTER BIG YUS
 |-
-| A65C || {{bigunicode|Ꙝ}} || CYRILLIC CAPITAL LETTER IOTIFIED CLOSED LITTLE YUS
+| 2DFF || {{bigunicode|&nbsp;&#x2DFF;}} || COMBINING CYRILLIC LETTER IOTIFIED BIG YUS
 |-
-| A65D || {{bigunicode|ꙝ}} || CYRILLIC SMALL LETTER IOTIFIED CLOSED LITTLE YUS
+| colspan="5" | <h3>Ескі кирил (шіркеу славян) жазуының әріптері</h3>
 |-
-| A65E || {{bigunicode|Ꙟ}} || CYRILLIC CAPITAL LETTER YN
+| A640 || {{bigunicode|Ꙁ}} || CYRILLIC CAPITAL LETTER ZEMYLA || ||rowspan="2"|
 |-
-| A65F || {{bigunicode|ꙟ}} || CYRILLIC SMALL LETTER YN
+| A641 || {{bigunicode|ꙁ}} || CYRILLIC SMALL LETTER ZEMYLA ||
 |-
-| A662 || {{bigunicode|Ꙣ}} || CYRILLIC CAPITAL LETTER SOFT DE
+| A642 || {{bigunicode|Ꙃ}} || CYRILLIC CAPITAL LETTER DZELO || ||rowspan="2"|
 |-
-| A663 || {{bigunicode|ꙣ}} || CYRILLIC SMALL LETTER SOFT DE
+| A643 || {{bigunicode|ꙃ}} || CYRILLIC SMALL LETTER DZELO ||
 |-
-| A664 || {{bigunicode|Ꙥ}} || CYRILLIC CAPITAL LETTER SOFT EL
+| A644 || {{bigunicode|Ꙅ}} || CYRILLIC CAPITAL LETTER REVERSED DZE || ||rowspan="2"|
 |-
-| A665 || {{bigunicode|ꙥ}} || CYRILLIC SMALL LETTER SOFT EL
+| A645 || {{bigunicode|ꙅ}} || CYRILLIC SMALL LETTER REVERSED DZE ||
 |-
-| A666 || {{bigunicode|Ꙧ}} || CYRILLIC CAPITAL LETTER SOFT EM
+| A646 || {{bigunicode|Ꙇ}} || CYRILLIC CAPITAL LETTER IOTA || ||rowspan="2"|
 |-
-| A667 || {{bigunicode|ꙧ}} || CYRILLIC SMALL LETTER SOFT EM
+| A647 || {{bigunicode|ꙇ}} || CYRILLIC SMALL LETTER IOTA ||
 |-
-| A668 || {{bigunicode|Ꙩ}} || CYRILLIC CAPITAL LETTER MONOCULAR O
+| A648 || {{bigunicode|Ꙉ}} || CYRILLIC CAPITAL LETTER DJERV || ||rowspan="2"|
 |-
-| A669 || {{bigunicode|ꙩ}} || CYRILLIC SMALL LETTER MONOCULAR O
+| A649 || {{bigunicode|ꙉ}} || CYRILLIC SMALL LETTER DJERV ||
 |-
-| A66A || {{bigunicode|Ꙫ}} || CYRILLIC CAPITAL LETTER BINOCULAR O
+| A64A || {{bigunicode|Ꙋ}} || CYRILLIC CAPITAL LETTER MONOGRAPH UK || ||rowspan="2"|
 |-
-| A66B || {{bigunicode|ꙫ}} || CYRILLIC SMALL LETTER BINOCULAR O
+| A64B || {{bigunicode|ꙋ}} || CYRILLIC SMALL LETTER MONOGRAPH UK ||
 |-
-| A66C || {{bigunicode|Ꙭ}} || CYRILLIC CAPITAL LETTER DOUBLE MONOCULAR O
+| A64C || {{bigunicode|Ꙍ}} || CYRILLIC CAPITAL LETTER BROAD OMEGA || ||rowspan="2"|
 |-
-| A66D || {{bigunicode|ꙭ}} || CYRILLIC SMALL LETTER DOUBLE MONOCULAR O
+| A64D || {{bigunicode|ꙍ}} || CYRILLIC SMALL LETTER BROAD OMEGA ||
 |-
-| A66E || {{bigunicode|ꙮ}} || CYRIILLIC LETTER MULTIOCULAR O
+| A64E || {{bigunicode|Ꙏ}} || CYRILLIC CAPITAL LETTER NEUTRAL YER || ||rowspan="2"|
 |-
-! colspan="5" | <h3>Abbreviation Mark<h3> 
+| A64F || {{bigunicode|ꙏ}} || CYRILLIC SMALL LETTER NEUTRAL YER ||
 |-
-| A66F || {{bigunicode|꙯}} || COMBINING CYRILLIC VZMET
+| A650 || {{bigunicode|Ꙑ}} || CYRILLIC CAPITAL LETTER YERU WITH BACK YER || ||rowspan="2"|
 |-
-! colspan="5" | <h3>Комбинированные цифровые знаки</h3>
+| A651 || {{bigunicode|ꙑ}} || CYRILLIC SMALL LETTER YERU WITH BACK YER ||
+|-
+| A652 || {{bigunicode|Ꙓ}} || CYRILLIC CAPITAL LETTER IOTIFIED YAT || ||rowspan="2"|
+|-
+| A653 || {{bigunicode|ꙓ}} || CYRILLIC SMALL LETTER IOTIFIED YAT ||
+|-
+| A654 || {{bigunicode|Ꙕ}} || CYRILLIC CAPITAL LETTER REVERSED YU || ||rowspan="2"|
+|-
+| A655 || {{bigunicode|ꙕ}} || CYRILLIC SMALL LETTER REVERSED YU ||
+|-
+| A656 || {{bigunicode|Ꙗ}} || CYRILLIC CAPITAL LETTER IOTIFIED A || ||rowspan="2"|
+|-
+| A657 || {{bigunicode|ꙗ}} || CYRILLIC SMALL LETTER IOTIFIED A ||
+|-
+| A658 || {{bigunicode|Ꙙ}} || CYRILLIC CAPITAL LETTER CLOSED LITTLE YUS || ||rowspan="2"|
+|-
+| A659 || {{bigunicode|ꙙ}} || CYRILLIC SMALL LETTER CLOSED LITTLE YUS ||
+|-
+| A65A || {{bigunicode|Ꙛ}} || CYRILLIC CAPITAL LETTER BLENDED YUS || ||rowspan="2"|
+|-
+| A65B || {{bigunicode|ꙛ}} || CYRILLIC SMALL LETTER BLENDED YUS ||
+|-
+| A65C || {{bigunicode|Ꙝ}} || CYRILLIC CAPITAL LETTER IOTIFIED CLOSED LITTLE YUS || ||rowspan="2"|
+|-
+| A65D || {{bigunicode|ꙝ}} || CYRILLIC SMALL LETTER IOTIFIED CLOSED LITTLE YUS ||
+|-
+| A65E || {{bigunicode|Ꙟ}} || CYRILLIC CAPITAL LETTER YN || ||rowspan="2"|
+|-
+| A65F || {{bigunicode|ꙟ}} || CYRILLIC SMALL LETTER YN ||
+|-
+| A662 || {{bigunicode|Ꙣ}} || CYRILLIC CAPITAL LETTER SOFT DE || ||rowspan="2"|
+|-
+| A663 || {{bigunicode|ꙣ}} || CYRILLIC SMALL LETTER SOFT DE ||
+|-
+| A664 || {{bigunicode|Ꙥ}} || CYRILLIC CAPITAL LETTER SOFT EL || ||rowspan="2"|
+|-
+| A665 || {{bigunicode|ꙥ}} || CYRILLIC SMALL LETTER SOFT EL ||
+|-
+| A666 || {{bigunicode|Ꙧ}} || CYRILLIC CAPITAL LETTER SOFT EM || ||rowspan="2"|
+|-
+| A667 || {{bigunicode|ꙧ}} || CYRILLIC SMALL LETTER SOFT EM ||
+|-
+| A668 || {{bigunicode|Ꙩ}} || CYRILLIC CAPITAL LETTER MONOCULAR O || ||rowspan="2"|
+|-
+| A669 || {{bigunicode|ꙩ}} || CYRILLIC SMALL LETTER MONOCULAR O ||
+|-
+| A66A || {{bigunicode|Ꙫ}} || CYRILLIC CAPITAL LETTER BINOCULAR O || ||rowspan="2"|
+|-
+| A66B || {{bigunicode|ꙫ}} || CYRILLIC SMALL LETTER BINOCULAR O ||
+|-
+| A66C || {{bigunicode|Ꙭ}} || CYRILLIC CAPITAL LETTER DOUBLE MONOCULAR O || ||rowspan="2"|
+|-
+| A66D || {{bigunicode|ꙭ}} || CYRILLIC SMALL LETTER DOUBLE MONOCULAR O ||
+|-
+| A66E || {{bigunicode|ꙮ}} || CYRIILLIC LETTER MULTIOCULAR O || ||
+|-
+| colspan="5" | <h3>Қысқарма белгісі<h3> 
+|-
+| A66F || {{bigunicode|꙯}} || COMBINING CYRILLIC VZMET 
+|-
+| colspan="5" | <h3>Жалғастырмалы сан белгілері</h3>
 |-
 | A670 || {{bigunicode|꙰}} || COMBINING CYRILLIC TEN MILLIONS SIGN
 |-
@@ -747,71 +810,83 @@
 |-
 | A672 || {{bigunicode|꙲}} || COMBINING CYRILLIC THOUSAND MILLIONS SIGN 
 |-
-! colspan="5" | <h3>Знак пунктуации</h3> 
+| colspan="5" | <h3>Тыныс белгісі</h3> 
 |-
 | A672 || {{bigunicode|꙳}} || SLAVONIC ASTERISK
 |-
-! colspan="5" | <h3>Комбинированные знаки для старой кириллицы</h3> 
+| colspan="5" | <h3>Ескі кирил  жалғастырмалы таңбалар (шіркеу славян)</h3> 
 |-
 | A67C || {{bigunicode|꙼}} || COMBINING CYRILLIC KAVYKA 
 |-
 | A67D || {{bigunicode|꙽}} || COMBINING CYRILLIC PAYEROK 
 |-
-! colspan="5" | <h3/>Знак пунктуации</h3> 
+| colspan="5" | <h3>Тыныс белгісі — 2</h3> 
 |-
 | A67E || {{bigunicode|꙾}} || CYRILLIC KAVYKA
 |-
-! colspan="5" | <h3>Модифицирующая буква</h3>
+| colspan="5" | <h3>Өзгертпелі әріп</h3>
 |-
 | A67F || {{bigunicode|ꙿ}} || CYRILLIC PAYEROK
 |-
-! colspan="5" | <h3>Буквы старой Абхазский язык|абхазской орфографии</h3> 
+| colspan="5" | <h3>Ескі абхаз емлесінің әріптері</h3> 
 |-
-| A680 || {{bigunicode|Ꚁ}} || CYRILLIC CAPITAL LETTER DWE
+| A680 || {{bigunicode|Ꚁ}} || CYRILLIC CAPITAL LETTER DWE || ||rowspan="2"|
 |-
-| A681 || {{bigunicode|ꚁ}} || CYRILLIC SMALL LETTER DWE
+| A681 || {{bigunicode|ꚁ}} || CYRILLIC SMALL LETTER DWE ||
 |-
-| A682 || {{bigunicode|Ꚃ}} || CYRILLIC CAPITAL LETTER DZWE
+| A682 || {{bigunicode|Ꚃ}} || CYRILLIC CAPITAL LETTER DZWE || ||rowspan="2"|
 |-
-| A683 || {{bigunicode|ꚃ}} || CYRILLIC SMALL LETTER DZWE
+| A683 || {{bigunicode|ꚃ}} || CYRILLIC SMALL LETTER DZWE ||
 |-
-| A684 || {{bigunicode|Ꚅ}} || CYRILLIC CAPITAL LETTER ZHWE
+| A684 || {{bigunicode|Ꚅ}} || CYRILLIC CAPITAL LETTER ZHWE || ||rowspan="2"|
 |-
-| A685 || {{bigunicode|ꚅ}} || CYRILLIC SMALL LETTER ZHWE 
+| A685 || {{bigunicode|ꚅ}} || CYRILLIC SMALL LETTER ZHWE ||
 |-
-| A686 || {{bigunicode|Ꚇ}} || CYRILLIC CAPITAL LETTER CCHE
+| A686 || {{bigunicode|Ꚇ}} || CYRILLIC CAPITAL LETTER CCHE || ||rowspan="2"|
 |-
-| A687 || {{bigunicode|ꚇ}} || CYRILLIC SMALL LETTER CCHE
+| A687 || {{bigunicode|ꚇ}} || CYRILLIC SMALL LETTER CCHE ||
 |-
-| A688 || {{bigunicode|Ꚉ}} || CYRILLIC CAPITAL LETTER DZZE 
+| A688 || {{bigunicode|Ꚉ}} || CYRILLIC CAPITAL LETTER DZZE  || ||rowspan="2"|
 |-
-| A689 || {{bigunicode|ꚉ}} || CYRILLIC SMALL LETTER DZZE
+| A689 || {{bigunicode|ꚉ}} || CYRILLIC SMALL LETTER DZZE ||
 |-
-| A68A || {{bigunicode|Ꚋ}} || CYRILLIC CAPITAL LETTER TE WITH MIDDLE HOOK
+| A68A || {{bigunicode|Ꚋ}} || CYRILLIC CAPITAL LETTER TE WITH MIDDLE HOOK || ||rowspan="2"|
 |- 
-| A68B || {{bigunicode|ꚋ}} || CYRILLIC SMALL LETTER TE WITH MIDDLE HOOK
+| A68B || {{bigunicode|ꚋ}} || CYRILLIC SMALL LETTER TE WITH MIDDLE HOOK ||
 |-
-| A68C || {{bigunicode|Ꚍ}} || CYRILLIC CAPITAL LETTER TWE
+| A68C || {{bigunicode|Ꚍ}} || CYRILLIC CAPITAL LETTER TWE || ||rowspan="2"|
 |-
-| A68D || {{bigunicode|ꚍ}} || CYRILLIC SMALL LETTER TWE 
+| A68D || {{bigunicode|ꚍ}} || CYRILLIC SMALL LETTER TWE  ||
 |-
-| A68E || {{bigunicode|Ꚏ}} || CYRILLIC CAPITAL LETTER TSWE
+| A68E || {{bigunicode|Ꚏ}} || CYRILLIC CAPITAL LETTER TSWE || ||rowspan="2"|
 |-
-| A68F || {{bigunicode|ꚏ}} || CYRILLIC SMALL LETTER TSWE
+| A68F || {{bigunicode|ꚏ}} || CYRILLIC SMALL LETTER TSWE ||
 |-
-| A690 || {{bigunicode|Ꚑ}} || CYRILLIC CAPITAL LETTER TSSE 
+| A690 || {{bigunicode|Ꚑ}} || CYRILLIC CAPITAL LETTER TSSE  || ||rowspan="2"|
 |-
-| A691 || {{bigunicode|ꚑ}} || CYRILLIC SMALL LETTER TSSE
+| A691 || {{bigunicode|ꚑ}} || CYRILLIC SMALL LETTER TSSE ||
 |-
-| A692 || {{bigunicode|Ꚓ}} || CYRILLIC CAPITAL LETTER TCHE
+| A692 || {{bigunicode|Ꚓ}} || CYRILLIC CAPITAL LETTER TCHE || ||rowspan="2"|
 |-
-| A693 || {{bigunicode|ꚓ}} || CYRILLIC SMALL LETTER TCHE
+| A693 || {{bigunicode|ꚓ}} || CYRILLIC SMALL LETTER TCHE ||
 |-
-| A694 || {{bigunicode|Ꚕ}} || CYRILLIC CAPITAL LETTER HWE
+| A694 || {{bigunicode|Ꚕ}} || CYRILLIC CAPITAL LETTER HWE || ||rowspan="2"|
 |-
-| A695 || {{bigunicode|ꚕ}} || CYRILLIC SMALL LETTER HWE
+| A695 || {{bigunicode|ꚕ}} || CYRILLIC SMALL LETTER HWE ||
 |-
-| A696 || {{bigunicode|Ꚗ}} || CYRILLIC CAPITAL LETTER SHWE
+| A696 || {{bigunicode|Ꚗ}} || CYRILLIC CAPITAL LETTER SHWE || ||rowspan="2"|
 |-
-| A697 || {{bigunicode|ꚗ}} || CYRILLIC SMALL LETTER SHWE 
+| A697 || {{bigunicode|ꚗ}} || CYRILLIC SMALL LETTER SHWE  ||
 |}
+
+== Сыртқы сілтемелер ==
+* [http://www.unicode.org/charts/PDF/U0400.pdf Cyrillic code chart (PDF)]
+* [http://www.unicode.org/charts/PDF/U0500.pdf Cyrillic Supplement code chart (PDF)]
+* [http://www.unicode.org/charts/PDF/U2DE0.pdf Cyrillic Extension-A code chart (PDF)]
+* [http://www.unicode.org/charts/PDF/UA640.pdf Cyrillic Extension-B code chart (PDF)]
+
+[[Санат:Юникод ауқымдары]]
+[[Санат:Кирил әліпбилері]]
+
+[[en:Cyrillic characters in Unicode]]
+[[ru:Кириллица в Юникоде]]
