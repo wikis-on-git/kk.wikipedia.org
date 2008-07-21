@@ -48,11 +48,10 @@
 Литван тілі Литваның [[мемлекеттік тіл]]і және [[Еуропа Одағы]]ның ресми тілдерінің бірі болып табылады.
 
 ===Диалектілері===
-The Lithuanian language has two dialects (tarmės): [[Aukštaitija|Aukštaičių]] ([[Aukstaitija|Aukstaitian]], Highland Lithuanian), [[Žemaitija|Žemaičių/Žemaitiu]] ([[Samogitian language|Samogitian]], Lowland Lithuanian), See maps at [http://samogitia.mch.mii.lt/KALBA/girdstr.en.htm#Map]. There are significant differences between standard Lithuanian and Samogitian. The modern Samogitian dialect formed in the 13th-16th centuries under the influence of the [[Curonian language]]. Lithuanian dialects are closely connected with [[regions of Lithuania|ethnographical regions of Lithuania]]
+Литван тілінің екі диалектісі бар: аукштайт диалектісі және жемайт диалектісі. Мына картаға қараңыз: [http://samogitia.mch.mii.lt/KALBA/girdstr.en.htm#Map]. Әдеби литван тілі мен жемайт диалектісінің арасында айырмашылықтар өте үлкен. Қазіргі аукштайт диалектісі 13-16 ғасырларда [[курон тілі]]нің әсерімен қалыптасқан. Литван тілінің диалектілері Литваның этнографиялық аймақтарымен байланысқан.
 
-Dialects are divided into subdialects (patarmės). Both dialects have 3 subdialects. Samogitian is divided into West, North and South; Aukštaitian into West (Suvalkiečiai), [[Dzūkian|South (Dzūkai)]] and East. Each subdialect is divided into smaller units - speeches (šnektos).
+Диалектілердің өздері кіші диалектілерге бөлінген. Екі диалектінің екеуі де үш кіші диалектіге бөлінген. Әдеби тіл батыс аукштайт диалектілеріне негізделген. 
 
-The standard Lithuanian is derived mostly from Western Aukštaitian dialects, including the Eastern dialect of [[Lithuania Minor]]. Influence of other dialects is more significant in vocabulary of the standard Lithuanian.
 
 ==Дыбыстары==
 <!--
@@ -63,17 +62,17 @@ Description of the sound set of the language. Can include phoneme charts and exa
 Vowel chart and discussion of vowels.
 -->
 {{IPA notice}}
-Lithuanian has 12 written vowels.  In addition to the standard Roman letters, the [[ogonek]] ('little tail') accent (conventionally known as the caudata) is used to indicate long vowels, and is a historical relic of a time when these vowels were nasalized (as ogonek vowels are in modern [[Polish language|Polish]]), and at an even earlier time had made diphthongs with an 'n' sound.
+Литван тілінде 12 жазба дауысты дыбыс бар. Латын әліпбиінің негізгі әріптеріне қоса «огонек» (яғни құйрықша) ұзын дауыстыларды белгілеу үшін қолданылады. Бұл осы дауыстылардың [[назализация]]ланған кезінен қалған тарихи белгі. Дәл сондай огонек құйрықшалары [[поляк тілі]]нде де бар, онда ол мұрын жолымен айтылатын дыбыстарды белгілеуге қолданылады.
 
 {| class="wikitable" style="margin-left:3em; text-align:center"
-! align="left" WIDTH=100|Majuscule
+! align="left" WIDTH=100|Бас әріп
 | WIDTH=25|A || WIDTH=25|Ą
 | WIDTH=25|E || WIDTH=25|Ę || WIDTH=25|Ė
 | WIDTH=25|I || WIDTH=25|Į || WIDTH=25|Y
 | WIDTH=25|O
 | WIDTH=25|U || WIDTH=25|Ų || WIDTH=25|Ū
 |-
-! align="left"|Minuscule
+! align="left"|Кіші әріп
 | a || ą
 | e || ę || ė
 | i || į || y
