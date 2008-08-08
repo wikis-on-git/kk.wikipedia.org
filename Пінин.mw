@@ -180,3 +180,23 @@
 |-
 ! colspan ="22" | Бастауыштар
 |}
+
+::<b>Түстердің шартты белгілері:</b>
+::{| class="wikitable"
+|-
+! align="left" | "тұрақты" бастауыш не аяқтауыш
+Аяқтауыш ''a'' тобында, не мыналардың тікелей қисындасуы:
+*i+''a'' тобындағы аяқтауыш 
+*u+''a'' тобындағы аяқтауыш 
+*ü+''a'' тобындағы аяқтауыш 
+|-
+! align="left" style="background: rgb(204, 204, 204);" | ''i'', ''u'', ''ü'' топтарындағы аяқтауыш мыналардың түрлендірген қисындасуы:
+*i+''a'' тобындағы аяқтауыш 
+*u+''a'' тобындағы аяқтауыш 
+*ü+''a'' тобындағы аяқтауыш 
+|-
+| syllable is direct combination of initial and final 
+(or follows rules for ''no-initial'' syllables outlined at the top of the page)
+|-
+| style="background: rgb(255, 255, 204);"| syllable is modified combination of initial and final 
+|}
