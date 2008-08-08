@@ -1,0 +1,182 @@
+'''Пінин''' ('''Pinyin''', '''Hanyu Pinyin''') - [[қытай тілі]]нде пайдаланылатын латындандырылған дыбыстаңба жүйесі.
+
+== Пінин кестесі ==
+{| class="wikitable" style="font-size: smaller;"
+|-
+! rowspan="2" colspan="2" | Аяқтау-<br>ыштар
+! colspan ="22" | Бастауыштар
+! rowspan="2" colspan="2" | Аяқтау-<br>ыштар
+|-
+! (дара) !! b !! p !! m !! f !! d !! t !! n !! l !! g !! k !! h !! j !! q !! x !! zh !! ch !! sh !! r !! z !! c !! s
+|-
+! rowspan="14" | ''a''<br>то-<br>бы
+! -i
+|  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || zhi<br>[жи] || chi<br>[чи] || shi<br>[ши] || ri<br>[ржи] || zi<br>[дзи] || ci<br>[ци] || si<br>[си]
+! -i
+! rowspan="14" | ''a''<br>то-<br>бы 
+|-
+! a
+| a<br>[а] || ba<br>[ба] || pa<br>[па] || ma<br>[ма] || fa<br>[фа] || da<br>[да] || ta<br>[та] || na<br>[на] || la<br>[ла] || ga<br>[гә] || ka<br>[кә] || ha<br>[ха] ||  ||  ||  || zha<br>[жа] || cha<br>[ча] || sha<br>[ша] ||  || za<br>[дза] || ca<br>[ца] || sa<br>[са]
+! a
+|-
+! o
+| o<br>[о] || bo<br>[бо] || po<br>[по] || mo<br>[мо] || fo<br>[фо] ||  ||  ||  || lo<br>[лө] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+! o
+|-
+! e
+| e<br>[ы] ||  ||  || me<br>[мы] ||  || de<br>[ды] || te<br>[ты] || ne<br>[ны] || le<br>[лы] || ge<br>[гі] || ke<br>[кі] || he<br>[хы] ||  ||  ||  || zhe<br>[жы] || che<br>[чы] || she<br>[шы] || re<br>[ржы] || ze<br>[дзы] || ce<br>[цы] || se<br>[сы]
+! e
+|-
+! ê
+| ê<br>[е] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+! ê
+|-
+! ai
+| ai<br>[ай] || bai<br>[бай] || pai<br>[пай] || mai<br>[май] ||  || dai<br>[дай] || tai<br>[тай] || nai<br>[най] || lai<br>[лай] || gai<br>[гәй] || kai<br>[кәй] || hai<br>[хай] ||  ||  ||  || zhai<br>[жай] || chai<br>[чай] || shai<br>[шай] ||  || zai<br>[дзай] || cai<br>[цай] || sai<br>[сай]
+! ai
+|-
+! ei
+| ei<br>[ей] || bei<br>[бей] || pei<br>[пей] || mei<br>[мей] || fei<br>[фей] || dei<br>[дей] ||  || nei<br>[ней] || lei<br>[лей] || gei<br>[гей] || kei<br>[кей] || hei<br>[хей] ||  ||  ||  || zhei<br>[ржей] ||  || shei<br>[шей] ||  || zei<br>[дзей] ||  || 
+! ei
+|-
+! ao
+| ao<br>[ау] || bao<br>[бау] || pao<br>[пау] || mao<br>[мау] ||  || dao<br>[дау] || tao<br>[тау] || nao<br>[нау] || lao<br>[лау] || gao<br>[гәу] || kao<br>[кәу] || hao<br>[хау] ||  ||  ||  || zhao<br>[жау] || chao<br>[чау] || shao<br>[шау] || rao<br>[ржау] || zao<br>[дзау] || cao<br>[цау] || sao<br>[сау]
+! ao
+|-
+! ou
+| ou<br>[оу] ||  || pou<br>[поу] || mou<br>[моу] || fou<br>[фоу] || dou<br>[доу] || tou<br>[тоу] || nou<br>[ноу] || lou<br>[лоу] || gou<br>[гөу] || kou<br>[көу] || hou<br>[хоу] ||  ||  ||  || zhou<br>[жоу] || chou<br>[чоу] || shou<br>[шоу] || rou<br>[ржоу] || zou<br>[дзоу] || cou<br>[цоу] || sou<br>[соу]
+! ou
+|-
+! an
+| an<br>[ан] || ban<br>[бан] || pan<br>[пан] || man<br>[ман] || fan<br>[фан] || dan<br>[дан] || tan<br>[тан] || nan<br>[нан] || lan<br>[лан] || gan<br>[гән] || kan<br>[кән] || han<br>[хан] ||  ||  ||  || zhan<br>[жан] || chan<br>[чан] || shan<br>[шан] || ran<br>[ржан] || zan<br>[дзан] || can<br>[цан] || san<br>[сан]
+! an
+|-
+! en
+| en<br>[ын] || ben<br>[бын] || pen<br>[пын] || men<br>[мын] || fen<br>[фын] ||  ||  || nen<br>[нын] ||  || gen<br>[гін] || ken<br>[кін] || hen<br>[хын] ||  ||  ||  || zhen<br>[жен] || chen<br>[чен] || shen<br>[шен] || ren<br>[ржен] || zen<br>[дзын] || cen<br>[цын] || sen<br>[сын]
+! en
+|-
+! ang
+| ang<br>[аң] || bang<br>[баң] || pang<br>[паң] || mang<br>[маң] || fang<br>[фаң] || dang<br>[даң] || tang<br>[таң] || nang<br>[наң] || lang<br>[лаң] || gang<br>[гәң] || kang<br>[кәң] || hang<br>[хаң] ||  ||  ||  || zhang<br>[жаң] || chang<br>[чаң] || shang<br>[шаң] || rang<br>[ржаң] || zang<br>[дзаң] || cang<br>[цаң] || sang<br>[саң]
+! ang
+|-
+! eng
+| eng<br>[ың] || beng<br>[бың] || peng<br>[пың] || meng<br>[мың] || feng<br>[фың] || deng<br>[дың] || teng<br>[тың] || neng<br>[ның] || leng<br>[лың] || geng<br>[гің] || keng<br>[кің] || heng<br>[хың] ||  ||  ||  || zheng<br>[жың] || cheng<br>[чың] || sheng<br>[шың] || reng<br>[ржың] || zeng<br>[дзың] || ceng<br>[цың] || seng<br>[сың]
+! eng
+|-
+! er
+| er<br>[ар] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+! er
+|-
+! rowspan="11" | ''i''<br>то-<br>бы 
+! i
+| style="background: rgb(255, 255, 204);" | yi<br>[и] || bi<br>[бі] || pi<br>[пі] || mi<br>[мі] ||  || di<br>[ді] || ti<br>[ті] || ni<br>[ні] || li<br>[лі] ||  ||  ||  || ji<br>[жі] || qi<br>[чі] || xi<br>[ші] ||  ||  ||  ||  ||  ||  || 
+! i
+! rowspan="11" | ''i''<br>то-<br>бы 
+|-
+|-
+! ia
+| ya<br>[я] ||  ||  ||  ||  ||  ||  ||  || lia<br>[лія] ||  ||  ||  || jia<br>[жія] || qia<br>[чія] || xia<br>[шія] ||  ||  ||  ||  ||  ||  || 
+! ia
+|-
+! io
+| yo || йо ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
+! io
+|-
+! style="background: rgb(204, 204, 204);" | ie
+| ye<br>[е] || bie<br>[біе] || pie<br>[піе] || mie<br>[міе] ||  || die<br>[діе] || tie<br>[тіе] || nie<br>[ніе] || lie<br>[ліе] ||  ||  ||  || jie<br>[жіе] || qie<br>[чіе] || xie<br>[шіе] ||  ||  ||  ||  ||  ||  || 
+! style="background: rgb(204, 204, 204);" | ie
+|-
+! 
+| 
+! 
+|-
+! iao
+| yao<br>[яу] || biao<br>[біяу] || piao<br>[піяу] || miao<br>[міяу] ||  || diao<br>[діяу] || tiao<br>[тіяу] || niao<br>[ніяу] || liao<br>[ліяу] ||  ||  ||  || jiao<br>[жіяу] || qiao<br>[чіяу] || xiao<br>[шіяу] ||  ||  ||  ||  ||  ||  || 
+! iao
+|-
+! style="background: rgb(204, 204, 204);" | iu
+| style="background: rgb(255, 255, 204);"| you<br>[йоу] ||  ||  || miu<br>[миоу] ||  || diu<br>[диоу] ||  || niu<br>[ниоу] || liu<br>[лиоу] ||  ||  ||  || jiu<br>[жиоу] || qiu<br>[чиоу] || xiu<br>[шиоу] ||  ||  ||  ||  ||  ||  || 
+! style="background: rgb(204, 204, 204);" | iu
+|-
+! ian
+| yan<br>[ян] || bian<br>[біян] || pian<br>[піян] || mian<br>[міян] ||  || dian<br>[діян] || tian<br>[тіян] || nian<br>[ніян] || lian<br>[ліян] ||  ||  ||  || jian<br>[жіян] || qian<br>[чіян] || xian<br>[шіян] ||  ||  ||  ||  ||  ||  || 
+! ian
+|-
+! style="background: rgb(204, 204, 204);"  | in
+| style="background: rgb(255, 255, 204);" | yin<br>[ин] || bin<br>[бін] || pin<br>[пін] || min<br>[мін] ||  ||  ||  || nin<br>[нің] || lin<br>[лін] ||  ||  ||  || jin<br>[жін] || qin<br>[чін] || xin<br>[шін] ||  ||  ||  ||  ||  ||  || 
+! style="background: rgb(204, 204, 204);"  | in
+|-
+! iang
+| yang<br>[яң] ||  ||  ||  ||  ||  ||  || niang<br>[ніяң] || liang<br>[ліяң] ||  ||  ||  || jiang<br>[жіяң] || qiang<br>[чіяң] || xiang<br>[шіяң] ||  ||  ||  ||  ||  ||  || 
+! iang
+|-
+! style="background: rgb(204, 204, 204);"  | ing
+| style="background: rgb(255, 255, 204);" | ying<br>[иң] || bing<br>[бің] || ping<br>[пің] || ming<br>[мің] ||  || ding<br>[дің] || ting<br>[тің] || ning<br>[нің] || ling<br>[лің] ||  ||  ||  || jing<br>[жің] || qing<br>[чің] || xing<br>[шің] ||  ||  ||  ||  ||  ||  || 
+! style="background: rgb(204, 204, 204);"  | ing
+|-
+! rowspan="9" | ''u''<br>то-<br>бы 
+! u
+| style="background: rgb(255, 255, 204);" | wu<br>[у] || bu<br>[бұ] || pu<br>[пұ] || mu<br>[мұ] || fu<br>[фұ] || du<br>[дұ] || tu<br>[тұ] || nu<br>[нұ] || lu<br>[лұ] || gu<br>[гү] || ku<br>[кү] || hu<br>[хұ] ||  ||  ||  || zhu<br>[жұ] || chu<br>[чұ] || shu<br>[шұ] || ru<br>[ржұ] || zu<br>[дзұ] || cu<br>[цұ] || su<br>[сұ]
+! u
+! rowspan="9" | ''u''<br>то-<br>бы  
+|-
+! ua
+| wa<br>[уа] ||  ||  ||  ||  ||  ||  ||  ||  || gua<br>[гуа] || kua<br>[куа] || hua<br>[хуа] ||  ||  ||  || zhua<br>[жуа] || chua<br>[чуа] || shua<br>[шуа] ||  ||  ||  || 
+! ua
+|-
+! uo
+| wo<br>[о] ||  ||  ||  ||  || duo<br>[до] || tuo<br>[то] || nuo<br>[но] || luo<br>[ло] || guo<br>[гө] || kuo<br>[кө] || huo<br>[хо] ||  ||  ||  || zhuo<br>[жо] || chuo<br>[чо] || shuo<br>[шо] || ruo<br>[ржо] || zuo<br>[дзо] || cuo<br>[цо] || suo<br>[со]
+! uo
+|-
+! uai
+| wai<br>[уай] ||  ||  ||  ||  ||  ||  ||  ||  || guai<br>[гуай] || kuai<br>[куай] || huai<br>[хуай] ||  ||  ||  || zhuai<br>[жуай] || chuai<br>[чуай] || shuai<br>[шуай] ||  ||  ||  || 
+! uai
+|-
+! style="background: rgb(204, 204, 204);" | ui
+| style="background: rgb(255, 255, 204);"| wei <br>[уей]||  ||  ||  ||  || dui<br>[дуей] || tui<br>[туей] ||  ||  || gui<br>[гуей] || kui <br>[куей]|| hui<br>[хуей] ||  ||  ||  || zhui<br>[жуей] || chui<br>[чуей] || shui<br>[шуей] || rui<br>[ржуей] || zui<br>[дзуей] || cui<br>[цуей] || sui<br>[суей]
+! style="background: rgb(204, 204, 204);" | ui
+|-
+! uan
+| wan<br>[уан] ||  ||  ||  ||  || duan<br>[дуан] || tuan<br>[туан] || nuan<br>[нуан] || luan<br>[луан] || guan<br>[гуан] || kuan<br>[куан] || huan<br>[хуан] ||  ||  ||  || zhuan<br>[жуан] || chuan<br>[чуан] || shuan<br>[шуан] || ruan<br>[ржуан] || zuan<br>[дзуан] || cuan<br>[цуан] || suan<br>[суан]
+! uan
+|-
+! style="background: rgb(204, 204, 204);" | un
+| style="background: rgb(255, 255, 204);"| wen<br>[ун] ||  ||  ||  ||  || dun<br>[дун] || tun<br>[тун] ||  || lun<br>[лун] || gun<br>[гун] || kun<br>[кун] || hun<br>[хун] ||  ||  ||  || zhun<br>[жун] || chun<br>[чун] || shun<br>[шун] || run<br>[ржун] || zun<br>[дзун] || cun<br>[цун] || sun<br>[сун]
+! style="background: rgb(204, 204, 204);" | un
+|-
+! uang
+| wang<br>[уаң] ||  ||  ||  ||  ||  ||  ||  ||  || guang<br>[гуаң] || kuang<br>[куаң] || huang<br>[хуаң] ||  ||  ||  || zhuang<br>[жуаң] || chuang<br>[чуаң] || shuang<br>[шуаң] ||  ||  ||  || 
+! uang
+|-
+! style="background: rgb(204, 204, 204);" | ong
+| style="background: rgb(255, 255, 204);"| weng<br>[уң] ||  ||  ||  ||  || dong<br>[дуң] || tong<br>[туң] || nong<br>[нуң] || long<br>[луң] || gong<br>[гуң] || kong<br>[куң] || hong<br>[] ||  ||  ||  || zhong<br>[жуң] || chong<br>[чуң] ||  || rong<br>[ржуң] || zong<br>[дзуң] || cong<br>[цуң] || song<br>[суң]
+! style="background: rgb(204, 204, 204);" | ong
+|-
+! rowspan="5" | ''ü''<br>то-<br>бы  
+! ü
+| yu<br>[ю] ||  ||  ||  ||  ||  ||  || nü<br>[нү] || lü<br>[лү] ||  ||  ||  || style="background: rgb(255, 255, 204);"| ju<br>[зү] || style="background: rgb(255, 255, 204);"| qu<br>[чү] || style="background: rgb(255, 255, 204);"| xu<br>[шү] ||  ||  ||  ||  ||  ||  || 
+! ü
+! rowspan="5" | ''ü''<br>то-<br>бы 
+|-
+! ue
+| style="background: rgb(255, 255, 204);" | yue<br>[юе] ||  ||  ||  ||  ||  ||  || nue<br>[нүе] || lue<br>[лүе] ||  ||  ||  || jue<br>[жүе] || que<br>[чүе] || xue<br>[шүе] ||  ||  ||  ||  ||  ||  || 
+! ue
+|-
+! üan
+| yuan<br>[юен] ||  ||  ||  ||  ||  ||  ||  || ||  ||  ||  || style="background: rgb(255, 255, 204);"| juan<br>[жүен] || style="background: rgb(255, 255, 204);" | quan<br>[чүен] || style="background: rgb(255, 255, 204);"| xuan<br>[шүен] ||  ||  ||  ||  ||  ||  || 
+! üan
+|-
+! style="background: rgb(204, 204, 204);" | ün
+| yun<br>[үн] ||  ||  ||  ||  ||  ||  ||  || ||  ||  ||  || style="background: rgb(255, 255, 204);"| jun<br>[жүн] || style="background: rgb(255, 255, 204);"| qun<br>[чүн] || style="background: rgb(255, 255, 204);"| шүн<br>[] ||  ||  ||  ||  ||  ||  || 
+! style="background: rgb(204, 204, 204);" | ün
+|-
+! style="background: rgb(204, 204, 204);" | iong
+| yong<br>[юң] ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || jiong<br>[жіюң] || qiong<br>[чіюң] || xiong<br>[шіюң] ||  ||  ||  ||  ||  ||  || 
+! style="background: rgb(204, 204, 204);" | iong
+|-
+! rowspan="2" colspan="2" | Аяқтау-<br>ыштар
+! (дара) !! b !! p !! m !! f !! d !! t !! n !! l !! g !! k !! h !! j !! q !! x !! zh !! ch !! sh !! r !! z !! c !! s
+! rowspan="2" colspan="2" | Аяқтау-<br>ыштар
+|-
+! colspan ="22" | Бастауыштар
+|}
