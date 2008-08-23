@@ -1,7 +1,7 @@
 {{Infobox Country or territory
 |native_name              = ''Lietuvos Respublika''
-|conventional_long_name   = Republic of Lithuania
-|common_name              = Lithuania
+|conventional_long_name   = Литуания Республикасы
+|common_name              = Литуания 
 |image_flag               = Flag of Lithuania.svg
 |image_coat               = Coat of Arms of Lithuania.svg
 |image_map                = EU_location_LIT.png
@@ -9,15 +9,15 @@
 |national_motto           = ''Tautos jėga vienybėje!'' (Strength of the nation is unity)
 |national_anthem          = ''[[Tautiška giesmė]]''
 |official_languages       = [[Lithuanian language|Lithuanian]]
-|capital                  = [[Image:Vilnius city COA.gif|28px]]&nbsp;[[Vilnius]]
+|capital                  = [[Image:Vilnius city COA.gif|28px]]&nbsp;[[Вильнюс]]
 |latd=54 |latm=40 |latNS=N |longd=25 |longm=19 |longEW=E
-|largest_city             = [[Image:Vilnius city COA.gif|28px]]&nbsp;[[Vilnius]]
-|government_type          = [[Parliamentary democracy]]
-|leader_title1            = [[List of Lithuanian rulers|President]]
-|leader_title2            = [[Prime Minister of Lithuania|Prime Minister]]
-|leader_name1             = [[Valdas Adamkus]]
-|leader_name2             = [[Gediminas Kirkilas]]
-|accessionEUdate          = [[May 1]] [[2004]]
+|largest_city             = [[Image:Vilnius city COA.gif|28px]]&nbsp;[[Вильнюс]]
+|government_type          = Республика
+|leader_title1            = [[Литуания Президенті|Президенті]]
+|leader_title2            = [[Литуания Премьер-Министрі|Премьер-Министрі]]
+|leader_name1             = [[Валдас Адамкус]]
+|leader_name2             = [[Гедиминас Киркилас]]
+|accessionEUdate          = [[2004]] [[Мамырдың 1]]
 |area_rank                = 123rd
 |area_magnitude           = 1 E10
 |area                     = 65,303
@@ -36,20 +36,17 @@
 |GDP_PPP_year             = 2005
 |GDP_PPP_per_capita       = $14,158
 |GDP_PPP_per_capita_rank  = 49th
-|sovereignty_type         = [[History of Lithuania|Independence]]
-|sovereignty_note         = from the [[Russian Empire]]
-|established_event1       = Declared
-|established_date1        = [[February 16]] [[1918]]
-|sovereignty_note         = from the [[Soviet Union]]
-|established_event2       = Declared
+|sovereignty_type         = [[КСРО ыдырауы|Тәуелсіздігі]]
+|sovereignty_note         = [[КСРО]] елінен
+|established_event2       = Декларация
 |established_event3       = Recognized
-|established_date2        = [[March 11]] [[1990]]
-|established_date3        = [[September 6]] [[1991]]
+|established_date2        = [[1990]] [[Наурыздың 11]]
+|established_date3        = [[1991]] [[Қыркүйектің 6]]
 |HDI                      = {{increase}} 0.857
 |HDI_rank                 = 41st
 |HDI_year                 = 2004
 |HDI_category             = <font color="#009900">high</font>
-|currency                 = [[Lithuanian litas]] (Lt)
+|currency                 = [[лит]]
 |currency_code            = LTL
 |country_code             = 
 |time_zone                = [[Eastern European Time|EET]]
