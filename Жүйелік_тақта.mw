@@ -1,1 +1,89 @@
+{{Infobox Computer Hardware Generic
+| name        = Motherboard
+| image       = Cusl2c.png
+| caption     = The [[ASUS]] CUSL2-C motherboard
+| invent-date = 
+| invent-name = 
+| conn1       = [[Microprocessor]]s
+| via1_1      = [[CPU socket|sockets]]
+| conn2       = [[primary memory|Main memory]]
+| via2_1      = Slots
+| conn3       = [[Peripheral]]s
+| via3_1      = [[Computer port (hardware)|External ports]]
+| via3_2      = Internal cables
+| conn4       = [[Expansion card]]s
+| via4_1      = [[Peripheral Component Interconnect|PCI]] bus
+| via4_2      = [[Accelerated Graphics Port|AGP]] bus
+| via4_3      = [[PCI Express]] bus
+| via4_4      = [[Computer bus#Examples of internal computer buses|Others]]
+| class-name  = Form factors
+| class1      = [[ATX]]
+| class2      = [[microATX]]
+| class3      = [[#Form factors|Others]]
+| manuf1      = [[ASUS]]
+| manuf2      = [[Foxconn]]
+| manuf3      = [[Intel]]
+| manuf4      = [[List of computer hardware manufacturers#Motherboards|Others]]
+}}
 '''Жүйелік тақта''' – [[жүйелік блок]]тың ішіндегі үлкен тақта, онда бірқатар кішкенек электрондық сұлбалар мен басқа да құраластар орналасқан. Ол компьютердің бірнеше аса маңызды құраласын қамтиды.
+
+== Сыртқы сілтемелер ==
+{{commons|Category:Computer motherboards|Computer motherboards}}
+
+{{stub}}
+
+[[Санат:Жүйелік тақталар]]
+
+[[ar:لوحة أم]]
+[[bs:Matična ploča]]
+[[br:Pennwal]]
+[[bg:Дънна платка]]
+[[ca:Placa mare]]
+[[cs:Základní deska]]
+[[da:Bundkort]]
+[[de:Hauptplatine]]
+[[et:Emaplaat]]
+[[el:Μητρική κάρτα]]
+[[es:Placa base]]
+[[eo:Ĉeftabulo]]
+[[eu:Txartel nagusi]]
+[[fa:برد مادر]]
+[[fr:Carte mère]]
+[[fy:Memmeboerd]]
+[[fur:Schede mari]]
+[[ga:Máthairchlár]]
+[[gl:Placa base]]
+[[ko:메인보드]]
+[[hr:Matična ploča]]
+[[id:Papan induk]]
+[[is:Móðurborð]]
+[[it:Scheda madre]]
+[[he:לוח אם]]
+[[ka:დედაპლატა]]
+[[lv:Mātes plate]]
+[[lt:Pagrindinė plokštė]]
+[[hu:Alaplap]]
+[[ml:മദര്‍ബോഡ്]]
+[[ms:Papan induk]]
+[[nl:Moederbord]]
+[[ja:マザーボード]]
+[[no:Hovedkort]]
+[[nn:Hovudkort]]
+[[pl:Płyta główna]]
+[[pt:Placa-mãe]]
+[[ru:Материнская плата]]
+[[sq:Karta e zërit]]
+[[simple:Motherboard]]
+[[sk:Matičná doska]]
+[[sl:Matična plošča]]
+[[sr:Матична плоча]]
+[[sh:Matična ploča]]
+[[fi:Emolevy]]
+[[sv:Moderkort]]
+[[th:เมนบอร์ด]]
+[[vi:Bo mạch chủ]]
+[[tr:Anakart]]
+[[uk:Материнська плата]]
+[[vls:Moederbord]]
+[[yi:מוטער פלאטע]]
+[[zh:主板]]
