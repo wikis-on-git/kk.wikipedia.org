@@ -1,1 +1,79 @@
-[[Дыбыстауыш тақта]] – бұл [[жүйелік блок]]тағы құрылғы, оның көмегімен компьютер дыбысты қабылдайды, өңдейді және жаңғыртады.
+{{Infobox Computer Hardware Generic
+| name        = Sound Card
+| alert       = Turner will name his future child Ogg Vorbis?
+| image       = Sblive!.jpg
+| caption     = A [[Sound Blaster]] Live! Value card, a typical (circa 2000) [[Peripheral Component Interconnect|PCI]] sound card.
+| conn1       = Motherboard
+| via1_1      = [[Peripheral Component Interconnect|PCI]]
+| via1_2      = [[Industry Standard Architecture|ISA]]
+| via1_4      = [[Universal Serial Bus|USB]]
+| via1_5      = [[FireWire|IEEE 1394]]
+| via1_6      = [[IEEE 1284|IBM PC Parallel Port]]
+| via1_8      = Dedicated interconnect (onboard or via [[Advanced Communications Riser]] port)
+| via1_7      = [[PCI-E]]
+| conn2       = Line in or out:
+| via2_1      = Analogue - [[TRS connector|TRS]], [[RCA connector|RCA]] or [[DIN connector]]
+| via2_2      = Digital - RCA, [[TOSLINK|TOSLink]] or [[AES/EBU]]
+| conn3       = Microphone 
+| via3_1      = TRS connector
+| via3_2      = DIN connector
+| class-name  = 
+| class1      = 
+| manuf1      = [[Creative Labs]]
+| manuf2      = [[Realtek]]
+| manuf3      = [[C-Media]]
+| manuf4      = [[M-Audio]]
+| manuf5      = [[E-mu Systems]]
+}}
+'''Дыбыстауыш тақта''' – бұл [[жүйелік блок]]тағы құрылғы, оның көмегімен компьютер дыбысты қабылдайды, өңдейді және жаңғыртады.
+
+== Сыртқы сілтемелер ==
+{{Commons|Sound card}}
+
+{{Processing units}}
+
+{{stub}}
+
+<!--Categories-->
+[[Category:Дыбыстауыш тақталар]]
+[[Category:Компьютер құрылғылары]]
+
+
+<!--Other languages-->
+
+[[bs:Zvučna kartica]]
+[[bg:Звукова карта]]
+[[ca:Targeta de so]]
+[[cs:Zvuková karta]]
+[[de:Soundkarte]]
+[[el:Κάρτα ήχου]]
+[[es:Tarjeta de sonido]]
+[[eo:Sonkarto]]
+[[eu:Soinu-txartel]]
+[[fa:کارت صدا]]
+[[fr:Carte de traitement sonore]]
+[[gl:Tarxeta de son]]
+[[ko:사운드 카드]]
+[[hr:Zvučna kartica]]
+[[id:Kartu suara]]
+[[it:Scheda audio]]
+[[he:כרטיס קול]]
+[[hu:Hangkártya]]
+[[ms:Kad bunyi]]
+[[nl:Geluidskaart]]
+[[ja:サウンドカード]]
+[[no:Lydkort]]
+[[pl:Karta dźwiękowa]]
+[[pt:Placa de som]]
+[[ru:Звуковая плата]]
+[[simple:Sound card]]
+[[sk:Zvuková karta]]
+[[sr:Звучна картица]]
+[[sh:Zvučna kartica]]
+[[fi:Äänikortti]]
+[[sv:Ljudkort]]
+[[th:การ์ดเสียง]]
+[[vi:Bo mạch âm thanh]]
+[[tr:Ses kartı]]
+[[uk:Звукова плата]]
+[[zh:声卡]]
