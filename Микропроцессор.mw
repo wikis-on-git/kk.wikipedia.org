@@ -1,5 +1,69 @@
+{{Infobox Computer Hardware Generic
+| name        = Microprocessor
+[[Image:80486dx2-large.jpg|250px|Die of an [[Intel 80486DX2]] microprocessor (actual size: 12&times;6.75&nbsp;mm) in its packaging]]
+| image       = 
+| caption     = Die of an [[Intel 80486DX2]] microprocessor (actual size: 12&times;6.75&nbsp;mm) in its packaging
+| invent-date = Late 1960s/Early 1970s (see article for explanation)
+| invent-name = 
+| conn1       = [[Printed circuit board]]
+| via1_1      = [[CPU socket|Socket]]
+| via1_2      = [[Soldering]]
+| class-name  = Architectures
+| class1      = [[PowerPC]], [[x86]], [[x86-64]], and many others (see below, and article)
+| class4      = [[Microprocessor#Architectures|Others]]
+| manuf1      = [[AMD]], [[Analog Devices]], [[Atmel]], [[Cypress Semiconductor|Cypress]], [[Fairchild]], [[Fujitsu]], [[Hitachi, Ltd.|Hitachi]], [[IBM]], [[Infineon]], [[Intel]], [[Intersil]], [[ITT Corporation|ITT]], [[Dallas Semiconductor|Maxim]], [[Microchip Technology|Microchip]], [[Mitsubishi Electric|Mitsubishi]], [[MOS Technology|Mostek]], [[Motorola]], [[National Semiconductor|National]], [[NEC]], [[NXP Semiconductors|NXP]], [[Oki Electric Industry|OKI]], [[Renesas Technology|Renesas]], [[Samsung]], [[Sharp Corporation|Sharp]], [[Siemens AG|Siemens]], [[Signetics]], [[ST Microelectronics|STM]], [[Synertek]], [[Texas Instruments|Texas]], [[Toshiba]], [[TSMC]], [[United Microelectronics Corporation|UMC]], [[Winbond]], [[Zilog]], and others.
+}}
 '''Микропроцессор''' — [[жүйелік тақта]]ның ең маңызды құраласы, ол деректерді тікелей өңдейді, атап айтқанда, бөлектелген деректермен арифметикалық және логикалық амалдарды орындайды.
 
 Микропроцессор бір мезгілде қатарынан 8, 16 немесе 32 биттік деректерді өңдей алады. 8 биттік процессор бір мезгілде небары бір бит дерекпен ғана жұмыс істей алады. 16 биттік процессор бір мезгілде 2 байт, ал 32 биттік процессор — 4 байт өңдейді.
 
 Жалпы алғанда 16 биттік компьютер 8 биттік жүйеден жылдамдырақ жұмыс істейді, ал 32 биттік компьютер 8 және 16 биттік үлгілерден жылдамырақ. Микропроцессор, жады және периферия құрылғылардың арасында дерек беру үрдісі шина арқылы жүзеге асырылады. Қазіргі заманғы процессорлардың көпшілігінде 32 биттік шина қолданылады, яғни бір мезетте 32 биттік дерек беруге болады. 64 биттік шиналы компьютер де болады, бірақ олар әлі кең тарай қойған жоқ.
+
+== Сыртқы сілтемелер ==
+{{commonscat|Microprocessors}}
+
+{{Processing units}}
+
+{{stub}}
+
+[[санат:Сандық электроника]]
+[[санат:Микропроцессорлар]]
+
+
+[[ar:معالج صغري]]
+[[br:Mikroprosesor]]
+[[bg:Микропроцесор]]
+[[ca:Microprocessador]]
+[[da:Mikroprocessor]]
+[[de:Mikroprozessor]]
+[[eo:Procesoro]]
+[[es:Microprocesador]]
+[[fa:ریزپردازنده]]
+[[fr:Microprocesseur]]
+[[hu:CPU]]
+[[hi:माइक्रोप्रोसेसर]]
+[[hr:Mikroprocesor]]
+[[id:Mikroprosesor]]
+[[is:Örgjörvi]]
+[[it:Microprocessore]]
+[[ka:მიკროპროცესორი]]
+[[ko:마이크로프로세서]]
+[[ku:Mîkroprosesor]]
+[[la:Processor]]
+[[lt:Mikroprocesorius]]
+[[mk:Микропроцесор]]
+[[ja:マイクロプロセッサ]]
+[[no:Mikroprosessor]]
+[[pl:Mikroprocesor]]
+[[pt:Microprocessador]]
+[[ro:Microprocesor]]
+[[ru:Микропроцессор]]
+[[simple:Microprocessor]]
+[[sr:Микропроцесор]]
+[[fi:Mikroprosessori]]
+[[sv:Mikroprocessor]]
+[[th:ไมโครโพรเซสเซอร์]]
+[[uk:Мікропроцесор]]
+[[vi:Vi xử lý]]
+[[tr:Mikroişlemciler]]
+[[zh:微处理器]]
