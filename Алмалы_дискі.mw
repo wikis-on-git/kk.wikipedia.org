@@ -1,11 +1,11 @@
 {{Infobox Computer Hardware Generic
-| name        = Floppy Disk Drive
+| name        = Алмалы дискі дискенгізгісі
 | image       = Floppy Disk Drives 8 5 3.jpg
-| caption     = 8-inch, 5¼-inch (full height), and 3½-inch drives
-| invent-date = 1969 (8-inch),<br/>1976 (5¼-inch),<br/>1984 (3½-inch)
-| invent-name = IBM team led by David Noble
-| conn1       = Controller
-| via1_1      = cable
+| caption     = 8 дюйм, 5¼ дюйм (толық  биікті), және 3½ дюйм дискенгізгілері
+| invent-date = 1969 (8 дюйм),<br/>1976 (5¼ дюйм),<br/>1984 (3½ дюйм)
+| invent-name = Девид Нобл (David Noble) басқарған IBM тобы 
+| conn1       = Контроллер (реттегіш)
+| via1_1      = кәбіл
 }}
 '''Алмалы дискі''' ({{lang-en|floppy disk}} - иілгіш дискі) — бұл деректердің шағын көлемі сиятын тасымалы дискі.
 
