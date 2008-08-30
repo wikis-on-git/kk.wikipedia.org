@@ -1,0 +1,37 @@
+{{Infobox Windows component
+| name                   = Windows Update
+| logo                   = Windows update icon.png
+| logo_size              = 48px
+| screenshot             = Windows Update Vista.png
+| caption                = Windows Update in [[Windows Vista]].
+| type                   = Network service
+| service_name           = wuauserv
+| service_description    = Windows Update
+| included_with          = 98, Me, 2000, XP, 2003, Vista, 2008
+| related_components     = [[Background Intelligent Transfer Service|BITS]], [[Windows Installer]], [[Internet Explorer]]
+}}
+'''Windows Update''' — Windows жүйесінің қауіпсіздік мүмкіндігі. 
+
+Бұл қауіпсіздік жаңартуларды, маңызды жаңартуларды және жаңарту бумаларын пайдаланушы белгілеген кесте бойынша өздіктік түрде қотарып алуға және орнатуға арналған. Сонымен қатар осы мүмкіндіктің көмегімен маңызды жаңартулардың пайда болғаны туралы құлақтандырулар алуға болады.
+
+{{Windows Components}}
+
+[[Category:Microsoft Windows]]
+[[Category:Patch utilities]]
+[[Category:Windows құрамдастары]]
+
+[[bg:Windows Update]]
+[[cs:Windows Update]]
+[[de:Microsoft Update]]
+[[es:Windows Update]]
+[[fr:Microsoft Update]]
+[[ko:윈도 업데이트]]
+[[it:Windows Update]]
+[[he:Windows Update]]
+[[hu:Windows Update]]
+[[ja:Microsoft Update]]
+[[pl:Windows Update]]
+[[pt:Windows Update]]
+[[simple:Windows Update]]
+[[sv:Microsoft Update]]
+[[zh:Microsoft Update]]
