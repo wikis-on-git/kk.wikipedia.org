@@ -123,6 +123,10 @@
 
 <!-- interwiki links -->
 
+{{Link FA|en}}
+{{Link FA|nl}}
+{{Link FA|yi}}
+
 [[af:Mars (planeet)]]
 [[als:Mars (Planet)]]
 [[an:Marte (planeta)]]
@@ -147,7 +151,7 @@
 [[de:Mars (Planet)]]
 [[diq:Mars]]
 [[el:Άρης (πλανήτης)]]
-[[en:Mars]] {{Link FA|en}}
+[[en:Mars]]
 [[eo:Marso]]
 [[es:Marte]]
 [[et:Marss]]
@@ -199,9 +203,10 @@
 [[nah:Chīchīlcītlalli]]
 [[nds:Mars (Planet)]]
 [[ne:मंगलग्रह]]
-[[nl:Mars (planeet)]] {{Link FA|nl}}
+[[nl:Mars (planeet)]]
 [[nn:Planeten Mars]]
 [[no:Mars (planet)]]
+[[nov:Mars (planete)]]
 [[oc:Mart (planeta)]]
 [[om:Mars]]
 [[os:Марс (планетæ)]]
@@ -235,7 +240,7 @@
 [[uz:Mars]]
 [[vi:Sao Hỏa]]
 [[wa:Måss (planete)]]
-[[yi:מאדים]] {{Link FA|yi}}
+[[yi:מאדים]]
 [[zh:火星]]
 [[zh-classical:火星]]
 [[zh-min-nan:Hoé-chheⁿ]]
