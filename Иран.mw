@@ -7,8 +7,8 @@
 |symbol_type              = Рәмізі 
 |image_map                = LocationIran01.png 
 |official_religion        = [[Ислам дінінің шиа тармағы]]
-|national_motto           = ''[[official]]'': ''Esteqlāl, āzādī, jomhūrī-ye eslāmī<ref>http://www.bookrags.com/browse/Encyclopedia%20of%20Religious%20Practices/50</ref>&nbsp;&nbsp;<br> <small>([[Парсы тілі|парсыша]]: "Тәуелсіздік, Азаттық, Ислам республикасы"</small></small>
-|national_anthem          = [[Sorud-e Melli-e Iran|''Sorūd-e Mellī-e Īrān'']]<ref>http://www.iranchamber.com/geography/articles/flag_anthem.php</ref>
+|national_motto           = استقلال آزادی جمهوری اسلامی<ref>http://www.bookrags.com/browse/Encyclopedia%20of%20Religious%20Practices/50</ref>&nbsp;&nbsp;<br> <small>([[Парсы тілі|парсыша]]: "Тәуелсіздік, Азаттық, Ислам республикасы"</small></small>
+|national_anthem          = [[Соруде меллийе Иран]]<ref>http://www.iranchamber.com/geography/articles/flag_anthem.php</ref>
 |capital                  = [[Теһран]]
 |latd=35 |latm=41 |latNS=N |longd=51 |longm=25 |longEW=E
 |official_languages       = [[Парсы тілі|парсыша]]
@@ -20,21 +20,25 @@
 |largest_city             = Теһран
 |sovereignty_type         = [[Мидия|Establishment]]
 |sovereignty_note         = 
-|established_event1       = [[Елам|Proto-Elamite Period]]
-|established_date1        = [[8000 BC]]
-|established_event2       = [[Елам|Middle-Elamite Period]]
-|established_date2        = [[3400 BC]] - [[550 BC]]
-|established_event3       = [[Мидия|Median Dynastic Empire (Creation of the First Iranian Dynastic Empire)]]
-|established_date3        = [[728 BC]] - [[550 BC]]
-|established_event4       = [[Ахемен әулеті|Achaemenid Dynastic Empire (Unification)]]
-|established_date4        = [[550 BC]] - [[330 BC]]
-|established_event5       = [[Парфия|Parthian (Arsacid) Dynastic Empire (First Reunification)]]
-|established_date5        = [[248 BC]] - [[224 AD]]
-|established_event6       = [[Сасан әулеті|Sassanid Dynastic Empire]]
-|established_date6        = [[224 AD]] - [[651]] AD
-|established_event7       = [[Сафауи әулеті|Safavid Dynasty (Second Reunification)]]
-|established_date7        = [[May]] [[1502]]
-|established_event8       = [[Iranian Constitution of 1906|First Constitution]]
+|established_event1      = [[Елам|Прото-Елам]]
+|established_date1        = 8000 до н.э.
+|established_event2      = [[Елам]]
+|established_date2        = 3400 до н.э. - 550 до н.э.
+|established_event3      = [[Мидия]]
+|established_date3        = 728 до н.э. - 550 до н.э.
+|established_event4      = [[Ахемен әулеті]]
+|established_date4        = 550 до н.э. - 330 до н.э.
+|established_event5      = [[Парфия]]
+|established_date5        = 248 до н.э. - 224 до н.э.
+|established_event6      = [[Сасан әулеті]]
+|established_date6        = [[224]] н.э. - [[651]] н.э.
+|established_event7      = [[Сафауи әулеті]]
+|established_date7        = Ордибехешт 881<br>([[Мамыр]] [[1502]])
+|established_event8      = Первая конституция
+|established_date8       = Мордад 13, 1285<br>([[1906]] [[Тамыздың 5]])
+|established_event9      = Исламская революция
+|established_date9        = Фарвардин 12, 1358<br> ([[1979]] [[Сәуірдің 1]])
+
 |area                     = 1,648,195
 |areami²                  = 636,372 <!--Do not remove per [[WP:MOSNUM]]-->
 |area_rank                = 17th
@@ -60,7 +64,7 @@
 |HDI                      = {{profit}}0.746
 |HDI_rank                 = 96th
 |HDI_category             = <font color="#FFCC00">medium</font>
-|currency                 = [[Iranian rial]] (<big>ريال</big>)
+|currency                 = [[риал]] (<big>ريال</big>)
 |currency_code            = IRR
 |time_zone                = 
 |utc_offset               = +3.30
