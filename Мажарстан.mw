@@ -5,19 +5,18 @@
 |image_flag               = Flag of Hungary.svg
 |image_coat               = Coat of arms of Hungary.png
 |image_map                = EU location HUN.png
-|map_caption              = Map showing the location of Hungary (dark orange) within the EU ([[:Image:EU location legend.png|legend]]).
-|national_motto           = none<br/><small>(Historically ''Regnum Mariae Patrona Hungariae'' ([[Latin]]),<br/>"Kingdom of Mary the Patroness of Hungary")</small>
-|national_anthem          = ''[[Himnusz]]'' ("Isten, áldd meg a magyart")<br/><small>"Hymn" ("God, bless the Hungarians")</small>
-|official_languages       = [[Hungarian language|Hungarian (''Magyar'')]]
-|capital                  = [[Image:Coat of arms of Budapest.png|30px]]&nbsp;[[Budapest]]
+|map_caption              = Map showing the location of Hungary (dark orange) within the EU ([[:Сурет:EU location legend.png|legend]]).
+|national_anthem          = ''[[Himnusz]]'' ("Isten, áldd meg a magyart")<br/><small>"Гимн" ("Боже, благослови венгров")</small>
+|official_languages       = мажар
+|capital                  = [[Сурет:Coat of arms of Budapest.png|30px]]&nbsp;[[Будапешт]]
 |latd=47 |latm=26 |latNS=N |longd=19 |longm=15 |longEW=E
-|largest_city             = [[Image:Coat of arms of Budapest.png|30px]]&nbsp;[[Budapest]]
-|government_type          = [[Parliamentary system|Parliamentary]]&nbsp;[[republic]]
-|leader_title1            = [[President of Hungary|President]]
-|leader_title2            = [[Prime minister of Hungary|Prime minister]]
-|leader_name1             = [[László Sólyom]]
-|leader_name2             = [[Ferenc Gyurcsány]]
-|accessionEUdate          = [[May 1]] [[2004]]
+|largest_city             = [[Сурет:Coat of arms of Budapest.png|30px]]&nbsp;[[Будапешт]]
+|government_type          = республика
+|leader_title1            = [[Мажарстан президенті|Президент]]
+|leader_title2            = [[Мажарстан премьер-министрі|Премьер-министр]]
+|leader_name1             = [[Ласло Шойом]]
+|leader_name2             = [[Ференц Дьюрчань]]
+|accessionEUdate          = [[2004]] [[Мамырдың 1]]
 |area_rank                = 109th
 |area_magnitude           = 1 E10
 |area                     = 93,030
@@ -36,20 +35,22 @@
 |GDP_PPP_rank             = 48th
 |GDP_PPP_per_capita       = $17,405
 |GDP_PPP_per_capita_rank  = 40th
-|sovereignty_type         = [[Independence]]
-|established_event4       = Republic of Hungary
-|established_date4        = [[1989]]
-|established_event3       = Dissolution<br/>{{nbsp|3}}of Austria-Hungary
-|established_date3        = <br/>[[1918]]
-|established_event2       = Kingdom of Hungary
-|established_date2        = December [[1000]]  
-|established_event1       = {{nowrap|Principality of Hungary}}
+|sovereignty_type         = Тәуелсіздік
+|established_event1       = Княздығы
 |established_date1        = [[896]]
+|established_event2       = Kорольдігі
+|established_date2        = [[1000]] Желтоқсан
+|established_event3       = Аустрия-Мажарстан елінен
+|established_date3        = [[1918]]
+|established_event4       = Халық Республикасы
+|established_date4        = [[1949]] [[Тамыздың 18]] 
+|established_event5      = Республикасы
+|established_date5        = [[1989]] [[Қазанның 23]]
 |HDI_year                 = 2004
 |HDI                      = {{increase}} 0.869
 |HDI_rank                 = 35th
 |HDI_category             = <font color="#009900">high</font>
-|currency                 = [[Hungarian forint|Forint]]
+|currency                 = [[форинт]]
 |currency_code            = HUF
 |country_code             = hu
 |time_zone                = [[Central European Time|CET]]
@@ -64,7 +65,7 @@
 |ISO_3166-1_numeric       = 348
 |sport_code               = HUN
 |vehicle_code             = H
-|footnotes                = <sup>1</sup> Also [[.eu]] as part of the European Union.
+|footnotes                = <sup>1</sup> Также .eu для Европейского Союза.
 }}
 '''Мажарстан'''
 
