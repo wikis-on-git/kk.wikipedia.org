@@ -1,20 +1,20 @@
 {{Infobox Country or territory
 |native_name              = ''Republika e Shqipërisë''
-|conventional_long_name   = Republic of Albania
-|common_name              = Albania
+|conventional_long_name   = Албания Республикасы
+|common_name              = Албания
 |image_flag               = Flag of Albania.svg
 |image_coat               = Albania state emblem.png|150px
 |image_map                = Europe location ALB.png
-|national_anthem          = ''[[Himni i Flamurit]]''<small><br/>"Hymn to the Flag"</small>
-|official_languages       = [[Albanian language|Albanian]]<sup>1</sup>
-|capital                  = [[Image:Wappen Tirana.gif|22px]]&nbsp;[[Tirana]]
+|national_anthem          = ''Himni i Flamurit''
+|official_languages       = Албанский
+|capital                  = [[Сурет:Wappen Tirana.gif|22px]]&nbsp;[[Тирана]]
 |latd=41 |latm=20 |latNS=N |longd=19 |longm=48 |longEW=E
-|largest_city             = [[Image:Wappen Tirana.gif|22px]]&nbsp;[[Tirana]]
-|government_type          = [[Republic]]
-|leader_title1            = [[List of Presidents of Albania|President]]
-|leader_title2            = [[List of Prime Ministers of Albania|Prime Minister]]
-|leader_name1             = [[Bamir Topi]]
-|leader_name2             = [[Sali Berisha]]
+|largest_city             = [[Сурет:Wappen Tirana.gif|22px]]&nbsp;[[Тирана]]
+|government_type          = [[Республика]]
+|leader_title1            = [[Албания Президенті|Президенті]]
+|leader_title2            = [[Албания премьер-министрі|Премьер-министрі]]
+|leader_name1             = [[Бамир Топи]]
+|leader_name2             = [[Сали Бериша]]
 |area_rank                = 139th
 |area_magnitude           = 1 E10
 |area                     = 28&nbsp;748
@@ -37,11 +37,11 @@
 |HDI                      = 0.784
 |HDI_rank                 = 73rd
 |HDI_category             = <font color="#ffcc00">medium</font>
-|sovereignty_type         = [[Independence]]
-|sovereignty_note         = from the [[Ottoman Empire]]
-|established_event1       = Date
-|established_date1        = [[November 28]] [[1912]]
-|currency                 = [[Lek (currency)|Lek]]
+|sovereignty_type         = Тәуелсіздігі
+|sovereignty_note         = от [[Османлы империясы]]
+|established_event1       = Тәуелсіздігі
+|established_date1        = [[1912]] [[Қарашаның 28]]
+|currency                 = Лек
 |currency_code            = ALL
 |country_code             = AL
 |time_zone                = [[Central European Time|CET]]
@@ -50,7 +50,6 @@
 |utc_offset_DST           = +2
 |cctld                    = [[.al]]
 |calling_code             = 355
-|footnotes                = <sup>1</sup>[[Italian language|Italian]] widely spoken
 }}
 '''Албания'''
 
