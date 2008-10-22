@@ -63,7 +63,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''35'''
-|align=center|{{flagicon|CAN}}
+|align=center|{{CAN}}
 |[[Marc Lamothe]]
 |align=center|[[Goalie (ice hockey)|G]]
 |align=center|L
@@ -73,20 +73,20 @@
 |}
 
 {| width=70%
-!colspan=8 |<center><big>Defencemen
+!colspan=8 |<center><big>Қорғаушы
 |- bgcolor="#dddddd"
 !width=5%|#
 !width=5%|
 |align=left!!width=40%|'''Ойыншы'''
 !width=5%|'''Pos.'''
 !width=8%|'''Shoots'''
-!width=9%|'''Height'''
-!width=8%|'''Weight'''
+!width=9%|'''Бойы'''
+!width=8%|'''Салмағы'''
 !width=37%|Туған жері
 
 |- bgcolor="#eeeeee"
 |align=center|'''4'''
-|align=center|{{flagicon|RUS}}
+|align=center|{{RUS}}
 |[[Anton Kazantsev]]
 |align=center|[[Defenceman (ice hockey)|D]]
 |align=center|
@@ -96,7 +96,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''7'''
-|align=center|{{flagicon|KAZ}}
+|align=center|{{KAZ}}
 |[[Artem Lakiza]]
 |align=center|[[Defenceman (ice hockey)|D]]
 |align=center|R
@@ -106,7 +106,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''12'''
-|align=center|{{flagicon|KAZ}}
+|align=center|{{KAZ}}
 |[[Denis Shemelin]]
 |align=center|[[Defenceman (ice hockey)|D]]
 |align=center|L
@@ -116,7 +116,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''22'''
-|align=center|{{flagicon|CZE}}
+|align=center|{{CZE}}
 |[[Tomáš Klouček]]
 |align=center|[[Defenceman (ice hockey)|D]]
 |align=center|L
@@ -126,7 +126,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''24'''
-|align=center|{{flagicon|SVK}}
+|align=center|{{SVK}}
 |[[Branislav Mezei]]
 |align=center|[[Defenceman (ice hockey)|D]]
 |align=center|L
@@ -136,7 +136,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''29'''
-|align=center|{{flagicon|KAZ}}
+|align=center|{{KAZ}}
 |[[Alexei Vasilchenko]]
 |align=center|[[Defenceman (ice hockey)|D]]
 |align=center|L
@@ -146,7 +146,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''37'''
-|align=center|{{flagicon|KAZ}}
+|align=center|{{KAZ}}
 |[[Yevgeny Fadeev]]
 |align=center|[[Defenceman (ice hockey)|D]]
 |align=center|L
@@ -156,8 +156,8 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''38'''
-|align=center|{{flagicon|CAN}}
-|[[Kevin Dallman]]
+|align=center|{{CAN}}
+|[[Кевин Даллман]]
 |align=center|[[Defenceman (ice hockey)|D]]
 |align=center|R
 |align=center|180 cm
@@ -166,7 +166,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''44'''
-|align=center|{{flagicon|RUS}}
+|align=center|{{RUS}}
 |[[Alexander Titov]]
 |align=center|[[Defenceman (ice hockey)|D]]/[[Centre (ice hockey)|C]]
 |align=center|L
@@ -176,7 +176,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''59'''
-|align=center|{{flagicon|RUS}}
+|align=center|{{RUS}}
 |[[Sergei Gimaev]]
 |align=center|[[Defenceman (ice hockey)|D]]
 |align=center|L
@@ -199,7 +199,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''9'''
-|align=center|{{flagicon|CAN}}
+|align=center|{{CAN}}
 |[[Trevor Letowski]]
 |align=center|[[Right Wing (ice hockey)|RW]]
 |align=center|R
@@ -209,8 +209,8 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''10'''
-|align=center|{{flagicon|RUS}}
-|[[Maxim Spiridonov]]
+|align=center|{{RUS}}
+|[[Максим Спиридонов]]
 |align=center|[[Winger (ice hockey)|RW]]
 |align=center|L
 |align=center|182 cm
@@ -219,8 +219,8 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''11'''
-|align=center|{{flagicon|KAZ}}
-|[[Talgat Zhailauov]]
+|align=center|{{KAZ}}
+|[[Талғат Жайлауов]]
 |align=center|[[Forward (ice hockey)|F]]
 |align=center|R
 |align=center|176 cm
@@ -229,7 +229,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''15'''
-|align=center|{{flagicon|SVK}}
+|align=center|{{SVK}}
 |[[Jozef Stumpel]]
 |align=center|[[Center (ice hockey)|C]]
 |align=center|L
@@ -239,8 +239,8 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''17'''
-|align=center|{{flagicon|KAZ}}
-|[[Aleksandr Koreshkov]]
+|align=center|{{KAZ}}
+|[[Александр Корешков]]
 |align=center|[[Winger (ice hockey)|LW]]
 |align=center|L
 |align=center|180 cm
@@ -249,8 +249,8 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''18'''
-|align=center|{{flagicon|RUS}}
-|[[Konstantin Glazachev]]
+|align=center|{{RUS}}
+|[[Константин Глазачев]]
 |align=center|[[Forward (ice hockey)|F]]
 |align=center|R
 |align=center|183 cm
@@ -259,7 +259,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''19'''
-|align=center|{{flagicon|KAZ}}
+|align=center|{{KAZ}}
 |[[Vitali Smolyaninov]]
 |align=center|[[Center (ice hockey)|C]]
 |align=center|L
@@ -269,7 +269,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''25'''
-|align=center|{{flagicon|KAZ}}
+|align=center|{{KAZ}}
 |[[Ilya Solarev]]
 |align=center|[[Forward (ice hockey)|F]]
 |align=center|L
@@ -279,7 +279,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''33'''
-|align=center|{{flagicon|KAZ}}
+|align=center|{{KAZ}}
 |[[Andrei Gavrilin]]
 |align=center|[[Winger (ice hockey)|RW]]
 |align=center|L
@@ -289,7 +289,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''38'''
-|align=center|{{flagicon|RUS}}
+|align=center|{{RUS}}
 |[[Konstantin Romanov (ice hockey)|Konstantin Romanov]]
 |align=center|[[Forward (ice hockey)|F]]
 |align=center|L
@@ -299,7 +299,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''48'''
-|align=center|{{flagicon|KAZ}}
+|align=center|{{KAZ}}
 |[[Роман Старченко]]
 |align=center|[[Forward (ice hockey)|F]]
 |align=center|L
@@ -309,7 +309,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''62'''
-|align=center|{{flagicon|KAZ}}
+|align=center|{{KAZ}}
 |[[Вадим Краснослобоцев]]
 |align=center|[[Forward (ice hockey)|F]]
 |align=center|L
@@ -319,7 +319,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''78'''
-|align=center|{{flagicon|SVK}}
+|align=center|{{SVK}}
 |[[Gabriel Špilár]]
 |align=center|[[Center (ice hockey)|C]]
 |align=center|R
@@ -329,7 +329,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''79'''
-|align=center|{{flagicon|KAZ}}
+|align=center|{{KAZ}}
 |[[Максим Беляев]]
 |align=center|[[Forward (ice hockey)|F]]
 |align=center|L
@@ -339,7 +339,7 @@
 
 |- bgcolor="#eeeeee"
 |align=center|'''88'''
-|align=center|{{flagicon|KAZ}}
+|align=center|{{KAZ}}
 |[[Еугений Рымарев]]
 |align=center|[[Forward (ice hockey)|F]]
 |align=center|L
