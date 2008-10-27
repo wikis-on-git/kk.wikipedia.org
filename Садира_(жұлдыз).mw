@@ -1,0 +1,117 @@
+{{Starbox begin
+| name=Epsilon Eridani
+}}
+{{Starbox observe
+| epoch=[[J2000.0]]
+| constell=[[Eridanus (constellation)|Eridanus]]
+| ra={{RA|03|32|55.8442}}<ref name=SIMBAD>{{cite web
+ | url=http://simbad3.u-strasbg.fr/sim-id.pl?protocol=html&Ident=HD+22049
+ | title=HD 22049 -- Variable of BY Dra type 
+ | work=SIMBAD
+ | publisher=Centre de Données astronomiques de Strasbourg
+ | accessdate=2007-11-29
+}}</ref>
+| dec={{DEC|&minus;09|27|29.744 }}<ref name=SIMBAD/>
+| appmag_v=3.73<ref name=SIMBAD/> }}
+{{Starbox character
+| class=K2V<ref name=SIMBAD/>
+| b-v=+0.88<ref name=apj83>{{cite journal
+ | last=Mendoza | first=E. E.
+ | coauthors=Gomez, V. T.; Gonzalez, S.
+ | title=UBVRI photometry of 225 Am stars.
+ | journal=Astronomical Journal
+ | year=1978
+ | volume=83
+ | pages=606–614
+ | url=http://cdsads.u-strasbg.fr/cgi-bin/nph-bib_query?1978AJ.....83..606M
+ | accessdate=2007-11-29
+ | doi=10.1086/112242
+}}</ref>
+| u-b=+0.58<ref name=apj83/>
+| r-i=+0.42
+| v-r=+0.50
+| variable=[[BY Draconis variable|BY Draconis]] }}
+{{Starbox astrometry
+| radial_v=+15.5&plusmn;0.9<ref name=SIMBAD/>
+| prop_mo_ra=&minus;976.36<ref name=SIMBAD/>
+| prop_mo_dec=17.98<ref name=SIMBAD/>
+| parallax=310.74
+| p_error=0.85
+| parallax_footnote=<ref name=SIMBAD/>
+| absmag_v=6.19<ref name=RECONS/> }}
+{{Starbox detail
+| age=(0.5–1.0){{Esp|9}}<ref name=aaa426>{{cite journal
+ | author=Di Folco, E. ''et al''
+ | title=VLTI near-IR interferometric observations of Vega-like stars. Radius and age of α PsA, β Leo, β Pic, &epsilon; Eri and τ Cet
+ | journal=Astronomy and Astrophysics | year=2004
+ | volume=426 | pages=601–617
+ | url=http://adsabs.harvard.edu/abs/2004A&A...426..601D
+ | accessdate=2008-07-24 }}</ref>
+| metal=[Fe/H]=&minus;0.13±0.04<ref name=aaa415>{{cite journal
+ | last=Santos | first=N. C.
+ | coauthors=Israelian, G.; Mayor, M.
+ | title=Spectroscopic <nowiki>[Fe/H]</nowiki> for 98 extra-solar planet-host stars: Exploring the probability of planet formation 
+ | journal=Astronomy & Astrophysics | year=2004 | volume=415
+ | pages=1153–1166
+ | url=http://arxiv.org/abs/astro-ph/0311541
+ | accessdate=2007-11-29
+ | doi=10.1051/0004-6361:20034469
+}}&mdash;the percentage of iron is given by <math>\begin{smallmatrix}10^{-0.13} = 0.74\end{smallmatrix}</math>, or 74%</ref>
+| mass=0.85<ref name=RECONS>{{cite web
+ | author=Staff | date=[[June 8]], [[2007]]
+ | url=http://www.chara.gsu.edu/RECONS/TOP100.posted.htm
+ | title=The One Hundred Nearest Star Systems
+ | publisher=Research Consortium on Nearby Stars
+ | accessdate=2007-11-29 }}</ref>
+| radius=0.84<ref name=apjss53>{{cite journal
+ | last=Johnson | first=H. M. | coauthors=Wright, C. D.
+ | title=Predicted infrared brightness of stars within 25 parsecs of the sun
+ | journal=Astrophysical Journal Supplement Series
+ | year=1983 | volume=53 | pages=643–711
+ | url=http://adsbit.harvard.edu/abs/1983ApJS...53..643J
+ | accessdate=2007-11-29
+ | doi=10.1086/190905 }}&mdash;see p. 653.</ref>
+| rotation=11.1 days
+| gravity=4.57<ref>{{cite journal
+ | author=Zhao, G.; Chen, Y. Q.; Qiu, H. M.; Li, Z. W.
+ | title=Chemical Abundances of 15 Extrasolar Planet Host Stars
+ | journal=The [[Astronomical Journal]] | year=2002
+ | volume=124 | issue=4 | pages=2224–2232
+ | url=http://www.journals.uchicago.edu/doi/full/10.1086/342862
+ | accessdate=2007-06-01 
+ | doi=10.1086/342862 <!--Retrieved from URL by DOI bot-->
+}}</ref>
+| luminosity=0.28
+| temperature=5073±42<ref name=aaa415/> }}
+{{Starbox reference
+| Simbad = HD+22049
+}}
+{{Starbox catalog
+| names = [[Flamsteed designation|18&nbsp;Eridani]], [[Bonner Durchmusterung|BD]]&nbsp;-09°697, [[General Catalogue of Trigonometric Parallaxes|GCTP]]&nbsp;742.00, [[Gliese-Jahreiss catalogue|GJ]]&nbsp;144, [[Henry Draper catalogue|HD]]&nbsp;22049, [[Hipparcos catalogue|HIP]]&nbsp;16537, [[Harvard Revised catalogue|HR]]&nbsp;1084, [[Luyten Half-Second catalogue|LHS]]&nbsp;1557, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]]&nbsp;130564, [[Washington Double Star Catalog|WDS]]&nbsp;03330-0928<ref name=SIMBAD/>
+}}
+{{Starbox end}}
+
+'''Садира''' ('''Эридан Эпсилоны''', ε Eri / ε Eridani) ({{lang-ar|аl-Sadirah}}) —  K2 [[спектр табы]] [[бас тізбегіне]] жататын [[Эридан (шоқжұлдыз)|Эридан]] [[шоқжұлдыз]]ындағы [[жұлдыз]]. [[Күн (жұлдыз)|Күнді]] есепке алмағанда, [[телескоп]]сыз көрінетін жұлдыздар тізімінде 3-ші орын алады.
+
+
+
+[[Category:Эридан жоқжұлдызы]]
+[[Category:Ғаламшарлы жүйелер]]
+
+[[ca:Epsilon Eridani]]
+[[cy:Epsilon Eridani]]
+[[de:Epsilon Eridani]]
+[[es:Épsilon Eridani]]
+[[fr:Epsilon Eridani]]
+[[ko:에리다누스자리 엡실론]]
+[[it:Epsilon Eridani]]
+[[nl:Epsilon Eridani]]
+[[ja:エリダヌス座ε星]]
+[[no:Epsilon Eridani]]
+[[pl:Epsilon Eridani]]
+[[ru:Эпсилон Эридана]]
+[[sk:Epsilon Eridani]]
+[[fi:Epsilon Eridani]]
+[[sv:Epsilon Eridani]]
+[[vo:Epsilon Eridani]]
+[[zh:波江座ε星]]
