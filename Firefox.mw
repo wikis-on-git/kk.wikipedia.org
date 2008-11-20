@@ -1,0 +1,39 @@
+{{redirect|Firefox|Firefox (значения)}}
+{{Карточка программы
+|name                   = Mozilla Firefox
+|logo                   = [[Изображение:Firefox-logo.svg|85px]]
+|screenshot             = [[Изображение:Mozilla Firefox 3.0 ru.png|240px]]
+|caption                = Firefox 3.0 на платформе [[GTK+]]/[[Linux (ядро)|Linux]]
+|developer              = [[Mozilla Corporation]] ([[Mozilla Foundation]]), сообщество
+| programming_language  = [[C++]], [[XUL]], [[XBL]], [[JavaScript]]
+|latest_release_version = 3.0.4 <!--НЕ ТРОГАЙТЕ, пожалуйста, до того, как будет объявлено на главной странице www.mozilla.com. -->
+|latest_release_date    = {{s|[[12 ноября]] [[2008]]}}<ref>http://www.mozilla-europe.org/ru/firefox/3.0.4/releasenotes/ {{ref-ru}}</ref>
+|latest_preview_version = 3.1 beta 1<!-- http://www.mozilla.com/en-US/firefox/all-beta.html --> <!-- ВСЯЧЕСКИЕ «a1pre» — НИКАКИЕ НЕ релизы -->
+|latest_preview_date = [[15 октября]] [[2008]]<ref>{{Cite web
+|url = http://www.mozilla.org/projects/firefox/3.1a2/releasenotes/
+|title = Shiretoko Alpha 2 Release Notes
+|work = mozilla.org
+|coauthors = [[Reed Loden]], [[Mike Beltzner]]
+|publisher = [[Mozilla Foundation]]
+|lang = en
+|datepublished = 2008-09-05
+|accessdate = 2008-10-08
+}}</ref><ref>{{Cite web
+|url = http://developer.mozilla.org/devnews/index.php/2008/09/05/firefox-31-alpha-2-now-available-for-download/
+|title = Firefox 3.1 Alpha 2 now available for download
+|author = [[Mike Beltzner]]
+|work = Mozilla Developer News
+|lang = en
+|datepublished = 2008-09-05
+|accessdate = 2008-10-08
+}}</ref>
+|operating_system = [[Кроссплатформенное программное обеспечение|Кроссплатформенный]]
+|genre = [[Браузер]]
+|license = тройная лицензия [[Mozilla Public License|MPL]]/[[GNU General Public License|GPL]]/[[GNU Lesser General Public License|LGPL]]<br />Бинарные сборки — [[EULA]]<ref>{{Cite web
+|url                    = http://www.mozilla.com/en-US/legal/eula/
+|title                  = Mozilla End-User Licensing Agreements (EULAs)
+|publisher              = Mozilla
+|accessdate             = 2 ноября 2007
+}}</ref>
+|website = [http://www.mozilla.com/firefox/ www.mozilla.com/firefox]
+}}{{Firefox TOC}}
