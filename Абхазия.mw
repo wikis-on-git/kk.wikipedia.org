@@ -1,71 +1,72 @@
-{{Infobox Country or territory <!----Non-political information---->
-|native_name                 = <span style="line-height:1.33em;">{{unicode|Аҧсны}}<br/>'''აფხაზეთი''' <br/>''Абхазия''<br/>''Apsny / Apkhazeti / Abhazia ''</span>
-|conventional_long_name      = <span style="line-height:1.33em;">Abkhazia</span>
-|common_name                 = Abkhazia
-|image_map                   = Abkhazia detail map.png
+{{Infobox Country or territory <!----Аполитичная информация---->
+|native_name                 = <span style="line-height:1.33em;">{{unicode|Аҧсны}}<br/>'''აფხაზეთი''' <br/>''Абхазия''<br/></span>
+|conventional_long_name      = <span style="line-height:1.33em;">Абхазия</span>
+|common_name                 = Абхазия
+|image_map                   = AbkhaziaGeorgiaRus.png
 |image_map2                  = LocationAbkhazia2.png
-|map_caption2                = Location of Abkhazia (dark green, circled)<br/>within [[Georgia (country)|Georgia]] (lighter green)
-|area_rank                   = 
+|map_caption2                = Местоположение Абхазии (темно-зеленый, окруженный) в пределах Грузии (светло-зеленый)|area_rank                   = 
 |area_magnitude              = 
 |area                        = 8,600
 |areami²                     = 3,320
-|percent_water               = negligible
-|population_estimate         = 157,000-190,000 ([[International Crisis Group]])<br>177,000 ([[Encyclopædia Britannica]])
+|percent_water               = мардымсыз
+|population_estimate         = 157,000-190,000 ([[International Crisis Group]])<br>177,000 (Энциклопедия Британника)
 |population_estimate_rank    = 
 |population_estimate_year    = 2006
-|population_census           = 216,000 (disputed)
+|population_census           = 216,000 (даулы)
 |population_census_year      = 2003
 |population_density          = 29
 |population_densitymi²       = 
 |population_density_rank     = 
-|time_zone                   = [[Moscow Time|MSK]]
+|time_zone                   = [[Московское время|MSK]]
 |utc_offset                  = +3
 |time_zone_DST               = 
 |utc_offset_DST              = 
 }}
-<!-------------------------Government of the Abkhazian Republic-------------------------->
+<!-------------------------Республика Абхазия-------------------------->
 {{Infobox Country or territory
-|conventional_long_name      = Government of the Abkhazian Republic
-|common_name                 = Abkhazia
+|native_name                 = Аҧсны Аҳәынҭқарра
+|conventional_long_name      = Абхазия Республикасы
+|common_name                 = Аҧсны
 |image_flag                  = Flag of Abkhazia.svg
 |image_coat                  = Abkhasia g.png
 |national_motto              = 
 |national_anthem             = [http://david.national-anthems.net/abk.htm ''Aiaaira'']
-|official_languages          = [[Abkhaz language|Abkhaz]], [[Russian language|Russian]]{{smallsup|1}}
-|capital                     = [[Sukhumi]]
+|official_languages          = абхазский, русский
+|capital                     = [[Сухум]]
 |latd=43 |latm=00 |latNS=N |longd=40 |longm=59 |longEW=E
-|government_type             = 
-|leader_title1               = [[List of Presidents of Abkhazia|President]]
-|leader_name1                = [[Sergei Bagapsh]]
-|leader_title2               = [[List of Prime Ministers of Abkhazia|Prime Minister]]
-|leader_name2                = [[Alexander Ankvab]]
-|sovereignty_type            = ''De facto'' independence from [[Georgia (country)|Georgia]]
-|established_event1          = Declared
-|established_date1           = [[23 July]] [[1992]]
-|established_event2          = Recognition
-|established_date2           = none
-|currency                    = [[Russian ruble]]
+|government_type             = Республика
+|leader_title1               = Президенті
+|leader_name1                = [[Сергей Багапш]]
+|leader_title2               = Премьер-министрі
+|leader_name2                = [[Александр Анкваб]]
+|sovereignty_type            = Де-факто независимость от [[Гүржістан]]
+|established_event1          = Декларация
+|established_date1           = [[1992]] [[Шілденің 23]]
+|established_event2          = Мойыңдау
+|established_date2           = жарым-жарты
+|currency                    = Ресей рубілі, Абхазия апсар
 |currency_code               = RUB
-|footnote1                   = Russian has [http://www.abkhaziya.info/GOS/GOS3.htm co-official status] and widespread use by government and other institutions.
+|footnote1                   = Русский язык имеет [http://www.abkhaziya.info/GOS/GOS3.htm ко-официальный статус] и широко распространенное использование правительством и другими учреждениями
 }}
-<!--------------------Government of the Abkhazian Autonomous Republic-------------------->
+<!--------------------Автономная республика Абхазия-------------------->
 {{Infobox Country or territory
-|conventional_long_name      = Government of the Abkhazian Autonomous Republic
-|common_name                 = Georgia (country)
+|native_name                 = აფხაზეთის ავტონომიური რესპუბლიკა
+|conventional_long_name      = Автономная республика Абхазия
+|common_name                 = აფხაზეთი 
 |image_flag                  = Flag of Georgia.svg
 |image_coat                  = Georgia coa.png
-|capital                     = [[Sokhumi]] 
+|capital                     = [[Сухум]] 
 |latd= |latm= |latNS= |longd= |longm= |longEW=
-|official_languages          = [[Abkhaz language|Abkhaz]], [[Georgian language|Georgian]]
+|official_languages          = абхазский, грузинский
 |government_type             = 
-|leader_title1               = Chairman,<br/>Cabinet of Ministers
-|leader_name1                = <br/>{{nowrap|[[Malkhaz Akishbaia]]}}
-|leader_title2               = Chairman, Supreme&nbsp;Council
-|leader_name2                = [[Temur Mzhavia]]
-|sovereignty_type            = [[Autonomous republic]] of [[Georgia (country)|Georgia]]
-|established_event1          = Georgian&nbsp;independence<br/>{{nowrap|from the [[Soviet Union]]}}<br/><div align="right">Declared</br>Recognised</div>
-|established_date1           = <br/><br/>[[9 April]] [[1991]]<br/>[[25 December]] [[1991]]
-|currency                    = [[Georgian lari]]
+|leader_title1               = Председатель Верховного Совета
+|leader_name1                = <br/>{{nowrap|[[Теймураз Мжавия]]}}
+|leader_title2               = Глава кабинета министров
+|leader_name2                = [[Малхаз Акишбаиа]]
+|sovereignty_type            = Автономная республика в составе Гүржістан 
+|established_event1          = Грузинская независимость<br/>{{nowrap|от [[КСРО|Советского Союза]]}}<br/><div align="right">Жарияланғаны</br>Танылғаны</div>
+|established_date1           = <br/><br/>[[1991]] [[Сәуірдің 9]]<br/>[[1991]] [[Желтоқсанның 25]]
+|currency                    = Гүржістан лари
 |currency_code               = GEL
 }}
 
