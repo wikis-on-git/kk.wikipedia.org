@@ -2,32 +2,31 @@
 |native_name             = ''République française''
 |conventional_long_name  = Франсуз Республикасы
 |common_name             = Франсия
-|national_motto          = ''[[Liberté, Égalité, Fraternité]]''<br/>"Азаттық, Теңдік, Бауырластық"
-|national_anthem         = ''[[La Marseillaise]]''
+|national_motto          = ''Liberté, Égalité, Fraternité''<br/>"Азаттық, Теңдік, Бауырластық"
+|national_anthem         = ''[[Марсельеза]]''
 |image_flag              = Flag of France.svg
 |image_coat              = France coa.png
-|symbol_type             = National Emblem
 |symbol                  = 
 |image_map               = EU location FRA.png
-|map_caption             = Map showing the location of [[Metropolitan France]] (dark orange) within the EU (see [[:Image:EU location legend.png|map legend]]).
+|map_caption             = Карта показывая Метрополия Франции (темно-оранжевой) в пределах Еуропа Одағы (see [[:Image:EU location legend.png|map legend]]).
 |image_map2              = Overseasfrancemap.png
-|map_caption2            = Map showing the entire territory of the French Republic.
-|capital                 = [[Image:Paris coa.png|22px]]&nbsp;[[Paris]]
+|map_caption2            = Карта показывая всю территорию французской Республики
+|capital                 = [[Image:Paris coa.png|22px]]&nbsp;[[Париж]]
 |latd=48 |latm=52 |latNS=N |longd=2 |longm=19.59 |longEW=E
-|largest_city            = [[Image:Paris coa.png|22px]]&nbsp;[[Paris]]
-|official_languages      = [[French language|French]]
-|government_type         = [[Unitary state|Unitary]] [[republic]]
-|leader_title1           = [[President of France|President]]
-|leader_title2           = [[Prime Minister of France|Prime Minister]]
-|leader_name1            = [[Nicolas Sarkozy]]
-|leader_name2            = [[François Fillon]]
-|sovereignty_type        = [[History of France|Formation]]
-|established_event1      = [[State|French State]]
-|established_event2      = [[Constitution of France|Current constitution]]
-|established_date1       = [[843]] ([[Treaty of Verdun]])
-|established_date2       = [[1958]] ([[French Fifth Republic|5th Republic]])
-|accessionEUdate         = [[March 25]] [[1957]]
-|FR_metropole                 = [[Metropolitan France]]
+|largest_city            = [[Image:Paris coa.png|22px]]&nbsp;[[Париж]]
+|official_languages      = французский
+|government_type         = Республика
+|leader_title1           = [[Франция президенті|Президенті]]
+|leader_title2           = [[Франция премьер-министрі|Премьер-министрі]]
+|leader_name1            = [[Николя Саркози]] ''(Nicolas Sarkozy)''
+|leader_name2            = [[Франсуа Фийон]] ''(François Fillon)''
+|sovereignty_type        = Формирование
+|established_event1      = Мемлекет
+|established_event2      = Конституциясы
+|established_date1       = [[843]]<br> (Верденский договор)
+|established_date2       = [[1958]]<br> (Пятая республика)
+|accessionEUdate         = [[1957]] [[Наурыздың 25]]
+|FR_metropole                 = Метрополия Франции
 |FR_metropole_area            = 551,695
 |FR_metropole_area_rank       = 47th
 |FR_metropole_area_magnitude  = 1 E11
@@ -62,7 +61,7 @@
 |HDI                     = {{increase}} 0.942
 |HDI_rank                = 16th
 |HDI_category            = <font color="#009900">high</font>
-|currency                = [[Euro]] ([[Euro sign|€]])<sup>7</sup>, [[CFP Franc]]<sup>8</sup><br/>&nbsp;<br/>
+|currency                = [[Еуро]] (€)<sup>7</sup>, [[CFP Franc]]<sup>8</sup><br/>&nbsp;<br/>
 |currency_code           = EUR,{{nbsp|4}}XPF
 |time_zone               = CET<sup>6</sup>
 |utc_offset              = +1
@@ -75,7 +74,7 @@
 |ISO_3166-1_numeric      =
 |sport_code              = FRA
 |vehicle_code            = F
-|footnotes               = <sup>1</sup> Whole territory of the French Republic, including all the overseas departments and territories, but excluding the French territory of Terre Adélie in Antarctica where sovereignty is suspended since the signing of the [[Antarctic Treaty]] in 1959.<br/><sup>2</sup> French National Geographic Institute data.<br/><sup>3</sup> French Land Register data, which exclude lakes, ponds and [[glacier]]s larger than 1&nbsp;km² (0.386&nbsp;sq&nbsp;mi or 247&nbsp;acres) as well as the estuaries of rivers.<br/><sup>4</sup> [http://www.insee.fr/fr/ffc/ipweb/ip1118/ip1118.html Official INSEE source]<br/><sup>5</sup> [http://www.insee.fr/fr/ffc/pop_age3.htm Official INSEE source]<br/><sup>6</sup> [[Metropolitan France]] only.<br/><sup>7</sup> Whole of the French Republic except the overseas territories in the Pacific Ocean.<br/><sup>8</sup> French overseas territories in the Pacific Ocean only.<br/><sup>9</sup> In addition to [[.fr]], several other Internet TLDs are used in French overseas ''départements'' and territories: [[.re]], [[.mq]], [[.gp]], [[.tf]], [[.nc]], [[.pf]], [[.wf]], [[.pm]], [[.gf]] and [[.yt]]. France also uses [[.eu]], shared with other members of the [[European Union]].
+|footnotes               = <sup>1</sup> Целая территория французской Республики, включая все заграничные отделы и территории, но исключая французскую территорию Земля Адели в Антарктиде, где суверенитет временно отстранен начиная с подписания Антарктического Соглашения в 1959 г..<br/><sup>2</sup> French National Geographic Institute data.<br/><sup>3</sup> French Land Register data, which exclude lakes, ponds and glaciers larger than 1&nbsp;km² (0.386&nbsp;sq&nbsp;mi or 247&nbsp;acres) as well as the estuaries of rivers.<br/><sup>4</sup> [http://www.insee.fr/fr/ffc/ipweb/ip1118/ip1118.html Official INSEE source]<br/><sup>5</sup> [http://www.insee.fr/fr/ffc/pop_age3.htm Official INSEE source]<br/><sup>6</sup> Метрополия Франции ғана.<br/><sup>7</sup> Whole of the French Republic except the overseas territories in the Pacific Ocean.<br/><sup>8</sup> French overseas territories in the Pacific Ocean only.<br/><sup>9</sup> In addition to [[.fr]], several other Internet TLDs are used in French overseas ''départements'' and territories: [[.re]], [[.mq]], [[.gp]], [[.tf]], [[.nc]], [[.pf]], [[.wf]], [[.pm]], [[.gf]] and [[.yt]]. Также [[.eu]], как член Еуропа Одағы.
 }}
 '''Франсия'''
 
