@@ -1,21 +1,19 @@
 {{Infobox Country or territory
-|native_name              = <span style="line-height:1.33em;">Република Црна Гора<br/>''Republika Crna Gora''<br/>Republic of Montenegro</span>
-|common_name              = Montenegro
+|native_name              = <span style="line-height:1.33em;">Црна Гора<br/>''Crna Gora''
+|common_name       = Черногория
 |image_flag               = Flag of Montenegro.svg|100px
 |image_coat               = Coat of arms of Montenegro.svg
 |image_map                = Europe location MNO.png
-|national_motto           = <!--''Čojstvo i Junaštvo''<small><br/>"Humanity and Bravery"</small>-->
-|national_anthem          = ''[[Oj, svijetla majska zoro]]''<small><br/>"Oh, the bright dawn of May"</small>
-|official_languages       = [[Serbian language|Serbian]] ([[Ijekavian]] dialect)<sup>1</sup>
-(local also [[Albanian language|Albanian]]) 
-|capital                  = &nbsp;[[Podgorica]]
+|national_anthem          = ''[[Ој свијетла мајска зоро]]''<small><br/>"О, светлая майская заря"</small>
+|official_languages       = [[Черногор тілі|Черногор]]
+|capital                  = &nbsp;[[Цетине]]
 |latd=42 |latm=47 |latNS=N |longd=19 |longm=28 |longEW=E
-|largest_city             = &nbsp;[[Podgorica]]
-|government_type          = [[Republic]]
-|leader_title1            = [[President of Montenegro|President]]
-|leader_title2            = [[Prime Minister of Montenegro|Prime Minister]]
-|leader_name1             = [[Filip Vujanović]]
-|leader_name2             = [[Željko Šturanović]]
+|largest_city             = &nbsp;[[Подгорица]]
+|government_type          = Република
+|leader_title1            = [[Черногория президенті|Президенті]]
+|leader_title2            = [[Черногория премьер-министрі|Премьер-министрі]]
+|leader_name1             = [[Филип Вујановић]]
+|leader_name2             = [[Мило Ђукановић]]
 |area_rank                = 159th
 |area_magnitude           = 1 E10
 |area                     = 13,812
@@ -34,30 +32,30 @@
 |GDP_PPP_rank             = 179th
 |GDP_PPP_per_capita       = $3,800
 |GDP_PPP_per_capita_rank  = 119th
-|sovereignty_type         = [[Independence]]
-|sovereignty_note         = from [[Serbia and Montenegro]]
-|established_event1       = [[Montenegrin independence referendum, 2006|Declared]]
-|established_date1        = [[June 3]], [[2006]]
-|established_event2       = [[Foreign relations of Montenegro#States that have recognized the Republic of Montenegro|Recognised]]
-|established_date2        = [[June 8]], [[2006]]
+|sovereignty_type         = Тәуелсіздік
+|sovereignty_note         = от [[Сербия және Черногория]]
+|established_event1       = Жарияланғаны
+|established_date1        = {{nowrap|[[2006]] [[Маусымның 8]]}}
+|established_event2       = Танылғаны
+|established_date2        = {{nowrap|[[2006]] [[Маусымның 8]]}}
 |HDI_year                 = 2006
 |HDI                      = n/a
 |HDI_rank                 = n/a
 |HDI_category             = n/a
-|currency                 = [[Euro]]<sup>2</sup>
+|currency                 = [[Евро]]<sup>1</sup>
 |currency_code            = EUR
 |country_code             = 
 |time_zone                = [[Central European Time|CET]]
 |utc_offset               = +1
 |time_zone_DST            = [[Central European Summer Time|CEST]]
 |utc_offset_DST           = +2
-|cctld                    = [[.yu]] ([[.me]])<sup>3</sup>
-|calling_code             = 381(+382)<sup>4</sup>
+|cctld                    = [[.yu]] ([[.me]])<sup>2</sup>
+|calling_code             = 382
 |ISO_3166-1_alpha2        = ME
 |ISO_3166-1_alpha3        = MNE
 |ISO_3166-1_num           = 499
 |vehicle_code             = MNE
-|footnotes                = <sup>1</sup> Defined as such in constitution, but subject to some controversy. See [[Montenegrin language]] for more details.<br /><sup>2</sup> Adopted unilaterally; Montenegro is not a formal member of the [[Eurozone]].<br/><sup>3</sup> [[.me]] will come into use early 2007, while [[.yu]] is a holdover from [[Serbia and Montenegro]] which is still in use for Montenegrin subdomains [http://www.b92.net/eng/news/globe-article.php?yyyy=2006&mm=08&dd=23&nav_category=123&nav_id=36266].<br/><sup>4</sup> +382 was assigned by the [[International Telecommunications Union|ITU]]<ref>[http://www.iht.com/articles/ap/2006/09/06/europe/EU_GEN_Montenegro_International_Code.php "Montenegro gets its own telephone country code, 382"], AP/Herald Tribune, Sep. 6 2006.</ref> but is not yet activated. Following activation, [[Serbia]]'s +381 code will remain in use alongside +382 for six months until +382 has been established in Montenegro.
+|footnotes                = <sup>1</sup>Де-факто; формально страна не входит в зону евро<br/><sup>2</sup>Фактически используется старый общеюгославский домен .yu; для союза Сербии и Черногории был выделен домен .cs, но в употребление не вошел; регистрация нового национального домена .me открыта 17 июля в 15:00 UTC.<br/>
 }}
 
 <!--Templates-->
@@ -65,9 +63,7 @@
 {{Countries bordering the Mediterranean Sea}}
 {{Countries bordering the Adriatic Sea}}
 {{EU countries and candidates}}
-{{CEFTA}}
 {{Slavic-speaking}}
-{{Republics and autonomous provinces of the former Yugoslavia}}
 
 <!--Other languages-->
 
