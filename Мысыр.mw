@@ -1,21 +1,21 @@
 {{Infobox Country or territory
-| native_name              = <span style="line-height:1.33em;"><big> جمهورية مصر العربية </big><br/>''{{unicode|'''Jumhūriyyat Miṣr al-ʿArabiyyah'''}}''</span>
+| native_name              = <span style="line-height:1.33em;"><big> جمهورية مصر العربية </big><br/>''Гумхурийет Маср эль-Арабийя''</span>
 | conventional_long_name = Мысыр Араб Республикасы
 | common_name = Мысыр
 | image_flag = Flag of Egypt.svg
 | image_coat = Coat of arms of Egypt.svg
 | image_map = LocationEgypt.svg
 | national_motto =
-| national_anthem = ''[[Bilady, Bilady, Bilady]]''
-| official_languages = [[Arabic language|Arabic]], [[Masri]] (spoken)
+| national_anthem = ''[[بلادي بلادي بلادي]]''<br/>Отан, отан, отан</small>
+| official_languages = [[Араб тілі|арабша]]
 | capital = &nbsp;[[Каир]]
 | latd=30 |latm=2 |latNS=N |longd=31 |longm=13 |longEW=E
 | largest_city = &nbsp;[[Каир]]
-| government_type = [[Republic]]
-| leader_title1 = [[President of Egypt|President]]
-| leader_title2 = [[Prime Minister of Egypt|Prime Minister]]
-| leader_name1 = [[Hosni Mubarak]]
-| leader_name2 = [[Ahmed Nazif]]
+| government_type = Республика
+| leader_title1 = [[Мысыр президенті|Президенті]]
+| leader_title2 = [[Мысыр премьер-министрі|Премьер-министрі]]
+| leader_name1 = {{nowrap|[[Мухаммед Хосни Мубарак]]}}
+| leader_name2 = [[Ахмед Назиф]]
 | area_rank = 30th
 | area_magnitude = 1 E12
 | area = 1,001,449
@@ -34,18 +34,16 @@
 | GDP_PPP_rank = 32nd
 | GDP_PPP_per_capita = $4,317
 | GDP_PPP_per_capita_rank = 112th
-| sovereignty_type = [[History of Egypt|Establishment]]
-| established_event1 = [[First dynasty of Egypt|First Dynasty]]
-| established_event2 = Independence granted
-| established_event3 = Republic declared
-| established_date1 = [[Circa|c.]]3150 BC
-| established_date2 = [[February 28]], [[1922]]
-| established_date3 = [[June 18]], [[1953]]
+| sovereignty_type = [[История Египта|Establishment]]
+| established_event1 = Тәуелсіздігі
+| established_event2 = Республикасы
+| established_date1 = 1 Раджаб 1340 ж.<br/>([[Ақпанның 18|18 ақпан]] [[1922]] ж.)
+| established_date2 = 5 Шавваль 1372 ж.<br/>([[Маусымның 18|18 Маусым]] [[1953]] ж.)
 | HDI_year = 2006
 | HDI = 0.702
 | HDI_rank = 111th
 | HDI_category = <font color="#ffcc00">medium</font>
-| currency = [[Egyptian pound]] (LE)
+| currency = [[Мысыр фунт]] (LE)
 | currency_code = EGP
 | country_code = EGY
 | time_zone = [[Eastern European Time|EET]]
@@ -137,6 +135,7 @@
 
 * [[Египет Пирамидалары]]
 
+{{Исләм Маслихаты}}
 {{WTO}}
 <!--Other languages-->
 
