@@ -1,34 +1,32 @@
 {{Infobox Country or territory
-|native_name              = <span style="line-height:1.33em;font-size:1.2em"> מדינת ישראל <br/>-{''Medīnat Yisrā'el''}-<br/> -{دولة إسرائيل}-<br/>-{''Dawlat Isrā'īl''}-</span>
-|conventional_long_name   = <span style="line-height:1.33em">Исраел мемлекеті</span>
-|common_name              = Israel
+|native_name              = <span style="line-height:1.33em;font-size:1.2em"> מדינת ישראל <br/>-{''Медина́т Исраэ́ль''}-<br/> -{دولة إسرائيل}-<br/>-{''Да́улат Исра’и́ль''}-</span>
+|conventional_long_name   = <span style="line-height:1.33em">Израиль мемлекеті</span>
+|common_name              = Израиль
 |image_flag               = Flag of Israel.svg
 |image_coat               = Coat_of_arms_of_Israel.svg
 |image_map                = LocationIsrael.svg
-|national_anthem          = [[Hatikvah]] <small>("Үміт")</small>
+|national_anthem          = [[Ха-Тиква]] <small>("Үміт")</small>
 |official_languages       = [[Иврит тілі|ивритше]], [[Араб тілі|арабша]]
 |capital                  = [[Иерусалим]]<ref name="capital">
 The national President's residence, government offices, supreme court and [[Knesset|parliament]] are located in Jerusalem, which is Israel's capital according to Israel's ''[[Jerusalem Law|Basic Law]]''. This  states that "''Jerusalem, complete and united, is the capital of Israel.''" However, the [[Palestinian Authority]] sees [[East Jerusalem]] as the future capital of [[Palestine]]. Also, the [[United Nations]] and most countries do not accept the Basic Law, arguing that Jerusalem's final status must await future negotiations between Israel and the Palestinian Authority. Most countries maintain their embassies in [[Tel Aviv]] <small>(see [https://www.cia.gov/cia/publications/factbook/geos/is.html CIA Factbook] and [http://www.un.org/Depts/Cartographic/map/profile/israel.pdf Map of Israel])</small> See [[Positions on Jerusalem]] for more information.</ref><br/><small>{{coor dm|31|47|N|35|13|E}}</small>
-|government_type          = [[Parliamentary Democracy]]
-|leader_title1            = [[President of Israel|President]]
-|leader_title2            = [[President of Israel|Acting President]]
-|leader_title3            = [[Prime Minister of Israel|Prime Minister]]
-|leader_name1             = [[Moshe Katsav]]<sup>3</sup>
-|leader_name2             = [[Dalia Itzik]]
-|leader_name3             = [[Ehud Olmert]]
-|largest_city             = Jerusalem
+|government_type          = Парламенттік Республика
+|leader_title1            = [[Израиль президенті|Президенті]]
+|leader_title2            = [[Израиль премьер-министрі|Премьер-министрі]]
+|leader_name1             = [[Шимон Перес]]
+|leader_name2             = [[Эхуд Ольмерт]]
+|largest_city             = Иерусалим
 |area                     = 22,145<sup>1</sup> <!--UN figure-->
 |areami²                  = 8,550<sup>1</sup>
 |area_rank                = 151th
 |area_magnitude           = 1 E10
 |percent_water            = ~2
 |population_estimate      = 7,100,000
-|population_estimate_year = December 2006
+|population_estimate_year = Желтоқсан 2006
 |population_estimate_rank = 98th
 |population_census        = 5,548,523
 |population_census_year   = 1995
 |population_density       = 324
-|population_densitymi²    = 787<!--outdated; please convert and update-->
+|population_densitymi²    = 839
 |population_density_rank  = 34th
 |GDP_PPP_year             = 2006
 |GDP_PPP                  = $177.3 billion 
@@ -39,11 +37,11 @@ The national President's residence, government offices, supreme court and [[Knes
 |HDI                      = {{increase}} 0.927
 |HDI_rank                 = 23rd
 |HDI_category             = <span style="color:#090">high</span>
-|sovereignty_type         = [[Independence]]
-|sovereignty_note         = from the [[United Kingdom]]'s Palestine mandate.
-|established_event1       = [[Declaration of the Establishment of the State of Israel|Declaration]]
-|established_date1        = [[14 May]] [[1948]] (05 [[Iyar]] 5708)
-|currency                 = [[Israeli new sheqel|New Israeli Sheqel]] (₪)
+|sovereignty_type         = Тәуелсіздігі
+|sovereignty_note         = от [[Құрама Патшалық]]
+|established_event1       = [[Израиль тәуелсіздігі жарияламасы|Жарияламасы]]
+|established_date1        = 5 Ияр 5708 ж.<br/>([[Мамырдың 14|14 Мамыр]] [[1948]]ж.)
+|currency                 = [[Жаңа Израиль шекель]] (₪)
 |currency_code            = ILS
 |time_zone                = [[Israel Standard Time|IST]]
 |utc_offset               = +2
@@ -51,7 +49,7 @@ The national President's residence, government offices, supreme court and [[Knes
 |utc_offset_DST           = +3
 |cctld                    = [[.il]]
 |calling_code             = 972
-|footnotes                = <sup>1</sup> Includes the Golan Heights (UN figure).<br/><sup>2</sup> Includes Israeli population living in the [[West Bank]].<br/><sup>3</sup> Has temporarily relinquished power (February 2007).
+|footnotes                = <sup>1</sup> Включает Голанские высоты (ООН число)<br/><sup>2</sup> Включает израильское население, живущее на Западный берег реки Иордан<br/>
 }}
 
 {{NavigationBox
