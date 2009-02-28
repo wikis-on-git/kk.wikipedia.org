@@ -41,10 +41,19 @@
 *:<math> x = -\frac{b}{2a} . \,\!</math>
 * Егер дискриминант теріс сан болса теңдеудің нақты түбірлері жоқ. Керісінше, теңдеудің екі комплекс түбірі бар:
 *:<math>\begin{align}
- x_1 &= \frac{-b}{2a} + i \frac{\sqrt {|D|}}{2a}\end{align}</math> мұнда <math>\begin{align}|D|\end{align}</math> - абсолют мәні(+ve) және <math>\begin{align}i \end{align}</math> - <math>\begin{align}{\sqrt {-1}}\end{align}</math>
+ x_1 &= \frac{-b}{2a} + i \frac{\sqrt {|D|}}{2a}\end{align}</math> мұнда <math>\begin{align}|D|\end{align}</math> - абсолют мәні(+ve) және <math>\begin{align}i \end{align}</math> = <math>\begin{align}{\sqrt {-1}}\end{align}</math>
 *:<math>\begin{align} x_2 &= \frac{-b}{2a} - i \frac{\sqrt {|D|}}{2a}
 \end{align}</math>
 
+==Examples==
+*<math>7x + 15 - 2x^2 = 0</math> теңдеуінде дискриминант оң: <math>\Delta = 169</math> және 2 екі нақты шешімі (түбірлері) бар:
+*: <math>x_1=\frac{-7-\sqrt{169}}{2\cdot(-2)}= 5</math>
+*: <math>x_2=\frac{-7+\sqrt{169}}{2\cdot(-2)} = -\frac{3}{2}.</math>
+*<math>x^2 -2x + 1 = 0</math> has a discriminant <math>\Delta</math> whose value is zero, therefore it has one (so-called ''double'') solution:
+*:<math>x =-\frac{-2}{2}=1</math>
+*<math>x^2 + 3 x + 3 = 0</math> has no real solution because <math>\Delta = - 3 < 0</math>. It has two complex solutions:
+*: <math>x_1 = \frac{-3 - \sqrt{3} i}{2}</math>
+*: <math>x_2 = \frac{-3 + \sqrt{3} i}{2}.</math>
 [[Санат:Теңдеулер]]
 
 [[ar:معادلة تربيعية]]
