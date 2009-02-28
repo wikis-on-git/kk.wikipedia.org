@@ -41,7 +41,7 @@
 *:<math> x = -\frac{b}{2a} . \,\!</math>
 * Егер дискриминант теріс сан болса теңдеудің нақты түбірлері жоқ. Керісінше, теңдеудің екі комплекс түбірі бар:
 *:<math>\begin{align}
- x_1 &= \frac{-b}{2a} + i \frac{\sqrt {|D|}}{2a}\end{align}</math> where, <math>\begin{align}|D|\end{align}</math> is the absolute value(+ve) and <math>\begin{align}i \end{align}</math> is the <math>\begin{align}{\sqrt {-1}}\end{align}</math>
+ x_1 &= \frac{-b}{2a} + i \frac{\sqrt {|D|}}{2a}\end{align}</math> мұнда <math>\begin{align}|D|\end{align}</math> - абсолют мәні(+ve) және <math>\begin{align}i \end{align}</math> - <math>\begin{align}{\sqrt {-1}}\end{align}</math>
 *:<math>\begin{align} x_2 &= \frac{-b}{2a} - i \frac{\sqrt {|D|}}{2a}
 \end{align}</math>
 
