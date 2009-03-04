@@ -1,23 +1,23 @@
 {{Infobox Country or territory
-|native_name              = <span style="line-height:1.33em;"> Ελληνική Δημοκρατία <br/>''Ellinikí Dimokratía''</span>
+|native_name              = <span style="line-height:1.33em;"> Ελληνική Δημοκρατία <br/>''Еллиніки́ Димократі́я''</span>
 |conventional_long_name   = <span style="line-height:1.33em;">Грек Республикасы</span>
 |common_name              = Грекия
 |image_flag               = Flag of Greece.svg
 |image_coat               = Coat_of_arms_of_Greece.svg
 |image_map                = EU location GRE.png
 |map_caption              = Map showing the location of Greece (dark orange) within the EU ([[:Image:EU location legend.png|legend]]).
-|national_motto           = {{lang|el|Ελευθερία ή Θάνατος}}<br/>{{lang|el|''[[Eleutheria i thanatos|Eleftheria i thanatos]]''}}{{nbsp|2}}<small>([[transliteration]])<br/>"Freedom or Death"</small><!--See http://www.culture.gr/4/42/421/42103/42103e/g42103e3.html and http://humanitas.filg.uj.edu.pl/files/terminus/artykuly/d9b23762d6da8f325e2b215ff5338d2b.pdf-->
-|national_anthem          = {{lang|el|Ύμνος εις την Ελευθερίαν}}<br/><small>"[[Hymn to Freedom]]"</small>
-|official_languages       = [[Greek language|Greek]]
-|capital                  = [[Image:Athens seal.png|22px]]&nbsp;[[Athens]]
+|national_motto           = {{lang|el|Ελευθερία ή Θάνατος}}<br/>{{lang|el|''Елеуѳері́а и́ ѳа́натос''}}{{nbsp|2}}<small>(Транслитерация:)<br/>"Свобода или смерть"</small><!--See http://www.culture.gr/4/42/421/42103/42103e/g42103e3.html and http://humanitas.filg.uj.edu.pl/files/terminus/artykuly/d9b23762d6da8f325e2b215ff5338d2b.pdf-->
+|national_anthem          = {{lang|el|Ύμνος εις την Ελευθερίαν}}<br/><small>"[[Гимн свободе]]"</small>
+|official_languages       = [[Грек тілі|грекше]]
+|capital                  = [[Афины]]
 |latd=38| latm=00| latNS=N| longd=23| longm=43| longEW=E
-|largest_city             = [[Image:Athens seal.png|22px]]&nbsp;[[Athens]]
-|government_type          = [[Parliament]]ary&nbsp;[[republic]]
-|leader_title1            = [[List of Presidents of Greece|President]]
-|leader_title2            = [[List of Prime Ministers of Greece|Prime Minister]]
-|leader_name1             = [[Karolos Papoulias]]
-|leader_name2             = [[Kostas Karamanlis]]
-|accessionEUdate          = [[January 1]], [[1981]]
+|largest_city             = [[Афины]]
+|government_type          = Парламенттік Республика
+|leader_title1            = [[Грекия президенті|Президент]]
+|leader_title2            = [[Грекия премйер-министірі|Премйер-министір]]
+|leader_name1             = [[Каролос Папульяс]]
+|leader_name2             = [[Костас Караманлис]]
+|accessionEUdate          = [[1981]] [[Қаңтардың 1]]
 |area_rank                = 96th
 |area_magnitude           = 1 E11
 |area                     = 131,990
@@ -43,33 +43,33 @@
 |GDP_nominal_per_capita_rank = 28th
 |sovereignty_type         = Formation
 |established_event1       = First known<br/>{{nbsp|3}}Greek civilizations<sup>1</sup>
-|established_date1        = <br/>[[Circa|c.]]3000 BC
+|established_date1        = <br/>[[Circa|c.]]3000 до Р.Х.
 |established_event2       = Last previously<br/>{{nbsp|3}}independent state<sup>2</sup>
 |established_date2        = <br/>1461
-|established_event3       = Independence from<br/>{{nbsp|3}}the [[Ottoman Empire]]
-|established_date3        = <br/>[[25 March]] [[1821]]
-|established_event4       = Recognized
+|established_event3       = Тәуелсіздік от<br/>{{nbsp|3}}[[Османлы империясы]]
+|established_date3        = <br/>{{nowrap|[[1821]] [[Наурыздың 25]]}}
+|established_event4       = Танылғаны
 |established_date4        = 1829
 |HDI                      = {{increase}} 0.921
 |HDI_rank                 = 24th
 |HDI_year                 = 2004
 |HDI_category             = <font color="#009900">high</font>
-|currency                 = [[Euro]] ([[Euro sign|€]])<sup>3</sup>
+|currency                 = [[Евро]] (€)<sup>3</sup>
 |currency_code            = EUR
 |country_code             = 
-|time_zone                = [[Eastern European Time|EET]]
+|time_zone                = [[Восточноевропейское время|EET]]
 |utc_offset               = +2
 |time_zone_DST            = [[EEST]]
 |utc_offset_DST           = +3
 |cctld                    = [[.gr]] <sup>4</sup>
 |calling_code             = 30
-|footnotes                = <sup>1<sup> [[Minoan]] and [[Cycladic]] civilizations.<br/><sup>2</sup> [[Empire of Trebizond]].<br/><sup>3</sup> Prior to 2001: [[Drachma|Greek Drachma]].<br/><sup>4</sup> The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states.
+|footnotes                = <sup>1<sup> Минойская and Кикладская цивилизация.<br/><sup>2</sup> Трапезунд империясы<br/><sup>3</sup> Prior to 2001: драхма.<br/><sup>4</sup> The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states.
 }}
 '''Гре́кия''' ({{lang-el|Ελλάδα}}), ресми аты '''Грекия Республикасы''' ({{lang-el|Ελληνική Δημοκρατία}}) — [[Еуропа]] оңтүстігінде, [[Балкан түбегі]]нде орналасқан [[мемлекет]]. Солтүстігінде [[Албания|Албаниямен]], бұрынғы югославиялық [[Македония республикасы|Македония республикасымен]] және [[Болгария|Болгариямен]], солтүстік-шығысында — [[Түркия|Түркиямен]] шектеседі. Шығысы мен оңтүстігін [[Эгей теңізі]], батысын — [[Ион теңізі]] шайып жатыр. Осы елді мекендейтін юнандар (гректер) атымен аталған.
 
 Астанасы — [[Афины]] қаласы.
 
-[[Батыс өркениеті] бесігі болап танылған, тарихтағы алғашқы [[Демократия|демократиялық]] мемлекет. [[1981]] жылдан бастап – [[ЕО]], [[1952]]-ден бастап —  [[НАТО]] мүшесі.
+[[Батыс өркениеті]] бесігі болап танылған, тарихтағы алғашқы [[Демократия|демократиялық]] мемлекет. [[1981]] жылдан бастап – [[ЕО]], [[1952]]-ден бастап —  [[НАТО]] мүшесі.
 
 
 {{NavigationBox
