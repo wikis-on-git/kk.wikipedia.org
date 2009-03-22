@@ -1,35 +1,32 @@
 {{Infobox Country or territory
 |native_name              = {{lang|es|''República de Nicaragua''}}
-|conventional_long_name   = Republic of Nicaragua
-|common_name              = Nicaragua
+|conventional_long_name   = Никарагуа Республикасы
+|common_name              = Никарагуа
 |image_flag               = Flag of Nicaragua.svg
 |image_coat               = Coat of arms of Nicaragua.svg
 |image_map                = LocationNicaragua.svg
 |national_anthem          = {{lang|es|''[[Salve a ti, Nicaragua]]''}}
-|official_languages       = [[Spanish language|Spanish]]{{smallsup|1}}
-|demonym                  = Nicaraguan
-|capital                  = [[Managua]]
+|official_languages       = [[Испан тілі|испанша]]
+|capital                  = [[Манагуа]]
 |latd=12 |latm=9 |latNS=N |longd=86 |longm=16 |longEW=W   
-|largest_city             = capital
-|government_type          = [[Republic]] 
-|leader_title1            = [[List of Presidents of Nicaragua|President]] 
-|leader_name1             = [[Daniel Ortega]]&nbsp;([[Sandinista National Liberation Front|FSLN]])
-|leader_title2            = [[Vice President]]
-|leader_name2             = Jaime Morales Carazo
-|sovereignty_type         = [[Independence]]
-|sovereignty_note         = {{nobold|from [[Spain]]}}
-|established_event1       = Declared
-|established_date1        = [[September 15]], [[1821]]
-|established_event2       = Recognized
-|established_date2        = [[July 25]], [[1850]]
+|largest_city             = Манагуа
+|government_type          = [[Республика]] 
+|leader_title1            = [[Никарагуа Президенті|Президент]] 
+|leader_name1             = [[Даниэль Ортега]]
+|sovereignty_type         = Тәуелсіздік
+|sovereignty_note         = от [[Испания]]
+|established_event1       = Жарияланғаны
+|established_date1        = [[1821]] [[Қыркүйектің 15]]
+|established_event2       = Танылғаны
+|established_date2        = [[1850]] [[Шілденің 25]]
 |area_rank                = 97th
 |area_magnitude           = 1 E11
 |area                     = 129,494
 |areami²                  = 50,193 <!--Do not remove per [[WP:MOSNUM]]-->
-|percent_water            = 7.14 
-|population_estimate      = 5,603,000   
-|population_estimate_rank = 107th 
-|population_estimate_year = July 2006 
+|percent_water            = 7.14
+|population_estimate      = 5,603,000
+|population_estimate_rank = 107th
+|population_estimate_year = Шілде 2006
 |population_census        = 5,142,098
 |population_census_year   = 2005
 |population_density       = 42
@@ -47,7 +44,7 @@
 |Gini                     = 43.1
 |Gini_year                = 2001
 |Gini_category            = <font color="#ffcc00">medium</font>
-|currency                 = [[Córdoba (currency)|Córdoba]]
+|currency                 = Кордоба (C$)
 |currency_code            = NIO
 |country_code             = 
 |time_zone                = 
@@ -56,7 +53,6 @@
 |utc_offset_DST           = 
 |cctld                    = [[.ni]]
 |calling_code             = 505
-|footnote1                = [[English language|English]] and indigenous languages on Caribbean coast also spoken.
 }}
 
 {{Template group
