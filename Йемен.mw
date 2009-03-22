@@ -1,17 +1,17 @@
 {{Infobox Country or territory
-|native_name              = <span style="line-height:1.33em;"><big> الجمهورية اليمنية </big><br/>''аль-Джумхурийя аль-Яманийя''</span>
-|conventional_long_name   = <span style="line-height:1.33em;">Йемен Республикасы</span>
+|native_name              = <span style="line-height:1.33em;"><big> الجمهورية اليمنية </big><br /><span style="font-family: 'Arabic Typesetting', 'Microsoft Uighur', 'Uyghur Tuz Unicode', 'Arial Unicode MS', sans-serif; font-size: 180%;">يەمەن رەسپۋبلىيكاسى</span>
+| conventional_long_name = Йемен Республикасы
 |common_name              = Йемен
 |image_flag               = Flag of Yemen.svg
 |image_coat               = Yemen Coat.jpg
 |image_map                = LocationYemen.PNG
 |national_motto           = "''Allah, al-Watan, at-Thawra, al-Wehda''"
 |national_anthem          = نشيد اليمن الوطني
-|official_languages       = [[Arabic language|Arabic]] 
+|official_languages       = [[Араб тілі|арабша]]
 |capital                  = [[Сана]]
 |latd=15 |latm=21 |latNS=N |longd=12 |longm=24 |longEW=E 
 ||largest_city            = Сана
-|government_type          = [[Republic]]
+|government_type          = [[Республика|Араб республикасы]]
 |leader_title1            = Президент
 |leader_title2            = Премьер-министр
 |leader_name1             = Али Абдулла Салех<br>(علي عبد الله صالح)
@@ -55,7 +55,6 @@
 }}
 
 
-{{Southwest Asia}}
 {{Countries of Asia}}
 {{Countries and territories of the Middle East}}
 {{Arab League}}
