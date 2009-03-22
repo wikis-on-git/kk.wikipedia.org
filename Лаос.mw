@@ -1,22 +1,22 @@
 {{Infobox Country or territory
 |native_name              = ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ<br/>''Sathalanalat Paxathipatai Paxaxon Lao''
-|conventional_long_name   = Lao People's Democratic Republic
-|common_name              = Laos
+|conventional_long_name   = Лаос Халықтық Демократиялық Республикасы
+|common_name              = Лаос
 |image_flag               = Flag of Laos.svg
-|image_coat               = Laos_coa_since1991.png
+|image_coat               = Coat of arms of Laos.svg
 |symbol_type              = Coat of arms
 |image_map                = LocationLaos.svg
 |national_motto           = "Peace, Independence, Democracy, Unity and Prosperity"
 |national_anthem          = ''[[Pheng Xat Lao]]''
-|official_languages       = [[Lao language|Lao]]
-|capital                  = [[Vientiane]]
+|official_languages       = лаосский
+|capital                  = [[Вьентьян]]
 |latd=17 |latm=58 |latNS=N |longd=102 |longm=36 |longEW=E
-|largest_city             = Vientiane
-|government_type          = [[Communist State]]
-|leader_title1            = [[President of Laos|President]]
-|leader_title2            = [[Prime Minister of Laos|Prime Minister]]
-|leader_name1             = [[Choummaly Sayasone]]
-|leader_name2             = [[Bouasone Bouphavanh]]
+|largest_city             = Вьентьян
+|government_type          = [[Республика|Халық республикасы]]
+|leader_title1            = Президент
+|leader_title2            = Премьер-министр
+|leader_name1             = Тюммали Сайньасон
+|leader_name2             = Буасон Буппхаван
 |area_rank                = 83rd
 |area_magnitude           = 1 E11
 |area                     = 236,800
@@ -39,11 +39,11 @@
 |HDI                      = {{profit}}0.553
 |HDI_rank                 = 133rd
 |HDI_category             = <font color="#ffcc00">medium</font>
-|sovereignty_type         = [[Independence]]
-|sovereignty_note         = from [[France]]
-|established_event1       = Date
-|established_date1        = [[19 July]] [[1949]]
-|currency                 = [[Lao kip|Kip]]
+|sovereignty_type         = Тәуелсіздік
+|sovereignty_note         = от [[Франция|Франции]]
+|established_event1       = Күн
+|established_date1        = [[1949]] [[шілденің 19]]
+|currency                 = кип (₭)
 |currency_code            = LAK
 |time_zone                = 
 |utc_offset               = +7
@@ -55,18 +55,10 @@
 }}
 
 
-<!--Templates-->
-{{Countries and territories of Southeast Asia}}
-{{ASEAN}}
-{{East Asia Summit}}
 {{La Francophonie}}
-{{Communist states}}
-{{Former French colonies}}
 
-<!--Categories-->
 
 [[Санат:Мұхитпен шектеспейтін елдер]]
-<!--Other languages-->
 
 {{Link FA|lo}}
 
