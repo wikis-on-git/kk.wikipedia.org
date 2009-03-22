@@ -1,21 +1,21 @@
 {{Infobox Country or territory
-|native_name              = <span style="line-height:1.33em;"><big> الجمهورية اليمنية </big><br/>''Al-Jumhūriyyah al-Yamaniyyah''</span>
-|conventional_long_name   = <span style="line-height:1.33em;">Republic of Yemen</span>
-|common_name              = Yemen
+|native_name              = <span style="line-height:1.33em;"><big> الجمهورية اليمنية </big><br/>''аль-Джумхурийя аль-Яманийя''</span>
+|conventional_long_name   = <span style="line-height:1.33em;">Йемен Республикасы</span>
+|common_name              = Йемен
 |image_flag               = Flag of Yemen.svg
-|image_coat               =
+|image_coat               = Yemen Coat.jpg
 |image_map                = LocationYemen.PNG
-|national_motto           = "''Allah, al-Watan, at-Thawra, al-Wehda''"<br/><small>"God, the Nation, the Revolution, the Unity"</small>
-|national_anthem          = [[National anthem of Yemen|''United Republic'']]
+|national_motto           = "''Allah, al-Watan, at-Thawra, al-Wehda''"
+|national_anthem          = نشيد اليمن الوطني
 |official_languages       = [[Arabic language|Arabic]] 
-|capital                  = [[Sana'a]]
+|capital                  = [[Сана]]
 |latd=15 |latm=21 |latNS=N |longd=12 |longm=24 |longEW=E 
-||largest_city            = Sana'a
+||largest_city            = Сана
 |government_type          = [[Republic]]
-|leader_title1            = [[President of Yemen|President]]
-|leader_title2            = [[Prime Minister of Yemen|Prime Minister]]
-|leader_name1             = [[Ali Abdullah Saleh]]
-|leader_name2             = [[Abdul Qadir Bajamal]]
+|leader_title1            = Президент
+|leader_title2            = Премьер-министр
+|leader_name1             = Али Абдулла Салех<br>(علي عبد الله صالح)
+|leader_name2             =  Абдель Кадер Баджамаль<br> (علی محمد مجر)
 |area_rank                = 49th
 |area_magnitude           = 1 E8
 |area                     = 527,968
@@ -34,15 +34,15 @@
 |GDP_PPP_rank             = 110th
 |GDP_PPP_per_capita       = $900
 |GDP_PPP_per_capita_rank  = 175th
-|sovereignty_type         = Establishment
+|sovereignty_type         = Құрылуы
 |sovereignty_note         = 
-|established_event1       = [[History of Yemen|Unification]]
-|established_date1        = [[May 22]] [[1990]]
+|established_event1       = Объединение
+|established_date1        = 26 шавваль 1410<br>[[Мамырдың 22|22 мамыр]] [[1990]] ж.
 |HDI_year                 = 2004
 |HDI                      = {{increase}} 0.492
 |HDI_rank                 = 150th
 |HDI_category             = <font style="color:#e0584e">low</font>
-|currency                 = [[Yemeni rial]] $1 = 198.13 Rials
+|currency                 = Риал (ر.ي.‏)
 |currency_code            = YER
 |country_code             = YEM
 |time_zone                = 
@@ -55,19 +55,11 @@
 }}
 
 
-{{Countries and territories of the Middle East}}
 {{Southwest Asia}}
 {{Countries of Asia}}
-{{Arabian Sea}}
-{{Red Sea}}
-{{Indian Ocean}}
+{{Countries and territories of the Middle East}}
 {{Arab League}}
 {{OIC}}
-{{Semitic-speaking}}
-
-<!--Categories-->
-
-<!--Other languages-->
 
 [[af:Jemen]]
 [[als:Jemen]]
