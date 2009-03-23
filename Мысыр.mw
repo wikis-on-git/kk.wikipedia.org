@@ -11,9 +11,9 @@
 | capital = &nbsp;[[Каир]]
 | latd=30 |latm=2 |latNS=N |longd=31 |longm=13 |longEW=E
 | largest_city = &nbsp;[[Каир]]
-| government_type = Араб республикасы
-| leader_title1 = Президенті
-| leader_title2 = |Премьер-министрі
+| government_type = Демократиялық республикасы
+| leader_title1 = Президент
+| leader_title2 = Премьер-министр
 | leader_name1 = {{nowrap|[[Мухаммед Хосни Мубарак]]}}
 | leader_name2 = [[Ахмед Назиф]]
 | area_rank = 30th
@@ -43,12 +43,12 @@
 | HDI = 0.702
 | HDI_rank = 111th
 | HDI_category = <font color="#ffcc00">medium</font>
-| currency = [[Мысыр фунт]] (LE)
+| currency = [[Мысыр фунт]] (ج.م.‏)
 | currency_code = EGP
 | country_code = EGY
-| time_zone = [[Eastern European Time|EET]]
+| time_zone = [[Восточноевропейское время|EET]]
 | utc_offset = +2
-| time_zone_DST = [[Eastern European Summer Time|EEST]]
+| time_zone_DST = [[Восточноевропейское летнее время|EEST]]
 | utc_offset_DST = +3
 | cctld = [[.eg]]
 | calling_code = 20
@@ -90,44 +90,45 @@
 |
 {| class="wikitable" border="1"
 |-
-! Аймақ                                  !! Елордасы             !! </tr>
-| Al Iskandariyah Governorate   || [[Александриа]]      || Northern</tr>
-| Aswan Governorate                   || [[Асван]]           || Upper</tr>
-| Asyut Governorate                   || [[Асут]]           || Upper</tr>
-| Al Buhayrah Governorate|          || [[Дамхур]]        || Lower</tr>
-| Bani Suwayf Governorate         || [[Бени Суеф]]       || Upper</tr>
-| Al Qahirah Governorate             || [[Каир]]           || Middle</tr>
-| Ad Daqahliyah Governorate        || [[Мансура]]         || Lower</tr>
-| Domyat Governorate               || [[Дамиетта]]        || Lower</tr>
-| Al Fayyum Governorate              || [[Фаюм]]          || Upper</tr>
-| Al Gharbiyah Governorate          || [[Танта]]           || Lower</tr>
-| Al Jizah Governorate                 || [[Гиза]]            || Upper</tr>
-| Helwan                                    || [[Хелван]]          || Middle</tr>
-| Al Isma'iliyah Governorate       || [[Исмаилиа]]        || Canal</tr>
-| Kafr ash Shaykh Governorate || [[Кафр-эл-Шейх]]  || Lower</tr>
-| Luxor Governorate || [[Лүксор]]  || Upper</tr>
+! Аймақ !!   Елордасы !! </tr>
+| Александрия || Александрия || الإسكندرية </tr>
+| Асуан || Асуан || أسوان</tr>
+| Асьют || Асьют || أسيوط</tr>
+| Бухейра  || Дамхур || البحيرة </tr>
+| Бени-Суэйф || Бени-Суэйф || بني سويف </tr>
+| Каир || [[Каир]] || القاهرة</tr>
+| Дакахлия  || Эль-Мансур || الدقهلية</tr>
+| Думьят  || Думьят|| دمياط </tr>
+| Эль-Файюм || Эль-Файюм || الفيوم </tr>
+| Гарбия  || Танта || الغربية </tr>
+| Гиза || Гиза || الجيزة </tr>
+| Хелуан   || Хелуан || حلوان </tr>
+| Исмаилия    || Исмаилиа || الإسماعيلية </tr>
+| Кафр-эш-Шейх || Кафр-эл-Шейх || كفر الشيخ </tr>
+| Лүксор || Лүксор  || الأقصر </tr>
 |}
 |
 {| class="wikitable" border="1"
 |-
-! Аймақ                                   !! Елордасы                   !!</tr>
-| Matruh Governorate               || [[Мерса Матрух]]          || Western</tr>
-| Al Minya Governorate                || [[Миниа]]    || Upper</tr>
-| Al Minufiyah                    || [[Шиббин-эл-Ком]]         || Lower</tr>
-| Al Wadi al Jadid Governorate   || [[Харга]]                || Western</tr>
-| Shamal Sina' Governorate      || [[Ариш]]                 || Sinai</tr>
-| Bur Sa'id Governorate           || [[Порт Саид]]             || Canal</tr>
-| Al Qalyubiyah|                   || [[Банха]]                 || Lower</tr>
-| Qina Governorate                     || [[Куэна]]                  || Upper</tr>
-| Al Bahr Al Ahmar Governorate      || [[Хургхада]]              || Eastern</tr>
-| Ash Sharqiyah Governorate         || [[Загазиг]]               || Lower</tr>
-| Suhaj Governorate                   || [[Сохаг]]                 || Upper</tr>
-| Janub Sina' Governorate       || [[эл-Тор]]                || Sinai</tr>
-| As Suways Governorate                || [[Суэц]]                  || Canal</tr>
-| 6th of October Governorate      ||           || Middle</tr>
+! Аймақ      !! Елордасы                   !!</tr>
+| Матрух   || Мерса Матрух  || مطروح </tr>
+| Минья     || Минья  || المنيا</tr>
+| Минуфия     || Шибин-эль-Ком ||  المنوفية </tr>
+| Эль-Вади-эль-Джадид  || Эль-Харга  || الوادي الجديد </tr>
+| Шималь Сина || Эль-Ариш  || شمال سيناء </tr>
+| Порт-Саид  || Порт-Саид  || بورسعيد </tr>
+| Кальюбия    || Бенха ||  القليوبية </tr>
+| Кена     || Кена  ||  قنا </tr>
+| Эль-Бахр-эль-Ахмар   || Хургада || البحر الأحمر </tr>
+| Шаркия    || Заказик  ||الشرقية </tr>
+| Сохаг || Сохаг ||  سوهاج </tr>
+| Гануб Сина || Эт-Тур || جنوب سيناء  </tr>
+| Суэц  || Суэц   || السويس </tr>
+| 6 Қазан || 6 Қазан || 6 أكتوبر </tr>
 |}
 |style="padding-top:8px;"|
 |}
+
 
 ==Тағы қараныз==
 
