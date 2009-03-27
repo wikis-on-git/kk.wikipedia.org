@@ -1,46 +1,57 @@
-{{НП
-|статус                  = город
- |русское название        = Аркалык
- |оригинальное название   = Арқалық
- |подчинение              = областного подчинения
- |страна                  = Казахстан
- |герб                    = Арқалық.png
- |флаг                    = 
- |ширина герба            = 
- |ширина флага            = 
-  |lat_dir =N |lat_deg =50 |lat_min =14 |lat_sec =55 
-  |lon_dir =E |lon_deg =66 |lon_min =54 |lon_sec =41 
-  |CoordAddon             = |type:city(42000)_region:KZ
- |размер карты страны     = 300 
- |размер карты региона    = 
- |размер карты района     = 
- |вид региона             = область
- |регион                  = Костанайская область{{!}}Костанайская
- |регион в таблице        = 
- |вид района              = район
- |район                   = 
- |внутреннее деление      = 
- |вид главы               = аким
- |глава                   = Темиржан Тулеубаев
- |дата основания          = 1956
- |первое упоминание       = 
- |прежние имена           = 
- |статус с                = 1965
- |площадь                 = 
- |вид высоты              = 
- |высота центра НП        = 
- |климат                  = резко-континентальный 
-  |население              = {{Formatnum:25462}}<ref>[http://www.stat.kz/publishing/Documents/Стат_сборники/Демографический_ежегодник.pdf Демографический ежегодник РК]</ref>
-  |год переписи           = 2008 
- |часовой пояс            = +6
- |телефонный код          = 
- |почтовый индекс         = 
- |вид идентификатора      = 
- |цифровой идентификатор  = 
- |категория в Commons     = 
- |сайт                    = http://www.arkalyk.kz
- |язык сайта              = ru
-}}
+<!-- Infobox begins -->{{Infobox City
+|official_name          = Арқалық
+|nickname               = 
+|motto                  = 
+|image_skyline          = 
+|imagesize              = 
+|image_caption          = 
+|image_flag             = 
+|image_seal             = 
+|image_map              =
+|mapsize                = 
+|map_caption            = 
+|subdivision_type       = 
+|subdivision_name       = 
+|subdivision_type1      = 
+|subdivision_name1      = 
+|subdivision_type2      = 
+|subdivision_name2      = 
+|leader_title           = Әкім
+|leader_name            = 
+|established_title      = 
+|established_date       = 
+|area_magnitude         = 
+|area_total             = 
+|TotalArea_sq_mi        = 
+|area_land              = 
+|LandArea_sq_mi         = 
+|area_water             = 
+|WaterArea_sq_mi        = 
+|area_water_percent     = 
+|area_urban             = 
+|UrbanArea_sq_mi        = 
+|area_metro             = 
+|MetroArea_sq_mi        = 
+|population_as_of       = 
+|population_note        = 
+|population_total       = 
+|population_density     = 
+|population_density_mi2 = 
+|population_metro       =
+|population_density_metro_km2 =
+|population_density_metro_mi2 =
+|population_urban       = 
+|timezone               = 
+|utc_offset             = +6
+|timezone_DST           = 
+|utc_offset_DST         = 
+|latd= |latm= |lats= |latNS=
+|longd= |longm= |longs= |longEW=
+|elevation              = 
+|elevation_ft           = 
+|website                = 
+|footnotes              = 
+}} <!-- Infobox ends -->
 == Ссылки ==
 * [http://www.arkalyk.kz Официальный сайт города Аркалык]
 * [http://photofile.ru/users/arkalyk/1039539/ Фотоальбом города Аркалык]
