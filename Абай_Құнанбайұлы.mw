@@ -1,5 +1,5 @@
-{{wikify}}
-{{Infobox Writer <!-- for more information see [[:Үлгі:Infobox Writer/doc]] --> 
+<table align="right" cellspacing="5" style="border: 3px">
+{{Infobox Writer
 | name         = Абай Құнанбайұлы
 | image        = Abai.jpg
 | imagesize    = 
@@ -28,6 +28,8 @@
 | website =
 | portaldisp =
 }}
+</table>
+
 '''Абай''' (1845—1904) — ақын, жазушы, қоғам қайраткері, қазіргі қазақ жазба әдебиетінің негізін салушы, либералды білімді исламға таяна отырып, орыс және еуропа мәдениетімен жақындасу арқылы қазақ мәдениетін жаңартуды көздеген реформатор. Азан шақырып қойған аты — Ибраһим.
 
 == Өмір жолы ==
