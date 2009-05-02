@@ -1,5 +1,5 @@
 <div style="float:right; margin: 0 0 20px 10px; padding:20px; font-size:500%; font-family: Times New Roman; background-color: #ddddff; border: 1px solid #aaaaff;">&nbsp;[[Сурет:Tenge_symbol.svg|39px]]&nbsp;</div>
-'''Теңге нышаны''' — [[Қазақстан Республикасы]] [[ұлттық пұл]]ы ([[Қазақстан теңгесі|теңге]]) нышаны<ref>[[Юникод]]тағы <code>U+20B8 TENGE SIGN</code> деген таңбасы компьютерлік [[қаріп]]терінде кең тағағанша дейін [[Windows]] және [[Linux]] сияқты [[амалдық жүйе]]лерінде [[қазақстан теңгесі]] нышанын уақытша бейнелеу үшін {{Unicode|т̅̅}} (<code>U+0442&nbsp;U+0305</code>) және {{Unicode|〒}} (<code>U+3012 POSTAL MARK</code>) таңбалары пайдаланылуы мүмкін. [[MS-DOS]] амалдық жүйесінде {{Unicode|╤}} (<code>U+2564 BOX DRAWINGS DOWN SINGLE AND HORIZONTAL DOUBLE</code>, <code>D1</code>) таңбасымен алмастырылуы мүмкін.</ref>.
+'''Теңге нышаны''' — [[Қазақстан Республикасы]] [[ұлттық пұл]]ы ([[Қазақстан теңгесі|теңге]]) нышаны<ref>[[Юникод]]тағы {{Unicode|₸}} U+20B8 <code>TENGE SIGN</code> деген таңбасы компьютерлік [[қаріп]]терінде кең тағағанша дейін [[Windows]] және [[Linux]] сияқты [[амалдық жүйе]]лерінде [[қазақстан теңгесі]] нышанын уақытша бейнелеу үшін {{Unicode|т̅̅}} (<code>U+0442&nbsp;U+0305</code>) және {{Unicode|〒}} U+3012 <code>POSTAL MARK</code>) таңбалары пайдаланылуы мүмкін. [[MS-DOS]] амалдық жүйесінде {{Unicode|╤}} (U+2564 <code>BOX DRAWINGS DOWN SINGLE AND HORIZONTAL DOUBLE</code>, <code>D1</code>) таңбасымен алмастырылуы мүмкін.</ref>.
 
 [[File:TengeLogo.JPG|left|thumb|240 px|New symbol of tenge (〒) used on info-board of a currence exchange office in [[Almaty]]]] [[File:TengeSignBread.jpg|thumb|left|240 px|New symbol of tenge (〒) used for  the price of a bread in a supermarket in [[Almaty]]]]
 [[Қазақстан Республикасы Ұлттық Банкі]] [[2006]] ж. [[қараша]]да «Теңге нышаны» жалпыұлттық конкурсын жариялап, 2007 ж. [[наурыздың 20]]-ында қорытынды шешім қабылдады.
@@ -21,7 +21,7 @@
 == Сыртқы сілтемелер ==
 * [http://213.211.77.60/cont/publish214127_3590.pdf ҚҰБ №12 баспасөз-релизі: «Теңге нышаны» конкурсының нәтижелері туралы]
 * [http://www1.tenge2006.kz/big/?switch=rus&pg=prof «Теңге нышаны» конкурсына жіберілген жұмыстар] {{ru icon}}
-
+* Everson, Michael. 2008. [http://std.dkuug.dk/jtc1/sc2/wg2/docs/n3392.pdf Proposal to encode the Kazakh TENGE SIGN in the UCS] {{en icon}}
 
 {{Currency signs}}
 
