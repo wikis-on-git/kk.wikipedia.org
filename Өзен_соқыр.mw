@@ -1,4 +1,35 @@
-'''Өзен соқыр''' (онкосерциаз) — бұл инфекция ұсақ құрттардан пайда болады, олар адамнан адамға қара шыбын (симулидтер) деп аталатын өте ұсақ бүкір шыбындардың немесе масапардың шағуы арқылы тарайды
+{{Infobox_Disease
+ | Name           = Onchocerciasis
+ | Image          = 
+ | Caption        = 
+ | DiseasesDB     = 9218
+ | ICD10          = {{ICD10|B|73||b|65}}
+ | ICD9           = {{ICD9|125.3}}
+ | ICDO           = 
+ | OMIM           = 
+ | MedlinePlus    = 
+ | eMedicineSubj  = med
+ | eMedicineTopic = 1667
+ | eMedicine_mult = {{eMedicine2|oph|709}}
+ | MeshID         = D009855
+}}
+
+{{Taxobox
+| name = ''Onchocerca volvulus''
+| image = Onchocerca volvulus 01.jpg
+| image_width = 240px
+| image_caption = ''O. volvulus'', the causative agent of river blindness.
+| regnum = [[Animal]]ia
+| phylum = [[Nematode|Nematoda]]
+| classis = [[Secernentea]]
+| ordo = [[Spirurida]]
+| familia = [[Onchocercidae]]
+| genus = [[Onchocerca]]
+| species = ''O. volvulus''
+| binomial = ''Onchocerca volvulus''
+| binomial_authority = [[Carol Bickel|Bickel]] 1982
+}}
+'''Өзен соқыр''' ({{pron-en|ˈɒnkoʊsɝːˈsaɪəsɨs}} немесе {{IPA|/ˈɒnkoʊsɝːˈkaɪəsɨs/}}) — бұл инфекция ұсақ құрттардан пайда болады, олар адамнан адамға қара шыбын (симулидтер) деп аталатын өте ұсақ бүкір шыбындардың немесе масапардың шағуы арқылы тарайды
 
 Тараған жерлері: Африка, Оңтүстік Мексиканың кейбір аудандары, Орталық Америка, Оңтүстік Американың солтүстігі. 
 
@@ -30,6 +61,20 @@
 ISBN 5-615-01453-9
 
 Осы кітаптың кез келген бөлігін коммерциялық емес мақсатта көшіруге және таратуға басып шығарушылар арнайы рұқсат берген. '''Сол үшін оларға көп-көп рақмет!'''
-
+[[Санат:Паразиттік індеттер]]
+[[Санат:Тропиктік індеттер]]
 [[Санат:Алғашқы көмек]]
 [[Санат:Медицина]]
+[[de:Onchozerkose]]
+[[en:Onchocerciasis]]
+[[es:Oncocercosis]]
+[[fr:Onchocercose]]
+[[it:Oncocercosi]]
+[[nl:Onchocerciasis]]
+[[no:Elveblindhet]]
+[[pl:Ślepota rzeczna]]
+[[pt:Oncocercose]]
+[[sl:Rečna slepota]]
+[[fi:Jokisokeus]]
+[[sv:Flodblindhet]]
+[[zh:蟠尾絲蟲症]]
