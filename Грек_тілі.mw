@@ -1,8 +1,8 @@
 {{Infobox Language 
 |name          = Greek
-|nativename    = {{lang|el|Ελληνικά}}<br />''{{ISOtranslit|Ellīniká|el}}''
+|nativename    = {{lang-el|Ελληνικά}}
 |pronunciation = [e̞liniˈka]
-|states        = [[Greece]], [[Cyprus]], [[United States]], [[Australia]],<br> [[Germany]], [[Turkey]], [[United Kingdom]], [[Canada]],<br> [[Russia]], [[Albania]], [[Ukraine]], [[France]], [[Georgia (country)|Georgia]],<br> [[Italy]], [[Bulgaria]], [[Romania]],  [[FYR Macedonia]], [[Armenia]] and the rest of the [[Greek diaspora]].
+|states        = [[Грекия]], [[Cyprus]], [[АҚШ]], [[Аустралия]],<br> [[Алмания]], [[Түркия]], [[Құрама Патшалық|Ұлыбритания]], [[Канада]],<br> [[Ресей]], [[Албания]], [[Украина]], [[Франция]], [[Грузия]],<br> [[Italy]], [[Bulgaria]], [[Romania]],  [[FYR Macedonia]], [[Armenia]] and the rest of the [[Greek diaspora]].
 |region        = [[Balkans]]
 |speakers      = c. 15 million
 |rank          = 52
@@ -11,8 +11,6 @@
 |script        = [[Greek alphabet]]
 |nation        = <!--Do not remove mentions with a source and do not add them without!!!-->
 {{GRE}}<br>{{CYP}}<br>{{EUR}}<br> 
-----
-'''Recognised minority language in:'''<br>{{ALB}}<ref name=HumanRights>{{cite web|url=http://www.unhchr.ch/udhr/lang/grk.htm |title=Greek |publisher=[[Office of the High Commissioner for Human Rights]] |date= |accessdate=2008-12-08}}</ref><br>{{ARM}}<ref name=CouncilofEurope>{{cite web|url=http://conventions.coe.int/Treaty/Commun/ListeDeclarations.asp?NT=148&CM=8&DF=23/01/05&CL=ENG&VL=1 |title=List of declarations made with respect to treaty No. 148 |publisher=[[Council of Europe]] |date= |accessdate=2008-12-08}}</ref><ref>{{cite web|url=http://groong.usc.edu/orig/ok-20040916.html |title=An interview with Aziz Tamoyan, National Union of Yezidi |publisher=groong.usc.edu |date= |accessdate=2008-12-08}}</ref><br>{{ITA}}<ref name=HumanRights>{{cite web|url=http://www.unhchr.ch/udhr/lang/grk.htm |title=Greek |publisher=[[Office of the High Commissioner for Human Rights]] |date= |accessdate=2008-12-08}}</ref><br>{{ROM}}<ref name=CouncilofEurope/><br>{{UKR}}<ref name=CouncilofEurope>{{cite web|url=http://conventions.coe.int/Treaty/Commun/ListeDeclarations.asp?NT=148&CM=8&DF=23/01/05&CL=ENG&VL=1 |title=List of declarations made with respect to treaty No. 148 |publisher=[[Council of Europe]] |date= |accessdate=2008-12-08}}</ref>
 |iso1=el 
 |iso2b=gre 
 |iso2t=ell 
@@ -33,7 +31,9 @@
 |map         = 
 }}
 
-'''Грек''' ({{lang|el|ελληνικά}}, {{IPA-all|e̞liniˈka}} немесе {{lang|el|ελληνική γλώσσα}}, {{IPA-all|e̞liniˈkʲi ˈɣlo̞sa}})  - гректердің ана тілі, [[Балкан түбегі]]не тән [[Үнді-Еуропалық тілдер|Үнді-Еуропалық тіл]]. Үнді-Еуропалық тілдер ішінде тәуелсіз, жеке тармақ құрайды. Бұл тіл 34 ғасырлық жазбаша құжатталған тарихы бар Үнді-Еуропалық тілдердің ең ежелгісі..<ref name="Britannica">{{cite web|url=http://www.britannica.com/EBchecked/topic/244595/Greek-language|title=Greek language|work=[[Encyclopædia Britannica]]|publisher=Encyclopædia Britannica Online|accessdate=2008-11-04}}</ref> Ол өзінің ежелгi түрінде [[Көне Грек әдебиеті]]нің классикалық және християндық [[Жаңа Келісім]] тілi болып табылады. Жаңа түрінде бүгінгі [[Грекия]] мен [[Кипр]]дің ресми тілдері болып келедi, әлемнің түкпір-түкпірін есептегенде 20 миллионға жуық халық осы тілде сөйлейді. [[Грек әліпби]]інде жазылады.
+'''Грек''' ({{lang|el|ελληνικά}} — гректердің ана тілі, [[Балкан түбегі]]не тән [[Үнді-Еуропалық тілдер|Үнді-Еуропалық тіл]]. Үнді-Еуропалық тілдер ішінде тәуелсіз, жеке тармақ құрайды. Бұл тіл 34 ғасырлық жазбаша құжатталған тарихы бар Үнді-Еуропалық тілдердің ең ежелгісі..<ref name="Britannica">{{cite web|url=http://www.britannica.com/EBchecked/topic/244595/Greek-language|title=Greek language|work=|publisher=Encyclopædia Britannica Online|}}</ref> Ол өзінің ежелгi түрінде [[Көне Грек әдебиеті]]нің классикалық және християндық [[Жаңа Келісім]] тілi болып табылады. Жаңа түрінде бүгінгі [[Грекия]] мен [[Кипр]]дің ресми тілдері болып келедi, әлемнің түкпір-түкпірін есептегенде 20 миллионға жуық халық осы тілде сөйлейді. [[Грек әліпби]]інде жазылады.
+
+<references/>
 [[Санат:Үнді-Еуропалық тілдер]]
 [[af:Grieks]]
 [[als:Griechische Sprache]]
