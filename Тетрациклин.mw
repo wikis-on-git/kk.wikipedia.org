@@ -1,3 +1,27 @@
+{{drugbox |
+|image=Tetracycline structure.svg
+|IUPAC_name = 2-(amino-hydroxy-methylidene)-4-dimethylamino-<br>6,10,11,12a-tetrahydroxy-6-methyl-4,4a,5,<br>5a-tetrahydrotetracene-1,3,12-trione <br />OR<br />4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-<br />3,6,10,12,12a-pentahydroxy-<br />1,11-dioxo-naphthacene-2-carboxamide <br />OR<br />(4''S'',6''S'',12a''S'')-4-(dimethylamino)- 3,6,10,12,12a-pentahydroxy- 6-methyl-1,11-dioxo-1,4,4a,5,5a,6,11,12a- octahydrotetracene-2-carboxamide
+|CAS_number = 60-54-8
+| CASNo_Ref = {{cascite}}
+| CAS_supplemental = <br/>64-75-5 (hydrochloride) <!-- Also CAS verified -->
+| ChemSpiderID = 10257122
+| ATC_prefix=A01
+| ATC_suffix=AB13
+| ATC_supplemental ={{ATC|D06|AA04}} {{ATC|J01|AA07}} {{ATC|S01|AA09}} {{ATC|S02|AA08}} {{ATC|S03|AA02}}
+| PubChem=643969
+| DrugBank=APRD00572
+| C=22 | H=24 | N=2 | O=8
+|molecular_weight = 444.435 g/mol
+|bioavailability = 60-80% Oral, while fasting<br><40% Intramuscular
+|metabolism = Not metabolised
+|elimination_half-life = 6-11 hours
+|excretion = [[Feces|Fecal]] and [[Kidney|Renal]]
+|pregnancy_AU = D
+|pregnancy_US = D
+|pregnancy_category = 
+|legal_status = Rx-only
+|routes_of_administration = oral, [[topical]] (skin & eye), [[Intramuscular|im]], [[Intravenous|iv]]
+}}
 '''Тетрациклин''' ''кең ауқымда'' қолданылатын антибиотик, бұл яғни әртүрлі бактерияларға қарсы пайдалануға болады деген сөз.
 Тетрациклинді ішу керек, өйткені ол еккендегіден гөрі жақсырақ әсер етеді және бұлай қолдану қолайлы да.
 Тетрациклинді [[бактериялар]] мен [[амебалар|амебалардың]] қоздыруы салдарынан болатын іш өту мен қанды іріңді іш өту ауруына қоддануға болады.
@@ -36,3 +60,23 @@ ISBN 5-615-01453-9
 
 [[Санат:Алғашқы көмек]]
 [[Санат:Дәрілер]]
+[[ar:تتراسيكلن]]
+[[cs:Tetracyklin]]
+[[da:Tetracyklin]]
+[[de:Tetracyclin]]
+[[en:Tetracycline]]
+[[es:Tetraciclina]]
+[[et:Tetratsükliinid]]
+[[eu:Tetraziklina]]
+[[fi:Tetrasykliini]]
+[[fr:Tétracycline]]
+[[id:Tetrasiklina]]
+[[ja:テトラサイクリン]]
+[[nl:Tetracycline]]
+[[pl:Tetracyklina]]
+[[pt:Tetraciclina]]
+[[sl:Tetraciklin]]
+[[sv:Tetracyklin]]
+[[th:เตตราไซคลีน]]
+[[tr:Tetrasiklin]]
+[[zh-min-nan:Tetracycline]]
