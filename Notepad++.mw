@@ -1,0 +1,24 @@
+{{Infobox Software
+| name                   = Notepad++
+| logo                   = [[Image:npp.logo.png]]
+| screenshot             = [[Image:Notepad++ screenshot2.png|210px|Screenshot of Notepad++]]
+| caption                = Screenshot of Notepad++
+| developer              = Don Ho
+| released               = {{initial release|2003|11|24}}
+| frequently updated     = yes<!-- Release version update? Don't edit this page, just click on the version number! -->
+| programming language   = [[C++]]
+| operating system       = [[Microsoft Windows|Windows]]
+| language               = [http://notepad-plus.sourceforge.net/uk/download.php#Language_files Multilingual (49)]
+| genre                  = [[Source code editor]]
+| license                = [[GNU General Public License]]
+| website                = [http://notepad-plus.sourceforge.net/ notepad-plus.sourceforge.net]
+}}
+'''Notepad++''' - [[Windows]] амалдық жүйесіне арналған [[GPL]] рұқсатқағазымен азат таратылатын мәтін өңдеуіші. Бұл бағдарлама [[STL]] кітапханасын пайдаланып [[C++]] бағдарлау тілінде жазылған, негізгі құраласы - Scintilla өңдеу модулі. Мәтін өңдеуіші өздігенен бөлектеп бірталай бағдарлау телдері мен белгілеу жүйелерін қолдайды. Бағдарламаның негізгі жетелігі кеңейтімдер (plugins) арқылы, не сыртқы модулдер арқылы кеңейте алынады.
+
+{{stub}}
+
+[[Санат: Қазақша бағдарламалық өнімдер]]
+
+{{FLOSS}}
+
+[[en:Notepad++]]
