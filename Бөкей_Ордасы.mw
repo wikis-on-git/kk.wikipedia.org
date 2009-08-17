@@ -1,6 +1,4 @@
-{{wikify}}
-<!--
-{{Infobox Former Country
+{{wikify}}{{Infobox Former Country
 |conventional_long_name = Ішкі Қазақ Ордасы
 |common_name = Бөкей Ордасы
 |
@@ -9,10 +7,12 @@
 |country   = [[Қазақстан Республикасы]]
 |era       = Жаңа заман
 |status    = Хандық
-|status_text= 
+|status_text= <!--- A free text to describe status and empire at the top of the infobox like: "State of the Holy Roman Empire" --->
 |empire    = [[Ресей империясы]]
 |government_type    = [[Монархия]]
 |
+|<!--- Rise and fall, events, years and dates --->
+|<!-- only fill in the start/end event entry if a specific article exists. Don't just say "abolition" or "declaration"-->
 |
 |year_start  = 1801
 |year_end    = 1917
@@ -33,21 +33,21 @@
 |event_post  = Бокей гөбернесі таратылуы
 |date_post   = 1925
 |
-|
+|<!--- Flag navigation: Preceding and succeeding entities p1 to p5 and s1 to s5 --->
 |p1          = Қалмақ хандығы
-|flag_p1     = 
-|image_p1 = 
+|flag_p1     = <!--- Default: "Flag of {{{p1}}}.svg" (size 30) --->
+|image_p1 = <!--- Use: [[Сурет:Sin escudo.svg|20px|Image missing]] --->
 |s1 = Бөкей губерниясы
-|flag_s1 = 
-|image_s1 = 
+|flag_s1 = <!--- Default: "Flag of {{{s1}}}.svg" (size 30) --->
+|image_s1 = <!--- Use: [[Сурет:Sin escudo.svg|20px|Image missing]] --->
 |
 |image_flag = Sin bandera.svg
-|flag = 
-|flag_type = 
+|flag = <!--- Link target under flag image. Default: Flag of {{{common_name}}} --->
+|flag_type = <!--- Displayed text for link under flag. Default "Flag" --->
 |
 |image_coat = Sin escudo.svg
-|symbol =
-|symbol_type = 
+|symbol = <!--- Link target under symbol image. Default: Coat of arms of {{{common_name}}} --->
+|symbol_type = <!--- Displayed text for link under symbol. Default "Coat of arms" --->
 |
 |image_map = Missing map.png
 |image_map_caption = Бөкей Ордасы әлем картасында орналасуы
@@ -62,7 +62,7 @@
 |religion = [[Ислам]]
 |currency = [[Ресей империясы рублі]]
 |
-|
+|<!--- Titles and names of the first and last leaders an their deputies --->
 |leader1 = [[Бөкей хан]]
 |leader2 = [[Шығай сұлтан|Шығай Бөкейұлы]] (регент)
 |leader3 = [[Жәңгір-Керей хан|Жәңгір хан]]
@@ -72,7 +72,7 @@
 |year_leader3 = [[1823]]—[[1845]]
 |year_leader4 = [[1845]]—[[1847]]
 |title_leader = Хан
-|
+|<!--- Area and population of a given year --->
 |stat_year1 =1801
 |stat_area1 =92145
 |stat_pop1 =22775
@@ -90,7 +90,6 @@
 |stat_pop5 =
 |footnotes = 
 }}
--->
 
 [[Сурет:Jangir khan.jpg|150px|thumb|Жәңгір хан және Пәтимә]]
 '''Ішкі Қазақ Ордасы''' ('''Бөкей Ордасы''') — [[Ресей империясы]]ның вассалы ретінде [[Еділ]] мен [[Жайық]] аралығында [[1801]] ж. құрылған. Бөкей Ордасы — [[қазақтар]]дың және әлемдегі ең сөңғы [[Шыңғысхан]] ұрпақтарымен меңгерілген мемлекеттік құрылым.
@@ -110,6 +109,7 @@
 [[1842]] ж. Жәңгірдің өтінішімен белгілі картограф, [[Орыс жағрапиялық қоғамы]]ның мүшесі [[Ханыков, Николай Владимирович|Я.В. Ханыков]] Бөкей ордасының аумақтық картасын<ref>Сол кездегі хандықтың құрамына қазіргі [[Батыс Қазақстан облысы]]ның [[Жәнібек ауданы|Жәнібек]], [[Қазтал ауданы|Қазтал (Казталовка)]], [[Жаңғала ауданы|Жаңғала]], [[Бөкей ордасы ауданы|Бөкей ордасы (Орда)]] аудандары, [[Атырау облысы]]ның [[Махамбет ауданы|Махамбет]], [[Құрманғазы ауданы|Құрманғазы]] аудандары, көршілес [[Ресей]]дің [[Волгоград облысы]] [[Палласовка ауданы]]ның, [[Астархан облысы]] [[Құмөзек ауданы|Құмөзек]], [[Володарский ауданы|Володарский]], [[Қарабайлы ауданы|Қарабайлы]] аудандарының бір бөлігі енген.</ref> жасайды.
 
 == Әкімшілік бөлінісуі ==
+ 
 
 == Жұрты ==
 Хандықта [[Кіші жүз]]ден шыққан 5 мың жанұя болды, [[19 ғ.]] [[1850 жж.|50 жж.]] Бөкей ордасында 300 мың адам тұрды (50 мың жанұя).
@@ -212,6 +212,7 @@
 
 == Сыртқы сілтемелер ==
 * [http://www.nklibrary.freenet.kz/elib/collect/statyii/obrazov_bukeev.htm Билял Аспандияров. Образование Букеевской Орды и ее ликвидация]
+* [http://lib.kazsu.kz/Books/bk051/default.htm#top Зиманов С.З. Россия и Букеевское ханство]  
 
 {{stub}}
 
