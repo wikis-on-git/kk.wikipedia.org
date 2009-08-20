@@ -1,16 +1,16 @@
 {{Infobox Airport 
-| name         = Astana International Airport
-| nativename-a = Халықаралық Астана Әуежайы
+| name         = Халықаралық Астана Әуежайы
+| nativename-a = Astana International Airport
 | nativename-r = Xalyqaralyq Astana Äuezhaýi
 | image        = Astana International Airport 01.jpg
 | image-width  = 
 | caption      = 
 | IATA         = TSE
 | ICAO         = UACC
-| type         = Public
-| owner        = JSC International Astana Airport
+| type         = Мемлекеттік
+| owner        = Халықаралық Астана Әуежайы ЖШС
 | operator     = Malaysia Airports Holdings Bhd
-| city-served  = [[Astana]], [[Kazakhstan]]
+| city-served  = [[Астана]], [[Қазақстан]]
 | elevation-f  = 1,165
 | elevation-m  = 355
 | coordinates  = {{Coord|51|01|20|N|071|28|01|E|type:airport}}
@@ -20,18 +20,67 @@
 | r1-number    = 04/22
 | r1-length-f  = 11,484
 | r1-length-m  = 3,500
-| r1-surface   = [[Asphalt]]
+| r1-surface   = [[Асфальт]]
 | stat-year    = 2007
-| stat1-header = Passengers
+| stat1-header = Жолаушы
 | stat1-data   = 1,170,919
 | stat2-header = 
 | stat2-data   = 
 | footnotes    = 
 }}
 
-'''Astana International Airport''' {{airport codes|TSE|UACC}} is an international airport in [[Kazakhstan]] located 14 km (9 mi) outside of the capital [[Astana]]. 
+'''Халықаралық Астана Әуежайы''' [[Қазақстан|Қазақстандағы]] халықаралық әуежай. Ол Астана орталығынан 14 км қашықта орналасқан. 
 
-==History==
-The airport traces its history to 1931 when Astana's first airfield was constructed. Airport infrastructure has been continuously upgraded, making it possible to accept heavy aircraft by 1948, and starting 24-hour operation in 1956.
+==Тарихы==
+Әуежай өз тарихын 1931 жыолан бері бастайды. Сол жылы бірінші әуе алаңы құрылып, 1948 жлдан бастап ауыр ұшақтарды қабылдай алатын болды. 1956 жылдан бастап әуежай тәулік бойы жұмыс істей бастады.
 
-Following the transfer of the country capital to Astana in 1997, the airport underwent a series of major reconstructions which brought it up to international standards. A new passenger terminal was officially opened in February 2005.
+==Тасымалдаушылар мен Бағыттар==
+===Ішкі Терминал===
+{{Airport-dest-list
+|[[Air Astana]]|Ақтөбе, Алматы, Атырау, Қостанай, Қызылорда, Орал, Өскемен, Павлодар, Петропавл, Семей, Жезқазған
+|[[SCAT (airline)|SCAT]]|Ақтау, Ақтөбе, Орал, Шымкент, Тараз
+|[[Starline.kz]]|Ақтау, Ақтөбе, Шымкент
+|[[Zhetysu]]|Талдыорған
+}}
+
+===Халықаралық Терминал===
+{{Airport-dest-list
+|[[Aerosvit Airlines]]|Киев
+|[[Air Astana]]|Дубай, Франкфурт, Ыстамбұл-Ататүрк, Мәскеу-Шереметево, Новороссийск, Үрімші
+|[[Austrian Airlines]]|Вена
+|[[Avia Traffic Company]]|Бішкек
+|[[Belavia]]|Минск
+|[[Etihad Airways]]|Абу Даби
+|[[Imair Airlines]]|Баку
+|[[KD Avia]]|Калининград
+|[[Lufthansa]]|Франкфурт
+|[[Rossiya (airline)|Rossiya]]|Санкт Петербург
+|[[SCAT (airline)|SCAT]]|Минск
+|[[Transaero Airlines]]|Мәскеу-Домодедово
+|[[Turkish Airlines]]|Ыстамбұл-Ататүрк
+|[[Uzbekistan Airways]]|Ташкент
+|[[Wind Rose Aviation]]|Киев
+}}
+
+==References==
+</references>
+
+==External links==
+* [http://www.astanaairport.kz/Халықаралық Астана Әуежайы] (Ресми Сайты)
+
+
+[[Category:Қазақстан Әуежайлары]]
+
+[[de:Flughafen Astana]]
+[[en:Astana International Airport]]
+[[es:Aeropuerto Internacional de Astaná]]
+[[fr:Aéroport International d'Astana]]
+[[id:Bandar Udara Internasional Astana]]
+[[ja:アスタナ国際空港]]
+[[pl:Port lotniczy Astana]]
+[[pt:Aeroporto Internacional de Astana]]
+[[ru:Астана (аэропорт)]]
+[[fi:Astanan kansainvälinen lentoasema]]
+[[tr:Astana Havalimanı]]
+[[vi:Sân bay quốc tế Astana]]
+[[zh:阿斯塔纳国际机场]]
