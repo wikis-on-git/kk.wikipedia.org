@@ -1,0 +1,342 @@
+{{otheruses4|the Human Development Index (HDI)|other uses of HDI|HDI (disambiguation)}}
+
+ 
+[[Image:UN Human Development Report 2008.svg|thumb|right|400px|Әлемдегі Адам Даму Индаксін көрсететін карта(2008 жылға сәйкес)
+{| style="width:100%;"
+|-
+| valign=top |
+{{legend|#006000|0.950 және жоғары}}
+{{legend|#00a000|0.900–0.949}}
+{{legend|#00d000|0.850–0.899}}
+{{legend|#00ff00|0.800–0.849}}
+{{legend|#e0ff00|0.750–0.799}}
+| valign=top |
+{{legend|#ffff00|0.700–0.749}}
+{{legend|#ffdf00|0.650–0.699}}
+{{legend|#ffc160|0.600–0.649}}
+{{legend|#ffa552|0.550–0.599}}
+{{legend|#ff8000|0.500–0.549}}
+| valign=top |
+{{legend|#ff0000|0.450–0.499}}
+{{legend|#a00000|0.400–0.449}}
+{{legend|#800000|0.350–0.399}}
+{{legend|#400000|0.350-ден төмен}}
+{{legend|#c0c0c0|белгісіз}}
+|}
+[[:Image:UN Human Development Report 2007 (2) CBC.svg|('''Color-blind compliant map''') For red-green color vision problems.]]]]
+
+'''Адам Даму Индексу''' ('''АДИ''') адамдардың дамуы бойынша мемлекеттерді салыстыратын индекс. Ол бойынша мемлекеттің даму дамымағандығы өлшенеді. Көбінесе АДИ индексіне қарап мемлекеттерді [[дамыған]], [[дамушы]] және [[дамымаған]] болып бөледі. 
+
+==Қысқаша мәлімет==
+
+АДИ адамның өмір ұзақтығын, білімін, әріп тану және адам басына шаққандағы [[ЖІӨ]] өлшемдерін біріктіреді. Индекс адамның жалпы даму деңгейін көрсетеді. [[Біріккен Ұлттар Ұйымы|Біріккен Ұлттар Ұйымының]] [[Даму Бағдарламасы]] АДИ-дың даму деңгейін адамдардың таңдау қыбілеті, білім алу мүмкіншіліктері, денсаулық сақтауға арналған, табыс табу мен жұмыс жағдайлары сияқты факторларды есепке алатын үрдіс деп атайды. 
+
+
+АДИ үш басты қағидалардан тұрады:
+* [[Өмір Ұзақтығы]] - Халық денсаулығы мен ұзқтығын өлшейді
+* Білім деңгейі мен білім бері жүйесі
+* [[Өмір сүру стандарты]], адам басына шаққандағы [[жалпы ішкі өнім|жалпы ішкі өніммен]] өлшенеді.
+
+==Методологиясы==
+[[Image:Evolució de l'IDH.png|thumb|right|280px|АДИ даму бағыттары 1975 пен 2004 аралығында
+{| style="width:100%;"
+|-
+| valign=top |
+{{legend|black|[[OECD]]}}
+{{legend|#FF0000|[[Central Europe|Central]] and [[eastern Europe]], and the [[Commonwealth of Independent States|CIS]]}}
+{{legend|#E45600|[[Latin America]] and the [[Caribbean]]}}
+{{legend|#D09B00|[[East Asia]]}}
+| valign=top |
+{{legend|#00FF00|[[Arab States]]}}
+{{legend|#003FD9|[[South Asia]]}}
+{{legend|#C600FF|[[Sub-Saharan Africa]]}}
+|}
+]]
+
+In general, to transform a raw [[Variable (mathematics)|variable]], say <math>x</math>, into a unit-free [[Index (economics)|index]] between 0 and 1 (which allows different indices to be added together), the following [[formula]] is used:
+* <math>x</math>-index = <math>\frac{x - \min\left(x\right)}{\max\left(x\right)-\min\left(x\right)}</math>
+
+where <math>\min\left(x\right)</math> and <math>\max\left(x\right)</math> are the [[maxima and minima|lowest and highest values]] the variable <math>x</math> can attain, respectively.<br />
+
+The Human Development Index (HDI) then represents the average of the following three general indices:
+* [[Life Expectancy Index]] = <math>\frac{LE - 25} {85-25}</math>
+* [[Education Index]] = <math>\frac{2} {3} \times ALI + \frac{1} {3} \times GEI</math>
+** [[Adult Literacy Index]] (ALI) = <math>\frac{ALR - 0} {100 - 0}</math>
+** [[Gross Enrollment Ratio|Gross Enrollment Index]] (GEI) = <math>\frac{CGER - 0} {100 - 0}</math>
+* [[GDP]] = <math>\frac{\log\left(GDPpc\right) - \log\left(100\right)} {\log\left(40000\right) - \log\left(100\right)}</math>
+
+==2008 статистикалық жаңарту==
+{{main|Адам Даму Индексі бойынша елдер тізбесі}}
+
+2008 жылдың 18 желтоқсанында жаңа тізбе шықты. Халық арасында статистикалық жаңарту деп аталып кеткен тізбе осы жолы қосымша түіндірмесіз шыққан. The update is relevant due to newly released estimates of [[purchasing power parity|purchasing power parities]] (PPP), implying substantial adjustments for many countries, resulting in changes in HDI values and, in many cases, HDI ranks.<ref name="2008SU">[http://hdr.undp.org/en/mediacentre/news/title,15493,en.html News - Human Development Reports (UNDP)<!-- Bot generated title -->]</ref>
+
+{{col-begin}}
+{{col-break}}
+<ol>
+<li> {{ISL}} 0.968 ({{steady}})</li>
+<li> {{NOR}} 0.968 ({{steady}})</li>
+<li> {{CAN}} 0.967 ({{increase}} 1)</li>
+<li> {{AUS}} 0.965 ({{decrease}} 1)</li>
+<li> {{IRL}} 0.960 ({{steady}})</li>
+<li> {{NLD}} 0.958 ({{increase}} 3)</li>
+<li> {{SWE}} 0.958 ({{decrease}} 1)</li>
+<li> {{JPN}} 0.956 ({{steady}})</li>
+<li> {{LUX}} 0.956 ({{increase}} 9)</li>
+<li> {{SUI}} 0.955 ({{decrease}} 3)</li>
+<li> {{FRA}} 0.955 ({{decrease}} 1)</li>
+</ol>
+
+{{col-break}}
+<ol>
+<li value="12"> {{FIN}} 0.954 ({{decrease}} 1)</li>
+<li> {{DEN}} 0.952 ({{increase}} 1)</li>
+<li> {{AUT}} 0.951 ({{increase}} 1)</li>
+<li> {{USA}} 0.950 ({{decrease}} 3)</li>
+<li> {{ESP}} 0.949 ({{decrease}} 3)</li>
+<li> {{BEL}} 0.948 ({{decrease}} 1)</li>
+<li> {{GRC}} 0.947 ({{increase}} 6)</li>
+<li> {{ITA}} 0.945 ({{increase}} 1)</li>
+<li> {{NZL}} 0.944 ({{decrease}} 1)</li>
+<li> {{UK}} 0.942 ({{decrease}} 4)</li>
+<li> {{HKG}} 0.942 ({{decrease}} 1)</li>
+</ol>
+
+{{col-break}}
+<ol>
+<li value="23"> {{GER}} 0.940 ({{decrease}} 1)</li>
+<li> {{ISR}} 0.930 ({{decrease}} 1)</li>
+<li> {{KOR}} 0.928 ({{increase}} 1)</li>
+<li> {{SLO}} 0.923 ({{increase}} 1)</li>
+<li> {{BRU}} 0.919 ({{increase}} 3)</li>
+<li> {{SIN}} 0.918 ({{decrease}} 3)</li>
+<li> {{KUW}} 0.912 ({{increase}} 4)</li>
+<li> {{CYP}} 0.912 ({{decrease}} 2)</li>
+<li> {{UAE}} 0.903 ({{increase}} 8)</li>
+<li> {{BHR}} 0.902 ({{increase}} 9)</li>
+<li> {{POR}} 0.900 ({{decrease}} 4)</li>
+</ol>
+{{col-end}}
+
+===Тізбекке кірмеген елдер===
+Келесі елдер 2008 жылғы тізбекке кірмейқалған. Себебі, олардың үкіметтері керекті ақпаратты жинай алмаған немесе онымен бөліскісі келмеген.
+{{col-begin}}
+{{col-break}}
+
+'''[[Африка]]'''
+* {{SOM}}
+* {{ZIM}}
+{{col-break}}
+
+'''[[Еуропа]]'''
+* {{AND}}
+* {{LIE}}
+* {{MON}}
+* {{SMR}}
+* {{VAT}}
+{{col-break}}
+
+'''[[Океания]]'''
+* {{KIR}}
+* {{MHL}}
+* {{MIC}}
+* {{NRU}}
+* {{PLW}}
+* {{TUV}}
+{{col-end}}
+
+==2007/2008 баяндама==
+The report for 2007/2008 was launched in [[Brasilia]], [[Brazil]], on [[November 27]], [[2007]]. Its focus was on "Fighting climate change: Human solidarity in a divided world."<ref>[http://hdr.undp.org/en/reports/global/hdr2007-2008/ HDR 2007/2008 - Human Development Reports (UNDP)<!-- Bot generated title -->]</ref> Most of the data used for the report are derived largely from 2005 or earlier, thus indicating an HDI for 2005. Not all [[United Nations member states|UN member states]] choose to or are able to provide the necessary statistics.
+
+The report showed a small increase in world HDI in comparison with last year's report. This rise was fueled by a general improvement in the [[developing countries|developing world]], especially of the [[least developed countries]] group. This marked improvement at the bottom was offset with a decrease in HDI of [[high income countries]].
+
+A HDI below 0.5 is considered to represent "low development". All 22 countries in that category are located in [[Africa]]. The highest-scoring Sub-Saharan countries, [[Gabon]] and [[South Africa]], are ranked 119th and 121st, respectively. Nine countries departed from this category this year and joined the "medium development" group.
+
+A HDI of 0.8 or more is considered to represent "high development". This includes all [[developed countries]], such as those in [[North America]], [[Western Europe]], [[Oceania]], and [[Eastern Asia]], as well as some [[developing countries]] in [[Eastern Europe]], [[Central and South America]], [[Southeast Asia]], the [[Caribbean]], and the oil-rich [[Arabian Peninsula]]. Seven countries were promoted to this category this year, leaving the "medium development" group: [[Albania]], [[Belarus]], [[Brazil]], [[Libya]], [[Republic of Macedonia|Macedonia]], [[Russia]] and [[Saudi Arabia]].
+
+On the following table, green arrows ({{increase}}) represent an increase in ranking over the previous study, while red arrows ({{decrease}}) represent a decrease in ranking. They are followed by the number of spaces they moved. Blue dashes ({{steady}}) represent a nation that did not move in the rankings since the previous study.{{-}}
+
+{{col-begin}}
+{{col-break}}
+<ol>
+<li> {{ISL}} 0.968 ({{increase}} 1)</li>
+<li> {{NOR}} 0.968 ({{decrease}} 1)</li>
+<li> {{AUS}} 0.962 ({{steady}})</li>
+<li> {{CAN}} 0.961 ({{increase}} 2)</li>
+<li> {{IRL}} 0.959 ({{decrease}} 1)</li>
+<li> {{SWE}} 0.956 ({{decrease}} 1)</li>
+<li> {{SUI}} 0.955 ({{increase}} 2)</li>
+<li> {{JPN}} 0.953 ({{decrease}} 1)</li>
+<li> {{NLD}} 0.953 ({{increase}} 1)</li>
+<li> {{FRA}} 0.952 ({{increase}} 6)</li>
+</ol>
+
+{{col-break}}
+<ol>
+<li value="11"> {{FIN}} 0.952 ({{steady}})</li>
+<li> {{USA}} 0.951 ({{decrease}} 4)</li>
+<li> {{ESP}} 0.949 ({{increase}} 6)</li>
+<li> {{DEN}} 0.949 ({{increase}} 1)</li>
+<li> {{AUT}} 0.948 ({{decrease}} 1)</li>
+<li> {{BEL}} 0.946 ({{decrease}} 4)</li>
+<li> {{UK}} 0.946 ({{increase}} 1)</li>
+<li> {{LUX}} 0.944 ({{decrease}} 6)</li>
+<li> {{NZL}} 0.943 ({{increase}} 1)</li>
+<li> {{ITA}} 0.941 ({{decrease}} 3)</li>
+
+</ol>
+
+{{col-break}}
+<ol>
+<li value="21"> {{HKG}} 0.937 ({{increase}} 1)</li>
+<li> {{GER}} 0.935 ({{increase}} 1)</li>
+<li> {{ISR}} 0.932 ({{steady}})</li>
+<li> {{GRC}} 0.926 ({{steady}})</li>
+<li> {{SIN}} 0.922 ({{steady}})</li>
+<li> {{KOR}} 0.921 ({{steady}})</li>
+<li> {{SLO}} 0.917 ({{steady}})</li>
+<li> {{CYP}} 0.903 ({{increase}} 1)</li>
+<li> {{POR}} 0.897 ({{decrease}} 1)</li>
+<li> {{BRU}} 0.894 ({{increase}} 4)</li>
+</ol>
+
+{{col-end}}
+
+==2009 баяндама==
+2009 жылғы баяндаама 2009 жылдың қазан айында шығып, адам миграциясы сұрақтарымен айналыматын болады. <ref>[http://hdr.undp.org/en/media/HDR_2009_EN_pre.pdf HDR 2009 - Human Development Reports (UNDP)<!-- Bot generated title -->]</ref>
+
+==Соңғы бірінші болған 10 ел==
+The list below displays the top-ranked country from each year of the index. [[Canada]] has been ranked the highest eight times, followed by [[Norway]] at six times. [[Japan]] has been ranked highest three times and [[Iceland]] twice.
+
+===Баяндамалардағы болған нәрселер===
+The year represents when the report was published. In parentheses the year for which the index was calculated. 
+{|
+|- style="vertical-align:top;"
+|
+* 2008 (2006)&ndash;{{flagcountry|Iceland}}
+* 2007 (2005)&ndash;{{flagcountry|Iceland}}
+* 2006 (2004)&ndash;{{flagcountry|Norway}}
+* 2005 (2003)&ndash;{{flagcountry|Norway}}
+* 2004 (2002)&ndash;{{flagcountry|Norway}}
+* 2003 (2001)&ndash;{{flagcountry|Norway}}
+* 2002 (2000)&ndash;{{flagcountry|Norway}}
+| width="50px" |
+|
+* 2001 (1999)&ndash;{{flagcountry|Norway}}
+* 2000 (1998)&ndash;{{flagcountry|Canada}}
+* 1999 (1997)&ndash;{{flagcountry|Canada}}
+* 1998 (1995)&ndash;{{flagcountry|Canada}}
+* 1997 (1994)&ndash;{{flagcountry|Canada}}
+* 1996 (1993)&ndash;{{flagcountry|Canada}}
+* 1995 (1992)&ndash;{{flagcountry|Canada}}
+| width="50px" |
+|
+* 1994 (????)&ndash;{{flagcountry|Canada}}
+* 1993 (????)&ndash;{{flagcountry|Japan}}
+* 1992 (1990)&ndash;{{flagcountry|Canada}}
+* 1991 (1990)&ndash;{{flagcountry|Japan}}
+* 1990 (????)&ndash;{{flagcountry|Japan}}
+|}
+
+===2008 қайта қарау===
+The 2008 Statistical Update calculated HDIs for past years using a consistent methodology and data series. They are not strictly comparable with those in earlier Human Development Reports. The index was calculated using data pertaining to the year shown.
+
+{|
+|- style="vertical-align:top;"
+|
+* 2006&ndash;{{flagcountry|Iceland}}
+* 2005&ndash;{{flagcountry|Iceland}}
+* 2004&ndash;{{flagcountry|Norway}}
+* 2003&ndash;{{flagcountry|Norway}}
+* 2000&ndash;{{flagcountry|Norway}}
+| width="50px" |
+|
+* 1995&ndash;{{flagcountry|Norway}}
+* 1990&ndash;{{flagcountry|Canada}}
+* 1985&ndash;{{flagcountry|Canada}}
+* 1980&ndash;{{flagcountry|Norway}}
+|}
+
+==Сынау==
+The Human Development Index has been criticized on a number of grounds, including failure to include any [[ecological]] considerations, focusing exclusively on national performance and ranking, and not paying much attention to development from a global perspective.  Two authors claimed that the human development reports "have lost touch with their original vision and the index fails to capture the essence of the world it seeks to portray".<ref>[http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VDY-3T88FV2-3&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=66e664a888f1499d4cce3070424d80cb Ambuj D. Sagara, Adil Najam, "The human development index: a critical review", ''Ecological Economics'', Vol. 25, No. 3, pp. 249-264, June 1998].</ref>  The index has also been criticized as "redundant" and a "reinvention of the wheel", measuring aspects of development that have already been exhaustively studied.<ref>McGillivray, Mark, "The human development index: yet another redundant composite development indicator?", ''World Development'', Vol. 19, No. 10, pp. 1461-1468, Oct. 1991.</ref><ref>[http://ideas.repec.org/a/aea/aecrev/v84y1994i2p238-43.html T.N. Srinivasan "Human Development: A New Paradigm or Reinvention of the Wheel?", ''American Economic Review'', Vol. 84, No. 2, pp. 238-243, May 1994.]</ref>  The index has further been criticized for having an inappropriate treatment of income, lacking year-to-year comparability, and assessing development differently in different groups of countries.<ref>[http://www3.interscience.wiley.com/journal/113467792/abstract?CRETRY=1&SRETRY=0 Mark McGillivray, Howard White, "Measuring development? The UNDP's human development index", ''Journal of International Development'', Vol. 5, No. 2, pp. 183-192, Nov, 2006.]</ref>
+
+Some authors have proposed alternative indices to address some of the index's shortcomings.<ref>[http://www3.interscience.wiley.com/journal/10005622/abstract Farhad Noorbakhsh, "The human development index: some technical issues and alternative indices", ''Journal of International Development'', Vol. 10, No. 5, pp. 589 - 605, Dec. 1998.]</ref>
+
+[[Economist]] [[Bryan Caplan]] has criticized the way scores in each of the three components are bounded between zero and one, so rich countries effectively cannot improve their ranking in certain categories, even though there is a lot of scope for economic growth and longevity left, "This effectively means that a country of immortals with infinite per-capita GDP would get a score of .666 (lower than South Africa and Tajikistan) if its population were illiterate and never went to school."<ref name="CaplanEconLog">[http://econlog.econlib.org/archives/2009/05/against_the_hum.html Against the Human Development Index] Comment Posted Posted May 22, 2009, Bryan Caplan - Library of Economics and Liberty</ref> Scandinavian countries consistently come out top on the list, he argues, "because the HDI is basically a measure of how Scandinavian your country is."<ref name="CaplanEconLog" />
+
+The HDI has been criticized as a redundant measure that adds little to the value of the individual measures composing it; as a means to provide legitimacy to arbitrary weightings of a few aspects of social development; as a number producing a relative ranking which is useless for inter-temporal comparisons, and difficult to compare a country's progress or regression because the HDI for a country in a given year depends on the levels of, say, life expectancy or GDP per capita of other countries in that year.<ref>Rao VVB, 1991. Human development report 1990: review and assessment. World Development, Vol 19 No. 10, pp. 1451–1460.</ref><ref> McGillivray M. The Human Development Index: Yet Another Redundant Composite Development Indicator? World Development, 1991, vol 18, no. 10:1461-1468.</ref><ref>Hopkins M. Human development revisited: A new UNDP report. World Development, 1991. vol 19, no. 10, 1461-1468.</ref><ref>Tapia Granados JA. Algunas ideas críticas sobre el índice de desarrollo humano. Boletín de la Oficina Sanitaria Panamericana, 1995 Vol 119, No. 1, pp. 74-87.</ref> However, each year, [[List of countries by Human Development Index|UN member states are listed and ranked]] according to the computed HDI. If high, the rank in the list can be easily used as a means of national aggrandizement; alternatively, if low, it can be used to highlight national insufficiencies. Using the HDI as an absolute index of social welfare, some authors have used panel HDI data to measure the impact of economic policies on [[quality of life]].<ref>[http://www.business.duq.edu/faculty/davies/research/hdi.pdf Davies, A. and G. Quinlivan (2006), A Panel Data Analysis of the Impact of Trade on Human Development, Journal of Socioeconomics]</ref>
+
+==Түсініктемелер==
+<references/>
+
+==Қосымша Сілтемелер==
+{{Portal|Sustainable development|Sustainable development.svg}}
+
+* [http://hdr.undp.org/en/ Адам Дамуы бойынша баяндама]
+* [http://hdr.undp.org/ Адам Дамуы сұрақтарымен айналысатын ұжым офисі]
+* [http://hdr.undp.org/en/statistics/ Адам Даму Индексі - Жаңарған елдер тізімі (Dec. 2008)]
+* {{PDFlink|[http://hdr.undp.org/en/media/hdr_20072008_tech_note_1.pdf АДИдің мағынасын түсіндіретін техникалық сараптама]|5.54&nbsp;MB}}
+* [http://www.nationmaster.com/graph-T/eco_hum_dev_ind NationMaster.com ға сәйкес елдер тізімі]
+* [http://explomap.free.fr/?p=1 АДИ картасы]
+
+{{Global economic classifications}}
+{{Population country lists}}
+
+[[Category:Human Development Index|*]]
+[[Category:Lists of countries by international rankings]]
+
+[[af:Menslike ontwikkelingsindeks]]
+[[ar:مؤشر التنمية البشرية]]
+[[az:İnsan İnkişafı İndeksi]]
+[[bn:মানব উন্নয়ন সূচক]]
+[[bar:Human Development Index]]
+[[bg:Индекс на човешко развитие]]
+[[ca:Índex de Desenvolupament Humà]]
+[[cs:Index lidského rozvoje]]
+[[cy:Indecs Datblygiad Dynol]]
+[[da:Human Development Index]]
+[[de:Human Development Index]]
+[[kk:Human Development Index]]
+[[et:Inimarengu indeks]]
+[[el:Δείκτης ανθρώπινης ανάπτυξης]]
+[[es:Índice de desarrollo humano]]
+[[eo:IHD]]
+[[eu:Giza Garapen Indizea]]
+[[fa:شاخص توسعه انسانی]]
+[[fr:Indice de développement humain]]
+[[gl:Índice de Desenvolvemento Humano]]
+[[ko:인간개발지수]]
+[[hr:HDI]]
+[[id:Indeks Pembangunan Manusia]]
+[[is:Vísitala um þróun lífsgæða]]
+[[it:Indice di sviluppo umano]]
+[[he:מדד הפיתוח האנושי]]
+[[lv:Tautas attīstības indekss]]
+[[lt:Žmogaus socialinės raidos indeksas]]
+[[hu:Emberi fejlettségi index]]
+[[ml:മാനവ വികസന സൂചിക]]
+[[ms:Indeks Pembangunan Insan]]
+[[nl:Index van de menselijke ontwikkeling]]
+[[ja:人間開発指数]]
+[[no:HDI]]
+[[pl:Wskaźnik Rozwoju Społecznego]]
+[[pt:Índice de Desenvolvimento Humano]]
+[[ro:Indicele dezvoltării umane]]
+[[rmy:Indekso le manushutne baryaripnasko]]
+[[ru:Индекс развития человеческого потенциала]]
+[[sah:Киhи сайдыытын индекса]]
+[[sq:Indeksi i zhvillimit njerëzor]]
+[[simple:Human Development Index]]
+[[sk:Index ľudského rozvoja]]
+[[sl:Indeks človekovega razvoja]]
+[[sr:Индекс хуманог развоја]]
+[[sh:Indeks ljudskog razvoja]]
+[[fi:Inhimillisen kehityksen indeksi]]
+[[sv:HDI]]
+[[ta:மனித வளர்ச்சிச் சுட்டெண்]]
+[[th:ดัชนีการพัฒนามนุษย์]]
+[[tr:İnsani Gelişme Endeksi]]
+[[udm:Human development index]]
+[[uk:Індекс розвитку людського потенціалу]]
+[[vi:Chỉ số phát triển con người]]
+[[yi:מענטשליכע אנטוויקלונג אינדעקס]]
+[[zh:人类发展指数]]
