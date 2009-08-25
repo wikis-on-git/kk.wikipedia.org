@@ -40,7 +40,7 @@
 !colspan=2 | АДИ
 |-
 ! width="75px" | <small>2006 data</small><ref name="UNDP">{{cite web|url=http://hdr.undp.org/en/media/HDI_2008_EN_Tables.pdf|title=Human development indices|publisher=[[United Nations Development Programme]]|accessdate=26 March 2009}}</ref><ref group="nb" name="StatUpdate">As published in United Nations Development Programme's Human Development Report "Human Development Indices - A statistical update 2008"; Table 1 "Human development index trends" 2006 and 2005 values are used, as these are the revised values rather than those originally published as shown in Appendix A1.</ref>
-! width="75px" | <small>Change compared to 2005 data</small><ref group="nb" name="StatUpdate"/><ref name="UNDP"/>
+! width="75px" | <small>2005 жылмен салыстырғандағы өзгеріс</small><ref group="nb" name="StatUpdate"/><ref name="UNDP"/>
 |-
 | 1 || align="left" | {{flag|Iceland}} || 0.968 || {{Increase}} +0.001
 |-
@@ -125,8 +125,8 @@
 !rowspan=2 width="250px" | Ел
 !colspan=2 | АДИ
 |-
-! width="75px" | <small>2006 data</small>
-! width="75px" | <small>Change compared to 2005 data</small>
+! width="75px" | <small>2006 жылғы мәліметтер</small>
+! width="75px" | <small>2005 жылғы мәліметтермен салыстырғанда</small>
 |-
 | 39 || align="left" | {{flag|Poland}} || 0.875 || {{Increase}} +0.005
 |-
@@ -212,8 +212,8 @@
 !rowspan=2 width="250px" | Ел
 !colspan=2 | АДИ
 |-
-! width="75px" | <small>2006 data</small>
-! width="75px" | <small>Change compared to 2005 data</small>
+! width="75px" | <small>2006 жылғы мәліметтер</small>
+! width="75px" | <small>2005 жылғы мәліметтермен салыстырғанда</small>
 |-
 | 76 || align="left" | {{flag|Turkey}} || 0.798 || {{Increase}} +0.007
 |- 
@@ -535,17 +535,17 @@
 
 {{col-begin}}
 {{col-break}}
-'''10 ең жоғары АДИі бар елдер'''
+'''10 ең жоғары АДИ-і бар елдер'''
 
 {| class="wikitable" style="text-align:center"
 !rowspan=2 | Орны
 !rowspan=2 width="250px" | Елдер
 !colspan=2 | АДИ
 |-
-! width="75px" | <small>2006 data</small>
-! width="75px" | <small>Change compared to 2005 data</small>
+! width="75px" | <small>2006 жылғы мәліметтер</small>
+! width="75px" | <small>2005 жылғы мәліметтермен салыстырғанда</small>
 |-
-! colspan="4" | <font color="#009900">High</font>
+! colspan="4" | <font color="#009900">Жоғары</font>
 |-
 | 1 || align="left" | {{flag|Canada}} || 0.967 || {{Increase}} +0.002
 |-
@@ -568,17 +568,17 @@
 | 10 || align="left" | {{flag|Mexico}} || 0.842 || {{Increase}} +0.005
 |}
 {{col-break}}
-'''10 lowest HDIs'''
+'''10 ең төменгі АДИ-і бар елдер'''
 
 {| class="wikitable" style="text-align:center"
-!rowspan=2 | Rank
-!rowspan=2 width="250px" | Country
-!colspan=2 | HDI
+!rowspan=2 | Орны
+!rowspan=2 width="250px" | Ел
+!colspan=2 | АДИ
 |-
-! width="75px" | <small>2006 data</small>
-! width="75px" | <small>Change compared to 2005 data</small>
+! width="75px" | <small>2006 жылғы мәліметтер</small>
+! width="75px" | <small>2005 жылғы мәліметтермен салыстырғанда</small>
 |-
-! colspan="4" | <font color="#ffcc00">Medium</font>
+! colspan="4" | <font color="#ffcc00">Орташа</font>
 |-
 | 1 || align="left" | {{flag|Haiti}} || 0.521 || {{Increase}} +0.006
 |-
@@ -602,21 +602,21 @@
 |}
 {{col-end}}
 
-===Asia & Oceania===
+===Азия және Океания===
 
 {{col-begin}}
 {{col-break}}
-'''10 highest HDIs'''
+'''10 ең жоғары АДИ-і бар елдер'''
 
 {| class="wikitable" style="text-align:center"
-!rowspan=2 | Rank
-!rowspan=2 width="250px" | Country
-!colspan=2 | HDI
+!rowspan=2 | Орны
+!rowspan=2 width="250px" | Ел
+!colspan=2 | АДИ
 |-
-! width="75px" | <small>2006 data</small>
-! width="75px" | <small>Change compared to 2005 data</small>
+! width="75px" | <small>2006 жылғы мәліметтер</small>
+! width="75px" | <small>2005 жылғы мәліметтермен салыстырғанда</small>
 |-
-! colspan="4" | <font color="#009900">High</font>
+! colspan="4" | <font color="#009900">Жоғары</font>
 |-
 | 1 || align="left" | {{flag|Australia}} || 0.965 || {{Increase}} +0.002
 |-
@@ -639,17 +639,17 @@
 | 10 || align="left" | {{flag|United Arab Emirates}} || 0.903 || {{Increase}} +0.002
 |}
 {{col-break}}
-'''10 lowest HDIs'''
+'''10 ең төменгі АДИ-і бар елдер'''
 
 {| class="wikitable" style="text-align:center"
-!rowspan=2 | Rank
-!rowspan=2 width="250px" | Country
-!colspan=2 | HDI
+!rowspan=2 | Орны
+!rowspan=2 width="250px" | Ел
+!colspan=2 | АДИ
 |-
-! width="75px" | <small>2006 data</small>
-! width="75px" | <small>Change compared to 2005 data</small>
+! width="75px" | <small>2006 жылғы мәліметтер</small>
+! width="75px" | <small>2005 жылғы мәліметтермен салыстырғанда</small>
 |-
-! colspan="4" | <font color="#e0584e">Low</font>
+! colspan="4" | <font color="#e0584e">Төмен</font>
 |-
 | 1 || align="left" | {{flag|Timor-Leste}} || 0.483 || {{Decrease}} -0.003
 |-
@@ -675,21 +675,21 @@
 |}
 {{col-end}}
 
-===Europe===
+===Еуропа===
 
 {{col-begin}}
 {{col-break}}
-'''10 highest HDIs'''
+'''10 ең жоғары АДИ-і бар елдер'''
 
 {| class="wikitable" style="text-align:center"
-!rowspan=2 | Rank
-!rowspan=2 width="250px" | Country
-!colspan=2 | HDI
+!rowspan=2 | Орны
+!rowspan=2 width="250px" | Ел
+!colspan=2 | АДИ
 |-
-! width="75px" | <small>2006 data</small>
-! width="75px" | <small>Change compared to 2005 data</small>
+! width="75px" | <small>2006 жылғы мәліметтер</small>
+! width="75px" | <small>2005 жылғы мәліметтермен салыстырғанда</small>
 |-
-! colspan="4" | <font color="#009900">High</font>
+! colspan="4" | <font color="#009900">Жоғары</font>
 
 |-
 | 1 || align="left" | {{flag|Iceland}} || 0.968 || {{Increase}} +0.001
@@ -713,17 +713,17 @@
 | 10 || align="left" | {{flag|Denmark}} || 0.952 || {{Increase}} +0.003
 |}
 {{col-break}}
-'''10 lowest HDIs'''
+'''10 ең төменгі АДИ-і бар елдер'''
 
 {| class="wikitable" style="text-align:center"
-!rowspan=2 | Rank
-!rowspan=2 width="250px" | Country
-!colspan=2 | HDI
+!rowspan=2 | Орны
+!rowspan=2 width="250px" | Ел
+!colspan=2 | АДИ
 |-
-! width="75px" | <small>2006 data</small>
-! width="75px" | <small>Change compared to 2005 data</small>
+! width="75px" | <small>2006 жылғы мәлімет</small>
+! width="75px" | <small>2005 жылғы мәліметтермен салыстырғанда</small>
 |-
-! colspan="4" | <font color="#ffcc00">Medium</font>
+! colspan="4" | <font color="#ffcc00">Орташа</font>
 |-
 | 1 || align="left" | {{flag|Moldova}} || 0.719 || {{Increase}} +0.005
 |-
@@ -731,7 +731,7 @@
 |-
 | 3 || align="left" | {{flag|Turkey}} || 0.798 || {{Increase}} +0.007
 |-
-! colspan="4" | <font color="#009900">High</font>
+! colspan="4" | <font color="#009900">Жоғары</font>
 |-
 | 4 || align="left" | {{flag|Bosnia and Herzegovina}} || 0.802 || {{Increase}} +0.005
 |-
@@ -749,14 +749,14 @@
 |}
 {{col-end}}
 
-== HDI by regions & groups ==
+== Аймақтар мен Топтар бойынша АДИ ==
 
 {{col-begin}}
 {{col-break}}
 {| class="wikitable" style="text-align:center"
-! Rank
-! Region or Group
-! HDI
+! Орны
+! Аймақ немесе топ
+! АДИ
 |-
 ! colspan="3" | <font color="#009900">High</font>
 |-
@@ -788,8 +788,8 @@
 |}
 {{col-break}}
 {| class="wikitable" style="text-align:center"
-! Group
-! HDI
+! Топ
+! АДИ
 |-
 | align="left" | ''High Human Development'' || 0.901
 |-
@@ -805,20 +805,20 @@
 |}
 {{col-end}}
 
-== Countries missing from latest report ==
-=== UN member states (latest UNDP data) ===
+== Соңғы баяндамаға кірмей қалған елдер ==
+=== БҰҰ-на кіретін елдер ===
 
 {{col-begin}}
 {{col-break}}
 {| class="wikitable" style="text-align:center"
-! colspan="2" | Year
-! rowspan="2" | Country
-! rowspan="2" | HDI
-! rowspan="2" | Rank
-! rowspan="2" | Source
+! colspan="2" | Жыл
+! rowspan="2" | Ел
+! rowspan="2" | АДИ
+! rowspan="2" | Орны
+! rowspan="2" | қайнар көзі
 |-
-! | <small>Publication</small>
-! | <small>Data</small>
+! | <small>Шығарылған мерзімі</small>
+! | <small>Мәліметтер</small>
 |-
 | 1997 || {{N/A}} || align="left" | {{flag|Liechtenstein}} || 0.946 || || {{fact|date=December 2008}}
 |-
@@ -838,14 +838,14 @@
 |}
 {{col-break}}
 {| class="wikitable" style="text-align:center"
-! colspan="2" | Year
-! rowspan="2" | Country
-! rowspan="2" | HDI
-! rowspan="2" | Rank
-! rowspan="2" | Source
+! colspan="2" | Жыл
+! rowspan="2" | Ел
+! rowspan="2" | АДИ
+! rowspan="2" | Орны
+! rowspan="2" | қайнар көзі
 |-
-! | <small>Publication</small>
-! | <small>Data</small>
+! | <small>Шығарылған мерзімі</small>
+! | <small>Мәліметтер</small>
 |-
 | 1998 || {{N/A}} || align="left" | {{flag|Tuvalu}} || 0.583 || || {{fact|date=December 2008}}
 |-
@@ -863,19 +863,19 @@
 |}
 {{col-end}}
 
-=== Non-UN members (not calculated by the UNDP) ===
+=== БҰҰға кірмейтін елдер (Бұл мәліметтерді БҰҰДБ санамаған) ===
 
 {{col-begin}}
 {{col-break}}
 {| class="wikitable" style="text-align:center"
-! colspan="2" | Year
-! rowspan="2" | Country or Territory
-! rowspan="2" | HDI
-! rowspan="2" | Rank
-! rowspan="2" | Source
+! colspan="2" | Жыл
+! rowspan="2" | Ел
+! rowspan="2" | АДИ
+! rowspan="2" | Орны
+! rowspan="2" | қайнар көзі
 |-
-! | <small>Publication</small>
-! | <small>Data</small>
+! | <small>Шығарылған мерзімі</small>
+! | <small>Мәліметтер</small>
 |-
 | 1998 || {{N/A}} || align="left" | {{flag|Puerto Rico}} || 0.942 || {{N/A}} || <ref>{{cite web|url=http://islands.unep.ch/CSV.htm|title=Puerto Rico (United States)|publisher=[[United Nations Environment Programme]]|date=2 March 1998|accessdate=26 March 2009}}. Note: Appears to be simply the United States's HDI published on the 1997 report.</ref>{{dubious|date=December 2008}}
 |-
@@ -890,14 +890,14 @@
 
 {{col-break}}
 {| class="wikitable" style="text-align:center"
-! colspan="2" | Year
-! rowspan="2" | Country or Territory
-! rowspan="2" | HDI
-! rowspan="2" | Rank
-! rowspan="2" | Source
+! colspan="2" | Жыл
+! rowspan="2" | Ел
+! rowspan="2" | АДИ
+! rowspan="2" | Орны
+! rowspan="2" | қайнар көзі
 |-
-! | <small>Publication</small>
-! | <small>Data</small>
+! | <small>Шығарылған мерзімі</small>
+! | <small>Мәліметтер</small>
 |-
 | 2006 || 2004 || align="left" | {{flag|Macau}} || 0.909 || 28 || <ref name=Macau>The UN did not calculate the HDI of Macau. The government of Macau calculates its own HDI as of 2004 as 0.909. If it were included in the UN's HDI figures as of 2004, Macau would rank 28th (behind Slovenia and in front of Portugal). {{cite web |url=http://www.dsec.gov.mo/english/indicator/e_mn_indicator.html |title=2006 Macao in Figures |accessdate=2006-11-02 |year=2006 |publisher=Statistics and Census Service, Macau SAR |language=English}}</ref>
 |-
@@ -913,28 +913,19 @@
 |}
 {{col-end}}
 
-== Notes ==
+== Қосымша==
 <references group="nb"/>
 
-==References==
-{{Reflist|2}}
+==Түсініктемелер==
+<references/>
 
-== See also ==
-
-* [[Satisfaction with Life Index]]
-* [[Happy Planet Index]]
-* [[OSCE countries statistics]]
-* [[American Human Development Report]]
-* [[List of European countries by Human Development Index]]
-
-== External links ==
-* Archive of [http://hdr.undp.org/en/reports/research previous global reports.]
+== Сыртқы сілтемелер ==
 
 {{Population country lists}}
 
 <!--Categories-->
-[[Category:Lists of countries|Human Development Index, list by]]
-[[Category:Human Development Index]]
+
+[[Category:Адам даму индексі]]
 
 <!--Other languages-->
 
