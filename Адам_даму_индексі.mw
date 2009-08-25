@@ -1,6 +1,3 @@
-{{otheruses4|the Human Development Index (HDI)|other uses of HDI|HDI (disambiguation)}}
-
- 
 [[Image:UN Human Development Report 2008.svg|thumb|right|400px|Әлемдегі Адам Даму Индаксін көрсететін карта(2008 жылға сәйкес)
 {| style="width:100%;"
 |-
@@ -23,7 +20,7 @@
 {{legend|#400000|0.350-ден төмен}}
 {{legend|#c0c0c0|белгісіз}}
 |}
-[[:Image:UN Human Development Report 2007 (2) CBC.svg|('''Color-blind compliant map''') For red-green color vision problems.]]]]
+[[:Image:UN Human Development Report 2007 (2) CBC.svg|'''Түс айыра алмайтындар үшін жасалған карта''']]]]
 
 '''Адам Даму Индексу''' ('''АДИ''') адамдардың дамуы бойынша мемлекеттерді салыстыратын индекс. Ол бойынша мемлекеттің даму дамымағандығы өлшенеді. Көбінесе АДИ индексіне қарап мемлекеттерді [[дамыған]], [[дамушы]] және [[дамымаған]] болып бөледі. 
 
@@ -43,32 +40,33 @@
 |-
 | valign=top |
 {{legend|black|[[OECD]]}}
-{{legend|#FF0000|[[Central Europe|Central]] and [[eastern Europe]], and the [[Commonwealth of Independent States|CIS]]}}
-{{legend|#E45600|[[Latin America]] and the [[Caribbean]]}}
-{{legend|#D09B00|[[East Asia]]}}
+{{legend|#FF0000|[[Орталық Еуропа|Орталық]] және [[Шығыс Еуропа]], және [[Тәуелсіз Мемлекеттер Достастығы|ТМД]]}}
+{{legend|#E45600|[[Латын Америка]] және [[Кариб Бассейні]]}}
+{{legend|#D09B00|[[Шығыс Азия]]}}
 | valign=top |
-{{legend|#00FF00|[[Arab States]]}}
-{{legend|#003FD9|[[South Asia]]}}
-{{legend|#C600FF|[[Sub-Saharan Africa]]}}
+{{legend|#00FF00|[[Араб Елдері]]}}
+{{legend|#003FD9|[[Оңтүстік Азия]]}}
+{{legend|#C600FF|[[Суб-Сахаралық Африка]]}}
 |}
 ]]
 
-In general, to transform a raw [[Variable (mathematics)|variable]], say <math>x</math>, into a unit-free [[Index (economics)|index]] between 0 and 1 (which allows different indices to be added together), the following [[formula]] is used:
-* <math>x</math>-index = <math>\frac{x - \min\left(x\right)}{\max\left(x\right)-\min\left(x\right)}</math>
+Жалпы таза математикалық [[Айнымалы (математика)|айнымалыны]], мысалы үшін <math>x</math> ті, таңбасы жоқ 0 мен 1-ді [[Индекс (экономика)|индекске]] айналдыру үшін (түрлі индекстерді қосатындай), келесідей [[формула]] қолданылады:
+* <math>x</math>-индексі = <math>\frac{x - \min\left(x\right)}{\max\left(x\right)-\min\left(x\right)}</math>
 
-where <math>\min\left(x\right)</math> and <math>\max\left(x\right)</math> are the [[maxima and minima|lowest and highest values]] the variable <math>x</math> can attain, respectively.<br />
+сондағы <math>\min\left(x\right)</math> және <math>\max\left(x\right)</math> <math>x</math> айнымалысының сәйкесінше [[максимум және минимум|ең жоғарғы және ең төменгі көрсеткіштерін]] көрсетеді.<br />
 
-The Human Development Index (HDI) then represents the average of the following three general indices:
-* [[Life Expectancy Index]] = <math>\frac{LE - 25} {85-25}</math>
-* [[Education Index]] = <math>\frac{2} {3} \times ALI + \frac{1} {3} \times GEI</math>
-** [[Adult Literacy Index]] (ALI) = <math>\frac{ALR - 0} {100 - 0}</math>
+Адам Даму Индексі сонымен қатар келесі индекстердің аралық шамасын көрсетеді:
+
+* [[Өмір Ұзақтығы Индексі]] = <math>\frac{LE - 25} {85-25}</math>
+* [[Білім Индексі]] = <math>\frac{2} {3} \times ALI + \frac{1} {3} \times GEI</math>
+** [[Ересек Білім индексі]] (ЕБИ) = <math>\frac{ALR - 0} {100 - 0}</math>
 ** [[Gross Enrollment Ratio|Gross Enrollment Index]] (GEI) = <math>\frac{CGER - 0} {100 - 0}</math>
-* [[GDP]] = <math>\frac{\log\left(GDPpc\right) - \log\left(100\right)} {\log\left(40000\right) - \log\left(100\right)}</math>
+* [[ЖІӨ]] = <math>\frac{\log\left(GDPpc\right) - \log\left(100\right)} {\log\left(40000\right) - \log\left(100\right)}</math>
 
 == 2008 статистикалық жаңарту ==
 {{main|Адам Даму Индексі бойынша елдер тізбесі}}
 
-2008 жылдың 18 желтоқсанында жаңа тізбе шықты. Халық арасында статистикалық жаңарту деп аталып кеткен тізбе осы жолы қосымша түіндірмесіз шыққан. The update is relevant due to newly released estimates of [[purchasing power parity|purchasing power parities]] (PPP), implying substantial adjustments for many countries, resulting in changes in HDI values and, in many cases, HDI ranks.<ref name="2008SU">[http://hdr.undp.org/en/mediacentre/news/title,15493,en.html News - Human Development Reports (UNDP)<!-- Bot generated title -->]</ref>
+2008 жылдың 18 желтоқсанында жаңа тізбек шықты. Халық арасында статистикалық жаңарту деп аталып кеткен тізбе осы жолы қосымша түіндірмесіз шыққан. Жаңарған тізбек [[Аларман қабілет тепетендігі|аларман қабілет тепетендігінің]] (АҚТ) жаңадан шыққанына байланысты басылды. <ref name="2008SU">[http://hdr.undp.org/en/mediacentre/news/title,15493,en.html News - Human Development Reports (UNDP)<!-- Bot generated title -->]</ref> Осы жаңарған тізбекте Қазақстан бірнеше қадам көтеріліп, АДИ индексіне сәйкес орташа дамыған елдері арасынан жоғары дамыған елдері қатарына қосылды. 
 
 {{col-begin}}
 {{col-break}}
@@ -145,11 +143,7 @@ The Human Development Index (HDI) then represents the average of the following t
 {{col-end}}
 
 == 2007/2008 баяндама ==
-The report for 2007/2008 was launched in [[Brasilia]], [[Brazil]], on [[November 27]], [[2007]]. Its focus was on "Fighting climate change: Human solidarity in a divided world."<ref>[http://hdr.undp.org/en/reports/global/hdr2007-2008/ HDR 2007/2008 - Human Development Reports (UNDP)<!-- Bot generated title -->]</ref> Most of the data used for the report are derived largely from 2005 or earlier, thus indicating an HDI for 2005. Not all [[United Nations member states|UN member states]] choose to or are able to provide the necessary statistics.
-
-The report showed a small increase in world HDI in comparison with last year's report. This rise was fueled by a general improvement in the [[developing countries|developing world]], especially of the [[least developed countries]] group. This marked improvement at the bottom was offset with a decrease in HDI of [[high income countries]].
-
-A HDI below 0.5 is considered to represent "low development". All 22 countries in that category are located in [[Africa]]. The highest-scoring Sub-Saharan countries, [[Gabon]] and [[South Africa]], are ranked 119th and 121st, respectively. Nine countries departed from this category this year and joined the "medium development" group.
+2007/2008 жж баяндама [[Бразилия|Бразилияның]] [[Брасилия]] қаласында ең алғаш жарияланды. Оның басты тақырыбы "Климат өзгерісіне қарсы күрес: бөлінген әлемдегі адам ынтымақтастығы." болды.<ref>[http://hdr.undp.org/en/reports/global/hdr2007-2008/ HDR 2007/2008 - Human Development Reports (UNDP)<!-- Bot generated title -->]</ref> 
 
 A HDI of 0.8 or more is considered to represent "high development". This includes all [[developed countries]], such as those in [[North America]], [[Western Europe]], [[Oceania]], and [[Eastern Asia]], as well as some [[developing countries]] in [[Eastern Europe]], [[Central and South America]], [[Southeast Asia]], the [[Caribbean]], and the oil-rich [[Arabian Peninsula]]. Seven countries were promoted to this category this year, leaving the "medium development" group: [[Albania]], [[Belarus]], [[Brazil]], [[Libya]], [[Republic of Macedonia|Macedonia]], [[Russia]] and [[Saudi Arabia]].
 
@@ -202,13 +196,13 @@ On the following table, green arrows ({{increase}}) represent an increase in ran
 {{col-end}}
 
 == 2009 баяндама ==
-2009 жылғы баяндаама 2009 жылдың қазан айында шығып, адам миграциясы сұрақтарымен айналыматын болады. <ref>[http://hdr.undp.org/en/media/HDR_2009_EN_pre.pdf HDR 2009 - Human Development Reports (UNDP)<!-- Bot generated title -->]</ref>
+2009 жылғы баяндаама 2009 жылдың қазан айында шығып, адам миграциясы сұрақтарымен айналысатын болады. <ref>[http://hdr.undp.org/en/media/HDR_2009_EN_pre.pdf HDR 2009 - Human Development Reports (UNDP)<!-- Bot generated title -->]</ref>
 
 == Соңғы бірінші болған 10 ел ==
-The list below displays the top-ranked country from each year of the index. [[Canada]] has been ranked the highest eight times, followed by [[Norway]] at six times. [[Japan]] has been ranked highest three times and [[Iceland]] twice.
+Төмендегі тізім түрлі жылдары тізбектегі бірінші болған елдерді көрсетеді. [[Канада]] сегіз рет тізбекте ең жоғарғы орын алса, [[Норуегия]] алты рет, [[Жапония]] үш рет және [[Исландия]] екі рет бірінші болып аталынды.
 
 === Баяндамалардағы болған нәрселер ===
-The year represents when the report was published. In parentheses the year for which the index was calculated. 
+Сондағы жыл баяндама басылған мерзімді белгілейді. Жақшадағы жылдар индекстің қай жылға сәйкес саналғандығын көрсетеді. 
 {|
 |- style="vertical-align:top;"
 |
