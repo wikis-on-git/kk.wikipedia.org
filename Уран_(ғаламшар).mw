@@ -1,7 +1,7 @@
 {{Infobox Planet
 | bgcolour = #c0ffff
 | name = Uranus
-| symbol = [[Image:Uranus symbol.svg|25px|Astronomical symbol of Uranus]]
+| symbol = [[Сурет:Uranus symbol.svg|25px|Astronomical symbol of Uranus]]
 | image = 
 | caption = Uranus, as seen by [[Voyager 2]]
 | discovery = yes
@@ -12,7 +12,7 @@
  | last = Yeomans | first = Donald K. |date = July 13, 2006
  | url = http://ssd.jpl.nasa.gov/?horizons
  | title = HORIZONS System | publisher = NASA JPL
- | accessdate = 2007-08-08 }} &mdash; At the site, go to the "web interface" then select "Ephemeris Type: ELEMENTS", "Target Body: Uranus Barycenter" and "Center: Sun".</ref><ref name=barycenter>Orbital elements refer to the barycenter of the Uranus system, and are the instantaneous [[osculating orbit|osculating]] values at the precise [[J2000]] epoch. Barycenter quantities are given because, in contrast to the planetary center, they do not experience appreciable changes on a day-to-day basis from to the motion of the moons.</ref>
+ | accessdate = 2007-08-08 }} — At the site, go to the "web interface" then select "Ephemeris Type: ELEMENTS", "Target Body: Uranus Barycenter" and "Center: Sun".</ref><ref name=barycenter>Orbital elements refer to the barycenter of the Uranus system, and are the instantaneous [[osculating orbit|osculating]] values at the precise [[J2000]] epoch. Barycenter quantities are given because, in contrast to the planetary center, they do not experience appreciable changes on a day-to-day basis from to the motion of the moons.</ref>
 | epoch = [[J2000]]
 | aphelion = 3,004,419,704&nbsp;[[kilometer|km]]<br />20.08330526 [[Astronomical unit|AU]]
 | perihelion = 2,748,938,461&nbsp;km<br />18.37551863 AU
@@ -99,6 +99,7 @@
 
 [[af:Uranus (planeet)]]
 [[als:Uranus (Planet)]]
+[[an:Urano (planeta)]]
 [[ang:Uranus]]
 [[ar:أورانوس]]
 [[arz:اورانوس]]
