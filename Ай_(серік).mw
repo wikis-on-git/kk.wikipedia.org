@@ -40,7 +40,7 @@
 |axial_tilt = 1.5424° (to ecliptic)<!--Inclination is 5.145° to ecliptic; + 1.5424° = 6.687° difference. See also e.g. http://www.mars-lunar.net/Reality.or.Fantasy/Polar.Ice.on%20Moon.pdf-->
 |obliquity = 6.687° (to orbit plane) <!--http://www.spds.nasa.gov/planetary/factsheet/moonfact.html-->
 |albedo = 0.12
-|magnitude = up to &minus;12.74
+|magnitude = up to −12.74
 |angular_size = from 29′to 33′
 |adjectives = lunar
 |temperatures = yes
@@ -53,12 +53,12 @@
 |mean_temp_2 = 130 K
 |max_temp_2 = 230 K
 |atmosphere = yes
-|atmosphere_density = 10<sup>7</sup> particles cm<sup>&minus;3</sup> (day)<br />10<sup>5</sup> particles cm<sup>&minus;3</sup> (night)
+|atmosphere_density = 10<sup>7</sup> particles cm<sup>−3</sup> (day)<br />10<sup>5</sup> particles cm<sup>−3</sup> (night)
 <!--Lucey et al. 2006-->
 }}
 '''Ай''' — [[Жер (ғаламшар)|Жердің]] серігі.
 
-Массасы Жердікінен 1/81 құрайды. Тығыздығы 3344 kg/m<sup>3</sup>, радиусы 1738 km. Жер мен Ай арасындағы орташа қашықтық {{formatnum:384 500}} km. Айдың өз [[атмосфера]]сы жоқ. Бетіндегі температурасы −173 °C -ден 127 °C -ге дейін барады. Айдың қалыңдығы 60—120 km [[фелдшпат]] жотадай [[қабығы]] [[силикат мантияның]] үстінде жатыр. [[Базалт]] [[лава]]лары Ай бетінің 17 % жабады. Радиусы 300—400 шағын (Ай көлемінің 2—3 % құрайтын) темір [[ядро]]сының болуы ықтимал.
+Массасы Жердікінен 1/81 құрайды. Тығыздығы 3344 kg/m<sup>3</sup>, радиусы 1738 km. Жер мен Ай арасындағы орташа қашықтық {{formatnum:384 500}} km. Айдың өз [[атмосфера]]сы жоқ. Бетіндегі температурасы −173&nbsp;°C -ден 127&nbsp;°C -ге дейін барады. Айдың қалыңдығы 60—120 km [[фелдшпат]] жотадай [[қабығы]] [[силикат мантияның]] үстінде жатыр. [[Базалт]] [[лава]]лары Ай бетінің 17 % жабады. Радиусы 300—400 шағын (Ай көлемінің 2—3 % құрайтын) темір [[ядро]]сының болуы ықтимал.
 
 {{Moon footer}}
 {{Natural satellites of the Solar System (compact)}}
@@ -151,7 +151,7 @@
 [[iu:ᑕᖅᑭᖅ/taqqiq]]
 [[ja:月]]
 [[jbo:lunra]]
-[[jv:Bulan]]
+[[jv:Rembulan]]
 [[ka:მთვარე]]
 [[kl:Qaammat]]
 [[kn:ಚಂದ್ರ]]
