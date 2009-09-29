@@ -5,8 +5,8 @@
 | image = [[Сурет:Reprocessed Mariner 10 image of Mercury.jpg|240px|Mercury]]
 | caption = Mariner 10 ғарыш жабдығы арқылы жасалған Болпан көрінісі
 | epoch = [[J2000]]
-| aphelion = 69,817,079 km<br>0.466 698 35 AU
-| perihelion = 46,001,272 km<br>0.307 499 51 AU
+| aphelion = 69,817,079 km<br />0.466 698 35 AU
+| perihelion = 46,001,272 km<br />0.307 499 51 AU
 | semimajor = [[1 E10 m|57,909,176]] [[kilometre|km]]<br />0.387 098 93 [[Astronomical unit|AU]]
 | orbital_circ = ~360,000,000 km<br />(2.406 AU)
 | eccentricity = 0.205 630 69
@@ -15,23 +15,23 @@
 | avg_speed = 47.36 km/s
 | max_speed = 58.98 km/s
 | min_speed = 38.86 km/s
-| inclination = 7.004 87[[degree (angle)|&deg;]]<br>(3.38° to Sun’s equator)
-| asc_node = 48.331 67&deg;
-| arg_perihelion = 29.124 78&deg;
+| inclination = 7.004 87[[degree (angle)|°]]<br />(3.38° to Sun’s equator)
+| asc_node = 48.331 67°
+| arg_perihelion = 29.124 78°
 | satellites = None
 | physical_characteristics = yes
-| equatorial_radius = 2439.7 km<br>(0.383 [[Earth]]s)
-| surface_area = [[1 E13 m²|7.5]]×10<sup>7</sup> [[square kilometre|km&sup2;]]<br>(0.147 Earths)
-| volume = 6.083×10<sup>10</sup> [[cubic kilometre|km&sup3;]]<br>(0.056 Earths)
-| mass = 3.302×10<sup>23</sup> [[kilogram|kg]]<br>(0.055 Earths)
+| equatorial_radius = 2439.7 km<br />(0.383 [[Earth]]s)
+| surface_area = [[1 E13 m²|7.5]]×10<sup>7</sup> [[square kilometre|km&sup2;]]<br />(0.147 Earths)
+| volume = 6.083×10<sup>10</sup> [[cubic kilometre|km&sup3;]]<br />(0.056 Earths)
+| mass = 3.302×10<sup>23</sup> [[kilogram|kg]]<br />(0.055 Earths)
 | density = 5.427 [[gram|g]]/cm&sup3;
-| surface_grav = 3.701 [[Acceleration|m/s&sup2;]]<br>(0.377 [[g-force|g]])
+| surface_grav = 3.701 [[Acceleration|m/s&sup2;]]<br />(0.377 [[g-force|g]])
 | escape_velocity = 4.249 km/s
 | sidereal_day = 58.6462 day (58 d 15.5088 [[hour|h]])
 | rot_velocity = 10.892 km/h (at the equator)
-| axial_tilt = ~0.01&deg; <!--- Note that this implies that the orbital pole is very nearly the same as the rotation pole --->
-| right_asc_north_pole = 18 h 44 min 2 s<br/>(281.01&deg;)<sup>[http://www.hnsky.org/iau-iag.htm 1]</sup>
-| declination = 61.45&deg;
+| axial_tilt = ~0.01° <!--- Note that this implies that the orbital pole is very nearly the same as the rotation pole --->
+| right_asc_north_pole = 18 h 44 min 2 s<br/>(281.01°)<sup>[http://www.hnsky.org/iau-iag.htm 1]</sup>
+| declination = 61.45°
 | albedo = 0.10-0.12
 | temperatures = yes
 | temp_name1 = 0°N, 0°W <!-- Vasavada et al. 1999-->
@@ -166,6 +166,7 @@
 [[pa:ਬੁੱਧ ਗ੍ਰਹਿ]]
 [[pam:Mercury]]
 [[pl:Merkury]]
+[[pms:Mercuri (pianeta)]]
 [[pt:Mercúrio (planeta)]]
 [[qu:Qatuylla]]
 [[rm:Mercur (planet)]]
