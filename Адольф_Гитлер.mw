@@ -32,14 +32,14 @@
 {{start box}}
 {{s-off}}
 {{s-bef | before=[[Anton Drexler]]}}
-{{s-ttl | title=[[National Socialist German Workers Party|Leader of the NSDAP]] | years=1921&ndash;1945}}
+{{s-ttl | title=[[National Socialist German Workers Party|Leader of the NSDAP]] | years=1921–1945}}
 {{s-aft | rows=2 | after=None}}
 {{s-bef | before=[[Franz Pfeffer von Salomon]]}}
-{{s-ttl | title=[[Oberste SA-Führer|Leader of the SA]] | years=1930&ndash;1945}}
-{{succession box | before = [[Kurt von Schleicher]] | title = [[Chancellor of Germany]]<sup>(1)</sup> | years = 1933&ndash;1945 | after = [[Joseph Goebbels]]}}
-{{succession box | before = [[Paul von Hindenburg]] (as President) | title = [[Führer|''Führer und Reichskanzler'']]<sup>(1)</sup>| years = 1934&ndash;1945|after = [[Karl Dönitz]] (as President) }}
+{{s-ttl | title=[[Oberste SA-Führer|Leader of the SA]] | years=1930–1945}}
+{{succession box | before = [[Kurt von Schleicher]] | title = [[Chancellor of Germany]]<sup>(1)</sup> | years = 1933–1945 | after = [[Joseph Goebbels]]}}
+{{succession box | before = [[Paul von Hindenburg]] (as President) | title = [[Führer|''Führer und Reichskanzler'']]<sup>(1)</sup>| years = 1934–1945|after = [[Karl Dönitz]] (as President) }}
 {{s-mil}}
-{{succession box | before = [[Walther von Brauchitsch]]| title = [[Oberkommando des Heeres|Oberbefehlshaber des Heeres (Army Commander)]]| years = 1941&ndash;1945 | after = [[Ferdinand Schörner]]}}
+{{succession box | before = [[Walther von Brauchitsch]]| title = [[Oberkommando des Heeres|Oberbefehlshaber des Heeres (Army Commander)]]| years = 1941–1945 | after = [[Ferdinand Schörner]]}}
 {{s-ref|The offices of Head of State and of Chancellor were combined 1934-1945 in the office of Führer und Reichskanzler}}
 
 {{GermanChancellors}}
@@ -69,7 +69,6 @@
 {{Link FA|sh}}
 
 [[af:Adolf Hitler]]
-[[ak:Adolf Hitler]]
 [[als:Adolf Hitler]]
 [[am:አዶልፍ ሂትለር]]
 [[an:Adolf Hitler]]
