@@ -1,5 +1,5 @@
 {{Infobox Country or territory
-|native_name = <span style="line-height:1.33em;"><big> جمهوری اسلامی ايران </big><br/>''Джомхури́йе Ислами́йе Ира́н''</span>
+|native_name = <span style="line-height:1.33em;"><big> جمهوری اسلامی ايران </big><br />''Джомхури́йе Ислами́йе Ира́н''</span>
 |conventional_long_name   = <span style="line-height:1.33em;">Иран Ислам Республикасы</span>
 |common_name              = Иран
 |image_flag               = Flag of Iran.svg
@@ -7,12 +7,12 @@
 |symbol_type              = Рәмізі 
 |image_map                = LocationIran01.png 
 |official_religion        = [[Ислам дінінің шиа тармағы]]
-|national_motto           = استقلال آزادی جمهوری اسلامی<ref>http://www.bookrags.com/browse/Encyclopedia%20of%20Religious%20Practices/50</ref>&nbsp;&nbsp;<br> <small>([[Парсы тілі|парсыша]]: "Тәуелсіздік, Азаттық, Ислам республикасы"</small></small>
-|national_anthem          = [[Соруде меллийе Иран|Соруде меллийе Иран]]<ref>http://www.iranchamber.com/geography/articles/flag_anthem.php</ref>
+|national_motto           = استقلال آزادی جمهوری اسلامی<ref>http://www.bookrags.com/browse/Encyclopedia%20of%20Religious%20Practices/50</ref>&nbsp;&nbsp;<br /> <small>([[Парсы тілі|парсыша]]: "Тәуелсіздік, Азаттық, Ислам республикасы"</small></small>
+|national_anthem          = [[Соруде меллийе Иран]]<ref>http://www.iranchamber.com/geography/articles/flag_anthem.php</ref>
 |capital                  = [[Теһран]]
 |latd=35 |latm=41 |latNS=N |longd=51 |longm=25 |longEW=E
 |official_languages       = [[Парсы тілі|парсыша]]
-|government_type          = [[Ислам республикасы|Ислам республикасы]]
+|government_type          = [[Ислам республикасы]]
 |leader_title1            = [[Иранның Жоғарғы билеушісі|Жоғарғы билеуші]]
 |leader_title2            = [[Иран президенті|Президент]]
 |leader_name1             = [[Аятоллаһ Али Хаменеи]]
@@ -33,11 +33,11 @@
 |established_event6      = [[Сасан әулеті]]
 |established_date6        = [[224]] н.э. - [[651]] н.э.
 |established_event7      = [[Сафауи әулеті]]
-|established_date7        = Ордибехешт 881<br>([[Мамыр]] [[1502]])
+|established_date7        = Ордибехешт 881<br />([[Мамыр]] [[1502]])
 |established_event8      = Первая конституциясы
-|established_date8       = Мордад 13, 1285<br>([[1906]] [[Тамыздың 5]])
+|established_date8       = Мордад 13, 1285<br />([[1906]] [[Тамыздың 5]])
 |established_event9      = Ислам революциясы
-|established_date9        = Фарвардин 12, 1358<br> ([[1979]] [[Сәуірдің 1]])
+|established_date9        = Фарвардин 12, 1358<br /> ([[1979]] [[Сәуірдің 1]])
 
 |area                     = 1,648,195
 |areami²                  = 636,372 <!--Do not remove per [[WP:MOSNUM]]-->
@@ -81,21 +81,21 @@
 
 {| border="0" cellpadding="5" cellspacing="0" align="center"
 |
-#[[Tегеран]]
-#[[Құм]]
-#[[Маркази]]
-#[[Қазвин]]
-#[[Гилан]]
-#[[Ардабил]]
-#[[Занчан]]
-#[[Шығыс Әзірбайжан]]
-#[[Батыс Әзірбайжан]]
-#[[Күрдістан]]
-#[[Һамадан]]
-#[[Керманшаһ]]
-#[[Илам]]
-#[[Лұрстан]]
-#[[Хузистан]]
+# [[Tегеран]]
+# [[Құм]]
+# [[Маркази]]
+# [[Қазвин]]
+# [[Гилан]]
+# [[Ардабил]]
+# [[Занчан]]
+# [[Шығыс Әзірбайжан]]
+# [[Батыс Әзірбайжан]]
+# [[Күрдістан]]
+# [[Һамадан]]
+# [[Керманшаһ]]
+# [[Илам]]
+# [[Лұрстан]]
+# [[Хузистан]]
 ||
 <ol start=16>
 <li>[[Чахормақал ва Бахтиёри]]
@@ -111,7 +111,7 @@
 <li>[[Мазандаран]]
 <li>[[Гүлстан]]
 <li>[[Солтүстік Қорасан]]
-<li>[[Ризауи Қорасан ]]
+<li>[[Ризауи Қорасан]] 
 <li>[[Оңтүстік Қорасан]]
 |}
 
@@ -136,6 +136,7 @@
 [[ace:Iran]]
 [[af:Iran]]
 [[als:Iran]]
+[[am:ፋርስ]]
 [[an:Irán]]
 [[ang:Persealand]]
 [[ar:إيران]]
