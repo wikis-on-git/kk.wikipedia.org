@@ -9,7 +9,7 @@
  | last = Yeomans | first = Donald K. | date = 2006-07-13
  | url = http://ssd.jpl.nasa.gov/?horizons
  | title = HORIZONS System | publisher = NASA JPL
- | accessdate = 2007-08-08 }} &mdash; At the site, go to the "web interface" then select "Ephemeris Type: ELEMENTS", "Target Body: Jupiter Barycenter" and "Center: Sun".</ref><ref name=barycenter>Orbital elements refer to the barycenter of the Jupiter system, and are the instantaneous [[osculating orbit|osculating]] values at the precise [[J2000]] epoch. Barycenter quantities are given because, in contrast to the planetary centre, they do not experience appreciable changes on a day-to-day basis from to the motion of the moons.</ref>
+ | accessdate = 2007-08-08 }} — At the site, go to the "web interface" then select "Ephemeris Type: ELEMENTS", "Target Body: Jupiter Barycenter" and "Center: Sun".</ref><ref name=barycenter>Orbital elements refer to the barycenter of the Jupiter system, and are the instantaneous [[osculating orbit|osculating]] values at the precise [[J2000]] epoch. Barycenter quantities are given because, in contrast to the planetary centre, they do not experience appreciable changes on a day-to-day basis from to the motion of the moons.</ref>
 | epoch = [[J2000]]
 | aphelion = 816,520,800&nbsp;km<br />5.458104&nbsp;[[astronomical unit|AU]]
 | perihelion = 740,573,600&nbsp;km <br />4.950429&nbsp;AU
@@ -19,7 +19,7 @@
 | asc_node = 100.492°
 | arg_peri = 275.066°
 | mean_anomaly = 18.818°
-| period = 4331.572&nbsp;[[day]]s<br>11.85920&nbsp;[[julian year (astronomy)|yr]]
+| period = 4331.572&nbsp;[[day]]s<br />11.85920&nbsp;[[julian year (astronomy)|yr]]
 | synodic_period = 398.88&nbsp;days<ref name="fact">{{cite web|url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/jupiterfact.html|title = Jupiter Fact Sheet|publisher = NASA|last = Williams|first = Dr. David R.|accessdate = 2007-08-08|date = November 16, 2004}}</ref>
 | avg_speed = 13.07&nbsp;km/s<ref name="fact"/>
 | satellites = [[Jupiter's natural satellites|63]]
@@ -39,7 +39,7 @@
 | volume = 1.43128×10<sup>15</sup>&nbsp;km³<ref name="fact"/><ref name=1bar/> <br />1321.3&nbsp;Earths
 | mass = 1.8986×10<sup>27</sup>&nbsp;kg<ref name="fact"/> <br />317.8&nbsp;Earths
 | density = 1.326&nbsp;g/cm³<ref name="fact"/><ref name=1bar/>
-| surface_grav = 24.79&nbsp;[[Acceleration|m/s²]]<ref name="fact"/><ref name=1bar/><br/>2.528&nbsp;[[g-force|g]]
+| surface_grav = 24.79&nbsp;[[Acceleration|m/s²]]<ref name="fact"/><ref name=1bar/><br />2.528&nbsp;[[g-force|g]]
 | escape_velocity = 59.5&nbsp;km/s<ref name="fact"/><ref name=1bar/>
 | sidereal_day = 9.925&nbsp;h<ref>{{cite web
   | author = Seidelmann, P. K.; Abalakin, V. K.; Bursa, M.; Davies, M. E.; de Burgh, C.; Lieske, J. H.; Oberst, J.; Simon, J. L.; Standish, E. M.; Stooke, P.; Thomas, P. C.
@@ -51,7 +51,7 @@
 | axial_tilt = 3.13°<ref name="fact"/>
 | right_asc_north_pole = 268.057°<br />17&nbsp;h 52&nbsp;min 14&nbsp;s<ref name=Seidelmann2007/>
 | declination = 64.496°<ref name=Seidelmann2007/>
-| albedo = 0.343 ([[Bond albedo|bond]])<br/>
+| albedo = 0.343 ([[Bond albedo|bond]])<br />
 0.52 ([[Geometric albedo|geom.]])<ref name="fact"/>
 | magnitude = -1.6 to -2.94<ref name="fact"/>
 | angular_size = 29.8" — 50.1"<ref name="fact"/>
@@ -68,7 +68,7 @@
 | atmosphere = yes
 | atmosphere_ref =
 <ref name="fact"/>
-| surface_pressure = 20&ndash;200&nbsp;[[Pascal (unit)|kPa]]<ref>{{cite journal
+| surface_pressure = 20–200&nbsp;[[Pascal (unit)|kPa]]<ref>{{cite journal
   | author=Anonymous | title=Probe Nephelometer
   | journal=Galileo Messenger | publisher=NASA/JPL
   | date=March 1983 | issue=6
@@ -78,9 +78,9 @@
 | atmosphere_composition = 
 <table>
 <tr><td>
-89.8&plusmn;2.0%</td><td>[[Hydrogen]] (H<sub>2</sub>)
+89.8±2.0%</td><td>[[Hydrogen]] (H<sub>2</sub>)
 </td></tr><tr><td>
-10.2&plusmn;2.0%</td><td>[[Helium]]
+10.2±2.0%</td><td>[[Helium]]
 </td></tr><tr><td>
 ~0.3%</td><td>[[Methane]]
 </td></tr><tr><td>
@@ -110,7 +110,7 @@
 
 Есекқырғанның бір тәулігі 9 сағат 50 минутқа сәйкес. Ол бар үлкен ғаламшарлар секілді өте жылдам өз белін айналады. 
 
-Ғаламшар бетіндегі орта шама температурасы −138 °C. Есекқырғанның [[табиғи серік]]тері — [[Еуропа(серік)]], [[Каллипсо]], [[Ио]], [[Ганимед]]. 
+Ғаламшар бетіндегі орта шама температурасы −138&nbsp;°C. Есекқырғанның [[табиғи серік]]тері — [[Еуропа(серік)]], [[Каллипсо]], [[Ио]], [[Ганимед]]. 
 
 == Атауы ==
 Юпитер көне юнандардың Зевс құдайының мадағына атаған. «Юпитер» бұл Зевс құдайының латын аты. 
@@ -252,6 +252,7 @@
 [[uz:Yupiter]]
 [[vi:Sao Mộc]]
 [[war:Hupiter]]
+[[xal:Пүрвə]]
 [[yi:יופיטער]]
 [[zh:木星]]
 [[zh-classical:木星]]
