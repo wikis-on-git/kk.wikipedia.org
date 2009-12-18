@@ -1,5 +1,5 @@
 {{Infobox Country or territory <!----Аполитичная информация---->
-|native_name                 = <span style="line-height:1.33em;">{{unicode|Аҧсны}}<br/>'''აფხაზეთი''' <br/>''Абхазия''<br/></span>
+|native_name                 = <span style="line-height:1.33em;">{{unicode|Аҧсны}}<br />'''აფხაზეთი''' <br />''Абхазия''<br /></span>
 |conventional_long_name      = <span style="line-height:1.33em;">Абхазия</span>
 |common_name                 = Абхазия
 |image_map                   = AbkhaziaGeorgiaRus.png
@@ -9,7 +9,7 @@
 |area                        = 8,600
 |areami²                     = 3,320
 |percent_water               = мардымсыз
-|population_estimate         = 157,000-190,000 ([[International Crisis Group]])<br>177,000 (Энциклопедия Британника)
+|population_estimate         = 157,000-190,000 ([[International Crisis Group]])<br />177,000 (Энциклопедия Британника)
 |population_estimate_rank    = 
 |population_estimate_year    = 2006
 |population_census           = 216,000 (даулы)
@@ -60,19 +60,19 @@
 |official_languages          = абхазский, грузинский
 |government_type             = 
 |leader_title1               = Председатель Верховного Совета
-|leader_name1                = <br/>{{nowrap|[[Теймураз Мжавия]]}}
+|leader_name1                = <br />{{nowrap|[[Теймураз Мжавия]]}}
 |leader_title2               = Глава кабинета министров
 |leader_name2                = [[Малхаз Акишбаиа]]
 |sovereignty_type            = Автономная республика в составе Гүржістан 
-|established_event1          = Грузинская независимость<br/>{{nowrap|от [[КСРО|Советского Союза]]}}<br/><div align="right">Жарияланғаны</br>Танылғаны</div>
-|established_date1           = <br/><br/>[[1991]] [[Сәуірдің 9]]<br/>[[1991]] [[Желтоқсанның 25]]
+|established_event1          = Грузинская независимость<br />{{nowrap|от [[КСРО|Советского Союза]]}}<br /><div align="right">Жарияланғаны</br>Танылғаны</div>
+|established_date1           = <br /><br />[[1991]] [[Сәуірдің 9]]<br />[[1991]] [[Желтоқсанның 25]]
 |currency                    = Гүржістан лари
 |currency_code               = GEL
 }}
 
 {{stub}}
 
-==External links==
+== External links ==
 {{wikiatlas|Abkhazia}}
 {{commons|Abkhazia}}
 {{wikisource|Special:Search/Abkhazia|Abkhazia}}
@@ -91,9 +91,9 @@
 <!--Categories-->
 
 
-{{Link FA|es}}
 <!--Other languages-->
 
+{{Link FA|es}}
 {{Link FA|sv}}
 
 [[ab:Аҧсны Аҳәынҭқарра]]
@@ -110,6 +110,7 @@
 [[ca:Abkhàzia]]
 [[ce:Абхази]]
 [[ceb:Abkhazia]]
+[[crh:Abhaziya]]
 [[cs:Abcházie]]
 [[cv:Абхази]]
 [[da:Abkhasien]]
