@@ -3,7 +3,7 @@
 |common_name              = Кәнәдә
 |image_flag               = Flag_of_Canada.svg 
 |image_coat               = Coat of arms of Canada.jpg
-|national_motto           = {{lang|la|''A Mari Usque Ad Mare''}}<br/>([[Latin]] for "From Sea to Sea")
+|national_motto           = {{lang|la|''A Mari Usque Ad Mare''}}<br />([[Latin]] for "From Sea to Sea")
 |national_anthem          = ''[[O Canada]]''<br />[[Royal anthem]]: ''[[God Save the Queen]]''
 |image_map                = Canada (orthographic_projection).svg
 |capital                  = [[Ottawa]] 
@@ -11,7 +11,7 @@
 |name = Formal Name:Canada <br />Common Name:Canada 
 |largest_city             = [[Toronto]] 
 |official_languages       = [[Canadian English|English]], [[French in Canada|French]]
-|government_type          = [[Parliamentary democracy]]<br/>and [[federal constitutional monarchy]]
+|government_type          = [[Parliamentary democracy]]<br />and [[federal constitutional monarchy]]
 |leader_title1            = [[Monarchy in Canada|Monarch]]
 |leader_title2            = [[Governor General of Canada|Governor General]]
 |leader_title3            = [[Prime Minister of Canada|Prime Minister]]
@@ -20,10 +20,10 @@
 |leader_name3             = [[Stephen Harper]]
 |sovereignty_type         = [[Canadian Confederation|Establishment]]
 |established_event1       = [[British North America Act]]
-|established_event2       = [[Statute of Westminster 1931|Statute of<br/>{{nbsp|3}}Westminster]]
+|established_event2       = [[Statute of Westminster 1931|Statute of<br />{{nbsp|3}}Westminster]]
 |established_event3       = [[Canada Act 1982|Canada Act]]
 |established_date1        = [[July 1]] [[1867]]
-|established_date2        = <br/>[[December 11]] [[1931]]
+|established_date2        = <br />[[December 11]] [[1931]]
 |established_date3        = [[April 17]] [[1982]]
 |area                     = 9,984,670
 |areami²                  = 3,854,085 <!--Do not remove per [[WP:MOSNUM]]-->
@@ -77,20 +77,18 @@
 {{Pacific Ocean}}
 {{WTO}}
 
-{{Link FA|hu}}
-{{Link FA|fi}}
-{{Link FA|vi}}
-{{Link FA|eo}}
-{{Link FA|pt}}
-{{Link FA|el}}
-
 <!--Interwiki-->
 
 {{Link FA|af}}
-{{Link FA|en}}
-{{Link FA|mk}}
-
 {{Link FA|de}}
+{{Link FA|el}}
+{{Link FA|en}}
+{{Link FA|eo}}
+{{Link FA|fi}}
+{{Link FA|hu}}
+{{Link FA|mk}}
+{{Link FA|pt}}
+{{Link FA|vi}}
 
 [[ace:Kanada]]
 [[af:Kanada]]
@@ -220,6 +218,7 @@
 [[pa:ਕੈਨੇਡਾ]]
 [[pam:Canada]]
 [[pap:Canada]]
+[[pcd:Canada]]
 [[pdc:Kanadaa]]
 [[pih:Kaneda]]
 [[pl:Kanada]]
