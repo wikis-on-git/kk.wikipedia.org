@@ -5,7 +5,7 @@
 |image_flag               = Flag of Cuba.svg
 |image_coat               =
 |image_map                = LocationCuba.png
-|national_motto           = <span style="line-height:1.5em;">''Patria o Muerte''{{nbsp|2}}<small><br/>Родина или Смерть&nbsp;</span>
+|national_motto           = <span style="line-height:1.5em;">''Patria o Muerte''{{nbsp|2}}<small><br />Родина или Смерть&nbsp;</span>
 |national_anthem          = ''[[La Bayamesa]]''
 |official_languages       = [[Испан тілі|испанша]]
 |capital                  = [[Гаванна]]
@@ -44,7 +44,7 @@
 |established_date1        ={{nowrap| [[1868]] [[қазанның 10]]}}
 |established_date2        = {{nowrap|[[1902]] [[мамырдың 10]]}}
 |established_date3        = {{nowrap|[[1959]] [[қаңтардың 1]]}}
-|currency                 = Песо <!--kludge to deal with fact that template expects only one currency per country:-->(<code>[[ISO 4217|CUP]]</code>)<br/>Конвертируемый песо 
+|currency                 = Песо <!--kludge to deal with fact that template expects only one currency per country:-->(<code>[[ISO 4217|CUP]]</code>)<br />Конвертируемый песо 
 |currency_code            = CUC
 |time_zone                = [[Североамериканское восточное время|EST]]
 |utc_offset               = -5
@@ -102,10 +102,9 @@
 
 
 <!--Categories-->
-[[Санат:Аралда орналасқан елдер]]
-
 <!--Other languages-->
 
+[[Санат:Аралда орналасқан елдер]]
 [[Санат:Куба]]
 [[Санат:Испанияның бұрынғы отарлары]]
 [[Санат:Кариб теңізі елдері]]
@@ -191,6 +190,7 @@
 [[kw:Kuba]]
 [[la:Cuba]]
 [[lb:Kuba]]
+[[li:Cuba]]
 [[lij:Cuba]]
 [[lmo:Cuba]]
 [[ln:Kuba]]
