@@ -32,17 +32,17 @@
 | polar_radius = 24,973 ± 20&nbsp;km<br />3.929 Earths<ref name=Seidelmann2007/><ref name=1bar/>
 | surface_area = 8.1156{{e|9}}&nbsp;km²<ref name="nasafact">{{cite web|url = http://solarsystem.nasa.gov/planets/profile.cfm?Object=Uranus&Display=Facts|title = NASA: Solar System Exploration: Planets: Uranus: Facts & Figures|publisher = NASA|last = Munsell|first = Kirk|accessdate = 2007-08-13|date = May 14, 2007}}</ref><ref name=1bar/><br />15.91 Earths
 | volume = 6.833{{e|13}}&nbsp;km³<ref name="fact">{{cite web|url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/uranusfact.html|title = Uranus Fact Sheet|publisher = NASA|last = Williams|first = Dr. David R.|accessdate = 2007-08-13|date = January 31, 2005}}</ref><ref name=1bar/><br />63.086 Earths
-| mass = 8.6810 ± 13{{e|25}}&nbsp;[[kilogram|kg]]<br />14.536 Earths<ref name=Jacobson1992/><br/>
+| mass = 8.6810 ± 13{{e|25}}&nbsp;[[kilogram|kg]]<br />14.536 Earths<ref name=Jacobson1992/><br />
 [[standard gravitational parameter|GM]]=5,793,939&nbsp;±&nbsp;13&nbsp;km³/s²
 | density = 1.27&nbsp;g/cm³<ref name=fact/><ref name=1bar/>
 | surface_grav = 8.69&nbsp;[[Acceleration|m/s²]]<ref name=fact/><ref name=1bar/><br />0.886 [[g-force|g]]
 | escape_velocity = 21.3&nbsp;km/s<ref name=fact/><ref name=1bar/>
-| sidereal_day = [[retrograde motion|−]]0.71833 day<br/>17 [[hour|h]] 14 [[minute|min]] 24 [[second|s]]<ref name=Seidelmann2007/>
+| sidereal_day = [[retrograde motion|−]]0.71833 day<br />17 [[hour|h]] 14 [[minute|min]] 24 [[second|s]]<ref name=Seidelmann2007/>
 | rot_velocity = 2.59&nbsp;km/s<br />9,320&nbsp;km/h
 | axial_tilt = 97.77°<ref name=Seidelmann2007/>
 | right_asc_north_pole = 17 h 9 min 15 s<br />257.311°<ref name=Seidelmann2007/>
 | declination = −15.175°<ref name=Seidelmann2007/>
-| albedo = 0.300 ([[Bond albedo|bond]])<br/>
+| albedo = 0.300 ([[Bond albedo|bond]])<br />
 0.51 ([[Geometric albedo|geom.]])<ref name="fact"/>
 | magnitude = 5.9<ref name=ephemeris/> to 5.32<ref name="fact"/>
 | angular_size = 3.3"–4.1"<ref name="fact"/>
@@ -51,7 +51,7 @@
 | min_temp_1 = 
 | mean_temp_1 = 76 [[kelvin|K]]
 | max_temp_1 = 
-| temp_name2 = 0.1 bar <br/>([[tropopause]])<ref name=Lunine1993/>
+| temp_name2 = 0.1 bar <br />([[tropopause]])<ref name=Lunine1993/>
 | min_temp_2 = 49 K
 | mean_temp_2 = 53 K
 | max_temp_2 = 57 K
@@ -93,9 +93,8 @@
 [[Санат:Уран (ғаламшар)|*]]
 [[Санат:Күн жүйесі ғаламшарлары]]
 
-{{Link FA|ru}}
-
 {{Link FA|en}}
+{{Link FA|ru}}
 
 [[af:Uranus (planeet)]]
 [[als:Uranus (Planet)]]
@@ -165,6 +164,7 @@
 [[lt:Uranas (planeta)]]
 [[lv:Urāns (planēta)]]
 [[mdf:Уран]]
+[[mg:Uranus]]
 [[mk:Уран]]
 [[ml:യുറാനസ്]]
 [[mn:Тэнгэрийн ван]]
