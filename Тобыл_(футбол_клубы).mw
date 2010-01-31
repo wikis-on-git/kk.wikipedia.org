@@ -19,6 +19,51 @@
 === [[КСРО]] чемпионаты ===
 
 === Тәуелсіз [[Қазақстан]] ===
+Қазақстан чемпионатының құрылуынан кейін, клуб 16 сезонды жоғарғы дивизионда (1992 жылдан бастап 2001 жылға дейін «Жоғарғы лига» деп аталды, 2002 жылдан 2007 жылға дейін «Суперлига» деген атпен белгілі болды, 2008 жылдан бастап «Премьер-лига» деп аталады.)
+өткізді.
+
+<timeline>
+ImageSize = width:600 height:60
+PlotArea  = left:10 right:10 bottom:30 top:10
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = dd/mm/yyyy
+Period     = from:01/01/1991 till:01/07/2008
+ScaleMajor = unit:year increment:1 start:1992 
+Colors =
+  id:bl1  value:rgb(0.5,0.8,0.5)
+  id:bl2  value:rgb(0.9,0.9,0.3)  
+  id:rs  value:rgb(0.8,0.6,0.6)
+  id:rn  value:rgb(0.9,0.1,0.1)
+
+PlotData= 
+  bar:Position width:15 color:white align:center
+
+  from:01/07/1991 till:01/07/1992  shift:(0,-4) text:13
+  from:01/07/1992 till:01/07/1993  shift:(0,-4) text:8
+  from:01/07/1993 till:01/07/1994  shift:(0,-4) text:10
+  from:01/07/1994 till:01/07/1995  shift:(0,-4) text:12
+  from:01/07/1995 till:01/07/1996  shift:(0,-4) text:11
+  from:01/07/1996 till:01/07/1997  shift:(0,-4) text:
+  from:01/07/1997 till:01/07/1998  shift:(0,-4) text:
+  from:01/07/1998 till:01/07/1999  shift:(0,-4) text:8
+  from:01/07/1999 till:01/07/2000  shift:(0,-4) text:7
+  from:01/07/2000 till:01/07/2001  shift:(0,-4) text:6
+  from:01/07/2001 till:01/07/2002  shift:(0,-4) text:3
+  from:01/07/2002 till:01/07/2003  shift:(0,-4) text:2
+  from:01/07/2003 till:01/07/2004  shift:(0,-4) text:3
+  from:01/07/2004 till:01/07/2005  shift:(0,-4) text:2
+  from:01/07/2005 till:01/07/2006  shift:(0,-4) text:3
+  from:01/07/2006 till:01/07/2007  shift:(0,-4) text:2
+  from:01/07/2007 till:01/07/2008  shift:(0,-4) text:2
+
+  from:01/07/1991 till:01/07/1996  color:bl1  shift:(0,13)  text:"[[Қазақстан Премьер-Лигасы|Премьер-лига]]"
+  from:01/07/1996 till:01/07/1998  color:rs  shift:(0,13)  text: "Қатыспаған "
+  from:01/07/1998 till:01/07/2008  color:bl1  shift:(0,13)  text:"[[Қазақстан Премьер-Лигасы|Премьер-Лига]]"
+
+</timeline>
+
+
+
 
 ==== Жетістіктері мен жеңілістері ====
 Клубтың бүкіл тарихы бойында жеткен жеңістері мен жеңілістері<ref>[http://www.kff.kz/2794]</ref>:
