@@ -35,27 +35,35 @@ Colors =
 PlotData= 
   bar:Position width:15 color:white align:center
 
-  from:01/07/1991 till:01/07/1992  shift:(0,-4) text:13
-  from:01/07/1992 till:01/07/1993  shift:(0,-4) text:8
-  from:01/07/1993 till:01/07/1994  shift:(0,-4) text:10
-  from:01/07/1994 till:01/07/1995  shift:(0,-4) text:12
-  from:01/07/1995 till:01/07/1996  shift:(0,-4) text:11
-  from:01/07/1996 till:01/07/1997  shift:(0,-4) text:
-  from:01/07/1997 till:01/07/1998  shift:(0,-4) text:
-  from:01/07/1998 till:01/07/1999  shift:(0,-4) text:8
-  from:01/07/1999 till:01/07/2000  shift:(0,-4) text:7
-  from:01/07/2000 till:01/07/2001  shift:(0,-4) text:6
-  from:01/07/2001 till:01/07/2002  shift:(0,-4) text:3
-  from:01/07/2002 till:01/07/2003  shift:(0,-4) text:2
-  from:01/07/2003 till:01/07/2004  shift:(0,-4) text:3
-  from:01/07/2004 till:01/07/2005  shift:(0,-4) text:2
-  from:01/07/2005 till:01/07/2006  shift:(0,-4) text:3
-  from:01/07/2006 till:01/07/2007  shift:(0,-4) text:2
-  from:01/07/2007 till:01/07/2008  shift:(0,-4) text:2
+  from:01/07/1966 till:01/07/1967  shift:(0,-4) text:11
+  from:01/07/1967 till:01/07/1968  shift:(0,-4) text:11
+  from:01/07/1968 till:01/07/1969  shift:(0,-4) text:11
+  from:01/07/1969 till:01/07/1970  shift:(0,-4) text:13
+  from:01/07/1970 till:01/07/1971  shift:(0,-4) text:
+  from:01/07/1971 till:01/07/1972  shift:(0,-4) text:
+  from:01/07/1972 till:01/07/1973  shift:(0,-4) text:
+  from:01/07/1973 till:01/07/1974  shift:(0,-4) text:
+  from:01/07/1974 till:01/07/1975  shift:(0,-4) text:
+  from:01/07/1975 till:01/07/1976  shift:(0,-4) text:
+  from:01/07/1976 till:01/07/1977  shift:(0,-4) text:
+  from:01/07/1977 till:01/07/1978  shift:(0,-4) text:
+  from:01/07/1978 till:01/07/1979  shift:(0,-4) text:
+  from:01/07/1979 till:01/07/1980  shift:(0,-4) text:
+  from:01/07/1980 till:01/07/1981  shift:(0,-4) text:
+  from:01/07/1981 till:01/07/1982  shift:(0,-4) text:12
+  from:01/07/1982 till:01/07/1983  shift:(0,-4) text:8
+  from:01/07/1983 till:01/07/1984  shift:(0,-4) text:7
+  from:01/07/1984 till:01/07/1985  shift:(0,-4) text:6
+  from:01/07/1985 till:01/07/1986  shift:(0,-4) text:3
+  from:01/07/1986 till:01/07/1987  shift:(0,-4) text:2
+  from:01/07/1987 till:01/07/1988  shift:(0,-4) text:3
+  from:01/07/1988 till:01/07/1989  shift:(0,-4) text:2
+  from:01/07/1989 till:01/07/1990  shift:(0,-4) text:3
+  from:01/07/1990 till:01/07/1991  shift:(0,-4) text:2
 
-  from:01/07/1991 till:01/07/1996  color:bl1  shift:(0,13)  text:"[[Қазақстан Премьер-Лигасы|Премьер-лига]]"
-  from:01/07/1996 till:01/07/1998  color:rs  shift:(0,13)  text: "Қатыспаған "
-  from:01/07/1998 till:01/07/2008  color:bl1  shift:(0,13)  text:"[[Қазақстан Премьер-Лигасы|Премьер-Лига]]"
+  from:01/07/1966 till:01/07/1970  color:bl1  shift:(0,13)  text:"[[КСРО "Б" Классы]]"
+  from:01/07/1970 till:01/07/1981  color:rs  shift:(0,13)  text: "Қатыспаған "
+  from:01/07/1981 till:01/07/1991  color:bl1  shift:(0,13)  text:"[[КСРО 2 Лигасы]]"
 
 </timeline>
 
