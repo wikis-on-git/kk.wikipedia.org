@@ -76,7 +76,7 @@ ImageSize = width:600 height:60
 PlotArea  = left:10 right:10 bottom:30 top:10
 TimeAxis = orientation:horizontal format:yyyy
 DateFormat = dd/mm/yyyy
-Period     = from:01/01/1991 till:01/07/2008
+Period     = from:01/01/1991 till:01/07/2009
 ScaleMajor = unit:year increment:1 start:1992 
 Colors =
   id:bl1  value:rgb(0.5,0.8,0.5)
@@ -104,10 +104,11 @@ PlotData=
   from:01/07/2005 till:01/07/2006  shift:(0,-4) text:3
   from:01/07/2006 till:01/07/2007  shift:(0,-4) text:2
   from:01/07/2007 till:01/07/2008  shift:(0,-4) text:2
+  from:01/07/2008 till:01/07/2009  shift:(0,-4) text:4
 
   from:01/07/1991 till:01/07/1996  color:bl1  shift:(0,13)  text:"[[Қазақстан Премьер-Лигасы|Премьер-лига]]"
   from:01/07/1996 till:01/07/1998  color:rs  shift:(0,13)  text: "Қатыспаған "
-  from:01/07/1998 till:01/07/2008  color:bl1  shift:(0,13)  text:"[[Қазақстан Премьер-Лигасы|Премьер-Лига]]"
+  from:01/07/1998 till:01/07/2009  color:bl1  shift:(0,13)  text:"[[Қазақстан Премьер-Лигасы|Премьер-Лига]]"
 
 </timeline>
 
