@@ -1,1 +1,90 @@
-Opera (О́пера) — Opera Software ASA компаниясы шығаратын Интернетте жұмыс істеуге арналған веб-браузер және программалық пакет.  Норвег компаниясы Telenor-мен 1994 ж. жасап шығарылған.
+{{Infobox web browser
+| name                   = Opera
+| logo                   = [[File:Opera O.svg|64px|Opera logo]] 
+| screenshot             = [[File:Opera Screenshot.png|300px]] <!-- Please discuss changes to this image on the talk page. -->
+| caption                = Opera displaying [[Wikipedia]].
+| developer              = [[Opera Software]] [[Allmennaksjeselskap|ASA]]
+| released               = {{Initial-release|December 9, 1996}}<ref>{{cite web |url=http://www.opera.com/docs/history/index.dml#o2 |title=Opera version history |publisher=[[Opera Software]] |accessdate=18 December 2009}}</ref>
+| frequently_updated     = Yes <!-- Release version update? Don't edit this page, just click on the version number! -->
+| operating system       = [[FreeBSD]]<br />[[Linux]]<br />[[Mac OS X]]<br />[[Microsoft Windows]]<br />[[Solaris (operating system)|Solaris]]
+| engine                 = [[Presto (layout engine)|Presto]]
+| size                   = 5-20 MB (depending on version)
+| language               = 44 languages<ref>{{cite web |url=http://www.opera.com/download/languagefiles/ |title=Opera for Windows — language files |publisher=[[Opera Software]] |accessdate=3 September 2009}}</ref>
+| status                 = Active
+| genre                  = [[Web browser]] and [[Internet suite]]
+| programming language   = [[C++]]<ref>{{cite web
+| url         = http://www.lextrait.com/Vincent/implementations.html
+| title       = The Programming Languages Beacon, v10.0
+| first       = Vincent
+| last        = Lextrait
+| month       = January
+| year        = 2010
+| accessdate  = 4 January 2010
+}}</ref>
+| license                = [[Proprietary software|Proprietary]] ([[Freeware]])
+| website                = [http://www.opera.com/ www.opera.com]
+}}
+'''Opera''' (О́пера) — Opera Software ASA компаниясы шығаратын [[Интернет]]те жұмыс істеуге арналған веб-браузер және бағдарламалық пакет.  Норвег компаниясы Telenor-мен [[1994]] жылы жасап шығарылған.
+
+[[Санат:Ғаламтор шолғыштары]]
+
+[[af:Opera (webblaaier)]]
+[[ar:أوبرا (متصفح ويب)]]
+[[bn:অপেরা (ওয়েব ব্রাউজার)]]
+[[zh-min-nan:Opera]]
+[[be-x-old:Opera]]
+[[bs:Opera (Internetski preglednik)]]
+[[bg:Опера (браузър)]]
+[[ca:Opera]]
+[[cs:Opera (prohlížeč)]]
+[[da:Opera (browser)]]
+[[de:Opera]]
+[[et:Opera]]
+[[el:Opera (φυλλομετρητής)]]
+[[es:Opera (navegador)]]
+[[eo:Opera (retumilo)]]
+[[eu:Opera (nabigatzailea)]]
+[[fa:مرورگر اپرا]]
+[[fr:Opera]]
+[[gl:Opera (navegador)]]
+[[ko:오페라 (웹 브라우저)]]
+[[hi:ऑपेरा वेब ब्राउज़र]]
+[[hr:Opera (preglednik)]]
+[[id:Opera (perangkat lunak)]]
+[[is:Opera (vafri)]]
+[[it:Opera (browser)]]
+[[he:אופרה (דפדפן)]]
+[[ka:Opera]]
+[[ku:Opera (gerok)]]
+[[lv:Opera (pārlūkprogramma)]]
+[[lt:Opera (naršyklė)]]
+[[hu:Opera (webböngésző)]]
+[[mk:Опера (интернет прелистувач)]]
+[[mg:Opera]]
+[[ml:ഓപ്പറ (വെബ് ബ്രൗസർ)]]
+[[nl:Opera (webbrowser)]]
+[[ja:Opera]]
+[[no:Opera (nettleser)]]
+[[nn:Nettlesaren Opera]]
+[[uz:Opera (brauzer)]]
+[[pnb:اوپرا]]
+[[nds:Opera]]
+[[pl:Opera (program)]]
+[[pt:Opera]]
+[[ro:Opera (navigator web)]]
+[[ru:Opera]]
+[[simple:Opera (web browser)]]
+[[sk:Opera (webový prehliadač)]]
+[[sl:Opera (brskalnik)]]
+[[sr:Опера (браузер)]]
+[[fi:Opera]]
+[[sv:Opera (webbläsare)]]
+[[tl:Opera (web browser)]]
+[[ta:ஒபேரா (உலாவி)]]
+[[th:โอเปร่า (เว็บเบราว์เซอร์)]]
+[[tr:Opera (ağ tarayıcısı)]]
+[[uk:Opera]]
+[[vi:Opera (trình duyệt web)]]
+[[zh-yue:Opera]]
+[[bat-smg:Opera (naršīklė)]]
+[[zh:Opera]]
