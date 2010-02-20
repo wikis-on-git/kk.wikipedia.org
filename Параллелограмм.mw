@@ -1,0 +1,69 @@
+'''Параллелограмм''' –  қарама-қарсы   қабырғалары [[параллель]] болатын, яғни параллель түзулердің бойында орналасқан [[төртбұрыш]]. 
+[[Сурет:Parallelogramm.png|right|frame|Параллелограмм]] 
+==Параллелогаммның қасиеттері==
+# Қарама – қарсы қабырғалары тең. : <math>|AB| = |CD|</math>, <math>|AD| = |BC|</math>.
+# Қарсы жатқан бұрыштары тең.  : <math>\angle A = \angle C, \angle B = \angle D.</math>
+# Диагональдары қиылысады және қиылысу нүктесінде қақ бөлінеді. : <math>|AO| = |OC|</math>, <math>|BO| = |OD|</math>.
+# Бұрыштарының іргелес біржақты жатқан қабырғаларының қосындысы 180º-қа тең.
+# Диагональдарының квадраттарының қосындысы оның барлық қабырғаларының квадраттарының қосындысына тең.   
+: '''<math>d_1^2+d_2^2 = 2(a^2 + b^2).</math>'''
+==Параллелограммның белгілері==
+Егер мына шарттар орындалса онда төртбұрыш параллелограмм болады:
+# Қарама – қарсы қабырғалары тең және параллель (|AB| = |CD|, |AD| = |BC|)
+# Қарама – қарсы қабырғалары қос – қостан тең (|AB| = |CD|, AB || CD).
+# Қарама – қарсы бұрыштары қос – қостан тең (∠A = ∠C, ∠B = ∠D).
+# Диагональдары қиылысу нүктесінде қақ бөлінеді (|AO| = |OC|, |BO| = |OD|).
+[[Санат:Көпбұрыштар]]
+[[ar:متوازي أضلاع]]
+[[ast:Paralelogramu]]
+[[az:Paraleloqram]]
+[[be:Паралелаграм]]
+[[be-x-old:Паралелаграм]]
+[[bg:Успоредник]]
+[[bs:Paralelogram]]
+[[ca:Paral·lelogram]]
+[[cs:Rovnoběžník]]
+[[da:Parallelogram]]
+[[de:Parallelogramm]]
+[[el:Παραλληλόγραμμο]]
+[[en:Parallelogram]]
+[[eo:Paralelogramo]]
+[[es:Paralelogramo]]
+[[et:Rööpkülik]]
+[[eu:Paralelogramo]]
+[[fa:متوازی‌الاضلاع]]
+[[fi:Suunnikas]]
+[[fr:Parallélogramme]]
+[[he:מקבילית]]
+[[hr:Paralelogram]]
+[[hsb:Runoběžnik]]
+[[hu:Paralelogramma]]
+[[id:Jajar Genjang]]
+[[it:Parallelogramma]]
+[[ja:平行四辺形]]
+[[ka:პარალელოგრამი]]
+[[km:ប្រលេឡូក្រាម]]
+[[ko:평행사변형]]
+[[la:Parallelogramma]]
+[[lt:Lygiagretainis]]
+[[lv:Paralelograms]]
+[[mr:समांतरभुज चौकोन]]
+[[nl:Parallellogram]]
+[[nn:Parallellogram]]
+[[no:Parallellogram]]
+[[pl:Równoległobok]]
+[[pms:Paralelograma]]
+[[pt:Paralelogramo]]
+[[ro:Paralelogram]]
+[[scn:Paralleluggramma]]
+[[sl:Paralelogram]]
+[[sr:Паралелограм]]
+[[su:Pasagi doyong]]
+[[sv:Parallellogram]]
+[[ta:இணைகரம்]]
+[[th:รูปสี่เหลี่ยมด้านขนาน]]
+[[tr:Paralelkenar]]
+[[uk:Паралелограм]]
+[[vi:Hình bình hành]]
+[[vls:Parallellogram]]
+[[zh:平行四边形]]
