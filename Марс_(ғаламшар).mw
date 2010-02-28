@@ -35,7 +35,7 @@
 | min_speed = 21.972 [[kilometre|km]]/[[second|s]]
 (49,150 [[Miles Per Hour|mph]])
 | inclination = 1.850 61[[degree (angle)|°]]
-(5.65° to [[Sun]]'s [[Equator|Equator]])
+(5.65° to [[Sun]]'s [[Equator]])
 | asc_node = 49.578 54°
 | arg_perihelion = 286.462 30°
 | satellites = 2
@@ -75,9 +75,9 @@
   |   url = http://solarsystem.jpl.nasa.gov/planets/profile.cfm?Object=Mars&Display=Facts&System=Metric
   | accessdate = 2007-03-06 }}</ref>
 | temp_name2 = [[Celsius]]/[[Fahrenheit]]
-| min_temp_2 = −87°C/−125°F
-| mean_temp_2 = −46°C/−51°F
-| max_temp_2 = −5°C/23°F
+| min_temp_2 = −87&nbsp;°C/−125&nbsp;°F
+| mean_temp_2 = −46&nbsp;°C/−51&nbsp;°F
+| max_temp_2 = −5&nbsp;°C/23&nbsp;°F
 | adjectives = [[Martian]]
 | atmosphere = yes
 | surface_pressure = 0.7–0.9 [[Pascal (unit)|kPa]]
@@ -106,28 +106,25 @@
 
 {{Mars Footer}}
 {{Footer_SolarSystem}}
+<!-- interwiki links -->
 
 [[Санат:Қызылжұлдыз|Қызылжұлдыз]]
 [[Санат:Жер тәрізді ғаламшарлар]]
 [[Санат:Күн жүйесі ғаламшарлары]]
 
+{{Link FA|af}}
 {{Link FA|bg}}
 {{Link FA|cs}}
 {{Link FA|de}}
+{{Link FA|en}}
 {{Link FA|es}}
 {{Link FA|hr}}
 {{Link FA|kn}}
+{{Link FA|nl}}
 {{Link FA|pl}}
 {{Link FA|pt}}
 {{Link FA|sv}}
-
-<!-- interwiki links -->
-
-{{Link FA|en}}
-{{Link FA|nl}}
 {{Link FA|yi}}
-
-{{Link FA|af}}
 
 [[af:Mars (planeet)]]
 [[als:Mars (Planet)]]
@@ -180,6 +177,7 @@
 [[haw:Hōkū‘ula]]
 [[he:מאדים]]
 [[hi:मंगल ग्रह]]
+[[hif:Mangalgrah]]
 [[hr:Mars (planet)]]
 [[ht:Mas (planèt)]]
 [[hu:Mars]]
