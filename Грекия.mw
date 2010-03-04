@@ -1,13 +1,13 @@
 {{Infobox Country or territory
-|native_name              = <span style="line-height:1.33em;"> Ελληνική Δημοκρατία <br/>''Еллиніки́ Димократі́я''</span>
+|native_name              = <span style="line-height:1.33em;"> Ελληνική Δημοκρατία <br />''Еллиніки́ Димократі́я''</span>
 |conventional_long_name   = <span style="line-height:1.33em;">Грек Республикасы</span>
 |common_name              = Грекия
 |image_flag               = Flag of Greece.svg
 |image_coat               = Coat_of_arms_of_Greece.svg
 |image_map                = EU location GRE.png
 |map_caption              = Map showing the location of Greece (dark orange) within the EU ([[:Image:EU location legend.png|legend]]).
-|national_motto           = {{lang|el|Ελευθερία ή Θάνατος}}<br/>{{lang|el|''Елеуѳері́а и́ ѳа́натос''}}{{nbsp|2}}<small>(Транслитерация:)<br/>"Свобода или смерть"</small><!--See http://www.culture.gr/4/42/421/42103/42103e/g42103e3.html and http://humanitas.filg.uj.edu.pl/files/terminus/artykuly/d9b23762d6da8f325e2b215ff5338d2b.pdf-->
-|national_anthem          = {{lang|el|Ύμνος εις την Ελευθερίαν}}<br/><small>"[[Гимн свободе]]"</small>
+|national_motto           = {{lang|el|Ελευθερία ή Θάνατος}}<br />{{lang|el|''Елеуѳері́а и́ ѳа́натос''}}{{nbsp|2}}<small>(Транслитерация:)<br />"Свобода или смерть"</small><!--See http://www.culture.gr/4/42/421/42103/42103e/g42103e3.html and http://humanitas.filg.uj.edu.pl/files/terminus/artykuly/d9b23762d6da8f325e2b215ff5338d2b.pdf-->
+|national_anthem          = {{lang|el|Ύμνος εις την Ελευθερίαν}}<br /><small>"[[Гимн свободе]]"</small>
 |official_languages       = [[Грек тілі|грекше]]
 |capital                  = [[Афины]]
 |latd=38| latm=00| latNS=N| longd=23| longm=43| longEW=E
@@ -42,12 +42,12 @@
 |GDP_nominal_per_capita   = $20,327
 |GDP_nominal_per_capita_rank = 28th
 |sovereignty_type         = Formation
-|established_event1       = First known<br/>{{nbsp|3}}Greek civilizations<sup>1</sup>
-|established_date1        = <br/>[[Circa|c.]]3000 до Р.Х.
-|established_event2       = Last previously<br/>{{nbsp|3}}independent state<sup>2</sup>
-|established_date2        = <br/>1461
-|established_event3       = Тәуелсіздік от<br/>{{nbsp|3}}[[Османлы империясы]]
-|established_date3        = <br/>{{nowrap|[[1821]] [[Наурыздың 25]]}}
+|established_event1       = First known<br />{{nbsp|3}}Greek civilizations<sup>1</sup>
+|established_date1        = <br />[[Circa|c.]]3000 до Р.Х.
+|established_event2       = Last previously<br />{{nbsp|3}}independent state<sup>2</sup>
+|established_date2        = <br />1461
+|established_event3       = Тәуелсіздік от<br />{{nbsp|3}}[[Османлы империясы]]
+|established_date3        = <br />{{nowrap|[[1821]] [[Наурыздың 25]]}}
 |established_event4       = Танылғаны
 |established_date4        = 1829
 |HDI                      = {{increase}} 0.921
@@ -63,7 +63,7 @@
 |utc_offset_DST           = +3
 |cctld                    = [[.gr]] <sup>4</sup>
 |calling_code             = 30
-|footnotes                = <sup>1<sup> Минойская and Кикладская цивилизация.<br/><sup>2</sup> Трапезунд империясы<br/><sup>3</sup> Prior to 2001: драхма.<br/><sup>4</sup> The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states.
+|footnotes                = <sup>1<sup> Минойская and Кикладская цивилизация.<br /><sup>2</sup> Трапезунд империясы<br /><sup>3</sup> Prior to 2001: драхма.<br /><sup>4</sup> The [[.eu]] domain is also used, as it is shared with other [[European Union]] member states.
 }}
 '''Гре́кия''' ({{lang-el|Ελλάδα}}), ресми аты '''Грекия Республикасы''' ({{lang-el|Ελληνική Δημοκρατία}}) — [[Еуропа]] оңтүстігінде, [[Балкан түбегі]]нде орналасқан [[мемлекет]]. Солтүстігінде [[Албания]]мен, бұрынғы югославиялық [[Македония республикасы]]мен және [[Болгария]]мен, солтүстік-шығысында — [[Түркия]]мен шектеседі. Шығысы мен оңтүстігін [[Эгей теңізі]], батысын — [[Ион теңізі]] шайып жатыр. Осы елді мекендейтін юнандар (гректер) атымен аталған.
 
@@ -91,10 +91,9 @@
 
 
 <!--Interwiki-->
-{{Link FA|ar}}
-
 <!--Other languages-->
 
+{{Link FA|ar}}
 {{Link FA|vi}}
 
 [[ace:Yunani]]
@@ -231,6 +230,7 @@
 [[rm:Grezia]]
 [[ro:Grecia]]
 [[roa-rup:Gãrtsia]]
+[[roa-tara:Grecie]]
 [[ru:Греция]]
 [[rw:Ikigereki]]
 [[sa:ग्रीस (यूनान)]]
