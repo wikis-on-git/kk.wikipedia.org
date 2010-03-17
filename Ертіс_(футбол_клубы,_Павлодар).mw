@@ -74,11 +74,11 @@ PlotData=
 
   from:01/07/1965 till:01/07/1970  color:bl1  shift:(0,13)  text:"[[КСРО "Б" Классы]]"
   from:01/07/1970 till:01/07/1978  color:rs  shift:(0,13)  text: "[[КСРО 2 Лигасы]]"
-  from:01/07/1978 till:01/07/1979  color:bl1  shift:(0,13)  text:"[[КСРО 1 Лигасы]]"
-  from:01/07/1979 till:01/07/1980  color:rs  shift:(0,13)  text: "[[КСРО 2 Лигасы]]"
-  from:01/07/1980 till:01/07/1981  color:bl1  shift:(0,13)  text:"[[КСРО 1 Лигасы]]"
+  from:01/07/1978 till:01/07/1979  color:bl1  shift:(0,13)  text:"1 Л"
+  from:01/07/1979 till:01/07/1980  color:rs  shift:(0,13)  text: "2 Л"
+  from:01/07/1980 till:01/07/1981  color:bl1  shift:(0,13)  text:"1 Л"
   from:01/07/1981 till:01/07/1989  color:rs  shift:(0,13)  text: "[[КСРО 2 Лигасы]]"
-  from:01/07/1989 till:01/07/1991  color:rs  shift:(0,13)  text: "[[КСРО Буфер зонасы]]"
+  from:01/07/1989 till:01/07/1991  color:rs  shift:(0,13)  text: "Буфер"
 
 </timeline>
 
