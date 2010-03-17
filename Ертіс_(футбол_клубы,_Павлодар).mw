@@ -28,6 +28,60 @@ leftarm2=FFFFFF|body2=FFFFFF|rightarm2=FFFFFF|shorts2=FFFFFF|socks2=FFFFFF|
 Ең үлкен жеңісі — 7:1 («Металлург», [[Ақсу|Ермак]], [[1970]]) және 6:0 (7 рет). <br />
 Ең үлкен жеңілісі — 0:6 («Луч», [[Владивосток]], [[1975]]; «Колос», [[Никополь (Днепропетровск облысы)|Никополь]], [[1981]])<ref> [http://irtysh.kz/?page_id=6 irtysh.kz]</ref>.
 
+<timeline>
+ImageSize = width:600 height:60
+PlotArea  = left:10 right:10 bottom:30 top:10
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = dd/mm/yyyy
+Period     = from:01/01/1965 till:01/07/1991
+ScaleMajor = unit:year increment:1 start:1967 
+Colors =
+  id:bl1  value:rgb(0.5,0.8,0.5)
+  id:bl2  value:rgb(0.9,0.9,0.3)  
+  id:rs  value:rgb(0.8,0.6,0.6)
+  id:rn  value:rgb(0.9,0.1,0.1)
+
+PlotData= 
+  bar:Position width:15 color:white align:center
+
+  from:01/07/1965 till:01/07/1965  shift:(0,-4) text:12
+  from:01/07/1965 till:01/07/1966  shift:(0,-4) text:11
+  from:01/07/1966 till:01/07/1967  shift:(0,-4) text:13
+  from:01/07/1967 till:01/07/1968  shift:(0,-4) text:5
+  from:01/07/1968 till:01/07/1969  shift:(0,-4) text:1
+  from:01/07/1969 till:01/07/1970  shift:(0,-4) text:2
+  from:01/07/1970 till:01/07/1971  shift:(0,-4) text:18
+  from:01/07/1971 till:01/07/1972  shift:(0,-4) text:
+  from:01/07/1972 till:01/07/1973  shift:(0,-4) text:1
+  from:01/07/1973 till:01/07/1974  shift:(0,-4) text:5
+  from:01/07/1974 till:01/07/1975  shift:(0,-4) text:11
+  from:01/07/1975 till:01/07/1976  shift:(0,-4) text:10
+  from:01/07/1976 till:01/07/1977  shift:(0,-4) text:3
+  from:01/07/1977 till:01/07/1978  shift:(0,-4) text:1
+  from:01/07/1978 till:01/07/1979  shift:(0,-4) text:21
+  from:01/07/1979 till:01/07/1980  shift:(0,-4) text:1
+  from:01/07/1980 till:01/07/1981  shift:(0,-4) text:24
+  from:01/07/1981 till:01/07/1982  shift:(0,-4) text:7
+  from:01/07/1982 till:01/07/1983  shift:(0,-4) text:2
+  from:01/07/1983 till:01/07/1984  shift:(0,-4) text:5
+  from:01/07/1984 till:01/07/1985  shift:(0,-4) text:3
+  from:01/07/1985 till:01/07/1986  shift:(0,-4) text:8
+  from:01/07/1986 till:01/07/1987  shift:(0,-4) text:2
+  from:01/07/1987 till:01/07/1988  shift:(0,-4) text:1
+  from:01/07/1988 till:01/07/1989  shift:(0,-4) text:1
+  from:01/07/1989 till:01/07/1990  shift:(0,-4) text:10
+  from:01/07/1990 till:01/07/1991  shift:(0,-4) text:9
+
+  from:01/07/1965 till:01/07/1970  color:bl1  shift:(0,13)  text:"[[КСРО "Б" Классы]]"
+  from:01/07/1970 till:01/07/1978  color:rs  shift:(0,13)  text: "[[КСРО 2 Лигасы]]"
+  from:01/07/1978 till:01/07/1979  color:bl1  shift:(0,13)  text:"[[КСРО 1 Лигасы]]"
+  from:01/07/1979 till:01/07/1980  color:rs  shift:(0,13)  text: "[[КСРО 2 Лигасы]]"
+  from:01/07/1980 till:01/07/1981  color:bl1  shift:(0,13)  text:"[[КСРО 1 Лигасы]]"
+  from:01/07/1981 till:01/07/1989  color:rs  shift:(0,13)  text: "[[КСРО 2 Лигасы]]"
+  from:01/07/1989 till:01/07/1991  color:rs  shift:(0,13)  text: "[[КСРО Буфер зонасы]]"
+
+</timeline>
+
 === [[КСРО]] кубогы ===
 11 [[КСРО]] Кубогында: 37 ойын, 14 жеңіс, 5 тең есеппен біткен ойын, 18 жеңіліс, доптардың қатынасы 38 — 51.
 
