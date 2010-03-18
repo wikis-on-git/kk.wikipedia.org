@@ -95,6 +95,47 @@ PlotData=
 
 Сонымен бірге клуб [[АФК Чемпиондар лигасы]]нда өнер көрсетті. Азиялық Чемпиондар Лигасы — Азияның ең басты әр жылдық клубтық футбол турниры, осы жарысқа ең үздік 14 азиялық чемпионаттардың жеңімпаздары қатысады (Қазақстанның [[УЕФА]]-ға кіруіне дейін). Осы беделді турнирда Ертіс ФК [[2001]] жылы дартылай финалға дейін жетті. Сонымен қатар команда [[УЕФА Чемпиондар лигасы]]ның квалификациялық ойындарына қатысты, сол ойындарда клуб [[Қыбыр|кипрлік]] «[[Омония (футбол клубы)|Омония]]» клубынан жеңілді..
 
+<timeline>
+ImageSize = width:600 height:60
+PlotArea  = left:10 right:10 bottom:30 top:10
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = dd/mm/yyyy
+Period     = from:01/01/1991 till:01/07/2009
+ScaleMajor = unit:year increment:1 start:1992 
+Colors =
+  id:bl1  value:rgb(0.5,0.8,0.5)
+  id:bl2  value:rgb(0.9,0.9,0.3)  
+  id:rs  value:rgb(0.8,0.6,0.6)
+  id:rn  value:rgb(0.9,0.1,0.1)
+
+PlotData= 
+  bar:Position width:15 color:white align:center
+
+  from:01/07/1991 till:01/07/1992  shift:(0,-4) text:3
+  from:01/07/1992 till:01/07/1993  shift:(0,-4) text:1
+  from:01/07/1993 till:01/07/1994  shift:(0,-4) text:2
+  from:01/07/1994 till:01/07/1995  shift:(0,-4) text:7
+  from:01/07/1995 till:01/07/1996  shift:(0,-4) text:2
+  from:01/07/1996 till:01/07/1997  shift:(0,-4) text:1
+  from:01/07/1997 till:01/07/1998  shift:(0,-4) text:3
+  from:01/07/1998 till:01/07/1999  shift:(0,-4) text:1
+  from:01/07/1999 till:01/07/2000  shift:(0,-4) text:3
+  from:01/07/2000 till:01/07/2001  shift:(0,-4) text:4
+  from:01/07/2001 till:01/07/2002  shift:(0,-4) text:1
+  from:01/07/2002 till:01/07/2003  shift:(0,-4) text:1
+  from:01/07/2003 till:01/07/2004  shift:(0,-4) text:2
+  from:01/07/2004 till:01/07/2005  shift:(0,-4) text:5
+  from:01/07/2005 till:01/07/2006  shift:(0,-4) text:6
+  from:01/07/2006 till:01/07/2007  shift:(0,-4) text:4
+  from:01/07/2007 till:01/07/2008  shift:(0,-4) text:3
+  from:01/07/2008 till:01/07/2009  shift:(0,-4) text:9
+
+  from:01/07/1991 till:01/07/1996  color:bl1  shift:(0,13)  text:"[[Қазақстан Премьер-Лигасы|Премьер-лига]]"
+  from:01/07/1996 till:01/07/1998  color:rs  shift:(0,13)  text: "Қатыспаған "
+  from:01/07/1998 till:01/07/2009  color:bl1  shift:(0,13)  text:"[[Қазақстан Премьер-Лигасы|Премьер-Лига]]"
+
+</timeline>
+
 === Жетістіктері мен жеңілістері ===
 Клубтың бүкіл тарихы бойында жеткен жеңістері мен жеңілістері<ref>[http://www.fc-irtysh.narod.ru/history.htm fc-irtysh.narod.ru]</ref>:
 
