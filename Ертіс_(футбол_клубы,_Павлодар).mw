@@ -33,8 +33,8 @@ ImageSize = width:600 height:60
 PlotArea  = left:10 right:10 bottom:30 top:10
 TimeAxis = orientation:horizontal format:yyyy
 DateFormat = dd/mm/yyyy
-Period     = from:01/01/64 till:01/07/91
-ScaleMajor = unit:year increment:1 start:65 
+Period     = from:01/01/1964 till:01/07/1991
+ScaleMajor = unit:year increment:1 start:1965 
 Colors =
   id:bl1  value:rgb(0.5,0.8,0.5)
   id:bl2  value:rgb(0.9,0.9,0.3)  
@@ -44,41 +44,41 @@ Colors =
 PlotData= 
   bar:Position width:15 color:white align:center
 
-  from:01/07/64 till:01/07/65  shift:(0,-4) text:12
-  from:01/07/65 till:01/07/66  shift:(0,-4) text:11
-  from:01/07/66 till:01/07/67  shift:(0,-4) text:13
-  from:01/07/67 till:01/07/68  shift:(0,-4) text:5
-  from:01/07/68 till:01/07/69  shift:(0,-4) text:1
-  from:01/07/69 till:01/07/70  shift:(0,-4) text:2
-  from:01/07/70 till:01/07/71  shift:(0,-4) text:18
-  from:01/07/71 till:01/07/72  shift:(0,-4) text:
-  from:01/07/72 till:01/07/73  shift:(0,-4) text:1
-  from:01/07/73 till:01/07/74  shift:(0,-4) text:5
-  from:01/07/74 till:01/07/75  shift:(0,-4) text:11
-  from:01/07/75 till:01/07/76  shift:(0,-4) text:10
-  from:01/07/76 till:01/07/77  shift:(0,-4) text:3
-  from:01/07/77 till:01/07/78  shift:(0,-4) text:1
-  from:01/07/78 till:01/07/79  shift:(0,-4) text:21
-  from:01/07/79 till:01/07/80  shift:(0,-4) text:1
-  from:01/07/80 till:01/07/81  shift:(0,-4) text:24
-  from:01/07/81 till:01/07/82  shift:(0,-4) text:7
-  from:01/07/82 till:01/07/83  shift:(0,-4) text:2
-  from:01/07/83 till:01/07/84  shift:(0,-4) text:5
-  from:01/07/84 till:01/07/85  shift:(0,-4) text:3
-  from:01/07/85 till:01/07/86  shift:(0,-4) text:8
-  from:01/07/86 till:01/07/87  shift:(0,-4) text:2
-  from:01/07/87 till:01/07/88  shift:(0,-4) text:1
-  from:01/07/88 till:01/07/89  shift:(0,-4) text:1
-  from:01/07/89 till:01/07/90  shift:(0,-4) text:10
-  from:01/07/90 till:01/07/91  shift:(0,-4) text:9
+  from:01/07/1964 till:01/07/1965  shift:(0,-4) text:12
+  from:01/07/1965 till:01/07/1966  shift:(0,-4) text:11
+  from:01/07/1966 till:01/07/1967  shift:(0,-4) text:13
+  from:01/07/1967 till:01/07/1968  shift:(0,-4) text:5
+  from:01/07/1968 till:01/07/1969  shift:(0,-4) text:1
+  from:01/07/1969 till:01/07/1970  shift:(0,-4) text:2
+  from:01/07/1970 till:01/07/1971  shift:(0,-4) text:18
+  from:01/07/1971 till:01/07/1972  shift:(0,-4) text:
+  from:01/07/1972 till:01/07/1973  shift:(0,-4) text:1
+  from:01/07/1973 till:01/07/1974  shift:(0,-4) text:5
+  from:01/07/1974 till:01/07/1975  shift:(0,-4) text:11
+  from:01/07/1975 till:01/07/1976  shift:(0,-4) text:10
+  from:01/07/1976 till:01/07/1977  shift:(0,-4) text:3
+  from:01/07/1977 till:01/07/1978  shift:(0,-4) text:1
+  from:01/07/1978 till:01/07/1979  shift:(0,-4) text:21
+  from:01/07/1979 till:01/07/1980  shift:(0,-4) text:1
+  from:01/07/1980 till:01/07/1981  shift:(0,-4) text:24
+  from:01/07/1981 till:01/07/1982  shift:(0,-4) text:7
+  from:01/07/1982 till:01/07/1983  shift:(0,-4) text:2
+  from:01/07/1983 till:01/07/1984  shift:(0,-4) text:5
+  from:01/07/1984 till:01/07/1985  shift:(0,-4) text:3
+  from:01/07/1985 till:01/07/1986  shift:(0,-4) text:8
+  from:01/07/1986 till:01/07/1987  shift:(0,-4) text:2
+  from:01/07/1987 till:01/07/1988  shift:(0,-4) text:1
+  from:01/07/1988 till:01/07/1989  shift:(0,-4) text:1
+  from:01/07/1989 till:01/07/1990  shift:(0,-4) text:10
+  from:01/07/1990 till:01/07/1991  shift:(0,-4) text:9
 
-  from:01/07/64 till:01/07/70  color:rs  shift:(0,13)  text:"[[КСРО "Б" Классы]]"
-  from:01/07/70 till:01/07/78  color:rs  shift:(0,13)  text: "[[КСРО 2 Лигасы]]"
-  from:01/07/78 till:01/07/79  color:bl1  shift:(0,13)  text:"1 Л"
-  from:01/07/79 till:01/07/80  color:rs  shift:(0,13)  text: "2 Л"
-  from:01/07/80 till:01/07/81  color:bl1  shift:(0,13)  text:"1 Л"
-  from:01/07/81 till:01/07/89  color:rs  shift:(0,13)  text: "[[КСРО 2 Лигасы]]"
-  from:01/07/89 till:01/07/91  color:rs  shift:(0,13)  text: "Буфер"
+  from:01/07/1964 till:01/07/1970  color:rs  shift:(0,13)  text:"[[КСРО "Б" Классы]]"
+  from:01/07/1970 till:01/07/1978  color:rs  shift:(0,13)  text: "[[КСРО 2 Лигасы]]"
+  from:01/07/1978 till:01/07/1979  color:bl1  shift:(0,13)  text:"1 Л"
+  from:01/07/1979 till:01/07/1980  color:rs  shift:(0,13)  text: "2 Л"
+  from:01/07/1980 till:01/07/1981  color:bl1  shift:(0,13)  text:"1 Л"
+  from:01/07/1981 till:01/07/1989  color:rs  shift:(0,13)  text: "[[КСРО 2 Лигасы]]"
+  from:01/07/1989 till:01/07/1991  color:rs  shift:(0,13)  text: "Буфер"
 
 </timeline>
 
