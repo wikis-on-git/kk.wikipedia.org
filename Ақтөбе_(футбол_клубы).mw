@@ -1,0 +1,169 @@
+{{otheruses|Ақтөбе}}
+{{Football club infobox |
+  clubname = {{flagicon|Kazakhstan}} Ақтөбе ФК |
+  image =  
+  fullname = Ақтөбе Футбол Клубы |
+  nickname =  |
+  founded  = [[1967]] |
+  ground   = [[Ақтөбе]] қаласының «Орталық» стадионы<br />|
+  capacity = 12805 адам|
+  chairman = |
+  manager  = {{flagicon|Russia}} [[Муханов, Владимир]]|
+  league   = [[Қазақстан Премьер-лигасы]] |
+  season   =  [[2009]] |
+ position = 1 орын|
+
+}}
+
+'''Ертіс ФК''' — мемлекеттің жоғарғы дивизионында, [[Қазақстан Премьер-лигасы|Қазақстан Премьер-лигасында]], ойнайтын, [[Қазақстан|қазақстандық]] [[футбол]] клубы. [[Ақтөбе]] қаласының Орталық стадионы клубтың базасы болып табылады.
+
+== Клубтың тарихы мен жетістіктері ==
+=== [[КСРО]] чемпионаты ===
+Команда 19 [[КСРО]] чемпионатына қатысты ([[1967]]—[[1969]], [[1976]]—[[1991]]). 
+
+<timeline>
+ImageSize = width:600 height:60
+PlotArea  = left:10 right:10 bottom:30 top:10
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = dd/mm/yyyy
+Period     = from:01/01/1966 till:01/07/1991
+ScaleMajor = unit:year increment:1 start:1967 
+Colors =
+  id:bl1  value:rgb(0.5,0.8,0.5)
+  id:bl2  value:rgb(0.9,0.9,0.3)  
+  id:rs  value:rgb(0.8,0.6,0.6)
+  id:rn  value:rgb(0.9,0.1,0.1)
+
+PlotData= 
+  bar:Position width:15 color:white align:center
+
+  from:01/07/1966 till:01/07/1967  shift:(0,-4) text:15
+  from:01/07/1967 till:01/07/1968  shift:(0,-4) text:13
+  from:01/07/1968 till:01/07/1969  shift:(0,-4) text:21
+  from:01/07/1969 till:01/07/1970  shift:(0,-4) text:
+  from:01/07/1970 till:01/07/1971  shift:(0,-4) text:
+  from:01/07/1971 till:01/07/1972  shift:(0,-4) text:
+  from:01/07/1972 till:01/07/1973  shift:(0,-4) text:
+  from:01/07/1973 till:01/07/1974  shift:(0,-4) text:
+  from:01/07/1974 till:01/07/1975  shift:(0,-4) text:
+  from:01/07/1975 till:01/07/1976  shift:(0,-4) text:16
+  from:01/07/1976 till:01/07/1977  shift:(0,-4) text:18
+  from:01/07/1977 till:01/07/1978  shift:(0,-4) text:18
+  from:01/07/1978 till:01/07/1979  shift:(0,-4) text:3
+  from:01/07/1979 till:01/07/1980  shift:(0,-4) text:3
+  from:01/07/1980 till:01/07/1981  shift:(0,-4) text:1
+  from:01/07/1981 till:01/07/1982  shift:(0,-4) text:12
+  from:01/07/1982 till:01/07/1983  shift:(0,-4) text:11
+  from:01/07/1983 till:01/07/1984  shift:(0,-4) text:8
+  from:01/07/1984 till:01/07/1985  shift:(0,-4) text:12
+  from:01/07/1985 till:01/07/1986  shift:(0,-4) text:7
+  from:01/07/1986 till:01/07/1987  shift:(0,-4) text:7
+  from:01/07/1987 till:01/07/1988  shift:(0,-4) text:8
+  from:01/07/1988 till:01/07/1989  shift:(0,-4) text:10
+  from:01/07/1989 till:01/07/1990  shift:(0,-4) text:4
+  from:01/07/1990 till:01/07/1991  shift:(0,-4) text:1
+
+  from:01/07/1966 till:01/07/1969  color:rs  shift:(0,13)  text:"[[КСРО "Б" Классы]]"
+  from:01/07/1969 till:01/07/1975  color:rs  shift:(0,13)  text: "Қатыспаған"
+  from:01/07/1975 till:01/07/1991  color:rs  shift:(0,13)  text: "[[КСРО 2 Лигасы]]"
+  
+</timeline>
+
+=== Тәуелсіз [[Қазақстан]] ===
+Мемлекетің тәуелсіз болғанынан клубтың ең үлкен жетістіктері – бұл [[2005]], [[2007]], [[2008]] және [[2009]] жылдардағы [[Қазақстан Премьер-лигасы|Қазақстан Премьер-лигасындағы]]  жеңістері.
+
+<timeline>
+ImageSize = width:600 height:60
+PlotArea  = left:10 right:10 bottom:30 top:10
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = dd/mm/yyyy
+Period     = from:01/01/1991 till:01/07/2009
+ScaleMajor = unit:year increment:1 start:1992 
+Colors =
+  id:bl1  value:rgb(0.5,0.8,0.5)
+  id:bl2  value:rgb(0.9,0.9,0.3)  
+  id:rs  value:rgb(0.8,0.6,0.6)
+  id:rn  value:rgb(0.9,0.1,0.1)
+
+PlotData= 
+  bar:Position width:15 color:white align:center
+
+  from:01/07/1991 till:01/07/1992  shift:(0,-4) text:12
+  from:01/07/1992 till:01/07/1993  shift:(0,-4) text:9
+  from:01/07/1993 till:01/07/1994  shift:(0,-4) text:4
+  from:01/07/1994 till:01/07/1995  shift:(0,-4) text:14
+  from:01/07/1995 till:01/07/1996  shift:(0,-4) text:10
+  from:01/07/1996 till:01/07/1997  shift:(0,-4) text:11
+  from:01/07/1997 till:01/07/1998  shift:(0,-4) text:
+  from:01/07/1998 till:01/07/1999  shift:(0,-4) text:
+  from:01/07/1999 till:01/07/2000  shift:(0,-4) text:
+  from:01/07/2000 till:01/07/2001  shift:(0,-4) text:8
+  from:01/07/2001 till:01/07/2002  shift:(0,-4) text:5
+  from:01/07/2002 till:01/07/2003  shift:(0,-4) text:5
+  from:01/07/2003 till:01/07/2004  shift:(0,-4) text:4
+  from:01/07/2004 till:01/07/2005  shift:(0,-4) text:1
+  from:01/07/2005 till:01/07/2006  shift:(0,-4) text:2
+  from:01/07/2006 till:01/07/2007  shift:(0,-4) text:1
+  from:01/07/2007 till:01/07/2008  shift:(0,-4) text:1
+  from:01/07/2008 till:01/07/2009  shift:(0,-4) text:1
+
+  from:01/07/1991 till:01/07/1997  color:bl1  shift:(0,13)  text:"[[Қазақстан Премьер-лигасы|Премьер-лига]]"
+from:01/07/1997 till:01/07/2000  color:bl1  shift:(0,13)  text:"Қатыспаған"
+from:01/07/2000 till:01/07/2009  color:bl1  shift:(0,13)  text:"[[Қазақстан Премьер-лигасы|Премьер-лига]]"
+  </timeline>
+
+=== Жетістіктері мен жеңілістері ===
+Клубтың [[Қазақстан Премьер-лигасы|Қазақстан Премьер-лигасында]] жеткен жеңістері мен жеңілістері:
+
+==== Ең үлкен жеңістері ====
+* [[1992]] — 8:0 ([[Ақжайық ФК|«Уралец»]], [[Орал]])
+* [[1994]] — 8:0 ([[Яссы ФК|«Яссы»]], [[Түркестан]])
+* [[1996]] — 8:0 ([[Болат МСК|«Болат»]], [[Теміртау]])
+
+==== Ең үлкен жеңілістері ====
+* [[1997]] — 1:9 ([[Тараз ФК|«Тараз»]], [[Тараз]])
+
+=== Клуб атауларының тарихы ===
+* [[1967]] : Клубтың құрылуы. Атауы — «Актюбинец»
+* [[1996]] : Клуб атауын «Ақтөбемұнайға» ауыстырды
+* [[1997]] : Клуб атауын «Ақтөбеге» ауыстырды
+* [[2000-2004]] : Клуб «Ақтөбе-Ленто» деп аталатын болған
+* [[2005]] : Клуб атауын «Ақтөбеге» ауыстырды
+
+== Ойыншылар ==
+
+{{Fs start}}
+{{Fs player|no=55|nat=Kazakhstan|name=[[Сидельников, Андрей]]|pos=GK}}
+{{Fs player|no=29|nat=Kazakhstan|name=[[Бойченко, Сергей]]|pos=GK}}
+{{Fs player|no=2|nat=Senegal|name=[[Халифа, Эльзаджи Ба]]|pos=DF}}
+{{Fs player|no=4|nat=Kazakhstan|name=[[Хохлов, Никита]]|pos=DF}}
+{{Fs player|no=5|nat=Kazakhstan|name=[[Бадло, Петр]]|pos=DF}}
+{{Fs player|no=6|nat=Kazakhstan|name=[[Чичулин, Антон]]|pos=DF}}
+{{Fs player|no=8|nat=Kazakhstan|name=[[Сымақов, Самат]]|pos=DF}}
+{{Fs player|no=10|nat=Kazakhstan|name=[[Кенжесариев, Еміл]]|pos=DF}}
+{{Fs player|no=25|nat=Kazakhstan|name=[[Семенов, Максим]]|pos=DF}}
+{{Fs player|no=3|nat=Cameroon|name=[[Боно, Мак Мбоне Алан Элвис]]|pos=MF}}
+{{Fs player|no=7|nat=Kazakhstan|name=[[Байжанов, Мақсат]]|pos=MF}}
+
+{{Fs mid}}
+{{Fs player|no=11|nat=Kazakhstan|name=[[Досмағамбетов, Тимур]]|pos=MF}}
+{{Fs player|no=12|nat=Kazakhstan|name=[[Родионов, Денис]]|pos=MF}}
+{{Fs player|no=14|nat=Kazakhstan|name=[[Дарабаев, Аслан]]|pos=MF}}
+{{Fs player|no=17|nat=Kazakhstan|name=[[Головской, Константин]]|pos=MF}}
+{{Fs player|no=18|nat=Kazakhstan|name=[[Серікжанов, Ақжол]]|pos=MF}}
+{{Fs player|no=20|nat=Kazakhstan|name=[[Карпович, Андрей]]|pos=MF}}
+{{Fs player|no=23|nat=Kazakhstan|name=[[Логвиненко, Юрий]]|pos=MF}}
+{{Fs player|no=30|nat=Kazakhstan|name=[[Аверченко, Евгений]]|pos=MF}}
+{{Fs player|no=9|nat=Kazakhstan|name=[[Тілешев, Мұрат]]|pos=FW}}
+{{Fs player|no=22|nat=Cameroon|name=[[Ессомба, Тити]]|pos=FW}}
+{{Fs player|no=27|nat=Russia|name=[[Струков, Сергей]]|pos=FW}}
+
+{{Fs end}}
+
+== Сілтемелер ==
+* [http://www.fc-aktobe.kz/ Ресми сайты]
+* [http://www.13sector.kz Жанкүйерлерінің сайты]
+
+[[Санат:Қазақстанның футбол клубтары]]
+[[Санат:Қазақстанның футбол Премьер-Лигасы]]
+[[Санат:Ақтөбе]]
