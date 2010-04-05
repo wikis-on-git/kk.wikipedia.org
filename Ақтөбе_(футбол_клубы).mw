@@ -96,7 +96,7 @@ PlotData=
   from:01/07/1996 till:01/07/1997  shift:(0,-4) text:11
   from:01/07/1997 till:01/07/1998  shift:(0,-4) text:
   from:01/07/1998 till:01/07/1999  shift:(0,-4) text:
-  from:01/07/1999 till:01/07/2000  shift:(0,-4) text:
+  from:01/07/1999 till:01/07/2000  shift:(0,-4) text:1
   from:01/07/2000 till:01/07/2001  shift:(0,-4) text:8
   from:01/07/2001 till:01/07/2002  shift:(0,-4) text:5
   from:01/07/2002 till:01/07/2003  shift:(0,-4) text:5
@@ -108,8 +108,9 @@ PlotData=
   from:01/07/2008 till:01/07/2009  shift:(0,-4) text:1
 
 from:01/07/1991 till:01/07/1997  color:bl1  shift:(0,13)  text:"[[Қазақстан Премьер-лигасы|Премьер-лига]]"
-from:01/07/1997 till:01/07/2000  color:rs  shift:(0,13)  text:"Қатыспаған"
-from:01/07/2000 till:01/07/2009  color:bl1  shift:(0,13)  text:"[[Қазақстан Премьер-лигасы|Премьер-лига]]"
+  from:01/07/1997 till:01/07/1999  color:rs  shift:(0,13)  text:"Қатыспаған"
+  from:01/07/1999 till:01/07/2000  color:bl2  shift:(0,13)  text:"[[Қазақстанның Бірінші Лигасы Division|D1]]"
+  from:01/07/2000 till:01/07/2009  color:bl1  shift:(0,13)  text:"[[Қазақстан Премьер-лигасы|Премьер-лига]]"
   </timeline>
 
 === Жетістіктері мен жеңілістері ===
