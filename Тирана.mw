@@ -117,8 +117,8 @@
 {| border="1" cellpadding="4" cellspacing="0" style="empty-cells:show; border-collapse:collapse;"
 |-style="background:#B0C4DE;"
 ! width="70" | Жылы
-! width="70" | Территория <br>(km²)
-! width="120" | Жұрты <br>(inside city limits at that time)
+! width="70" | Территория <br />(km²)
+! width="120" | Жұрты <br />(inside city limits at that time)
 ! width="160" | 
 |-
 | align="center" |1431-32
@@ -299,6 +299,7 @@
 [[th:ติรานา]]
 [[tl:Tirana]]
 [[tr:Tiran, Arnavutluk]]
+[[tt:Тирана]]
 [[ug:Tirana]]
 [[uk:Тирана]]
 [[ur:تیرانا]]
