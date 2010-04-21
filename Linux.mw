@@ -1,7 +1,7 @@
 __NOTITLECONVERT__
 {{infobox OS
 | name                   = Linux
-| screenshot             = [[Image:NewTux.svg|150px|Tux, the penguin, mascot of Linux]]
+| screenshot             = [[Сурет:NewTux.svg|150px|Tux, the penguin, mascot of Linux]]
 | caption                = [[Tux]], the penguin, mascot of the Linux kernel
 | family                 = [[Unix-like]]
 | latest_release_version = 2.6.23.1 ([[Linux kernel]])
@@ -10,7 +10,7 @@ __NOTITLECONVERT__
 | license                = [[GNU General Public License]] and others
 | working_state          = Ағымдық
 }}
-[[Image:Ubuntu.png|220px|thumb|right|[[ubuntu]]]]
+[[Сурет:Ubuntu.png|220px|thumb|right|[[ubuntu]]]]
 -{'''Linux''' — [[UNIX]]}- ұясына кіретін [[амалдық жүйе]].
 
 Еркін бағдарламалық қамтама (ЕБҚ) біртіндеп күш жинауда. Егер бұрын ол тек тәжірибесі бар адамдармен қолданылып, кәдімгі пайдаланушылар үшін күнделікті қолдануға жарамаса, қазір осы жағдай өзгерген. ЕБҚ-ға өткен адамдар саны күннен-күнге өсіп келе жатыр, олардың арасында басқа операциялық жүйелер туралы естімеген адамдар да бар. Осы мақалалар сериясы осыған байланысты жазылған. Одан сіз бірнеше терминдерді, дистрибутивті қалай таңдау, таңдалған дистрибутивті қалай орнатып-баптауды, көмекті қайдан іздеу және не оқу керек туралы біле аласыз.
@@ -52,9 +52,9 @@ Desktop Environment – жұмыс үстелінің ортасы, негізг
 
 {{Operating System}}
 
-[[Category:Информатика]]
-[[Category:Амалдық жүйелер]]
-[[Санат: Қазақша бағдарламалық өнімдер]]
+[[Санат:Информатика]]
+[[Санат:Амалдық жүйелер]]
+[[Санат:Қазақша бағдарламалық өнімдер]]
 
 {{Link FA|ar}}
 {{Link FA|de}}
@@ -103,7 +103,7 @@ Desktop Environment – жұмыс үстелінің ортасы, негізг
 [[hsb:Linux]]
 [[ht:Linux]]
 [[hu:Linux]]
-[[hy:Linux]]
+[[hy:Լինուքս]]
 [[ia:Linux]]
 [[id:Linux]]
 [[ilo:GNU/Linux]]
