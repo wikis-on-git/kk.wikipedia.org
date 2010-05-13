@@ -1,6 +1,6 @@
 {{Infobox Settlement
 |name                   ='''Бәйдібек ауданы'''
-|settlement_type        =District <!--For Town or Village (Leave blank for the default City)-->
+|settlement_type        =
 |official_name          = Бәйдібек ауданы
 |other_name             = 
 |native_name            = 
@@ -17,7 +17,7 @@
 |shield_size            =
 |image_blank_emblem              =
 |blank_emblem_size          =
-|image_map              = 
+|image_map              = Baydibek District Kazakhstan.png
 |mapsize                = 300px
 |map_caption            = 
 |image_map1             = 
@@ -27,10 +27,10 @@
 |pushpin_label_position = 
 |subdivision_type       = [[Countries of the world|Country]]
 |subdivision_name       = {{KAZ}}
-|subdivision_type1      = [[Provinces of Kazakhstan|Province]]
-|subdivision_name1      = [[South Kazakhstan Province]]
-|subdivision_type2      = [[Administrative center]] 
-|subdivision_name2      = [[Shayan]]
+|subdivision_type1      = [[Қазақстан облысы]]
+|subdivision_name1      = [[Оңтүстік Қазақстан облысы]]
+|subdivision_type2      = [[Орталығы]] 
+|subdivision_name2      = [[Шаян ауылы]]
 |seat_type              =
 |seat                   =
 |government_type        =
