@@ -1,19 +1,26 @@
-{{Infobox Website
-|name           =Google Search 
-|logo           =[[File:Googlelogo.png|200px]]
-|screenshot     =[[File:Google web search.png|250px|border|Google Search homepage]]
-|caption        =The [[Google]] homepage
-|url            =[http://www.google.com/ www.google.com]<br />[[#Domain names|list of domain names]]
-                  [https://www.google.com/ www.google.com]
-|commercial     = иә
-|language       =[[көп тілділік]] (124)
-|owner          =[[Google]]
-|author         =[[Sergey Brin]] and [[Larry Page]]
-|launch date    =Қыркүйек 15, 1997
-|current status =активті
-|revenue        = ▲US$23.651 billion (2009)
-|slogan         =
-|alexa          ={{steady}} 1 ({{As of|2010|05|alt=May 2010}})<ref>{{cite web |url=http://www.alexa.com/data/details/traffic_details/google.com |title=Alexa Google traffic results |publisher=[[Alexa Internet|Alexa]] |accessdate=2010-05-23}}</ref>
+
+{{Infobox company
+| company_name        = Google Inc.
+| company_logo        = [[Image:Googlelogo.png|250px]]
+| company_type        = [[public company|Public]] ({{nasdaq|GOOG}}, {{FWB|GGQ1}})
+| foundation          = [[Menlo Park, California]] {{nowrap|({{Start date|1998|09|04}})<ref>{{cite journal |url=http://kepler.sos.ca.gov/corpdata/ShowAllList?QueryCorpNumber=C2119530 |title=Incorporation document |date=April 29, 2004 |accessdate=September 27, 2008}}</ref>}}
+| founder             = [[Sergey Brin|Sergey M. Brin]]<br />[[Larry Page|Lawrence E. Page]]
+| location_city       = [[Mountain View, California|Mountain View]], [[California]]
+| location_country    = {{nowrap|[[United States]]}}
+| area_served         = Worldwide
+| key_people          = '''[[Eric E. Schmidt]]'''<br /><small>([[Chairman]] & [[CEO]])</small><br />'''[[Sergey Brin|Sergey M. Brin]]'''<br /><small>(Technology President)</small><br />'''[[Larry Page|Lawrence E. Page]]'''<br /><small>(Products President)</small>
+| industry            = [[Internet]], [[Computer software]]
+| products            = See [[list of Google products]].
+| revenue             = {{profit}}[[United States dollar|US$]]23.651 billion <small>(2009)</small><ref name="financialtables">{{cite web |url=http://investor.google.com/fin_data.html |title=Financial Tables |work=Google Investor Relations |published=Google, Inc. |accessdate=February 18, 2010}}</ref><ref name="form 10-k">{{cite web |url=http://www.sec.gov/Archives/edgar/data/1288776/000119312510030774/d10k.htm#toc95279_8 |title=Form 10-K |author=U.S. Securities and Exchange Commission |authorlink=U.S. Securities and Exchange Commission |year=2009 |publisher=United States of America |location=Washington, D.C. |at=Part II, Item 6 |accessdate=February 18, 2010}}</ref>
+| operating_income    = {{profit}}US$8.312 billion <small>(2009)</small><ref name="financialtables" /><ref name="form 10-k" />
+| net_income          = {{profit}}US$6.520 billion <small>(2009)</small><ref name="financialtables" /><ref name="form 10-k" />
+| assets              = {{profit}}US$40.497 billion <small>(2009)</small><ref name="financialtables" /><ref name="form 10-k" />
+| equity              = {{profit}}US$36.004 billion <small>(2009)</small><ref name="form 10-k" />
+| subsid              = [[YouTube]], [[DoubleClick]], [[On2 Technologies]], [[GrandCentral]], [[Picnik]], [[Aardvark (search engine)|Aardvark]], [[AdMob]]
+| num_employees       = 20,621 (2010)<ref name=bbc2010>{{cite news| url=http://news.bbc.co.uk/2/hi/business/8623881.stm | work=BBC News | title=Google profits beat expectations | date=April 15, 2010 | accessdate=May 3, 2010}}</ref>
+| company_slogan      = [[Don't be evil]]
+| homepage            = [http://www.google.com/ Google.com]
+| intl                = yes
 }}
 
 Cтенфорд университетінің студенттері Ларри Пейджа мен Сергей Бринның жобасы арқасында Google жобасы өмірге келген. Қазір Google (айтылуы: гугл) — әлемдегі ең танымал іздеу жүйесі қатарында. Айына Google 40 миллиард сауалнамаларды қанағаттандырады екен (60% әлемдік іздеу жүйесі). Яғни бұл дегеніміз әлемдегі интернет қолданушылардың он адамның алтауы Google қызметіне жүгінеді екен. Күніне 50 млн сауалға жауап табып, 191 тілге ақпаратты анық тауып береді.
@@ -24,3 +31,8 @@ Cтенфорд университетінің студенттері Ларри
 “Қазіргі таңда әлемге ең танымал сөз осы google болып отыр” — дейді тіл саласын зерттейтін мамандар.
 
 Google атауы кездейсоқ келді десек те болады. Алғашында «googol» демекші болған. Яғни 10 ның 100 дәрежесі дегенді білдіреді. Бірақ ол домен есімі бос болмағандықтан Google атауына тоқтаған.
+
+
+<gallery>
+Сурет:Malware.png
+Сурет:Google1998.png
