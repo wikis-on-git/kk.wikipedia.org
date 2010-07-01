@@ -168,10 +168,10 @@
 |colwidth = 33%
 |colheaderstyle = text-align:left;background:#dcdcfe;
 |col1width  = 33%
-|col1header = [[Western Asia|West and Southwest Asia]]
+|col1header = [[Батыс Азия|Батыс және Оңтүстік-Батыс Азия]]
 |col1 = <div style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
 <!-- † ‡ - previously used for notes 7 & 8 -->
-'''[[Абу-Даби]]''', ''[[Біріккен Араб Эмираттары (БАЭ)]]''<br/>
+'''[[Абу-Даби]]''', ''[[Біріккен Араб Эмираттары]]''<br/>
 '''[[Амман]]''', ''[[Иордания]]''<br/>
 '''[[Анкара]]''', ''[[Түркия]]''<br/>
 '''[[Бағдат]]''', ''[[Ирак]]''<br/>
@@ -190,7 +190,7 @@
 '''[[Тегеран]]''', ''[[Иран]]''<br/>
 '''[[Ереван]]''', ''[[Армения]]''<br/>
 
-|col2header = [[Central Asia]]
+|col2header = [[Орталық Азия]]
 |col2width = 33%
 |col2 = <div style="padding-left:0.5em;">
 
@@ -211,7 +211,7 @@
 '''[[Тхимпху]]''', ''[[Бутан]]''<br/>
 
 |col3style = text-align:left; 
-|col3header = [[East Asia]]
+|col3header = [[Шығыс Азия]]
 |col3width  = 33%
 |col3 = <div style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
 '''[[Бейжің]]''', ''[[People's Republic of China|People's Republic of China (PRC)]]''<br/>
@@ -221,7 +221,7 @@
 '''[[Токио]]''', ''[[Жапония]]''<br/>
 '''[[Улан-Батор]]''', ''[[Моңғолстан]]''&nbsp;'''{{sup|1}}'''<br/>
 
-<div style="background:#dcdcfe; text-align:left;">{{pad}}'''[[Southeast Asia]]'''</div>
+<div style="background:#dcdcfe; text-align:left;">{{pad}}'''[[Оңтүстік-Шығыс Азия]]'''</div>
 '''[[Бандар-Сери-Бегаван]]''', ''[[Бруней]]'' <br/>
 '''Бангкок''', ''[[Тайланд]]''<br/>
 '''[[Дили]]''', ''[[Шығыс Тимор]]''<br/>
