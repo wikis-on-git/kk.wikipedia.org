@@ -1,4 +1,5 @@
-[[Image:Kvm-switch-diagram.svg|right|thumb|Symbolic representation of a KVM switch. The computer on the right is currently being controlled by the peripherals.]]
+[[Image:Kvm-switch-diagram.svg|right|thumb|KVM схемасы. Перифериялық құрылғылар оң жақтағы компьютерге жалғанған.]]
+[[Image:KVM-01.jpg|thumb|KVM]]
 
 '''KVM-ауыстырғышы''' (қысқартылған {{lang-en|keyboard video mouse}} — [[пернетақта]], видео, тышқан) — енгізу-шығару құрылғыларының бір жинағын бірнеше компьютер арасында коммутациялауға арналған құрылғы.
 
