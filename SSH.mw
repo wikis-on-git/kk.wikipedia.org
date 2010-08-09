@@ -40,8 +40,7 @@ SSH арқылы жұмыс жасау үшін SSH-сервер және SSH-к
 === SSH-серверлер ===
 * *[[BSD]]: [[OpenSSH]]
 * [[Linux]]: dropbear, lsh-server, openssh-server, ssh
-* [[Windows]]: [http://www.freesshd.com/ freeSSHd], [http://www.itefix.no/i2/copssh copssh], [http://www.freebsd.org/doc/ru/books/handbook/openssh.html OpenSSH sshd], [http://www.bitvise.com/winsshd WinSSHD], [http://www.kpym.com KpyM Telnet/SSH Server], 
-[http://mobassh.mobatek.net MobaSSH], [[Cygwin]]<ref>Windows-қа Cygwin арқылы ssh-серверді қондыру инструкциясы [http://www.petri.co.il/setup-ssh-server-vista.htm]</ref>
+* [[Windows]]: [http://www.freesshd.com/ freeSSHd], [http://www.itefix.no/i2/copssh copssh], [http://www.freebsd.org/doc/ru/books/handbook/openssh.html OpenSSH sshd], [http://www.bitvise.com/winsshd WinSSHD], [http://www.kpym.com KpyM Telnet/SSH Server], [http://mobassh.mobatek.net MobaSSH], [[Cygwin]]<ref>Windows-қа Cygwin арқылы ssh-серверді қондыру инструкциясы [http://www.petri.co.il/setup-ssh-server-vista.htm]</ref>
 
 === SSH-клиенттер және қабықшалар ===
 * GNU/Linux, *BSD: kdessh, lsh-client, openssh-client, putty, ssh
