@@ -11,10 +11,13 @@
 |image_map              = 
 |mapsize                = 
 |map_caption            =
+ |pushpin_map            = Kazakhstan
+ |pushpin_label_position =bottom
+ |pushpin_mapsize        = 280
 |subdivision_type       = [[Ел тізімі|Елі]]
 |subdivision_name       = [[Қазақстан]]
-|subdivision_type1      = 
-|subdivision_name1      = 
+|subdivision_type1      = [[Қазақстан облыстары|Облысы]]
+|subdivision_name1      = [[Ақтөбе облысы]]
 |subdivision_type2      = 
 |subdivision_name2      = 
 |leader_title           = 
@@ -39,21 +42,15 @@
 |utc_offset             =
 |timezone_DST           = 
 |utc_offset_DST         = 
-|latd                   =
-|latm                   = 
-|lats                   = 
-|latNS                  = 
-|longd                  =
-|longm                  = 
-|longs                  = 
-|longEW                 = 
+|latd=50|latm=15 |lats= 1|latNS=N
+|longd=58 |longm=26 |longs=5 |longEW=E
 |elevation              = 
 |phone_code             =
 |website                = 
 |footnotes              = 
 }} <!-- Infobox ends -->
 
-'''Хромтау''' - Ақтөбе облысындағы қала.
+'''Хромтау''' - [[Ақтөбе облысы]]ндағы қала.
 
 [[Санат:Қазақстан қалалары]]
 
