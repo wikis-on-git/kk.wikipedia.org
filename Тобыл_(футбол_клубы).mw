@@ -4,21 +4,21 @@
   fullname = Тобыл Футбол Клубы |
   nickname =  |
   founded  = [[1967]] |
-  ground   = [[Қостанай]] қаласының «Орталық» стадионы<br />|
+  ground   = [[Орталық стадион(Қостанай)|Қостанай Орталық стадионы]]<br />|
   capacity = 8050 адам|
   chairman = {{flagicon|Kazakhstan}} [[Ержанов, Халимжан Сагидоллович|Халимжан Ержанов]]|
-  manager  = {{flagicon|Kazakhstan}} [[Сабитов, Равиль|Равиль Сабитов]]|
-  league   = [[Қазақстан футбол премьер-лигасы|Қазақстан<br />Премьер-лигасы]] |
+  manager  = {{flagicon|Kazakhstan}} [[Равиль Сабитов]]|
+  league   = [[Қазақстан Премьер Лигасы|Қазақстан Премьер Лигасы]] |
   season   =  [[2009]] |
- position = 4 орын|
-pattern_la1=|pattern_b1=|pattern_ra1=|
-  leftarm1=FFBF00|body1=FFBF00|rightarm1=FFBF00|shorts1=000000|socks1=FFBF00|
+ position = 4-ші|
+  pattern_la1=|pattern_b1=|pattern_ra1=|
+  leftarm1=339933|body1=FFFF00|rightarm1=339933|shorts1=FFFF00|socks1=FFFF00|
   pattern_la2=|pattern_b2=|pattern_ra2=|
-  leftarm2=007FFF|body2=007FFF|rightarm2=007FFF|shorts2=007FFF|socks2=007FFF|
+  leftarm2=000000|body2=FFFFFF|rightarm2=000000|shorts2=000000|socks2=000000|
+
 }}
 
-'''Тобыл ФК''' — мемлекеттің жоғарғы дивизионында, [[Қазақстан Премьер-Лигасы]]нда, ойнайтын, [[Қазақстан|қазақстандық]] [[футбол]] клубы. [[Қостанай]] қаласының Орталық стадионы клубтың базасы болып табылады.
-
+'''Тобыл ФК''' —[[Қазақстан Премьер Лигасы|Қазақстан Премьер Лигасында]], ойнайтын, Қазақстан футбол клубы. [[Қостанай]] қаласының Орталық стадионы клубтың базасы болып табылады.
 == Клубтың тарихы мен жетістіктері ==
 === [[КСРО]] чемпионаты ===
 "Тобыл" КСРО чемпионатының 14 сезоніне қатысты.
@@ -121,12 +121,12 @@ PlotData=
 
 ==== Ең үлкен жеңісі ====
 Қазақстан чемпионаты
-* [[2007]] — 10:1 ([[Оқжетпес (футбол клубы)|«Оқжетпес»]], [[Көкшетау]])
+* [[Қазақстан Премьер Лигасы 2007|2007]] — 10:1 ([[Оқжетпес (футбол клубы)|«Оқжетпес»]], [[Көкшетау]])
 
 ==== Ең үлкен жеңілістері ====
 Қазақстан чемпионаты
-* [[2002]] — 0:5 ([[Ертіс ФК|«Ертіс»]], [[Павлодар]])
-* [[2002]] — 0:5 ([[Жеңіс (футбол клубы)|«Жеңіс»]], [[Астана]])
+* [[Қазақстан Премьер Лигасы 2002|2002]] — 0:5 ([[Ертіс ФК|«Ертіс»]], [[Павлодар]])
+* [[Қазақстан Премьер Лигасы 2002|2002]] — 0:5 ([[Жеңіс (футбол клубы)|«Жеңіс»]], [[Астана]])
 
 === Клуб атауларының тарихы ===
 * 1967-1970 : Атауы — «Автомобилист»
@@ -137,63 +137,144 @@ PlotData=
 
 == Әкімшілік және жаттықтырушылар штабы ==
 
-* [[Ержанов, Халимжан Сагидоллович|Халимжан Ержанов]] ([[24 желтоқсан]] [[1963]]) — директор
+* [[Ержанов, Халимжан Сагидоллович|Халимжан Ержанов]] ([[қыркүйектің 11|11 қыркүйек]] [[1963]]) — директор
+* [[Равиль Сабитов]] ([[наурыздың 8|8 наурыз]] [[1968]]) —бас жаттықтырушы
+* [[Александр Беляков]] ([[ақпанның 17|17 ақпан]] [[1950]]) —физ. жаттықтырушы
+* [[Тимур Оразов]] ([[қыркүйектің 13|13 қыркүйек]] [[1964]]) —қақпашылар жаттықтырушысы
+* [[Сергей Масленов]] ([[сәуірдің 25|25 сәуір]] [[1964]]) —жаттықтырушы
+* [[Александр Гайдуков]] ([[қарашаның 15|15 қараша]] [[1967]])—дәрігер
+* [[Ярослав Алистратов]] ([[қаңтардың 1|1 қаңтар]] [[1987]]) —массажист
+* [[Болат Ысқақов]] ([[қарашаның 8|8 қараша]] [[1961]]) —спорт директоры
+* [[Равиль Староверов]] ([[желтоқсанның 16|16 желтоқсан]] [[1973]]) —администратор
+* [[Сайран Бөпежанов]] ([[қыркүйектің 28|28 қыркүйек]] [[1967]]) —пресс-атташе
+
 
 == Ойыншылар ==
 
 {{Fs start}}
-{{Fs player|no=1|nat=Kazakhstan|name=[[Багинский, Ярослав]]|pos=GK}}
-{{Fs player|no=35|nat=Kazakhstan|name=[[Петухов, Александр]]|pos=GK}}
-{{Fs player|no=2|nat=Kazakhstan|name=[[Макаров, Алексей]]|pos=DF}}
-{{Fs player|no=3|nat=Czech Republic|name=[[Туртенвалд, Вит]]|pos=DF}}
-{{Fs player|no=13|nat=Kazakhstan|name=[[Сабиров, Олег]]|pos=DF}}
-{{Fs player|no=14|nat=Kazakhstan|name=[[Ирисметов, Фархадбек]]|pos=DF}}
-{{Fs player|no=15|nat=Kazakhstan|name=[[Лотов, Олег]]|pos=DF}}
-{{Fs player|no=18|nat=Kazakhstan|name=[[Мұқанов, Дәнияр]]|pos=DF}}
-{{Fs player|no=22|nat=Kazakhstan|name=[[Шәлекенов, Санат]]|pos=DF}}
-{{Fs player|no=6|nat=Kazakhstan|name=[[Аханов, Мақсат]]|pos=MF}}
-{{Fs player|no=7|nat=Kazakhstan|name=[[Нұрғалиев, Азат]]|pos=MF}}
+{{Fs player|no=1|nat=Kazakhstan|name=[[Ярослав Багинский]]|pos=GK}}
+{{Fs player|no=35|nat=Kazakhstan|name=[[Александр Петухов]]|pos=GK}}
+{{Fs player|no=2|nat=Kazakhstan|name=[[Алексей Макаров]]|pos=DF}}
+{{Fs player|no=3|nat=Czech Republic|name=[[Вит Туртенвалд]]|pos=DF}}
+{{Fs player|no=5|nat=Kazakhstan|name=[[Ренат Абдуллин]]|pos=DF}}
+{{Fs player|no=13|nat=Kazakhstan|name=[[Олег Сабиров]]|pos=DF}}
+{{Fs player|no=14|nat=Kazakhstan|name=[[Фархадбек Ирисметов]]|pos=DF}}
+{{Fs player|no=15|nat=Kazakhstan|name=[[Олег Лотов]]|pos=DF}}
+{{Fs player|no=18|nat=Kazakhstan|name=[[Дәнияр Мұқанов]]|pos=DF}}
+{{Fs player|no=22|nat=Kazakhstan|name=[[Санат Шәлекенов]]|pos=DF}}
+{{Fs player|no=6|nat=Kazakhstan|name=[[Мақсат Аханов]]|pos=MF}}
+{{Fs player|no=7|nat=Kazakhstan|name=[[Азат Нұрғалиев]]|pos=MF}}
 {{Fs mid}}
-{{Fs player|no=8|nat=Kazakhstan|name=[[Харабара, Андрей]]|pos=MF}}
-{{Fs player|no=9|nat=Kazakhstan|name=[[Жұмасқалиев, Нұрбол]]|pos=MF}} ''(капитан)''
-{{Fs player|no=17|nat=Moldova|name=[[Корнеенков, Андрей]]|pos=MF}}
-{{Fs player|no=19|nat=Kazakhstan|name=[[Жатеков, Дәурен]]|pos=MF}}
-{{Fs player|no=20|nat=Kazakhstan|name=[[Қуантаев, Ермек]]|pos=MF}}
-{{Fs player|no=21|nat=Kazakhstan|name=[[Малышев, Алексей]]|pos=MF}}
-{{Fs player|no=24|nat=Kazakhstan|name=[[Юрин, Игорь]]|pos=MF}}
-{{Fs player|no=27|nat=Kazakhstan|name=[[Травин, Андрей]]|pos=MF}}
-{{Fs player|no=10|nat=Uzbekistan|name=[[Бақаев, Ұлықбек]]|pos=FW}}
-{{Fs player|no=11|nat=Kazakhstan|name=[[Сүймағамбетов, Мұрат]]|pos=FW}}
-{{Fs player|no=23|nat=Belarus|name=[[Пархачев, Дмитрий]]|pos=FW}}
+{{Fs player|no=8|nat=Kazakhstan|name=[[Андрей Харабара]]|pos=MF}}
+{{Fs player|no=9|nat=Kazakhstan|name=[[Нұрбол Жұмасқалиев]]|pos=MF}} ''(капитан)''
+{{Fs player|no=19|nat=Kazakhstan|name=[[Дәурен Жатеков]]|pos=MF}}
+{{Fs player|no=20|nat=Kazakhstan|name=[[Ермек Қуантаев]]|pos=MF}}
+{{Fs player|no=21|nat=Kazakhstan|name=[[Алексей Малышев]]|pos=MF}}
+{{Fs player|no=23|nat=Czech Republic|name=[[Филипп Клапка]]|pos=MF}}
+{{Fs player|no=24|nat=Kazakhstan|name=[[Игорь Юрин]]|pos=MF}}
+{{Fs player|no=27|nat=Kazakhstan|name=[[Андрей Травин]]|pos=MF}}
+{{Fs player|no=10|nat=Uzbekistan|name=[[Ұлықбек Бақаев]]|pos=FW}}
+{{Fs player|no=11|nat=Kazakhstan|name=[[Мұрат Сүймағамбетов]]|pos=FW}}
+{{Fs player|no=17|nat=Belarus|name=[[Павел Багинский]]|pos=FW}}
+{{Fs player|no=99|nat=Ukraine|name=[[Руслан Левига]]|pos=FW}}
 {{Fs end}}
 
 == Дубль құрамасы ==
 
 {{Fs start}}
-{{Fs player|no=16|nat=Kazakhstan|name=[[Лебедев, Павел]]|pos=GK}}
-{{Fs player|no=30|nat=Kazakhstan|name=[[Запорощенко, Андрей]]|pos=GK}}
-{{Fs player|no=31|nat=Kazakhstan|name=[[Герфорт, Андрей]]|pos=GK}}
-{{Fs player|no=4|nat=Kazakhstan|name=[[Шкот, Александр]]|pos=DF}}
-{{Fs player|no=26|nat=Kazakhstan|name=[[Иосипенко, Алексей]]|pos=DF}}
-{{Fs player|no=|nat=Kazakhstan|name=[[Аңсағанов, Жолдыхан]]|pos=DF}}
-{{Fs player|no=|nat=Kazakhstan|name=[[Бакланов, Сергей]]|pos=DF}}
-{{Fs player|no=41|nat=Kazakhstan|name=[[Яковлев, Владислав]]|pos=DF}}
-{{Fs player|no=42|nat=Kazakhstan|name=[[Нұрақметов, Азамат]]|pos=DF}}
-{{Fs player|no=46|nat=Kazakhstan|name=[[Карпец, Антон]]|pos=DF}}
+{{Fs player|no=16|nat=Kazakhstan|name=[[Павел Лебедев]]|pos=GK}}
+{{Fs player|no=30|nat=Kazakhstan|name=[[Талғат Каленов]]|pos=GK}}
+{{Fs player|no=31|nat=Kazakhstan|name=[[Андрей Герфорт]]|pos=GK}}
+{{Fs player|no=4|nat=Kazakhstan|name=[[Александр Шкот]]|pos=DF}}
+{{Fs player|no=25|nat=Kazakhstan|name=[[Заур Пахаев]]|pos=DF}}
+{{Fs player|no=26|nat=Kazakhstan|name=[[Алексей Иосипенко]]|pos=DF}}
+{{Fs player|no=28|nat=Kazakhstan|name=[[Жолдыхан Аңсағанов]]|pos=DF}}
+{{Fs player|no=29|nat=Kazakhstan|name=[[Сергей Бакланов, ]]|pos=DF}}
+{{Fs player|no=41|nat=Kazakhstan|name=[[Владислав Яковлев]]|pos=DF}}
+{{Fs player|no=42|nat=Kazakhstan|name=[[Азамат Нұрахметов]]|pos=DF}}
+{{Fs player|no=46|nat=Kazakhstan|name=[[Антон Карпец]]|pos=DF}}
+{{Fs player|no=19|nat=Kazakhstan|name=[[Дәурен Жатеков]]|pos=MF}}
 
 {{Fs mid}}
-{{Fs player|no=25|nat=Kazakhstan|name=[[Романов, Евгений]]|pos=MF}}
-{{Fs player|no=27|nat=Kazakhstan|name=[[Низовцев, Максим]]|pos=MF}}
-{{Fs player|no=29|nat=Kazakhstan|name=[[Ақметов, Арслан]]|pos=MF}}
-{{Fs player|no=32|nat=Kazakhstan|name=[[Гаичук, Максим]]|pos=MF}}
-{{Fs player|no=34|nat=Kazakhstan|name=[[Тастеміров, Сапар]]|pos=MF}}
-{{Fs player|no=38|nat=Kazakhstan|name=[[Байтанов, Азамат]]|pos=MF}}
-{{Fs player|no=40|nat=Kazakhstan|name=[[Дели, Артем]]|pos=MF}}
-{{Fs player|no=45|nat=Kazakhstan|name=[[Гаркуша, Кирилл]]|pos=MF}}
-{{Fs player|no=12|nat=Kazakhstan|name=[[Сердюков, Вячеслав]]|pos=FW}}
-{{Fs player|no=36|nat=Kazakhstan|name=[[Құлмағамбетов, Аян]]|pos=FW}}
-{{Fs player|no=43|nat=Kazakhstan|name=[[Әбішев, Бейбіт]]|pos=FW}}
+{{Fs player|no=27|nat=Kazakhstan|name=[[Максим Низовцев]]|pos=MF}}
+{{Fs player|no=29|nat=Kazakhstan|name=[[Арслан Ақметов]]|pos=MF}}
+{{Fs player|no=32|nat=Kazakhstan|name=[[Максим Гаичук]]|pos=MF}}
+{{Fs player|no=34|nat=Kazakhstan|name=[[Сапар Тастеміров]]|pos=MF}}
+{{Fs player|no=37|nat=Kazakhstan|name=[[Балқаш Тасенов]]|pos=MF}}
+{{Fs player|no=38|nat=Kazakhstan|name=[[Азамат Байтанов]]|pos=MF}}
+{{Fs player|no=40|nat=Kazakhstan|name=[[Артем Дели]]|pos=MF}}
+{{Fs player|no=45|nat=Kazakhstan|name=[[Кирилл Гаркуша]]|pos=MF}}
+{{Fs player|no=12|nat=Kazakhstan|name=[[Вячеслав Сердюков]]|pos=FW}}
+{{Fs player|no=36|nat=Kazakhstan|name=[[Владимир Зайченко]]|pos=FW}}
+{{Fs player|no=43|nat=Kazakhstan|name=[[Бейбіт Әбішев]]|pos=FW}}
+{{Fs player|no=47|nat=Kazakhstan|name=[[Станислав Яковлев]]|pos=FW}}
 {{Fs end}}
+
+== Трансфер 2010/2011 ==
+=== Келгендер ===
+
+{| class="wikitable sortable" style="text-align: left;"
+!width=70|Поз.
+!width=200|Ойыншы
+!width=200|Бұрынғы клубы
+|-
+|align="center"|[[қорғаушы|DF]]||{{flagicon|Kazakhstan}} [[Ренат Абдуллин]]||{{flagicon|Kazakhstan}} [[Локомотив (футбол клубы, Астана)|Локомотив (Астана)]]
+|-
+|align="center"|[[жартылай қорғаушы|MF]]||{{flagicon|Czech Republic}} [[Филипп Клапка]]||{{flagicon|Czech Republic}} [[Баумит ФК|Баумит]]
+|-
+|align="center"|[[жартылай қорғаушы|MF]]||{{flagicon|Belarus}} [[Павел Багинский]]||{{flagicon|Belarus}} [[Торпедо (футбол клубы, Жодино)|Торпедо (Жодино)]]
+|-
+|align="center"|[[шабуылшы|FW]]||{{flagicon|Ukraine}} [[Руслан Левига]]||{{flagicon|Ukraine}} [[Черноморец (футбол клубы, Одесса)|Черноморец (Одесса)]]
+
+|}
+
+=== Кеткендер ===
+{| class="wikitable sortable" style="text-align: left;"
+!width=70|Поз.
+!width=200|Ойыншы
+!width=200|Жаңа клубы
+|-
+|align="center"|[[жартылай қорғаушы|MF]]||{{flagicon|Moldova}} [[Андрей Корненков]]||{{flagicon|Moldova}} [[Шериф (футбол клубы, Тирасполь)|Шериф (Тирасполь)]]
+|-
+|align="center"|[[шабуылшы|FW]]||{{flagicon|Belarus}} [[Дмитрий Пархачев]]||{{flagicon|Kazakhstan}} [[Жетісу ФК|Жетісу]]
+
+|}
+
+== Жетістіктері ==
+* [[Қазақстан Премьер Лигасы|Қазақстанның күміс жүлдегері]] (4): [[Қазақстан Премьер Лигасы 2003|2003]], [[Қазақстан Премьер Лигасы 2005|2005]], [[Қазақстан Премьер Лигасы 2007|2007]], [[Қазақстан Премьер Лигасы 2008|2008]]
+* [[Қазақстан Премьер Лигасы|Қазақстанның қола жүлдегері]] (3): [[Қазақстан Премьер Лигасы 2002|2002]], [[Қазақстан Премьер Лигасы 2004|2004]], [[Қазақстан Премьер Лигасы 2006|2006]]
+* [[Қазақстан Кубогы|Қазақстан кубогының иегері]] (1): [[Қазақстан Кубогы 2007|2007]]
+* [[Қазақстан Кубогы|Қазақстан кубогының финалисті]] (1): [[Қазақстан Кубогы 2003|2003]]
+* [[Интертото  Кубогы|Интертото кубогының жеңімпазы]] (1): [[Интертото Кубогы 2007|2007]]
+
+{{Navigation Template
+|templateName=Еуропа
+|color  = 	cyan
+|header = [[Тобыл ФК]]
+|body   = 1 [[Ярослав Багинский|Багинский]]([[қақпашы|қ]]) • 2 [[Алексей Макаров|Макаров]] • 3 [[Вит Туртенвалд|Туртенвалд]] • 5 [[Ренат Абдуллин|Абдуллин]] • 6 [[Мақсат Аханов|Аханов]] • 7 [[Азат Нұрғалиев|Нұрғалиев]] • 8 [[Андрей Харабара|Харабара]] • 9 [[Нұрбол Жұмасқалиев|Жұмасқалиев]] • 10 [[Ұлықбек Бақаев|Бақаев]] • 11 [[Мұрат Сүймағамбетов|Сүймағамбетов]] • 13 [[Олег Сабиров|Сабиров]] • 14 [[Фархадбек Ирисметов|Ирисметов]] • 15 [[Олег Лотов|Лотов]] • 17 [[Павел Багинский|Багинский]] • 18 [[Дәнияр Мұқанов|Мұқанов]] • 19 [[Дәурен Жатеков|Жатеков]] • 20 [[Ермек Қуантаев|Қуантаев]] • 21 [[Алексей Малышев|Малышев]] • 22 [[Санат Шәлекенов|Шәлекенов]] • 23 [[Филипп Клапка|Клапка]] • 24 [[Игорь Юрин|Юрин]] • 27 [[Андрей Травин|Травин]] • 35 [[Александр Петухов|Петухов]]([[қақпашы|қ]]) • 99 [[Руслан Левига|Левига]] • жаттықтырушы [[Равиль Сабитов|Сабитов]]<p style="font-size:85%;">
+}}
+{{Navbox
+|name = Қазақстан Футболы
+|title = [[Қазақстан Футболы]]
+|above = [[Қазақстанның Футбол Федерациясы]]
+
+|group1 = Ұлттық құрама
+|list1 = [[Қазақстан Ұлттық құрама командасы|Қазақстан құрамасы]]{{,}} [[Қазақстан жастар құрама командасы|Жастар құрамасы]]
+
+|group2 = Қазақстан Лигасы
+|list2 = : [[Қазақстан Премьер Лигасы|Премьер Лига]]{{,}} [[Қазақстан бірінші Лигасы|Бірінші лига]]
+
+|group3 = Кубоктар
+|list3 = [[Қазақстан Кубогы]]{{,}} [[Қазақстан Супер Кубогы|Супер Кубок]]
+
+|below = [[Қазақстанның футбол клубтары|Клубтар]]{{,}} [[Қазақстанның футбол стадиондары|Стадиондар]]{{,}} [[Қазақстанның ең үздік футболшылары|Жылдың үздік ойыншысы]]{{,}} [[Қазақстан футбол клубтары еврокубоктарда|Еврокубок]]
+}}<noinclude>
+{{Navigation Template
+|templateName=Еуропа
+|color  = 	cyan
+|header = [[Қазақстан Премьер Лигасы 2010]]
+|body   = [[Ақжайық ФК|Ақжайық]] • [[Ақтөбе ФК|Ақтөбе]] • [[Атырау ФК|Атырау]] • [[Жетісу ФК|Жетісу]] • [[Ертіс ФК|Ертіс]] • [[Қайрат ФК|Қайрат]] • [[Локомотив (футбол клубы, Астана)|Локомотив]] • [[Оқжетпес ФК|Оқжетпес]] • [[Ордабасы ФК|Ордабасы]] • [[Тараз ФК|Тараз]] • [[Тобыл ФК|Тобыл]] • [[Шахтер (футбол клубы, Қарағанды)|Шахтер]]<p style="font-size:85%;">
+}}
 
 == Сілтемелер ==
 * [http://fc-tobol.kz/ Ресми сайты]
