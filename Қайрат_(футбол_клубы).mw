@@ -1,0 +1,306 @@
+{{Football club infobox |
+  clubname = {{flagicon|Kazakhstan}} Қайрат футбол клубы |
+  image =  [[Image:FC Kairat Almaty.png|140px|Logo‎]]|
+  fullname = Қайрат Футбол Клубы |
+  nickname =  |
+  founded  = [[1954]] |
+  ground   = [[Орталық стадион (Алматы)|Алматы Орталық стадионы]]<br />|
+  capacity = 26242 адам|
+  chairman = {{flagicon|Kazakhstan}} [[Мұрат Жапаров]]|
+  manager  = {{flagicon|Russia}} [[Сергей Сергеевич Волгин|Сергей Волгин кш.]]|
+  league   = [[Қазақстан Премьер Лигасы|Қазақстан Премьер Лигасы]] |
+  season   =  [[Қазақстан бірінші Лигасы 2009|2009]] |
+ position = 1-ші|
+| pattern_la1=_blueshoulders
+| pattern_b1=
+| pattern_ra1=_blueshoulders
+| leftarm1=fffc00
+| body1=fffc00
+| rightarm1=fffc00
+| shorts1=fffc00
+| socks1=fffc00
+| pattern_la2 =_whiteshoulders
+| pattern_b2 =_white_right_shoulder
+| pattern_ra2 =_whiteshoulders
+| leftarm2 = 0000FF
+| body2 = 0000FF
+| rightarm2 = 0000FF
+| shorts2 = 0000FF
+| socks2 = 0000FF
+}}
+
+'''Қайрат футбол клубы''' —[[Қазақстан Премьер Лигасы|Қазақстан Премьер Лигасында]], ойнайтын, Қазақстан футбол клубы. [[Алматы]] қаласының орталық стадионы клубтың базасы болып табылады.
+== Клубтың тарихы мен жетістіктері ==
+=== КСРО чемпионаты ===
+1954-1991 жылдар аралығанда [[КСРО]] чемпионатында өнер көрсетті, оның 24-нде жоғарғы дивизионда ойнады. Ең үлкен жетістігі 1986 жылы жетінші орынға ие болды. 
+
+2008 жылы спонсорлардың бірі қаржы жағынан келіспей қалып клубпен келісім шартты бұзған болатын. Премьер Лигада ойнауға қаржы таба алмаған клуб бірінші дивизионда ойнауға бел буды. 2009 жылы Бірінші Лигада жеңіске жетіп Премьер Лигаға қайта оралды. 
+=== Тәуелсіз [[Қазақстан]] ===
+Қазақстан чемпионатының құрылуынан кейін, клуб 16 сезонды жоғарғы дивизионда (1992 жылдан бастап 2001 жылға дейін «Жоғарғы лига» деп аталды, 2002 жылдан 2007 жылға дейін «Суперлига» деген атпен белгілі болды, 2008 жылдан бастап «Премьер-лига» деп аталады.) өткізді.
+
+<timeline>
+ImageSize = width:630 height:60
+PlotArea  = left:10 right:10 bottom:30 top:10
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = dd/mm/yyyy
+Period     = from:01/01/1991 till:01/07/2009
+ScaleMajor = unit:year increment:1 start:1992
+Colors =
+  id:bl1  value:rgb(0.5,0.8,0.5)
+  id:bl2  value:rgb(0.9,0.9,0.3)
+  id:rs  value:rgb(0.8,0.6,0.6)
+  id:rn  value:rgb(0.9,0.1,0.1)
+
+PlotData=
+  bar:Position width:15 color:white align:center
+
+  from:01/07/1991 till:01/07/1992  shift:(0,-4) text:1
+  from:01/07/1992 till:01/07/1993  shift:(0,-4) text:11
+  from:01/07/1993 till:01/07/1994  shift:(0,-4) text:11
+  from:01/07/1994 till:01/07/1995  shift:(0,-4) text:9
+  from:01/07/1995 till:01/07/1996  shift:(0,-4) text:6
+  from:01/07/1996 till:01/07/1997  shift:(0,-4) text:3
+  from:01/07/1997 till:01/07/1998  shift:(0,-4) text:
+  from:01/07/1998 till:01/07/1999  shift:(0,-4) text:
+  from:01/07/1999 till:01/07/2000  shift:(0,-4) text:
+  from:01/07/2000 till:01/07/2001  shift:(0,-4) text:5
+  from:01/07/2001 till:01/07/2002  shift:(0,-4) text:7
+  from:01/07/2002 till:01/07/2003  shift:(0,-4) text:7
+  from:01/07/2003 till:01/07/2004  shift:(0,-4) text:1
+  from:01/07/2004 till:01/07/2005  shift:(0,-4) text:3
+  from:01/07/2005 till:01/07/2006  shift:(0,-4) text:7
+  from:01/07/2006 till:01/07/2007  shift:(0,-4) text:13
+  from:01/07/2007 till:01/07/2008  shift:(0,-4) text:10
+  from:01/07/2008 till:01/07/2009  shift:(0,-4) text:
+
+  from:01/07/1991 till:01/07/1997  color:bl1  shift:(0,13)  text: "[[Қазақстан Премьер Лигасы|Премьер Лига]]"
+ from:01/07/1997 till:01/07/2000  color:rs  shift:(0,13)  text:"Қатыспаған"
+  from:01/07/2000 till:01/07/2008  color:bl1  shift:(0,13)  text: "[[Қазақстан Премьер Лигасы|Премьер Лига]]"
+ from:01/07/2008 till:01/07/2009  color:rs  shift:(0,13)  text:"Қатыспаған"
+
+</timeline>
+
+==== Жетістіктері мен жеңілістері ====
+Клубтың бүкіл тарихы бойында жеткен жеңістері мен жеңілістері:
+
+==== Ең үлкен жеңісі ====
+Қазақстан чемпионаты
+* [[Қазақстан Премьер Лигасы 1993|1993]] — 8:0 ([[Намыс (футбол клубы, Алматы)|«Намыс»]], [[Алматы]])
+
+==== Ең үлкен жеңілістері ====
+Қазақстан чемпионаты
+* [[Қазақстан Премьер Лигасы 2007|2007]] — 0:5 ([[Астана ФК|«Астана»]], [[Астана]])
+
+=== Клуб атауларының тарихы ===
+* «Локомотив» (1954)
+* «Урожай» (1955)
+* «Қайрат» (1956-1997, 2001-2003, 2007-о.у.)
+* СОПФК «Қайрат» (1998-2000)
+* «Қайрат-Алматы ҚТЖ» (2004-2006)
+
+== Еврокубоктар ==
+{| class="wikitable" align="center"
+|-
+! Турнир
+! <center>Ойын
+! <center>Ұ
+! <center>Т
+! <center>Ж
+! <center>СД
+! <center>ЖД
+|-
+|-
+| [[УЕФА Чемпиондар Лигасы]]
+| <center>2
+| <center>1
+| <center>0
+| <center>1
+| <center>3
+| <center>4
+|-
+| [[УЕФА Кубогы]]
+| <center>4
+| <center>1
+| <center>0
+| <center>3
+| <center>2
+| <center>7
+|-
+| <center>'''Барлығы'''
+| <center>'''6'''
+| <center>'''2'''
+| <center>'''0'''
+| <center>'''4'''
+| <center>'''5'''
+| <center>'''11'''
+|-
+|}
+
+=== УЕФА Чемпиондар Лигасы ===
+
+{| class="wikitable" width="85%"
+! width="10%" |Маусым
+! width="15%" |Раунд
+! width="5%" |Ел
+! width="18%" |Клуб
+! width="8%" |Үйде
+! width="8%" |Сыртта
+|-
+|rowspan="3" |[[УЕФА Чемпиондар Лигасы 2005-2006|2005-06]]
+|rowspan="3" | '''Бірінші квалификациялық раунд'''
+|<center>{{flagicon|Slovakia}}</center>
+|[[Артмедиа ФК|Артмедиа]]
+|<center>2:0
+|<center>1:4
+|-
+|}
+
+=== УЕФА Кубогы ===
+
+{| class="wikitable" width="85%"
+! width="10%" |Маусым
+! width="20%" |Раунд
+! width="5%" |Ел
+! width="18%" |Клуб
+! width="5%" |Үйде
+! width="5%" |Сыртта
+! width="5%" |Барлығы
+|-
+|[[УЕФА Кубогы 2002-2003|2002-03]]
+|'''Бірінші квалификациялық раунд'''
+|<center>{{flagicon|Serbia}}</center>
+|[[Црвена Звезда ФК|Црвена Звезда]]
+|<center>0:2
+|<center>0:3
+|<center>0:5
+|-
+|rowspan="2" |[[УЕФА Кубогы 2006-2007|2006-07]]
+|'''Бірінші квалификациялық раунд'''
+|<center>{{flagicon|Hungary}}</center>
+|[[Фехервар ФК|Фехервар]]
+|<center>2:1
+|<center>0:1
+|<center>2:2
+|-
+|}
+
+== Әкімшілік және жаттықтырушылар штабы ==
+
+* [[Асқар Әділбаев]] ([[шілденің 16|16 шілде]] [[1971]]) — атқарушы директор
+* [[Александр Малышев]] ([[наурыздың 8|8 наурыз]] [[1950]]) — команда бастығы
+* [[Сергей Сергеевич Волгин|Сергей Волгин кш.]] ([[ақпанның 29|29 ақпан]] [[1962]]) —атқарушы бас жаттықтырушы
+* [[Сергей Васильевич Волгин|Сергей Волгин үл.]] ([[мамырдың 5|5 мамыр]] [[1960]]) —аға жаттықтырушы
+* [[Сергей Чекмезов]] ([[қазанның 10|10 қазан]] [[1964]]) —қақпашылар жаттықтырушысы
+* [[Данияр Тәкібаев]] ([[қазанның 8|8 қазан]] [[1983]])—дәрігер
+* [[Евгений Калнышев]] ([[қазанның 8|8 қазан]] [[1953]]) —массажист
+* [[Равиль Алеев]] ([[наурыздың 27|27 наурыз]] [[1954]]) —дәрігер
+* [[Иван Малышев]] ([[маусымның 22|22 маусым]] [[1973]]) —администратор
+
+== Ойыншылар ==
+
+=== Негізгі құрам ===
+
+{{Fs start}}
+{{Fs player|no=1|nat=Serbia|name=[[Ненад Эрич]]|pos=GK}}
+{{Fs player|no=18|nat=Kazakhstan|name=[[Илья Юров]]|pos=GK}}
+{{Fs player|no=22|nat=Kazakhstan|name=[[Андрей Пасеченко]]|pos=GK}}
+{{Fs player|no=6|nat=Kazakhstan|name=[[Вячеслав Соболев]]|pos=DF}}
+{{Fs player|no=13|nat=Kazakhstan|name=[[Ілияс Әмірсейітов]]|pos=DF}}
+{{Fs player|no=14|nat=Kazakhstan|name=[[Қайрат Отабаев]]|pos=DF}}
+{{Fs player|no=17|nat=Kazakhstan|name=[[Евгений Овшинов]]|pos=DF}}
+{{Fs player|no=19|nat=Serbia|name=[[Боян Тркуля]]|pos=DF}}
+{{Fs player|no=20|nat=Kazakhstan|name=[[Сергей Куцов]]|pos=DF}}
+{{Fs player|no=5|nat=Kazakhstan|name=[[Константин Зотов]]|pos=MF}}
+{{Fs player|no=7|nat=Kazakhstan|name=[[Артем Фомин]]|pos=MF}}
+{{Fs mid}}
+{{Fs player|no=8|nat=Kazakhstan|name=[[Сабырхан Ыбыраев]]|pos=MF}}
+{{Fs player|no=11|nat=Kazakhstan|name=[[Шыңғыс Әбуғалиев]]|pos=MF}}
+{{Fs player|no=21|nat=Kazakhstan|name=[[Арман Халықов]]|pos=MF}} 
+{{Fs player|no=23|nat=Kazakhstan|name=[[Орал Павиз]]|pos=MF}}
+{{Fs player|no=41|nat=Kazakhstan|name=[[Бекзат Бейсенов]]|pos=MF}}
+{{Fs player|no=47|nat=Kazakhstan|name=[[Андрей Богомолов]]|pos=MF}}
+{{Fs player|no=86|nat=Kazakhstan|name=[[Владимир Носков]]|pos=MF}}
+{{Fs player|no=9|nat=Kazakhstan|name=[[Абзал Бейсебеков]]|pos=FW}}
+{{Fs player|no=10|nat=Serbia|name=[[Драган Джурджевич]]|pos=FW}}
+{{Fs player|no=44|nat=Kazakhstan|name=[[Талғат Сабалақов]]|pos=FW}}
+{{Fs player|no=81|nat=Serbia|name=[[Драган Гошич]]|pos=FW}}
+{{Fs end}}
+
+=== Қосалқы құрам ===
+{{Fs start}}
+{{Fs player|no=27|nat=Kazakhstan|name=[[Мавлут Қалымов]]|pos=GK}}
+{{Fs player|no=32|nat=Kazakhstan|name=[[Ахан Іңкәрбеков]]|pos=GK}}
+{{Fs player|no=24|nat=Kazakhstan|name=[[Марат Дәулетқұлов]]|pos=DF}}
+{{Fs player|no=29|nat=Kazakhstan|name=[[Арман Әлімбетов]]|pos=DF}}
+{{Fs player|no=30|nat=Kazakhstan|name=[[Бекзат Үсенов]]|pos=DF}}
+{{Fs player|no=33|nat=Kazakhstan|name=[[Еркін Еркібаев]]|pos=DF}}
+{{Fs player|no=34|nat=Kazakhstan|name=[[Фархадбек Иманов]]|pos=DF}}
+{{Fs player|no=35|nat=Kazakhstan|name=[[Павел Атрощенко]]|pos=DF}}
+{{Fs player|no=38|nat=Kazakhstan|name=[[Зелим Мамедов]]|pos=DF}}
+{{Fs player|no=40|nat=Kazakhstan|name=[[Алмат Бейсенов]]|pos=DF}}
+{{Fs player|no=2|nat=Kazakhstan|name=[[Русланжан Райымбеков]]|pos=MF}}
+{{Fs mid}}
+{{Fs player|no=4|nat=Kazakhstan|name=[[Бекжан Әліпбаев]]|pos=MF}}
+{{Fs player|no=12|nat=Kazakhstan|name=[[Мақсат Көшербаев]]|pos=MF}}
+{{Fs player|no=15|nat=Kazakhstan|name=[[Рақымжан Розыбакиев]]|pos=MF}}
+{{Fs player|no=25|nat=Kazakhstan|name=[[Давидбек Карслиев]]|pos=MF}}
+{{Fs player|no=26|nat=Kazakhstan|name=[[Ғалымжан Матов]]|pos=MF}}
+{{Fs player|no=37|nat=Kazakhstan|name=[[Нұрсұлтан Нүсіпов]]|pos=MF}}
+{{Fs player|no=3|nat=Kazakhstan|name=[[Арман Мәсімжанов]]|pos=FW}}
+{{Fs player|no=16|nat=Kazakhstan|name=[[Ғалым Райханов]]|pos=FW}}
+{{Fs player|no=28|nat=Kazakhstan|name=[[Руслан Мансуров]]|pos=FW}}
+{{Fs player|no=36|nat=Kazakhstan|name=[[Дәміржан Тұрғанбаев]]|pos=FW}}
+{{Fs player|no=39|nat=Kazakhstan|name=[[Әлібек Сәмбиев]]|pos=FW}}
+{{Fs end}}
+
+== Трансфер 2010/2011 ==
+=== Келгендер ===
+
+{| class="wikitable sortable" style="text-align: left;"
+!width=70|Поз.
+!width=200|Ойыншы
+!width=200|Бұрынғы клубы
+|-
+|align="center"|[[жартылай қорғаушы|MF]]||{{flagicon|Kazakhstan}} [[Владимир Носков]]||{{flagicon|Kazakhstan}} [[Ертіс ФК|Ертіс]]
+|-
+|align="center"|[[шабуылшы|FW]]||{{flagicon|Serbia}} [[Драган Гошич]]||{{flagicon|Romania}} [[Фарул ФК|Фарул]]
+|-
+|align="center"|[[шабуылшы|FW]]||{{flagicon|Kazakhstan}} [[Талғат Сабалақов]]||{{flagicon|Kazakhstan}} [[Жетісу ФК|Жетісу]]
+|}
+
+=== Кеткендер ===
+{| class="wikitable sortable" style="text-align: left;"
+!width=70|Поз.
+!width=200|Ойыншы
+!width=200|Жаңа клубы
+|-
+|align="center"|[[жартылай қорғаушы|MF]]||{{flagicon|Kazakhstan}} [[Қайрат Нұрдәулетов]]||{{flagicon|Kazakhstan}} [[Тобыл ФК|Тобыл]]
+|}
+
+== Жетістіктері ==
+* [[Қазақстан Премьер Лигасы|Қазақстан чемпионы]] (2): [[Қазақстан Премьер Лигасы 1992|1992]], [[Қазақстан Премьер Лигасы 2004|2004]]
+* [[Қазақстан Премьер Лигасы|Қазақстанның қола жүлдегері]] (3): [[Қазақстан Премьер Лигасы 1997|1997]], [[Қазақстан Премьер Лигасы 1999|1999]], [[Қазақстан Премьер Лигасы 2005|2005]]
+* [[Қазақстан бірінші Лигасы|Қазақстан бірінші лигасының чемпионы]] (1): [[Қазақстан бірінші Лигасы 2009|2009]]
+* [[КСРО бірінші Лигасы|КСРО бірінші лигасының чемпионы]] (2):[[КСРО бірінші Лигасы 1976|1976]], [[КСРО бірінші Лигасы 1983|1983]]
+* [[КСРО футбол федерациясы Кубогы|КСРО футбол федерациясы Кубогының иегері]] (1):[[КСРО футбол федерациясы Кубогы 1988|1988]]
+* [[Қазақстан Кубогы|Қазақстан кубогының иегеріі]] (5): [[Қазақстан Кубогы 1992|1992]], [[Қазақстан Кубогы 1996|1996]], [[Қазақстан Кубогы 1999|1999]], [[Қазақстан Кубогы 2001|2001]], [[Қазақстан Кубогы 2003|2003]]
+* [[Қазақстан Кубогы|Қазақстан кубогының финалисті]] (2): [[Қазақстан Кубогы 2004|2004]], [[Қазақстан Кубогы 2005|2005]]
+
+== Сілтемелер ==
+* [http://www.fckairat.kz// Ресми сайты]
+* [http://www.lyakhov.kz/football/10/alm10.shtml lyakhov.kz сайтындағы клуб туралы мағлұмат]
+
+[[ca:FK Kairat Almaty]]
+[[cs:FK Kajrat Almaty]]
+[[de:FK Kairat Almaty]]
+[[en:FC Kairat]]
+[[fr:FC Kairat Almaty]]
+[[he:קאיראט אלמטי]]
+[[hu:Kajrat Almati FK]]
+[[it:Kairat Almaty]]
+[[lt:Ķajrat Almaty ĶTŽ]]
+[[nl:Kairat Almaty]]
+[[pl:Kajrat Ałma-Ata]]
+[[ro:FC Kairat Almatî]]
+[[ru:Кайрат (футбольный клуб)]]
+[[uk:Кайрат (Алмати)]]
