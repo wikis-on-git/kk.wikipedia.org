@@ -2,19 +2,19 @@
 |native_name = Føroyar
 |conventional_long_name = Фарер аралдары
 |common_name = Føroyar (Фарер аралдары)
-|national_motto = 
+|national_motto =
 |image_flag = Flag of the Faroe Islands.svg
 |image_coat = Coat-of-arms of the Faroe Islands.png
 |image_map = LocationFaroeIslands.png
 |national_anthem = [[Tú alfagra land mítt]]
 |official_languages = [[Фарер тілі|Фарерше]]
 |capital = [[Tórshavn]] ''(Tórshavn)''
-|latd=62 
-|latm=00 
-|latNS=N 
-|longd=06 
-|longm=47 
-|longEW=W 
+|latd=62
+|latm=00
+|latNS=N
+|longd=06
+|longm=47
+|longEW=W
 |largest_city = [[Tórshavn]] ''(Tórshavn)'' (19.282)
 |government_type = [[автономия]]
 |leader_title1 = [[Монарх]]
@@ -22,9 +22,9 @@
 |leader_name1 = [[Margrethe II]]
 |leader_name2 = [[Kaj Leo Johannesen]]
 |area_rank = 180-ші
-|area_magnitude = 
+|area_magnitude =
 |area = 1.399
-|percent_water = ,5
+|percent_water = 0,5
 |population_estimate = 47.017
 |population_estimate_year = [[2006]] [[1 шілде]]
 |population_estimate_rank = 208-ші
@@ -32,15 +32,15 @@
 |population_census_year = 2004
 |population_density = 34
 |population_density_rank = 169-шы
-|GDP_PPP_year= [[2005]] <!-- cia.gov -->
-|GDP_PPP = 1,0 млн. 
-|GDP_PPP_rank = 
+|GDP_PPP_year = [[2005]] <!-- cia.gov -->
+|GDP_PPP = 1,0 млн.
+|GDP_PPP_rank =
 |GDP_PPP_per_capita = $22.000
-|GDP_PPP_per_capita_rank = 
-|sovereignty_type = 
-|sovereignty_note = 
-|established_event1 = 
-|established_date1 = 
+|GDP_PPP_per_capita_rank =
+|sovereignty_type =
+|sovereignty_note =
+|established_event1 =
+|established_date1 =
 |HDI_year = 2003
 |HDI = 0,941
 |HDI_rank = 14-ші
@@ -48,16 +48,17 @@
 |currency = [[Фарер кронасы|крона]]
 |currency_code = DKK
 |country_code = FO
-|time_zone = UTC
-|utc_offset = 0
-|time_zone_DST = UTC +1
+|time_zone = GMT
+|utc_offset =
+|time_zone_DST = EST
 |utc_offset_DST = +1
 |ITU_prefix = FO
 |cctld = [[.fo]]
 |calling_code = 298
-|footnotes = 
+|footnotes =
 }}
-'''Фарер аралдары''' — [[Eуропа]]да орналасқан аралды ел. [[Исландия]]ның шығысында, [[Hорвегия]]ның батысында жайғасқан. [[Дания]]ға бағынатын [[автономия]].
+'''Фарер аралдары''' — [[Еуропа]]да орналасқан аралды ел. [[Исландия]]ның шығысында, [[Норвегия]]ның батысында жайғасқан. [[Дания]]ға бағынатын [[автономия]].
+
 == Сыртқы сілтемелер ==
 * [http://www.tinganes.fo/Default.aspx?AreaID=11 Official site]
 * [http://www.visit-faroeislands.com/?Language=EN Official tourist site]
@@ -65,7 +66,7 @@
 
 {{Commons|Føroyar}}
 
-{{Eуропа}}
+{{Еуропа}}
 {{Скандинавия}}
 
 {{Fo-stub}}
