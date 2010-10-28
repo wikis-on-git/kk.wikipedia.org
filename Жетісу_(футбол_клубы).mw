@@ -1,0 +1,209 @@
+{{Football club infobox |
+  clubname = {{flagicon|Kazakhstan}} Жетісу ФК |
+  image =  [[Image:FC Zhetysu.png]]|
+  fullname = Жетісу  Футбол Клубы |
+  nickname =  |
+  founded  = [[1981]] |
+  ground   = [[Жетісу]]<br />|
+  capacity = 4000 адам|
+  chairman = {{flagicon|Kazakhstan}} [[Воит Талғаев]]|
+  manager  = {{flagicon|Kazakhstan}} [[Юрий Коньков]]|
+  league   = [[Қазақстан Премьер Лигасы|Қазақстан Премьер Лигасы]] |
+  season   =  [[Қазақстан Премьер Лигасы 2009|2009]] |
+ position = 5-ші|
+  pattern_la1=|pattern_b1=|pattern_ra1=|
+  leftarm1=FFFFFF|body1=FFFFFF|rightarm1=FFFFFF|shorts1=FFFFFF|socks1=FFFFFF|
+  pattern_la2=|pattern_b2=|pattern_ra2=|
+  leftarm2=FFFFFF|body2=007FFF|rightarm2=FFFFFF|shorts2=FFFFFF|socks2=007FFF|
+}}
+'''Жетісу футбол клубы''' —[[Қазақстан Премьер Лигасы|Қазақстан Премьер Лигасында]], ойнайтын, Қазақстан футбол клубы. [[Талдықорған]] қаласының [[Жетісу]] стадионы клубтың базасы болып табылады.
+== Клубтың тарихы мен жетістіктері ==
+Қазақстан чемпионатының құрылуынан кейін, клуб 13 сезонды жоғарғы дивизионда (1992 жылдан бастап 2001 жылға дейін «Жоғарғы лига» деп аталды, 2002 жылдан 2007 жылға дейін «Суперлига» деген атпен белгілі болды, 2008 жылдан бастап «Премьер-лига» деп аталады.) өткізді.
+
+<timeline>
+ImageSize = width:630 height:60
+PlotArea  = left:10 right:10 bottom:30 top:10
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = dd/mm/yyyy
+Period     = from:01/01/1991 till:01/07/2009
+ScaleMajor = unit:year increment:1 start:1992
+Colors =
+  id:bl1  value:rgb(0.5,0.8,0.5)
+  id:bl2  value:rgb(0.9,0.9,0.3)
+  id:rs  value:rgb(0.8,0.6,0.6)
+  id:rn  value:rgb(0.9,0.1,0.1)
+
+PlotData=
+  bar:Position width:15 color:white align:center
+
+  from:01/07/1991 till:01/07/1992  shift:(0,-4) text:21
+  from:01/07/1992 till:01/07/1993  shift:(0,-4) text:25
+  from:01/07/1993 till:01/07/1994  shift:(0,-4) text:
+  from:01/07/1994 till:01/07/1995  shift:(0,-4) text:6
+  from:01/07/1995 till:01/07/1996  shift:(0,-4) text:9
+  from:01/07/1996 till:01/07/1997  shift:(0,-4) text:
+  from:01/07/1997 till:01/07/1998  shift:(0,-4) text:
+  from:01/07/1998 till:01/07/1999  shift:(0,-4) text:15
+  from:01/07/1999 till:01/07/2000  shift:(0,-4) text:14
+  from:01/07/2000 till:01/07/2001  shift:(0,-4) text:14
+  from:01/07/2001 till:01/07/2002  shift:(0,-4) text:
+  from:01/07/2002 till:01/07/2003  shift:(0,-4) text:8
+  from:01/07/2003 till:01/07/2004  shift:(0,-4) text:14
+  from:01/07/2004 till:01/07/2005  shift:(0,-4) text:15
+  from:01/07/2005 till:01/07/2006  shift:(0,-4) text:
+  from:01/07/2006 till:01/07/2007  shift:(0,-4) text:5
+  from:01/07/2007 till:01/07/2008  shift:(0,-4) text:6
+  from:01/07/2008 till:01/07/2009  shift:(0,-4) text:5
+
+  from:01/07/1991 till:01/07/1993  color:bl1  shift:(0,13)  text: "[[Қазақстан Премьер Лигасы|Премьер Лига]]"
+ from:01/07/1993 till:01/07/1994  color:rs  shift:(0,13)  text:"1 Д"
+  from:01/07/1994 till:01/07/1996  color:bl1  shift:(0,13)  text: "[[Қазақстан Премьер Лигасы|Премьер Лига]]"
+ from:01/07/1996 till:01/07/1998  color:rs  shift:(0,13)  text:"1 Д"
+  from:01/07/1998 till:01/07/2001  color:bl1  shift:(0,13)  text: "[[Қазақстан Премьер Лигасы|Премьер Лига]]"
+ from:01/07/2001 till:01/07/2002  color:rs  shift:(0,13)  text:"1 Д"
+  from:01/07/2002 till:01/07/2005  color:bl1  shift:(0,13)  text: "[[Қазақстан Премьер Лигасы|Премьер Лига]]"
+ from:01/07/2005 till:01/07/2006  color:rs  shift:(0,13)  text:"1 Д"
+  from:01/07/2006 till:01/07/2009  color:bl1  shift:(0,13)  text: "[[Қазақстан Премьер Лигасы|Премьер Лига]]"
+
+</timeline>
+
+==== Жетістіктері мен жеңілістері ====
+Клубтың бүкіл тарихы бойында жеткен жеңістері мен жеңілістері:
+
+==== Ең үлкен жеңісі ====
+Қазақстан чемпионаты
+* [[Қазақстан Премьер Лигасы 1992|1992]] — 6:0 ([[Ажар ФК|«Зенит»]], [[Көкшетау]])
+* [[Қазақстан Премьер Лигасы 1992|1992]] — 7:1 ([[ЦСКА (футбол клубы, Алматы)|«ЦСКА»]], [[Алматы]])
+
+==== Ең үлкен жеңілістері ====
+Қазақстан чемпионаты
+* [[Қазақстан Премьер Лигасы 1993|1993]] — 0:8 ([[Достық ФК|«Достық»]], [[Алматы]])
+* [[Қазақстан Премьер Лигасы 2000|2000]] — 0:8 ([[Астана ФК|«Жеңіс»]], [[Астана]])
+
+=== Клуб атауларының тарихы ===
+* «Жетісу» (1981-1992)
+* «Талдықорған» (1993)
+* «Қайнар» (1994-1997)
+* «Жетісу-Промсервис» (1998)
+* «Жетісу» (1999-о.у)
+
+== Әкімшілік және жаттықтырушылар штабы ==
+
+* [[Воит Талғаев]] ([[мамырдың 11|11 мамыр]] [[1953]]) — директор
+* [[Александр Петин]] ([[қыркүйектің 21|21 қыркүйектің]] [[1975]]) — команда бастығы
+* [[Юрий Коньков]] ([[шілденің 6|6 шілде]] [[1958]]) —бас жаттықтырушы
+* [[Владимир Никитенко]] ([[қаңтардың 8|8 қаңтар]] [[1957]]) —аға жаттықтырушы
+* [[Александр Горошинский]] ([[сәуірдің 20|20 сәуір]] [[1952]]) —қақпашылар жаттықтырушысы
+* [[Петр Пустовар]] ([[маусымның 27|27 маусым]] [[1973]])—дәрігер
+* [[Саят Берентаев]] ([[мамырдың 25|25 мамыр]] [[1978]]) —массажист
+* [[Талғат Ақылбеков]] ([[қаңтардың 12|12 қаңтар]] [[1971]]) —администратор
+
+== Ойыншылар ==
+
+=== Негізгі құрам ===
+
+{{Fs start}}
+{{Fs player|no=1|nat=Kazakhstan|name=[[Андрей Цветков]]|pos=GK}}
+{{Fs player|no=16|nat=Kazakhstan|name=[[Сергей Степаненко]]|pos=GK}}
+{{Fs player|no=22|nat=Kazakhstan|name=[[Владимир Логиновский]]|pos=GK}}
+{{Fs player|no=2|nat=Kazakhstan|name=[[Айдар Күмісбеков]]|pos=DF}}
+{{Fs player|no=4|nat=Kazakhstan|name=[[Илья Фомичев]]|pos=DF}}
+{{Fs player|no=5|nat=Ukraine|name=[[Руслан Соляник]]|pos=DF}}
+{{Fs player|no=17|nat=Kazakhstan|name=[[Владимир Яковлев]]|pos=DF}}
+{{Fs player|no=23|nat=Kazakhstan|name=[[Захар Коробов]]|pos=DF}}
+{{Fs player|no=24|nat=Kazakhstan|name=[[Виктор Ковалев]]|pos=DF}}
+{{Fs player|no=27|nat=Croatia|name=[[Йосип Бонацин]]|pos=DF}}
+{{Fs player|no=7|nat=Kazakhstan|name=[[Серікжан Мужиков]]|pos=MF}}
+{{Fs mid}}
+{{Fs player|no=8|nat=Kazakhstan|name=[[Сергей Костюк]]|pos=MF}}
+{{Fs player|no=9|nat=Kazakhstan|name=[[Денис Родионов]]|pos=MF}}
+{{Fs player|no=10|nat=Kazakhstan|name=[[Серік Досманбетов]]|pos=MF}} 
+{{Fs player|no=15|nat=Kazakhstan|name=[[Мақсат Байжанов]]|pos=MF}}
+{{Fs player|no=18|nat=Kazakhstan|name=[[Мәлік Жантілеуов]]|pos=MF}}
+{{Fs player|no=19|nat=Kazakhstan|name=[[Әсет Меңліқожа]]|pos=MF}}
+{{Fs player|no=20|nat=Kazakhstan|name=[[Руслан Барзукаев]]|pos=MF}}
+{{Fs player|no=31|nat=Serbia|name=[[Иван Цветкович]]|pos=MF}}
+{{Fs player|no=12|nat=Belarus|name=[[Дмитрий Пархачев]]|pos=FW}}
+{{Fs player|no=13|nat=Serbia|name=[[Данило Белич]]|pos=FW}}
+{{Fs end}}
+
+=== Қосалқы құрам ===
+{{Fs start}}
+{{Fs player|no=30|nat=Kazakhstan|name=[[Евгений Фирсов]]|pos=GK}}
+{{Fs player|no=31|nat=Kazakhstan|name=[[Ерік Дүйсенбекұлы]]|pos=GK}}
+{{Fs player|no=32|nat=Kazakhstan|name=[[Дамир Сейсеков]]|pos=DF}}
+{{Fs player|no=33|nat=Kazakhstan|name=[[Ярослав Мусятченко]]|pos=DF}}
+{{Fs player|no=34|nat=Kazakhstan|name=[[Виталий Котельников]]|pos=DF}}
+{{Fs player|no=35|nat=Kazakhstan|name=[[Заур Рожапов]]|pos=DF}}
+{{Fs player|no=36|nat=Kazakhstan|name=[[Асхат Мыңбаев]]|pos=DF}}
+{{Fs player|no=14|nat=Kazakhstan|name=[[Саят Сариев]]|pos=MF}}
+{{Fs player|no=25|nat=Kazakhstan|name=[[Руслан Мұхамеджанов]]|pos=MF}}
+{{Fs player|no=37|nat=Kazakhstan|name=[[Асан Заманбекұлы]]|pos=MF}}
+{{Fs mid}}
+{{Fs player|no=38|nat=Kazakhstan|name=[[Дидар Бақбергенов]]|pos=MF}}
+{{Fs player|no=39|nat=Kazakhstan|name=[[Рүстем Асқарбеков]]|pos=MF}}
+{{Fs player|no=40|nat=Kazakhstan|name=[[Владимир Кузьменко]]|pos=MF}}
+{{Fs player|no=41|nat=Kazakhstan|name=[[Мақат Мағаз]]|pos=MF}}
+{{Fs player|no=42|nat=Kazakhstan|name=[[Габбас Музафалов]]|pos=MF}}
+{{Fs player|no=43|nat=Kazakhstan|name=[[Евгений Беляков]]|pos=MF}}
+{{Fs player|no=44|nat=Kazakhstan|name=[[Әлішер Разбеков]]|pos=MF}}
+{{Fs player|no=11|nat=Kazakhstan|name=[[Алексей Щеткин]]|pos=FW}}
+{{Fs player|no=45|nat=Kazakhstan|name=[[Әсет Мұқашев]]|pos=FW}}
+{{Fs player|no=50|nat=Kazakhstan|name=[[Илья Полонский]]|pos=FW}}
+{{Fs end}}
+
+== Трансфер 2010/2011 ==
+=== Келгендер ===
+
+{| class="wikitable sortable" style="text-align: left;"
+!width=70|Поз.
+!width=200|Ойыншы
+!width=200|Бұрынғы клубы
+|-
+|align="center"|[[жартылай қорғаушы|MF]]||{{flagicon|Kazakhstan}} [[Денис Родионов]]||{{flagicon|Kazakhstan}} [[Ақтөбе ФК|Ақтөбе]]
+|-
+|align="center"|[[жартылай қорғаушы|MF]]||{{flagicon|Kazakhstan}} [[Мақсат Байжанов]]||{{flagicon|Kazakhstan}} [[Ақтөбе ФК|Ақтөбе]]
+|-
+|align="center"|[[жартылай қорғаушы|MF]]||{{flagicon|Kazakhstan}} [[Мәлік Жантілеуов]]||{{flagicon|Kazakhstan}} [[Ордабасы ФК|Ордабасы]]
+|-
+|align="center"|[[жартылай қорғаушы|MF]]||{{flagicon|Serbia}} [[Иван Цветкович]]||{{flagicon|Serbia}} [[Явор ФК|Явор]]
+|-
+|align="center"|[[шабуылшы|FW]]||{{flagicon|Belarus}} [[Дмитрий Пархачев]]||{{flagicon|Kazakhstan}} [[Тобыл ФК|Тобыл]]
+|}
+
+=== Кеткендер ===
+{| class="wikitable sortable" style="text-align: left;"
+!width=70|Поз.
+!width=200|Ойыншы
+!width=200|Жаңа клубы
+|-
+|align="center"|[[жартылай қорғаушы|MF]]||{{flagicon|Turkey}} [[Уз Мухаррем]]||{{flagicon|Turkey}} [[Есилюрт ФК|Есилюрт]]
+|-
+|align="center"|[[шабуылшы|FW]]||{{flagicon|Serbia}} [[Иван Перич]]||{{flagicon|Kazakhstan}} [[Шахтер (футбол клубы, Қарағанды)|Шахтер]]
+|-
+|align="center"|[[шабуылшы|FW]]||{{flagicon|Kazakhstan}} [[Талғат Сабалақов]]||{{flagicon|Kazakhstan}} [[Тобыл ФК|Тобыл]]
+|}
+
+== Жетістіктері ==
+* [[Қазақстан бірінші Лигасы|Қазақстан бірінші лигасының чемпионы]] (1): [[Қазақстан бірінші Лигасы 2006|2006]]
+
+== Сілтемелер ==
+* [http://www.fc-zhetisu.kz// Ресми сайты]
+
+{{Жетісу ФК}}
+{{Қазақстан Футболы}}
+{{Қазақстан Премьер Лигасы 2010}}
+
+[[Санат:Қазақстанның футбол клубтары]]
+[[Санат:Қазақстанның футбол Премьер-Лигасы]]
+[[Санат:Талдықорған]]
+
+[[de:Schetissu Taldyqorghan]]
+[[en:FC Zhetysu]]
+[[fr:FC Zhetysu Taldykorgan]]
+[[hu:Zsetiszu FK]]
+[[lt:Žetìsu FK Taldyķorǵan]]
+[[nl:FC Zjetisoe]]
+[[pl:Żetisu Tałdykorgan]]
+[[ro:FC Zhetysu]]
+[[ru:Жетысу (футбольный клуб)]]
