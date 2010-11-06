@@ -1,54 +1,53 @@
 {{Infobox Country or territory
-|native_name              = {{lang|ko-Hang-KR|대한민국}}<br />{{lang|ko-Hant-KR|大韓民國}}<br />''Daehan Minguk''
-|conventional_long_name   = Republic of Korea (RoK)
-|common_name              = South Korea
+|native_name              = {{lang|ko-Hang-KR|대한민국}}<br />{{lang|ko-Hant-KR|大韓民國}}<br />''Тэхан Мингук''
+|conventional_long_name   = Корея Республикасы 
+|common_name              = Оңтүстік Корея
 |image_flag               = Flag of South Korea.svg
 |image_coat               = Coat of arms of South Korea.svg
-|symbol_type              = Coat of arms
 |image_map                = LocationSouthKorea.png
-|national_anthem          = ''[[Aegukga]]''<br />(''Patriotic Hymn'')
-|national_motto           = {{lang|ko-Hang-KR|''널리 인간을 이롭게 하라''}}<br />{{lang|ko-Hant-KR|홍익인간(弘益人間)}}<br />"Broadly bring benefit to humanity"<ref>http://www.theturtlelodge.com/kjseo/kjseo_seminar_all_english.htm</ref><sup></sup>
-|official_languages       = [[Korean language|Korean]]
+|national_anthem          = Эгукга 
+|national_motto           = {{lang|ko-Hang-KR|''널리 인간을 이롭게 하라''}}<br />{{lang|ko-Hant-KR|홍익인간(弘益人間)}}<br />"Приносить пользу человечеству"<ref>http://www.theturtlelodge.com/kjseo/kjseo_seminar_all_english.htm</ref><sup></sup>
+|official_languages       = [[Корей тілі|Кәрісше]]
 |capital                  = [[Сеул]]
 |latd=37 |latm=35 |latNS=N |longd=127 |longm=0 |longEW=E
 |largest_city             = Сеул
-|government_type          = [[Republic]]
-|leader_title1            = [[President of South Korea|President]]
-|leader_title2            = [[Prime Minister of South Korea|Prime Minister]]
+|government_type          = Республика
+|leader_title1            = Президенті
+|leader_title2            = Премьер-министрі
 |leader_name1             = [[Ли Мён Бак]]
-|leader_name2             = [[Хан Сын Су]]
-|area_rank                = 108th
+|leader_name2             = [[Ким Хван Сик]]
+|area_rank                = 107-я в мире
 |area_magnitude           = 1 E10
-|area                     = 99,646
-|areami²                  = 38,492 <!--Do not remove per [[WP:MOSNUM]]-->
-|percent_water            = 0.3
-|population_estimate      = 49,024,737 <!--UN WPP-->
-|population_estimate_rank = 25th
-|population_estimate_year = February 2007
+|area                     = 99 646
+|areami²                  = 38 492 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water            = 0,3
+|population_estimate      = 49 024 737 <!--UN WPP-->
+|population_estimate_rank = 25
+|population_estimate_year = Ақпан 2007 ж.
 |population_density       = 480
-|population_densitymi²    = 1,274  <!--Do not remove per [[WP:MOSNUM]]-->
-|population_density_rank  = 19th
-|GDP_PPP                  = $1.180 trillion <ref>https://www.cia.gov/cia/publications/factbook/geos/ks.html#Econ</ref>
-|GDP_PPP_rank             = 11th
+|population_densitymi²    = 1 274  <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank  = 19
+|GDP_PPP                  = $1,180 trillion <ref>https://www.cia.gov/cia/publications/factbook/geos/ks.html#Econ</ref>
+|GDP_PPP_rank             = 11
 |GDP_PPP_year             = 2006
 |GDP_PPP_per_capita       = $24,069
 |GDP_PPP_per_capita_rank  = 34th 
-|sovereignty_type         = [[History of South Korea|Establishment]]
-|established_event1       = [[Gojoseon]]
-|established_event2       = [[March 1st Movement|Liberation declared]]
-|established_event3       = [[Victory over Japan Day|Liberation]]
-|established_event4       = [[History of South Korea#First Republic|First&nbsp;Republic]]
-|established_event5       = [[United Nations|United Nations Recognition]]
-|established_date1        = [[October 3]], [[2333 BC]]<sup>b</sup>
-|established_date2        = [[March 1]] [[1919]] (''[[de jure]]'')
-|established_date3        = [[August 15]] [[1945]]
-|established_date4        = [[August 15]][[1948]]
-|established_date5        = [[December 12]] [[1948]]
+|sovereignty_type         = Создание
+|established_event1       = Кочосон
+|established_event2       = Декларация независимости
+|established_event3       = Освобождение
+|established_event4       = Первая республика
+|established_event5       = [[Біріккен Ұлттар Ұйымы|БҰҰ]] Танылғаны
+|established_date1        = 2333 до Р.Х [[Қазанның 3]] <sup>b</sup>
+|established_date2        = [[1919]] [[Наурыздың 1]]
+|established_date3        = [[1945]] [[Тамыздың 15]]
+|established_date4        = [[1948]] [[Тамыздың 15]]
+|established_date5        = [[1948]] [[Желтоқсанның 12]]
 |HDI                      = {{increase}} 0.912
-|HDI_rank                 = 26th
+|HDI_rank                 = 26
 |HDI_year                 = 2006
 |HDI_category             = <font color="#009900">high</font>
-|currency                 = [[South Korean won]]
+|currency                 = вона
 |currency_code            = KRW
 |country_code             = KOR
 |time_zone                = [[Korea Standard Time]]
@@ -57,10 +56,10 @@
 |utc_offset_DST           = +9
 |cctld                    = [[.kr]]
 |calling_code             = 82
-|footnotes                = <sup>a</sup> Establishment Motto of Korea. <sup>b</sup> Legendary.
+|footnotes                = <sup>a</sup> Establishment Motto of Korea. <sup>b</sup>легендарный
 }}
 
-'''КОРЕЯ''', Корея Республикасы (корейше Чосон — таң самалының елі) — Шығыс Азиядағы [[Корей түбегі]]нде орналасқан мемлекет. Жер көлемі — 98,5 мың км2. Халқы — 46,1 млн. адам (1999). Ресми тілі — корей тілі. Тұрғындары, негізінен, корейлер, 30 мыңға жуық қытайлар, т.б. ұлт өкілдері тұрады. Олардың көпшілігі будда дінін, кейбір бөліктері конфуцийшілдік пен христиан дінін ұстанады. Астанасы — [[Сеул]] қаласы (11 млн.). Әкімшілік бөлінісі 9 провинциядан және тікелей орталыққа бағынатын 6 қаладан тұрады. Конституциясы бойынша, елді президент басқарады (1997 жылдан [[Ким Дэ Чжун]]). Заң шығарушы органы — Ұлттық жиналыс (299 депутаттан тұрады). Ұлттық мерекелері: 15 тамыз — Республика жарияланған күн (1948), 3 қазан — мемлекеттің құрылған күні (Ежелгі Чосон, б.з.б. 108 ж.). Ұлттық ақшасы — вон. 
+'''КОРЕЯ''', Корея Республикасы (корейше Хангук— таң самалының елі) — Шығыс Азиядағы [[Корей түбегі]]нде орналасқан мемлекет. Жер көлемі — 98,5 мың км2. Халқы — 46,1 млн. адам (1999). Ресми тілі — корей тілі. Тұрғындары, негізінен, корейлер, 30 мыңға жуық қытайлар, т.б. ұлт өкілдері тұрады. Олардың көпшілігі будда дінін, кейбір бөліктері конфуцийшілдік пен христиан дінін ұстанады. Астанасы — [[Сеул]] қаласы (11 млн.). Әкімшілік бөлінісі 9 провинциядан және тікелей орталыққа бағынатын 6 қаладан тұрады. Конституциясы бойынша, елді президент басқарады (1997 жылдан [[Ким Дэ Чжун]]). Заң шығарушы органы — Ұлттық жиналыс (299 депутаттан тұрады). Ұлттық мерекелері: 15 тамыз — Республика жарияланған күн (1948), 3 қазан — мемлекеттің құрылған күні (Ежелгі Чосон, б.з.б. 108 ж.). Ұлттық ақшасы — вон. 
 
 == Табиғаты ==
 Корея — таулы ел. Солтүстік жағында Корей таулары (Кымгансан, Хамчен, Пуджоллен, Кяма, т.б. таулары мен үстірттер) жатыр. Тек батыс жағалаулары ойпатты, жазық келеді. Кен байлықтары — темір, қорғасын, мырыш, мыс, хром, тас көмір, қоңыр көмір, т.б. Климаты жағынан солт. — континенттік муссондық, оңт. — субтропиктік. Қаңтардағы орташа темп-ра солт-нде –2С (тауларда –30 — 40С-қа дейін), оңт-нде 4С, тамыз — шілде айларындағы темп-ра 22 — 26С. Жауын-шашынның жылдық орташа мөлш. 700 — 1500 мм. Солтүстігінде қыста қар жауады. ґзендері жиі орналасқан, бірақ шағын келеді. Территориясының 3/4 бөлігі орманды (емен, шаған, шырша, қарағай, самырсын, оңт-нде мәңгі жасыл ормандар) және бұталы. Жолбарыс, қабылан, қара және қоңыр аю, сілеусін, ала бұғы, т.б. аңдар, құстардың көптеген түрлері мекен етеді. Жағалауындағы теңіздерде балықтың 35 түрі кездеседі. 
