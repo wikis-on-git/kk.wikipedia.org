@@ -9,8 +9,8 @@
   chairman = {{flagicon|Kazakhstan}} [[Рашид Хуснитдинов]]|
   manager  = {{flagicon|Kazakhstan}} [[Андрей Чернышев]]|
   league   = [[Қазақстан Премьер Лигасы]] |
-  season   =  [[Қазақстан бірінші Лигасы 2009|2009]] |
- position = 2-ші орын бірінші лигада|
+  season   =  [[Қазақстан Премьер Лигасы 2010|2010]] |
+ position = 11-ші|
 }}
 '''Ақжайық футбол клубы''' —[[Қазақстан Премьер Лигасы|Қазақстан Премьер Лигасында]], ойнайтын, Қазақстан футбол клубы. [[Орал]] қаласының [[П.Атоян атындағы стадион]] клубтың базасы болып табылады.
 == Клубтың тарихы мен жетістіктері ==
@@ -21,7 +21,7 @@ ImageSize = width:630 height:60
 PlotArea  = left:10 right:10 bottom:30 top:10
 TimeAxis = orientation:horizontal format:yyyy
 DateFormat = dd/mm/yyyy
-Period     = from:01/01/1991 till:01/07/2009
+Period     = from:01/01/1991 till:01/07/2010
 ScaleMajor = unit:year increment:1 start:1992
 Colors =
   id:bl1  value:rgb(0.5,0.8,0.5)
@@ -50,6 +50,7 @@ PlotData=
   from:01/07/2006 till:01/07/2007  shift:(0,-4) text:
   from:01/07/2007 till:01/07/2008  shift:(0,-4) text:
   from:01/07/2008 till:01/07/2009  shift:(0,-4) text:
+ from:01/07/2009 till:01/07/2010  shift:(0,-4) text:11
 
   from:01/07/1991 till:01/07/1994  color:bl1  shift:(0,13)  text: "[[Қазақстан Премьер Лигасы|Премьер Лига]]"
  from:01/07/1994 till:01/07/1997  color:rs  shift:(0,13)  text:"1 Д"
@@ -57,6 +58,7 @@ PlotData=
  from:01/07/1998 till:01/07/2002  color:rs  shift:(0,13)  text:"1 Д"
   from:01/07/2002 till:01/07/2004  color:bl1  shift:(0,13)  text: "[[Қазақстан Премьер Лигасы|Премьер Лига]]"
  from:01/07/2004 till:01/07/2009  color:rs  shift:(0,13)  text:"1 Д"
+  from:01/07/2009 till:01/07/2010  color:bl1  shift:(0,13)  text: "[[Қазақстан Премьер Лигасы|Премьер Лига]]"
 
 </timeline>
 
