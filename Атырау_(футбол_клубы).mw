@@ -10,8 +10,8 @@
   chairman = {{flagicon|Kazakhstan}} [[Жексенбай Құсайынов]]|
   manager  = {{flagicon|Ukraine}} [[Виктор Пасулько]]|
   league   = [[Қазақстан Премьер Лигасы|Қазақстан Премьер Лигасы]] |
-  season   =  [[2009]] |
- position = 6-шы|
+  season   =  [[Қазақстан Премьер Лигасы 2010|2010]] |
+ position = 5-шы|
  pattern_la1=|pattern_b1=|pattern_ra1=|
  leftarm1=ffff00|body1=ffff00|rightarm1=ffff00|shorts1=0000ff|socks1=0000ff|
  pattern_la2 = _blueborder_ser|
@@ -28,14 +28,14 @@
 == Клуб тарихы ==
 КСРО чемпионатының 2-ші лигасының (7-ші зонасы) екі сезоніне қатысты: 1980 - 19-шы орын, 1981 - 18-ші орын.
 
-2001 жылынан бастап [[Қазақстан Премьер Лигасы|Қазақстан Премьер Лигасының 9 маусымына қатысты:
+2001 жылынан бастап [[Қазақстан Премьер Лигасы|Қазақстан Премьер Лигасының]] 10 маусымына қатысты:
 
 <timeline>
 ImageSize = width:600 height:60
 PlotArea  = left:10 right:10 bottom:30 top:10
 TimeAxis = orientation:horizontal format:yyyy
 DateFormat = dd/mm/yyyy
-Period     = from:01/01/2000 till:01/07/2009
+Period     = from:01/01/2000 till:01/07/2010
 ScaleMajor = unit:year increment:1 start:2001 
 Colors =
   id:bl1  value:rgb(0.5,0.8,0.5)
@@ -55,8 +55,9 @@ PlotData=
   from:01/07/2006 till:01/07/2007  shift:(0,-4) text:14
   from:01/07/2007 till:01/07/2008  shift:(0,-4) text:15
   from:01/07/2008 till:01/07/2009  shift:(0,-4) text:6
+  from:01/07/2009 till:01/07/2010  shift:(0,-4) text:5
 
-  from:01/07/2000 till:01/07/2009  color:bl1  shift:(0,13)  text:"[[Қазақстан Премьер Лигасы|Премьер Лига]]"
+  from:01/07/2000 till:01/07/2010  color:bl1  shift:(0,13)  text:"[[Қазақстан Премьер Лигасы|Премьер Лига]]"
 
 </timeline>
 
