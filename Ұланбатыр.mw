@@ -1,32 +1,38 @@
 {{wikify}}
 {{otheruses}}
 <!-- Infobox begins -->{{Infobox City
-|original_name          = 
+|original_name          = Улаанбаатар
 |official_name          = Улаанбаатар
-|nickname               = 
+|nickname               = [[Сурет:Ulaghanbaghatur.svg|20px]]
 |motto                  = 
-|image_skyline          =
+|image_skyline          =UlaanBaatar-2009.jpg
 |imagesize              = 
 |image_caption          = 
 |image_flag             =Mn flag ulaanbaatar.png
 |image_seal             = Mn coa ulaanbaatar.png
-|image_map              = 
+|image_map              = Map mn ulaanbaatar.png
 |mapsize                = 
 |map_caption            = 
-|pushpin_map = Mongolia
+|pushpin_map = 
 |pushpin_label_position = bottom
-|pushpin_mapsize = 280
-|pushpin_map_caption = 
-|subdivision_type       = 
-|subdivision_name       = 
+|pushpin_mapsize = 
+|pushpin_map_caption    =Location in Mongolia
+|pushpin_mapsize        =285
+|coordinates_region     = MN
+|subdivision_type       = Елі
+|subdivision_name       = [[Моңғоля]]
 |subdivision_type1      = 
 |subdivision_name1      = 
 |subdivision_type2      = 
-|subdivision_name2      = 
-|leader_title           = 
-|leader_name            = 
-|established_title      = 
-|established_date       = 
+|subdivision_name2      =                 
+|leader_title           =Қала әкімі
+|leader_name            =[[Гомбосүрэнгийн Мөнхбаяр]]
+|established_title      = Алғашқы аты : Өргөө
+|established_date       = 1639
+|established_title2     = Кәзіргі орыны
+|established_date2      = 1778
+|established_title3     = Ұлаанбаатар
+|established_date3      = 1924
 |area_magnitude         = 
 |area_total             = 
 |area_land              = 
@@ -42,19 +48,13 @@
 |population_density_metro_km2 =
 |population_urban       = 
 |timezone               = 
-|utc_offset             = +6
+|utc_offset             = +8
 |timezone_DST           = 
 |utc_offset_DST         = 
-|latd                   = 51 
-|latm                   = 18
-|lats                   = 
-|latNS                  = N
-|longd                  = 71
-|longm                  = 45
-|longs                  = 
-|longEW                 = E
-|elevation              = 347
-|phone_code             =
+|latd=47 |latm=55 |lats= |latNS=N
+|longd=106 |longm=55 |longs= |longEW=E
+|phone_code             =976 (0)11
+|Zip code                = 10000
 |website                = http://www.ulaanbaatar.mn/
 |footnotes              = 
 }} <!-- Infobox ends -->
