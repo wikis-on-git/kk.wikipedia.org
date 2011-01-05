@@ -1,6 +1,30 @@
+{{Infobox OS
+|name                = Microsoft Windows
+|logo                = 
+|screenshot          = 
+|caption             = 
+|website             = http://www.microsoft.com/windows/default.aspx
+|developer           = [[Microsoft]]
+|source_model        = [[Closed source]] / [[Shared source]]
+|released            = {{Start date|1985|11|20}} (as [[Windows 1.0]]) 	
+|family              = [[Windows 9x]], [[Microsoft Windows CE|Windows CE]] and [[Windows NT]]
+|source_model        = [[Closed source software|Closed source]] / [[Shared source]]
+|frequently_updated  = yes <!-- Release version update? Don't edit this page, just click on the version number! -->
+|marketing_target    = Personal computing 
+|kernel_type         = [[Hybrid kernel|Hybrid]] 
+|ui                  = [[Graphical User Interface|Graphical]] ([[Windows Explorer]])
+|programmed_in       = [[C Programming Language|C]], [[C++]] and [[Assembly language]]<ref>{{cite web |url=http://www.microsoft.com/technet/archive/winntas/training/ntarchitectoview/ntarc_2.mspx |title=NT Server Training: Architectural Overview. Lesson 2 - Windows NT System Overview. |work=Microsoft TechNet |publisher=Microsoft |accessdate=December 9, 2010}}</ref>
+|license             = [[Proprietary software|Proprietary]] [[commercial software]]
+|language            = Multilingual{{Which|date=December 2010}}
+|working_state       = Publicly released
+|supported_platforms = [[IA-32]], [[x86-64]] and [[Itanium]]
+|updatemodel         = [[Windows Update]]
+}}
 Microsoft Windows (/ˈwɪndoʊz/) (ағл. windows — терезелер) -  Майкрософт (Microsoft) корпорациясының операциялық жүйелер тобынан.Бұл ОЖ-де графикалық интерфейс қолданылады. Ең алғаш кездерде MS-DOS - қа арналған көпфункциялы қосымша ретінде болды.Қазіргі кезде Windows тобының ОЖ - мен дербес компьютерлердің 90% жұмыс істейді. 
 Windows тобының ОЖ- і x86, x86-64, IA-64, ARM платформаларында жұмыс істейді. 
 DEC Alpha, MIPS, PowerPC и SPARC[2 нұсқалары да болған.
+
+[[Category:Microsoft Windows]]
 
 [[af:Microsoft Windows]]
 [[an:Microsoft Windows]]
