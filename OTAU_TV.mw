@@ -143,7 +143,7 @@ C [[31 декабря]] [[1997 год]]а полностью прекращен�
 {{Navbox
 |name                       = Базовый
 |navbar                    = plain
-|state                     = collapsed
+|state                     = autocollapse
 |titlestyle = background:#00ABC2;
 |title                 = <span style="color:#FFEC2D">Пакет «Базовый» (32 ТВ + 5 РВ каналов, бесплатный)</span>
 |image               = 
