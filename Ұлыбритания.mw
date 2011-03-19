@@ -7,8 +7,8 @@
 |image_map                = Location UK EU Europe.png
 |map_caption              = Map showing the location of the United Kingdom (dark orange) within the EU ([[:Image:EU location legend.png|legend]]).
 |symbol_type              = Coat of arms
-|national_motto           = (Патшалықтың<sup>3</sup>)<br />{{lang|fr|''[[Dieu et mon droit]]''}}{{nbsp|2}}<small>([[Француз тілі]])<br />"Құдайым және құқығымt"</small>
-|national_anthem          = ''[[God Save the Queen]]''&nbsp;<sup>4</sup><!--Please do not change this without reading the [[#Symbols]] section-->(Құдайым, Патшайымды сақта)
+|national_motto           = (Патшалықтың<sup>3</sup>)<br />{{lang|fr|''Dieu et mon droit''}}{{nbsp|2}}<small>([[Француз тілі]])<br />"Құдайым және құқығымt"</small>
+|national_anthem          = ''God Save the Queen''&nbsp;<sup>4</sup><!--Please do not change this without reading the [[#Symbols]] section-->(Құдайым, Патшайымды сақта)
 |official_languages       = ''[[de facto]]'' [[Ағылшын тілі|ағылшынша]] <sup>5</sup>
 |capital                  = [[Лондон]]
 |latd=51 |latm=30 |latNS=N |longd=0 |longm=7 |longEW=W
@@ -25,7 +25,7 @@
 |established_event2       = [[1707 Одақтасу актілері|Одақтасу актілері]]
 |established_date2        = [[1707]] [[мамырдың 1]] 
 |established_event3       = [[1800 Одақтасу актілері|Одақтасу акті]]
-|established_date3        = [[қаңтардың1]] [[1801]]
+|established_date3        = [[қаңтардың 1]] [[1801]]
 |established_event4       = [[Anglo-Irish Treaty]]
 |established_date4        = [[12 April]] [[1922]]
 |accessionEUdate          = [[қаңтардың 1]] [[1973]]
@@ -43,11 +43,11 @@
 |population_densitymi²    = 629 <!--Do not remove per [[WP:MOSNUM]]-->
 |population_density_rank  = 48th
 |GDP_PPP_year             = 2006
-|GDP_PPP                  = $1.926 trillion <!--World Bank-->
+|GDP_PPP                  = $1.926 триллион <!--World Bank-->
 |GDP_PPP_rank             = 6th
 |GDP_PPP_per_capita       = $31,777
 |GDP_PPP_per_capita_rank  = 18th
-|GDP_nominal              = $2.341 [[trillion]] <ref>https://www.cia.gov/cia/publications/factbook/geos/uk.html#Econ</ref>
+|GDP_nominal              = $2.341 [[триллион]] <ref>https://www.cia.gov/cia/publications/factbook/geos/uk.html#Econ</ref>
 |GDP_nominal_rank         = 5th
 |GDP_nominal_year         = 2006
 |GDP_nominal_per_capita   = $38,624
@@ -78,11 +78,11 @@
 == Түсініктемелер ==
 {{reflist}}
 
-{{British topics}}
+
 {{NavigationBox
 |Title = Geographic locale
 |List = 
-{{United Kingdom}}
+
 {{Countries of Europe}}
 {{Countries and territories bordering the North Sea}}
 {{Countries and territories bordering the Norwegian-Greenland-Barents Sea}}
