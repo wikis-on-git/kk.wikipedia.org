@@ -120,7 +120,7 @@
 |navbar                    = plain
 |state                     = autocollapse
 |titlestyle = background:#00ABC2;
-|title                 = <span style="color:#FFEC2D">«Негізгі» дестесі (32 ТД + 5 РХ арна, тегін)</span>
+|title                 = <span style="color:#FFEC2D">«Негізгі» дестесі (37 арна, ақысыз)</span>
 |image               = 
 |bodystyle                = <!-- (или "стиль =" если никакие другие стилевые атрибуты не используются) -->
 |groupstyle          = background:#00ABC2;
@@ -146,7 +146,7 @@
 |name                       = Үнемді
 |navbar                    = plain
 |state                     = collapsed
-|title                 = «Үнемді» дестесі (12 ТД + 4 РХ арна) 
+|title                 = «Үнемді» дестесі («Негізгі» + 16 = 53 арна) 
 |evenstyle              = background:#f0f0f0
 |group1   = Телеарналар (12)
 |list2      = <center>[[KZ Sport 1]] • [[:en:Eurosport|Eurosport]] {{ref-ru}}  {{ref-en}} • [[:en:Eurosport 2|Eurosport 2]] {{ref-ru}}  {{ref-en}}</center>
@@ -164,7 +164,7 @@
 |name                       = Қалыпты
 |navbar                    = plain
 |state                     = collapsed
-|title                 = «Қалыпты» дестесі (19 арна)
+|title                 = «Қалыпты» дестесі («Үнемді» +19 = 72 арна)
 |evenstyle              = background:#f0f0f0
 |group1   = 
 |list2      = <center>[[:en:Euronews|Euronews]] {{ref-ru}}  {{ref-en}} • [[:ru:Россия 24|Россия 24]]</center>
@@ -181,7 +181,7 @@
 |name                       = Екшенді
 |navbar                    = plain
 |state                     = collapsed
-|title                 = «Екшенді» дестесі (18 арна)
+|title                 = «Екшенді» дестесі («Қалыптыі» + 18 = 90 арна)
 |evenstyle              = background:#f0f0f0
 |group1   = 
 |list2      = <center>[[:ru:РБК ТВ|РБК ТВ]] • [[:en:CNN International Europe/Middle East/Africa|CNN International]]</center>
